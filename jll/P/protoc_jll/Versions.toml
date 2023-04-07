@@ -1,29 +1,40 @@
+
 ["3.13.0+0"]
-git-tree-sha1 = "f5c36f1ae0c683961cb3a41974374e3a2a83ec84"
+  git-tree-sha1 = "f5c36f1ae0c683961cb3a41974374e3a2a83ec84"
+  nix-sha256 = "070nj04bah8npim893hsr41g8g27rq2xhbympvfdbmnsvs0k4rv9"
 
 ["3.14.0+0"]
-git-tree-sha1 = "810e1c4192f41e83f16e3bcbc0af4610f4aebc3d"
+  git-tree-sha1 = "810e1c4192f41e83f16e3bcbc0af4610f4aebc3d"
+  nix-sha256 = "0cvx2bd2llzfw3mx6vwsy76mj84z2r3cil268m3vg9khps96s6hl"
 
 ["3.15.6+0"]
-git-tree-sha1 = "89b92b537ffde09cab61ad20636da135d0791007"
+  git-tree-sha1 = "89b92b537ffde09cab61ad20636da135d0791007"
+  nix-sha256 = "1lw93894kkm2va80ncrx3v0k493f1prh98jxbjk25n2gp1ajn4p5"
 
 ["3.16.1+0"]
-git-tree-sha1 = "90d966c1ba7d878237944eb8dfcd345aa01071dc"
+  git-tree-sha1 = "90d966c1ba7d878237944eb8dfcd345aa01071dc"
+  nix-sha256 = "05b0biinw5lqlq57aqj0nxwnk5k8b7d1ga19brpvpn9gzw1x3kfh"
 
 ["3.19.1+0"]
-git-tree-sha1 = "88665e826eb24ea20e2413c9212889f1e530efbd"
+  git-tree-sha1 = "88665e826eb24ea20e2413c9212889f1e530efbd"
+  nix-sha256 = "1n0j79pdidfkyiygd8nqsf642hp7r2vnbw8fz067hf3s6x054l2j"
 
 ["3.19.4+0"]
-git-tree-sha1 = "cd74748e54f76134ddf000a6e3022901485c2d26"
-
-["3.21.4+0"]
-git-tree-sha1 = "57608ab80c2c34032b89ff149495310791890aac"
-
-["3.21.4+1"]
-git-tree-sha1 = "72308afa0aa106884e4e46aef64dfccb4071be66"
+  git-tree-sha1 = "cd74748e54f76134ddf000a6e3022901485c2d26"
+  nix-sha256 = "0nki983cj2jikf0112mbmxnlk4nlgpl0v9nlwb086pmf9qp7azv7"
 
 ["3.21.12+0"]
-git-tree-sha1 = "f163144b28db53c78ec0ff2b82cfa225f0c7a0f4"
+  git-tree-sha1 = "f163144b28db53c78ec0ff2b82cfa225f0c7a0f4"
+  nix-sha256 = "1dvml8rvf7zww3sbyaf0wf2bqlxi6hg5phgh2ns87b8bnayc0q3g"
 
 ["3.21.12+1"]
-git-tree-sha1 = "e18ac87b6080d3fa40253cb898f4b8c075d866be"
+  git-tree-sha1 = "e18ac87b6080d3fa40253cb898f4b8c075d866be"
+  nix-sha256 = "0b6wbs3pgzqmarikn0206yk7s8rz4wpc1b8llrny4h5kk852kis0"
+
+["3.21.4+0"]
+  git-tree-sha1 = "57608ab80c2c34032b89ff149495310791890aac"
+  nix-sha256 = "17p55p2aqsdr4l62q5qq245380l6p2zk607bkjp2ysvi4fjsc54z"
+
+["3.21.4+1"]
+  git-tree-sha1 = "72308afa0aa106884e4e46aef64dfccb4071be66"
+  nix-sha256 = "1alk1q0vdkpyp35nybrfk7jbv70vsv5zsns5jxzrnsbmqq7qaw2n"

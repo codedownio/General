@@ -1,56 +1,76 @@
+
 ["0.1.0"]
-git-tree-sha1 = "79783c2f865e476ea856308b1406f7eee0f8c575"
-
-["0.2.0"]
-git-tree-sha1 = "8a9721eccaa6b3e528d04b8498e0b8b0b64d6fcd"
-
-["0.3.0"]
-git-tree-sha1 = "84fd3330ffcb7d28edef22e269999a6792303c3e"
-
-["0.3.1"]
-git-tree-sha1 = "c8b983d3014a9cc814ac408639b87cf2076e4a0e"
-
-["0.4.0"]
-git-tree-sha1 = "41487442513cc17f2be38260426093f06804af43"
-
-["0.5.0"]
-git-tree-sha1 = "7fe8f36be9720d9c40b79939e66f5e1e097304cf"
-
-["0.5.1"]
-git-tree-sha1 = "89b926a8aeb4d3559a4b49258acf8dbfe2dc132f"
-
-["0.5.2"]
-git-tree-sha1 = "2c9e443d8c9873db307b3acd09d22a8a290dbe72"
-
-["0.6.0"]
-git-tree-sha1 = "b5bb1ca383b3d6bafe5392d3f6ced795e54b9697"
-
-["0.6.1"]
-git-tree-sha1 = "f3b918f0a3b196a8f4dc3d74d30df8e31f3a68ba"
-
-["0.7.0"]
-git-tree-sha1 = "72a99a2749853656f61ae4595bd993359827f16d"
-
-["0.7.1"]
-git-tree-sha1 = "350d755e6d518a574866dece2337d13f640072ed"
-
-["0.8.0"]
-git-tree-sha1 = "63c7c777a04a6a744cce0df36197ad1fd0f7f737"
-
-["0.9.0"]
-git-tree-sha1 = "41d5c20aafdc8d6287b02caf6c76dd6624da8b6c"
+  git-tree-sha1 = "79783c2f865e476ea856308b1406f7eee0f8c575"
+  nix-sha256 = "1yb63099jkvih1hxv1s72znf38xmbwkffchj9yajj42l0c46fcs2"
 
 ["0.10.0"]
-git-tree-sha1 = "947978de316180eaaaa45a90060ecb847dc6366f"
+  git-tree-sha1 = "947978de316180eaaaa45a90060ecb847dc6366f"
+  nix-sha256 = "0d1bjvv1bh9f0gk3sz444vk7asryq5xskd4whjpza7404hy8nq0y"
 
 ["0.11.0"]
-git-tree-sha1 = "b7a74e45aaa6f50ff143c4f8bbb7282eab79aac1"
+  git-tree-sha1 = "b7a74e45aaa6f50ff143c4f8bbb7282eab79aac1"
+  nix-sha256 = "1w3bg4awxprgsx1dkqyk2209wrin04rmn2fh0527xanb7lgvpjh3"
 
 ["0.12.0"]
-git-tree-sha1 = "9854c410b5298372764b3cb9847da6edaa074815"
+  git-tree-sha1 = "9854c410b5298372764b3cb9847da6edaa074815"
+  nix-sha256 = "03wlrma2xgkfw6wdyiz0hx5yql6r5j8rkza15a11xglx3ss17hg4"
 
 ["0.12.1"]
-git-tree-sha1 = "808af228276ff35c561e7a05b6f50698e146f0bd"
+  git-tree-sha1 = "808af228276ff35c561e7a05b6f50698e146f0bd"
+  nix-sha256 = "1zr6ndqjqhsjq4nc5cq3n0vzgac9chxw4vy0kbwrrn6z7zrzd0s3"
 
 ["0.13.0"]
-git-tree-sha1 = "59fb6d2a3f7eb795d962e85af98f15467a17699f"
+  git-tree-sha1 = "59fb6d2a3f7eb795d962e85af98f15467a17699f"
+  nix-sha256 = "1p0k3dhn4axx4dxzgw48cz1b8mwnn7zib03nlvp1hafxyb68wniz"
+
+["0.2.0"]
+  git-tree-sha1 = "8a9721eccaa6b3e528d04b8498e0b8b0b64d6fcd"
+  nix-sha256 = "0nll0qljpg6ipsq2aymr4jpa10hngf7ib2kcd3q08k371bnyv18w"
+
+["0.3.0"]
+  git-tree-sha1 = "84fd3330ffcb7d28edef22e269999a6792303c3e"
+  nix-sha256 = "04n1r4xf1x3zq1zvr08zdkjjn04w0mlmmwvm79x8rfliq4p7m648"
+
+["0.3.1"]
+  git-tree-sha1 = "c8b983d3014a9cc814ac408639b87cf2076e4a0e"
+  nix-sha256 = "1l6vq09gw2fhkky1mf5fq45wjlb0kckrbj7hpdnypnbfhaxisdim"
+
+["0.4.0"]
+  git-tree-sha1 = "41487442513cc17f2be38260426093f06804af43"
+  nix-sha256 = "1ijssqkwj1bh9cjck4j1ppl3dlvsjyccnimvz15w5dakj3190j7g"
+
+["0.5.0"]
+  git-tree-sha1 = "7fe8f36be9720d9c40b79939e66f5e1e097304cf"
+  nix-sha256 = "0hhickaw9vs8z6yxwb9xvb8gaih430v0kwr6f775blki50k7hpz9"
+
+["0.5.1"]
+  git-tree-sha1 = "89b926a8aeb4d3559a4b49258acf8dbfe2dc132f"
+  nix-sha256 = "0ydc92a60kxpwfxln4mzsdrkrily33nj89yvn8qnc46zrcsyz3p1"
+
+["0.5.2"]
+  git-tree-sha1 = "2c9e443d8c9873db307b3acd09d22a8a290dbe72"
+  nix-sha256 = "1yg1ryz5pwl70jfnnxljr85lgfqpwiarjp4ih1n733nc7bb8kq1r"
+
+["0.6.0"]
+  git-tree-sha1 = "b5bb1ca383b3d6bafe5392d3f6ced795e54b9697"
+  nix-sha256 = "062pgijvmb6ckdvwypl28fq608b5yyz48maikfiz1zbin9939brr"
+
+["0.6.1"]
+  git-tree-sha1 = "f3b918f0a3b196a8f4dc3d74d30df8e31f3a68ba"
+  nix-sha256 = "08hp56jjsasyd0nnx81n8ygjxwkkqvpl2si6mn4xvysyg896clcc"
+
+["0.7.0"]
+  git-tree-sha1 = "72a99a2749853656f61ae4595bd993359827f16d"
+  nix-sha256 = "1px98cs5p35a095vllacj4fq5h5j63b8k48gz8lalwjihfdh1hfi"
+
+["0.7.1"]
+  git-tree-sha1 = "350d755e6d518a574866dece2337d13f640072ed"
+  nix-sha256 = "1ikbh30lsmjmi91306sd07pc2irypx6m6z6g9dkki6ahgkp6ldwf"
+
+["0.8.0"]
+  git-tree-sha1 = "63c7c777a04a6a744cce0df36197ad1fd0f7f737"
+  nix-sha256 = "10lirz3wz74z2mdazikfamznap0inyk95dilyk11hxpi51ankh26"
+
+["0.9.0"]
+  git-tree-sha1 = "41d5c20aafdc8d6287b02caf6c76dd6624da8b6c"
+  nix-sha256 = "0jlvcgl1sxc03i01s68bsvb6hhqhqkiniscmcgq77kzrw70lf26z"

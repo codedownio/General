@@ -1,56 +1,76 @@
+
 ["0.1.0"]
-git-tree-sha1 = "e1b87ef6b2c4c4ee2ad36d4955b552479b986a8a"
+  git-tree-sha1 = "e1b87ef6b2c4c4ee2ad36d4955b552479b986a8a"
+  nix-sha256 = "0m0xh56i31xkj46x9cpfpd9rl4s21dwcd12mv9gpx9jqq4ffzn7j"
 
 ["0.1.1"]
-git-tree-sha1 = "64ad3bbf24d7172fd897406c01bbb74ebc68beab"
+  git-tree-sha1 = "64ad3bbf24d7172fd897406c01bbb74ebc68beab"
+  nix-sha256 = "0jrd63rjkfzgii44m7hfibcrfywnjhqap5k3hzjir20ypi6asizh"
 
 ["0.1.2"]
-git-tree-sha1 = "38209623263066e8e1d82c50c1aeef4b1cb9a293"
+  git-tree-sha1 = "38209623263066e8e1d82c50c1aeef4b1cb9a293"
+  nix-sha256 = "13pcf9vc4mbl82d8z1dp0dxhrhdgnkd592vrzznjpq5d75w8pwzb"
 
 ["0.1.3"]
-git-tree-sha1 = "89546cc5943c39d4ca875419828d186069a465e6"
+  git-tree-sha1 = "89546cc5943c39d4ca875419828d186069a465e6"
+  nix-sha256 = "18z7184wp4d89k3ryjcm63755rdrl39ng0fkvk1z8hi6wxnfifqz"
 
 ["0.1.4"]
-git-tree-sha1 = "dbdf8cc1c779059566d052682fa8a25c34f25927"
+  git-tree-sha1 = "dbdf8cc1c779059566d052682fa8a25c34f25927"
+  nix-sha256 = "05xpiy9fkfh43a9dpdq1fqcad51ypzjdzp4x6gd3z2v334z87ral"
 
 ["0.1.5"]
-git-tree-sha1 = "624e1e109085d398e5ec6c449c1a41034b02d298"
+  git-tree-sha1 = "624e1e109085d398e5ec6c449c1a41034b02d298"
+  nix-sha256 = "13qvrjvc4y5gj8qjjl2z5cmc2ydl2nyyz0265dnv68jcvwsn137k"
 
 ["0.1.6"]
-git-tree-sha1 = "4c6c231be7b6258c92ac5e045120ce6aeee97c79"
+  git-tree-sha1 = "4c6c231be7b6258c92ac5e045120ce6aeee97c79"
+  nix-sha256 = "168kp5vgj0gyga51p1f4dra5g0yvvy9dzhkxflvkqii3gqgqbxxb"
 
 ["0.1.7"]
-git-tree-sha1 = "6bd4c42e3250d7efadbe5c1894d0fdda0a0f0f9b"
+  git-tree-sha1 = "6bd4c42e3250d7efadbe5c1894d0fdda0a0f0f9b"
+  nix-sha256 = "0gcinbl3kn3sc0lfsf8i3vzbzq20qdq33gw96rc19dl9fjh9igck"
 
 ["0.2.0"]
-git-tree-sha1 = "3708388995f730d02753a69c3944be74e5ceefa0"
+  git-tree-sha1 = "3708388995f730d02753a69c3944be74e5ceefa0"
+  nix-sha256 = "0pwl4r0g9pzri8pdcajkb47sprj7dr9kr513zwhm3bd3fdkijr3l"
 
 ["0.2.1"]
-git-tree-sha1 = "fecbcbcf50d297149527621ad932cd430108ab07"
-
-["0.2.2"]
-git-tree-sha1 = "d1455d15e446a4d494abc86598e4620694ab3542"
-
-["0.2.3"]
-git-tree-sha1 = "4ed9c20f4b25c1fcb7a164ca551434d6db2bb99b"
-
-["0.2.4"]
-git-tree-sha1 = "8201d23e59bb7c325738d17da9691cf2ebeaafac"
-
-["0.2.5"]
-git-tree-sha1 = "f76287fb652f40b89ecc1dc3b36f7589eb5d3cc3"
-
-["0.2.6"]
-git-tree-sha1 = "c5772b229db775b6b5f4b5ebf86b02c2adf0ef61"
-
-["0.2.7"]
-git-tree-sha1 = "dab327231e40e08e1263346da012b8c5a5790eeb"
-
-["0.2.8"]
-git-tree-sha1 = "a44dc6b19f072ff7ec87f5b7740e17427346d0ef"
-
-["0.2.9"]
-git-tree-sha1 = "1598b605d0a401ae8e30055254ef4a68863ceae9"
+  git-tree-sha1 = "fecbcbcf50d297149527621ad932cd430108ab07"
+  nix-sha256 = "1807ma7bvycsq97v7g5yx7w9svl42g58gv6ls0zhadzgfh3nyhlg"
 
 ["0.2.10"]
-git-tree-sha1 = "68a34b67e563bd8feaa27e1f4524c190d0f2d1b8"
+  git-tree-sha1 = "68a34b67e563bd8feaa27e1f4524c190d0f2d1b8"
+  nix-sha256 = "11pmlma58lip9r2zrisksdpixz57vy0raabx59zdhwa5p3h21svz"
+
+["0.2.2"]
+  git-tree-sha1 = "d1455d15e446a4d494abc86598e4620694ab3542"
+  nix-sha256 = "13j644xl0c0zk8zqfnrzkapqsb0xb959s7c24b7l46g8rk1mxxps"
+
+["0.2.3"]
+  git-tree-sha1 = "4ed9c20f4b25c1fcb7a164ca551434d6db2bb99b"
+  nix-sha256 = "1pc989vdgr1hgyp172bl1xx97pc1rf1f3dv56n3chrbvdl7ssyfp"
+
+["0.2.4"]
+  git-tree-sha1 = "8201d23e59bb7c325738d17da9691cf2ebeaafac"
+  nix-sha256 = "0i0pl1fb3wijqw6qvhb063d4dds0l2k9qjikin79b9yq82n41ssk"
+
+["0.2.5"]
+  git-tree-sha1 = "f76287fb652f40b89ecc1dc3b36f7589eb5d3cc3"
+  nix-sha256 = "1lbhjwd5bkkbq76jjvmihs2ncyvcmmmhcvhcqm8yi3mi14dm0mxg"
+
+["0.2.6"]
+  git-tree-sha1 = "c5772b229db775b6b5f4b5ebf86b02c2adf0ef61"
+  nix-sha256 = "00k7qn79vw41wh1d5sfvxdy5s4hcpcx8xy6v1ck82p2vhzci8jq0"
+
+["0.2.7"]
+  git-tree-sha1 = "dab327231e40e08e1263346da012b8c5a5790eeb"
+  nix-sha256 = "1d2h3qbkaq94mn6s5nyzdkj5q77fy95x2s3794jddsybb6yaxq3f"
+
+["0.2.8"]
+  git-tree-sha1 = "a44dc6b19f072ff7ec87f5b7740e17427346d0ef"
+  nix-sha256 = "0wgj98nvnhi22v5i5yirry9rwgc7hbm3qv3s9ikgkvvawy97ks41"
+
+["0.2.9"]
+  git-tree-sha1 = "1598b605d0a401ae8e30055254ef4a68863ceae9"
+  nix-sha256 = "0fy7wln0plgryc72qish1jxgrw7cwjy6gmss464kqfg7gfc66j28"

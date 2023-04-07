@@ -1,56 +1,76 @@
+
 ["0.1.0"]
-git-tree-sha1 = "76d854ca2922eb27b47961e6cd66d218a3d1e00d"
+  git-tree-sha1 = "76d854ca2922eb27b47961e6cd66d218a3d1e00d"
+  nix-sha256 = "1by280ipdxmc6zmw65cd48ba1b0mqpx8k1129p74xm0y7nh2jbdd"
 
 ["0.1.1"]
-git-tree-sha1 = "8d3c8d7994eef4f8824138e6a4fbc5af9ba67831"
-
-["0.2.0"]
-git-tree-sha1 = "9f386c2cc7533c008c545c432ba23823a1e9ea62"
-
-["0.2.1"]
-git-tree-sha1 = "b7272caca9a69195f2d98bfefafa7fbb297ae4e4"
-
-["0.3.0"]
-git-tree-sha1 = "5c2d3172bc94e569a4e836ebcf2079c5b01aeb59"
-
-["0.3.1"]
-git-tree-sha1 = "47629eb8a30b46a28f430551650af74f53d4940e"
-
-["0.3.2"]
-git-tree-sha1 = "e563302e952c771bffaf21cfb502db8ca1efb8bf"
-
-["0.4.0"]
-git-tree-sha1 = "ea2be8b2179ab017a8ac93c4e2fc0db0b31ebcd7"
-
-["0.4.1"]
-git-tree-sha1 = "d5dbd9b0a492ba096a9494915e3a95b48d90f5eb"
-
-["0.5.0"]
-git-tree-sha1 = "4f0040ad9cd6f5a55bc6ee3829588431269f9e74"
-
-["0.6.0"]
-git-tree-sha1 = "c8a7a6f63625b0726ffd64b23a9e6f8d4e766628"
-
-["0.7.0"]
-git-tree-sha1 = "7a7acb606209701a706ef646cbe5d521dfec65c1"
-
-["0.7.1"]
-git-tree-sha1 = "0176c2b3e2fd22346e59e4c470c526f7b2864620"
-
-["0.8.0"]
-git-tree-sha1 = "13a2508e8e3370aca651a0ae442c50777311b968"
-
-["0.8.1"]
-git-tree-sha1 = "f9cffe63ca3a0b0261775b84e4772076232291f6"
-
-["0.8.2"]
-git-tree-sha1 = "d6e81931018e8a1854c4cf30fa844acec0a14f94"
-
-["0.9.0"]
-git-tree-sha1 = "ee6e68ee1d1743c25c4279746a1421ba96953eee"
-
-["0.9.1"]
-git-tree-sha1 = "7a442d0c4983eea9ec178aaa9469d0bd90ba8f49"
+  git-tree-sha1 = "8d3c8d7994eef4f8824138e6a4fbc5af9ba67831"
+  nix-sha256 = "1gkla3gn8mvlsm4ndqxind9abyxzs91scbfgqs2rw3hi2s7qsjwz"
 
 ["0.10.0"]
-git-tree-sha1 = "ed095532d94f2b57ac163e471f831f7d459995b9"
+  git-tree-sha1 = "ed095532d94f2b57ac163e471f831f7d459995b9"
+  nix-sha256 = "1drmy202j11qv1s7yj7zf1vlh124yg94sjizdi30dai6p2d35n3x"
+
+["0.2.0"]
+  git-tree-sha1 = "9f386c2cc7533c008c545c432ba23823a1e9ea62"
+  nix-sha256 = "13p9jmi7iy0j26735fjs8f05djksb2qrngwbgqbqqj3p9hs7m0sn"
+
+["0.2.1"]
+  git-tree-sha1 = "b7272caca9a69195f2d98bfefafa7fbb297ae4e4"
+  nix-sha256 = "053r9pd87zah6rb8hczjn9bmmgrv67kppcwypqm5iimhgrz92ymx"
+
+["0.3.0"]
+  git-tree-sha1 = "5c2d3172bc94e569a4e836ebcf2079c5b01aeb59"
+  nix-sha256 = "1dc88g55l9j9illazxbrw0c0bphzgqi05c617is7xn574pv7h703"
+
+["0.3.1"]
+  git-tree-sha1 = "47629eb8a30b46a28f430551650af74f53d4940e"
+  nix-sha256 = "0m7c3hqzmnkd056fi7zzagipizh2jw35jg90v2k5mfxk4jvhdsia"
+
+["0.3.2"]
+  git-tree-sha1 = "e563302e952c771bffaf21cfb502db8ca1efb8bf"
+  nix-sha256 = "1jkczlg7lwarvc4i0l6vbjrx2hx48b8j53qjb2mki82r7dj2d3fz"
+
+["0.4.0"]
+  git-tree-sha1 = "ea2be8b2179ab017a8ac93c4e2fc0db0b31ebcd7"
+  nix-sha256 = "1my9w8v32lrlq9r3nzn1b18zqr2sa6w987qz2nydzzc86min6z6f"
+
+["0.4.1"]
+  git-tree-sha1 = "d5dbd9b0a492ba096a9494915e3a95b48d90f5eb"
+  nix-sha256 = "14i7fa6sksjkfp6qal88pxn214frhwnjw6hjxp5ap8rx36jhsdnr"
+
+["0.5.0"]
+  git-tree-sha1 = "4f0040ad9cd6f5a55bc6ee3829588431269f9e74"
+  nix-sha256 = "00bm24lp0pbngk6p9apk4v22f8jhvblqhm8695hzy3l1xfnhdqiq"
+
+["0.6.0"]
+  git-tree-sha1 = "c8a7a6f63625b0726ffd64b23a9e6f8d4e766628"
+  nix-sha256 = "0ik1kvi29dsrbdnwyh6bmcjrclvc77jj855rylivcgawy5y1wajf"
+
+["0.7.0"]
+  git-tree-sha1 = "7a7acb606209701a706ef646cbe5d521dfec65c1"
+  nix-sha256 = "1vbmchwh6lbyd3fjfqj7sjvkj8m2z3k62z7y9vlzi8ci28ryxnb3"
+
+["0.7.1"]
+  git-tree-sha1 = "0176c2b3e2fd22346e59e4c470c526f7b2864620"
+  nix-sha256 = "0vczz58636y8pjwaf9x72gc7xmrx8rg9dxn83j3dsk60zkp0zn5g"
+
+["0.8.0"]
+  git-tree-sha1 = "13a2508e8e3370aca651a0ae442c50777311b968"
+  nix-sha256 = "0kcv216hakqfywsf8alwzif7x0aqpkzsbl6msmw1fagd727bn3yv"
+
+["0.8.1"]
+  git-tree-sha1 = "f9cffe63ca3a0b0261775b84e4772076232291f6"
+  nix-sha256 = "1vl88hhwiv51rjp5cspsp3xpjmjzd1p2vif7ca67610f1p5jd3qp"
+
+["0.8.2"]
+  git-tree-sha1 = "d6e81931018e8a1854c4cf30fa844acec0a14f94"
+  nix-sha256 = "1b4wb1p489bmgywf9sqc07m5njpivr4ridr6v22gmwwfmj90ga7i"
+
+["0.9.0"]
+  git-tree-sha1 = "ee6e68ee1d1743c25c4279746a1421ba96953eee"
+  nix-sha256 = "1x71aiyiylni12j8j98jmw36p55pxwlqp83ipybfk8ak3kch84vr"
+
+["0.9.1"]
+  git-tree-sha1 = "7a442d0c4983eea9ec178aaa9469d0bd90ba8f49"
+  nix-sha256 = "0pi3c97z9p5pk5r58xyakg8987j3rlf6f9z8br3iv90zissq3skn"
