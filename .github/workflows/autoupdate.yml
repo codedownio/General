@@ -1,0 +1,108 @@
+name: general
+
+on:
+  workflow_dispatch:
+  # push:
+  # schedule:
+  #   - cron:  '0 12 * * *' # Every day at noon
+
+jobs:
+  regenerate-general:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        repository: "CodeDownIO/registry2nix"
+
+    - uses: cachix/install-nix-action@v20
+      with:
+        nix_path: nixpkgs=channel:release-22.11
+        github_access_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Install nix-prefetch-git
+      run: |
+        nix profile install nixpkgs#nix-prefetch-git
+
+    - uses: haskell/actions/setup@v2
+      with:
+        ghc-version: "9.2.7"
+        stack-version: "latest"
+        enable-stack: true
+
+    - name: Cache ~/.stack
+      uses: actions/cache@v2
+      with:
+        path: ~/.stack
+        key: ${{ runner.os }}-9.2.7-stack-2
+
+    - name: Build
+      run: |
+        stack build --system-ghc
+
+    - name: Install
+      run: |
+        stack install --system-ghc
+
+    - name: Check out latest JuliaRegistries/General repo
+      uses: actions/checkout@v3
+      with:
+        repository: "JuliaRegistries/General"
+        path: JuliaRegistriesGeneral
+
+    - name: Check out latest CodeDownIO/General repo
+      uses: actions/checkout@v3
+      with:
+        repository: "CodeDownIO/General"
+        path: CodeDownIOGeneral
+
+    - name: Generate the update
+      run: |
+        cp CodeDownIOGeneral/failures.yml JuliaRegistriesGeneral/failures.yml
+
+        registry2nix-exe \
+          --print-failures \
+          --repo JuliaRegistriesGeneral \
+          --initial-repo CodeDownIOGeneral \
+          --ignore-previous-failures CodeDownIOGeneral/failures.yml \
+          --write-new-failures JuliaRegistriesGeneral/failures.yml \
+          --num-workers 15
+
+    - name: Make a new commit with the changes
+      run: |
+        pushd JuliaRegistriesGeneral
+        JULIA_REGISTRIES_COMMIT=$(git rev-parse HEAD)
+        popd
+
+        # Tricky method to ensure the commit we're about to create for CodeDownIOGeneral
+        # exactly matches the new state of JuliaRegistries
+        # (except for this workflow file)
+        cp CodeDownIOGeneral/.github/workflows/autoupdate.yml JuliaRegistriesGeneral/.github/workflows/autoupdate.yml
+        rm -rf JuliaRegistriesGeneral/.git
+        mv CodeDownIOGeneral/.git JuliaRegistriesGeneral/.git
+        cd JuliaRegistriesGeneral/
+        git status
+
+        echo "------------------"
+        git add .
+        git config --global user.email "registry2nix@codedown.io"
+        git config --global user.name registry2nix
+        git commit -m "Automatic update to JuliaRegistries/General/JULIA_REGISTRIES_COMMIT"
+        echo "------------------"
+        git status
+        echo "------------------"
+        git diff HEAD~1 HEAD --shortstat
+
+    # - name: Push the changes
+    #   run: |
+    #     cd JuliaRegistriesGeneral
+    #     git push https://codedownio:${{secrets.CODEDOWN_GENERAL_PAT}}@github.com/codedownio/General.git HEAD:master
+
+    - name: Push the changes
+      uses: ad-m/github-push-action@master
+      with:
+        repository: codedownio/General
+        directory: JuliaRegistriesGeneral
+        # github_token: ${{ secrets.CODEDOWN_GENERAL_PAT }}
+        github_access_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
