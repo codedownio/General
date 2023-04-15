@@ -1,10 +1,10 @@
 name: autoupdate
 
 on:
-  workflow_dispatch:
   # push:
-  # schedule:
-  #   - cron:  '0 12 * * *' # Every day at noon
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 12 * * *' # Every day at noon
 
 jobs:
   regenerate-general:
