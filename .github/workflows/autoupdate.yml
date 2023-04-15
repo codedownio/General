@@ -90,7 +90,7 @@ jobs:
         git add .
         git config --global user.email "registry2nix@codedown.io"
         git config --global user.name registry2nix
-        git commit -m "Automatic update to JuliaRegistries/General/JULIA_REGISTRIES_COMMIT"
+        git commit -m "Automatic update to JuliaRegistries/General/$JULIA_REGISTRIES_COMMIT"
         echo "------------------"
         git status
         echo "------------------"
