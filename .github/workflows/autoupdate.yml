@@ -77,7 +77,10 @@ jobs:
         # Tricky method to ensure the commit we're about to create for CodeDownIOGeneral
         # exactly matches the new state of JuliaRegistries
         # (except for this workflow file)
+        rm -rf JuliaRegistriesGeneral/.github/workflows
+        mkdir -p JuliaRegistriesGeneral/.github/workflows
         cp CodeDownIOGeneral/.github/workflows/autoupdate.yml JuliaRegistriesGeneral/.github/workflows/autoupdate.yml
+
         rm -rf JuliaRegistriesGeneral/.git
         mv CodeDownIOGeneral/.git JuliaRegistriesGeneral/.git
         cd JuliaRegistriesGeneral/
