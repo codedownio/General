@@ -283,6 +283,7 @@ some amount of consideration when choosing package names.
 07315a1d-27cb-4d26-84cb-b2a39a2725fb = { name = "SyntheticDatasets", path = "S/SyntheticDatasets" }
 073f27de-2a51-5a0c-9fc3-04c66de53728 = { name = "libcgroup_jll", path = "jll/L/libcgroup_jll" }
 07413bf9-d2c6-5469-9e83-945f30a2c5ad = { name = "BLST_jll", path = "jll/B/BLST_jll" }
+0745143a-842b-4fd2-a9b7-9e0948c68818 = { name = "Notcurses", path = "N/Notcurses" }
 07493b3f-dabb-5b16-a503-4139292d7dd4 = { name = "Alpine", path = "A/Alpine" }
 074bffb8-faa7-59ba-9894-a592f955b684 = { name = "DependenciesParser", path = "D/DependenciesParser" }
 07503c7f-9676-5157-a8e2-6c0d0a9caee7 = { name = "BritishNationalGrid", path = "B/BritishNationalGrid" }
@@ -1888,6 +1889,7 @@ some amount of consideration when choosing package names.
 323748d4-b4be-59be-a22c-1904c60787cb = { name = "SDL2_gfx_jll", path = "jll/S/SDL2_gfx_jll" }
 323cb8eb-fbf6-51c0-afd0-f8fba70507b2 = { name = "GeoStatsBase", path = "G/GeoStatsBase" }
 323ce080-7fb5-11ea-274f-1d7ddb39cbfa = { name = "MultiStochGrad", path = "M/MultiStochGrad" }
+32427880-5a10-5048-bea3-44a26af5d02d = { name = "SCALE_MAMBA_jll", path = "jll/S/SCALE_MAMBA_jll" }
 324734c7-f323-4536-9335-775d9be9d101 = { name = "BioMASS", path = "B/BioMASS" }
 324d217c-45ce-50fc-942e-d289b448e8cf = { name = "ReferenceTests", path = "R/ReferenceTests" }
 324d7699-5711-5eae-9e2f-1d82baa6b597 = { name = "CategoricalArrays", path = "C/CategoricalArrays" }
@@ -2095,6 +2097,7 @@ some amount of consideration when choosing package names.
 38041ee0-ae04-5750-a4d2-bb4d0d83d27d = { name = "Cbc_jll", path = "jll/C/Cbc_jll" }
 3804c90a-d6ae-434d-aed1-763ec3185202 = { name = "HopTB", path = "H/HopTB" }
 3808fb15-9b43-5646-9112-da6e39400273 = { name = "Baobzi_jll", path = "jll/B/Baobzi_jll" }
+380cddd1-6ef2-46ca-b087-e7151fb095ff = { name = "TimeseriesTools", path = "T/TimeseriesTools" }
 3812390e-129a-5d25-9b88-6fc12c151a30 = { name = "DebianGlibc_jll", path = "jll/D/DebianGlibc_jll" }
 38191a5c-9707-409e-a5e4-8d538fd01011 = { name = "UserConfig", path = "U/UserConfig" }
 381ff186-7949-5def-80e3-c2e748080dc1 = { name = "flux_core_jll", path = "jll/F/flux_core_jll" }
@@ -8297,6 +8300,7 @@ e2e16d05-ec94-40b7-b355-ae0fb683d354 = { name = "Microscopes", path = "M/Microsc
 e2e9ead3-1b6c-4e96-b95f-43e6ab899178 = { name = "CiteEXchange", path = "C/CiteEXchange" }
 e2ed5e7c-b2de-5872-ae92-c73ca462fb04 = { name = "Bijections", path = "B/Bijections" }
 e2ef1e04-4331-5370-a106-92245136390b = { name = "zbar_jll", path = "jll/Z/zbar_jll" }
+e2f1a126-19d0-4674-9252-42b2384f8e3c = { name = "StorageSystemsSimulations", path = "S/StorageSystemsSimulations" }
 e2fa44a5-09d5-5fa2-a080-aa0766578c8a = { name = "SpatialJackknife", path = "S/SpatialJackknife" }
 e30172f5-a6a5-5a46-863b-614d45cd2de4 = { name = "Documenter", path = "D/Documenter" }
 e31a5254-3556-45b0-bb0a-af5ec6251750 = { name = "TKTDsimulations", path = "T/TKTDsimulations" }
@@ -9190,6 +9194,7 @@ fc9abe76-a5e6-5fed-b0b7-a12f309cf031 = { name = "SCIP_PaPILO_jll", path = "jll/S
 fc9b0551-4f1b-42e1-8440-e8a535f5a551 = { name = "SymbolicCodegen", path = "S/SymbolicCodegen" }
 fcb5363a-df8d-57f1-a64b-7615e60d793b = { name = "Schedulers", path = "S/Schedulers" }
 fcca1770-266e-4af5-8612-876362e279e9 = { name = "ScTenifold", path = "S/ScTenifold" }
+fcd1aa73-243d-5665-acf3-2a5a4322c7a8 = { name = "Soup3_jll", path = "jll/S/Soup3_jll" }
 fcd2136c-9f69-4db6-97e5-f31981721d63 = { name = "DiskArrayTools", path = "D/DiskArrayTools" }
 fcd29c91-0bd7-5a09-975d-7ac3f643a60c = { name = "QuantEcon", path = "Q/QuantEcon" }
 fce17d29-6d86-5006-bee5-0f8b6f52dd81 = { name = "BotCoreLCMTypes", path = "B/BotCoreLCMTypes" }
