@@ -670,6 +670,7 @@ some amount of consideration when choosing package names.
 113fdce4-79f1-4c04-9e25-5fd3385cd3b1 = { name = "AbstractIndices", path = "A/AbstractIndices" }
 1143c485-9b25-4e23-a65f-701df382ec90 = { name = "ManifoldDiffEq", path = "M/ManifoldDiffEq" }
 1149b383-0994-4c0b-8959-503b8afb0ac2 = { name = "PartialSvdStoch", path = "P/PartialSvdStoch" }
+114ffcdd-22b5-45a4-9385-909661964ad8 = { name = "RandomWalkBVP", path = "R/RandomWalkBVP" }
 115008b9-7a42-4cba-af26-8bebb992e909 = { name = "Workflows", path = "W/Workflows" }
 1154507a-7ac2-44fe-9f15-34617bca9db5 = { name = "Mjolnir", path = "M/Mjolnir" }
 115d0255-0791-41d2-b533-80bc4cbe6c10 = { name = "Invariants", path = "I/Invariants" }
@@ -1294,6 +1295,7 @@ some amount of consideration when choosing package names.
 222fe7e8-3f39-464a-bf97-d9bbb753f246 = { name = "PcapTools", path = "P/PcapTools" }
 2230646a-bae9-43e2-a071-fff97e6a4342 = { name = "QuickMenus", path = "Q/QuickMenus" }
 22309a8f-d5e2-54ec-9ec8-201313e31489 = { name = "DoctreePages", path = "D/DoctreePages" }
+2233325a-6eb3-486f-aff0-670e0939fa7e = { name = "TightBindingToolkit", path = "T/TightBindingToolkit" }
 22415677-39a4-5241-a37a-00beabbbdae8 = { name = "RobotOS", path = "R/RobotOS" }
 22445b90-2740-4147-9227-5e1785e46a65 = { name = "Colosseum", path = "C/Colosseum" }
 22609570-6d06-11e9-3c98-5705e233061e = { name = "ExpressPathToRegex", path = "E/ExpressPathToRegex" }
@@ -2220,6 +2222,7 @@ some amount of consideration when choosing package names.
 3b5334fc-ad2e-52bb-943a-614153fa1c0c = { name = "FastHadamardStructuredTransforms_jll", path = "jll/F/FastHadamardStructuredTransforms_jll" }
 3b5f52f3-99b5-593a-81cd-d6cf4b425c55 = { name = "GAP_pkg_crypting_jll", path = "jll/G/GAP_pkg_crypting_jll" }
 3b6521e1-56b2-406b-b1f7-6ae6ec1fb69e = { name = "ExtremalOptimization", path = "E/ExtremalOptimization" }
+3b68f936-7ca7-4d01-8649-6fbe85730bea = { name = "QuasiPeriodicCrystals", path = "Q/QuasiPeriodicCrystals" }
 3b7a836e-365b-5785-a47d-02c71176b4aa = { name = "PGFPlots", path = "P/PGFPlots" }
 3b7eb3ab-5558-5250-ad56-7cbe1b8a43e3 = { name = "mpv_jll", path = "jll/M/mpv_jll" }
 3b83494e-c0a4-4895-918b-9157a7a085a1 = { name = "MadNLPMumps", path = "M/MadNLPMumps" }
@@ -5154,6 +5157,7 @@ some amount of consideration when choosing package names.
 8bac0ac5-51bf-41f9-885e-2bf1ac2bec5f = { name = "DocThemeIndigo", path = "D/DocThemeIndigo" }
 8bac944d-a3a1-5789-a62e-204935847c3c = { name = "LinearFractionalTransformations", path = "L/LinearFractionalTransformations" }
 8bb1440f-4735-579b-a4ab-409b98df4dab = { name = "DelimitedFiles", path = "D/DelimitedFiles" }
+8bb5e942-8cec-4ba7-bbd0-1456b2d7b960 = { name = "EditBoundary", path = "E/EditBoundary" }
 8bb6e9a1-7d73-552c-a44a-e5dc5634aac4 = { name = "BeliefUpdaters", path = "B/BeliefUpdaters" }
 8bc5a954-2dfc-11e9-10e6-cd969bffa420 = { name = "PermutationGroups", path = "P/PermutationGroups" }
 8bca1bde-e0b5-5803-b535-ac666483fcca = { name = "WhiteboxTools_jll", path = "jll/W/WhiteboxTools_jll" }
@@ -5905,6 +5909,7 @@ a1d29d3a-d9e2-490e-8d90-47673445ca57 = { name = "WordLists", path = "W/WordLists
 a1dec852-9fe5-11e9-361f-8d9fde67cfa2 = { name = "Metida", path = "M/Metida" }
 a1e35db8-64d0-4469-a01a-344a959b690d = { name = "HTTPDownloads", path = "H/HTTPDownloads" }
 a1e7a1ef-7a5d-5822-a38c-be74e1bb89f4 = { name = "Expokit", path = "E/Expokit" }
+a1f18e6b-8af1-433f-a85d-2e1ee636a2b8 = { name = "RobustNeuralNetworks", path = "R/RobustNeuralNetworks" }
 a1f7094c-8d14-434f-a772-7144e1a1c6c0 = { name = "Bennu", path = "B/Bennu" }
 a20136b7-8e32-4c10-91d3-7060c0bd8ec7 = { name = "KmerAnalysis", path = "K/KmerAnalysis" }
 a2015381-cef8-4fe1-827c-95a77dd17ccf = { name = "Jaynes", path = "J/Jaynes" }
