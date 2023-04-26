@@ -210,6 +210,7 @@ some amount of consideration when choosing package names.
 054d326e-df27-43d9-b4b2-3b491c653341 = { name = "LibIIO", path = "L/LibIIO" }
 055956cb-9e8b-5191-98cc-73ae4a59e68a = { name = "DiffEqPhysics", path = "D/DiffEqPhysics" }
 05599243-9ba8-485a-9b22-0f602ec9135f = { name = "PLaplace", path = "P/PLaplace" }
+056126bd-cc44-5cb8-957b-81361c7cf34c = { name = "Dalton_jll", path = "jll/D/Dalton_jll" }
 05625dda-b54a-434a-8c43-5c7937dfa4f0 = { name = "WebDriver", path = "W/WebDriver" }
 0563570f-ea1b-4080-8a64-041ac6565a4e = { name = "SpinGlassEngine", path = "S/SpinGlassEngine" }
 056b5f69-f28f-5060-ad8a-df43647a2b5c = { name = "Tk_jll", path = "jll/T/Tk_jll" }
@@ -233,6 +234,7 @@ some amount of consideration when choosing package names.
 05dc622f-161e-4567-aeb3-31c6e962d327 = { name = "CopositiveAnalyticCenter", path = "C/CopositiveAnalyticCenter" }
 05e5b401-cbd0-4511-9ee7-1ac7fa2205f5 = { name = "NomnomlJS", path = "N/NomnomlJS" }
 05e9033e-e298-417a-adae-495536c11ad4 = { name = "STREAMBenchmark", path = "S/STREAMBenchmark" }
+05ee1981-f730-42d8-b713-4f42d99733dc = { name = "HorizonsEphemeris", path = "H/HorizonsEphemeris" }
 05fb067e-2cd1-4891-b41e-2c136232fb98 = { name = "CycPols", path = "C/CycPols" }
 05fd07d0-ee0f-48fc-9851-87e441b455c1 = { name = "TextSegmentation", path = "T/TextSegmentation" }
 05ff407c-b0c1-5878-9df8-858cc2e60c36 = { name = "dSFMT_jll", path = "jll/D/dSFMT_jll" }
@@ -356,6 +358,7 @@ some amount of consideration when choosing package names.
 08acae6c-c1bf-11e9-0c27-6b1945f8789b = { name = "MultivariateSeries", path = "M/MultivariateSeries" }
 08b01624-6c0b-11e9-1b9f-6d80c967c393 = { name = "MemberFunctions", path = "M/MemberFunctions" }
 08b927d4-7a58-4cf8-85d0-bad32a16dfbc = { name = "MimiGIVE", path = "M/MimiGIVE" }
+08bdf8ff-2af7-5c3d-85d2-7e4de503c7bb = { name = "fortune_jll", path = "jll/F/fortune_jll" }
 08be435b-48e7-4090-a646-9e3615ae1968 = { name = "EasyFFTs", path = "E/EasyFFTs" }
 08be9ffa-1c94-5ee5-a977-46a84ec9b350 = { name = "LibPQ_jll", path = "jll/L/LibPQ_jll" }
 08ca2550-6d73-57c0-8625-9b24120f3eae = { name = "NASM_jll", path = "jll/N/NASM_jll" }
@@ -4970,6 +4973,7 @@ some amount of consideration when choosing package names.
 86800b63-3017-5277-aca5-15d7d6a5f2b2 = { name = "Persa", path = "P/Persa" }
 86859df6-51c5-4863-9ac2-2c1ab8e53eb2 = { name = "Knapsacks", path = "K/Knapsacks" }
 86adb855-6620-4b42-899a-fdd8a58d2ebe = { name = "MatrixImpute", path = "M/MatrixImpute" }
+86ae5844-b998-5f56-950b-e2311b0a7e21 = { name = "kalign_jll", path = "jll/K/kalign_jll" }
 86b0dc02-7903-11e9-325f-f195ca7e6c1a = { name = "LITS", path = "L/LITS" }
 86b14aa7-fcb7-4836-b4c7-056f45a9c77b = { name = "PhotoAcoustic", path = "P/PhotoAcoustic" }
 86b6b26d-c046-49b6-aa0b-5f0f74682bd6 = { name = "Evolutionary", path = "E/Evolutionary" }
@@ -6233,6 +6237,7 @@ aa0f7f06-fcc0-5ec4-a7f3-a573f33f9c4c = { name = "Molly", path = "M/Molly" }
 aa1ae85d-cabe-5617-a682-6adf51b2e16a = { name = "JuliaInterpreter", path = "J/JuliaInterpreter" }
 aa1b3936-2fda-51b9-ab35-c553d3a640a2 = { name = "GraphIO", path = "G/GraphIO" }
 aa20a09e-9376-456a-970d-31341b90bdf0 = { name = "ImplicitGraphs", path = "I/ImplicitGraphs" }
+aa2f55ac-b14e-51ec-b6ff-9716116fc184 = { name = "Madagascar_jll", path = "jll/M/Madagascar_jll" }
 aa2f6b4e-9042-5d33-9679-40d3a6b85899 = { name = "LogarithmicNumbers", path = "L/LogarithmicNumbers" }
 aa3a806a-e146-4a0b-abc5-6bb34b5dedb7 = { name = "PermutedArrays", path = "P/PermutedArrays" }
 aa3b323a-0e68-4b14-b952-9911d94e084a = { name = "OceanDistributions", path = "O/OceanDistributions" }
