@@ -143,6 +143,7 @@ some amount of consideration when choosing package names.
 0374c0b2-85fe-5995-9aba-c71c9668af00 = { name = "CorrNoise", path = "C/CorrNoise" }
 0376cc21-f8a9-5fcf-8891-fde1415a4fd3 = { name = "Reinforce", path = "R/Reinforce" }
 037e6697-03b9-52b7-b841-7aee0d773eb5 = { name = "libudfread_jll", path = "jll/L/libudfread_jll" }
+038f9fe3-14bd-47ca-b081-2e00e8c46dfa = { name = "OnlinePortfolioSelection", path = "O/OnlinePortfolioSelection" }
 03970b2e-30c4-11ea-3135-d1576263f10f = { name = "MLJTuning", path = "M/MLJTuning" }
 03a91e81-4c3e-53e1-a0a4-9c0c8f19dd66 = { name = "SplitApplyCombine", path = "S/SplitApplyCombine" }
 03bc5d91-8e1a-555a-857b-eaff090ecb7c = { name = "SchattenNorms", path = "S/SchattenNorms" }
@@ -4900,6 +4901,7 @@ some amount of consideration when choosing package names.
 843dd301-5ab4-451e-a248-fc72ff48def4 = { name = "TelegraphNoise", path = "T/TelegraphNoise" }
 8460d8c8-5267-486f-aef2-9a24dd859eab = { name = "ParametricLP", path = "P/ParametricLP" }
 846536d6-5c10-5069-b47f-45525c463cf9 = { name = "S2Geometry_jll", path = "jll/S/S2Geometry_jll" }
+84796d1e-6a74-43fe-971c-cdafebd16eaa = { name = "MoM_Basics", path = "M/MoM_Basics" }
 847b7089-1ebf-4e83-b33e-c3c97d2ccb04 = { name = "Runner", path = "R/Runner" }
 84966e9a-a839-11e9-29d5-57fe5a7e36c2 = { name = "UnitfulMR", path = "U/UnitfulMR" }
 8497c1d1-af72-4391-8d22-bdd566511a1c = { name = "NumberTheoreticTransforms", path = "N/NumberTheoreticTransforms" }
@@ -5899,6 +5901,7 @@ a0ec7baa-763d-5d6b-86f7-e243a75ef8c4 = { name = "stork_jll", path = "jll/S/stork
 a0f608ac-68d0-5108-ad9a-0cdca73324f3 = { name = "AffineInvariantMCMC", path = "A/AffineInvariantMCMC" }
 a100299e-89d6-11e9-0fa0-2daf497e6a05 = { name = "DataEnvelopmentAnalysis", path = "D/DataEnvelopmentAnalysis" }
 a105ee56-0da9-4c5a-a151-cc7e299d31db = { name = "Chuffed", path = "C/Chuffed" }
+a106ebf2-4182-4cba-90d4-44cd3cc36e85 = { name = "DocumenterDiagrams", path = "D/DocumenterDiagrams" }
 a1073327-32f2-4398-bd61-1b686fd668f2 = { name = "CoulombFunctions", path = "C/CoulombFunctions" }
 a108434f-6647-5a5d-ae94-d05b8175566d = { name = "GradientBoosting", path = "G/GradientBoosting" }
 a10d1c49-ce27-4219-8d33-6db1a4562965 = { name = "DBInterface", path = "D/DBInterface" }
@@ -6607,6 +6610,7 @@ b372bb87-02dd-52bb-bcf6-c30dd83fd342 = { name = "SeisIO", path = "S/SeisIO" }
 b37880e1-55fa-5503-9f1a-f1223ce0b53e = { name = "liblsl_jll", path = "jll/L/liblsl_jll" }
 b3798467-87dc-4d99-943d-35a1bd39e395 = { name = "ConstrainedShortestPaths", path = "C/ConstrainedShortestPaths" }
 b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9 = { name = "LoadAllPackages", path = "L/LoadAllPackages" }
+b37d3d51-cc38-4fad-93cd-e6859934553f = { name = "Semicoroutines", path = "S/Semicoroutines" }
 b38be410-82b0-50bf-ab77-7b57e271db43 = { name = "FreeType", path = "F/FreeType" }
 b393f0d7-2a88-4661-a564-4e2d7462f0be = { name = "Jin", path = "J/Jin" }
 b395d269-c2ec-4df6-b679-36919ad600ca = { name = "InterferometricModels", path = "I/InterferometricModels" }
@@ -8052,6 +8056,7 @@ daf09cc5-9ab3-509e-9618-0b89086eb825 = { name = "SHTns_jll", path = "jll/S/SHTns
 db00978d-8b5b-52b5-bbe7-ff451c144724 = { name = "TightBinding", path = "T/TightBinding" }
 db05ebb0-6096-11e9-199b-87b703361841 = { name = "AzManagers", path = "A/AzManagers" }
 db073c08-6b98-4ee5-b6a4-5efafb3259c6 = { name = "GeoMakie", path = "G/GeoMakie" }
+db1222e2-bf1a-580a-8e2a-80000e4658c5 = { name = "robin_hood_hashing_jll", path = "jll/R/robin_hood_hashing_jll" }
 db12335b-fddc-5e1b-b0ee-42071d21ae50 = { name = "StringBuilders", path = "S/StringBuilders" }
 db1e321a-d383-57b4-a664-0144fd54e973 = { name = "Callbacks", path = "C/Callbacks" }
 db222a54-9a4e-11e9-2a63-0f03ae0fd449 = { name = "DynamicGridsGtk", path = "D/DynamicGridsGtk" }
