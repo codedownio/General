@@ -116,6 +116,7 @@ some amount of consideration when choosing package names.
 02a14def-c6e6-4ab0-b2df-0ab64bc8cdd7 = { name = "Sinograms", path = "S/Sinograms" }
 02a35734-3e3a-4c9f-8994-84c0fbc3ad2f = { name = "MonolithicFEMVLFS", path = "M/MonolithicFEMVLFS" }
 02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd = { name = "cuDNN", path = "C/cuDNN" }
+02ac4b2c-022a-44aa-84a5-ea45a5754bcc = { name = "ControllerFormats", path = "C/ControllerFormats" }
 02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a = { name = "XML2_jll", path = "jll/X/XML2_jll" }
 02cc1f66-ff46-4bd7-a247-ac068822e639 = { name = "MimiFAIRv1_6_2", path = "M/MimiFAIRv1_6_2" }
 02d47bb6-7ce6-556a-be16-bb1710789e2b = { name = "TensorCast", path = "T/TensorCast" }
@@ -394,6 +395,7 @@ some amount of consideration when choosing package names.
 09d831e3-9c21-47a9-bfd8-076871817219 = { name = "GraphQLClient", path = "G/GraphQLClient" }
 09e18e8d-40f5-4176-baf5-9239a33e36dd = { name = "KiteConnect", path = "K/KiteConnect" }
 09e6dd1b-8208-5c7e-a336-6e9061773d0b = { name = "ONNXRuntime_jll", path = "jll/O/ONNXRuntime_jll" }
+09e99361-2bb8-48a2-a80f-de58f0739eb4 = { name = "PropertyFunctions", path = "P/PropertyFunctions" }
 09eb9df4-c16c-45e4-b3a9-061214bcee23 = { name = "Pathnames", path = "P/Pathnames" }
 09f84164-cd44-5f33-b23f-e6b0d136a0d5 = { name = "HypothesisTests", path = "H/HypothesisTests" }
 0a1268e7-2270-4ee8-9901-5a5b516c7ae9 = { name = "InvariantSets", path = "I/InvariantSets" }
@@ -852,6 +854,7 @@ some amount of consideration when choosing package names.
 15fcbb24-5a00-427b-98c5-e32879a22884 = { name = "CGAL", path = "C/CGAL" }
 1602be87-98d2-44e8-83ad-5679ea8c0714 = { name = "CSetAutomorphisms", path = "C/CSetAutomorphisms" }
 1603b9d5-f456-4bc7-93d8-0a6ecb110267 = { name = "AlignedArrays", path = "A/AlignedArrays" }
+16094072-63d9-4fab-833b-5e04479784a5 = { name = "AdaptableFunctions", path = "A/AdaptableFunctions" }
 160ba089-64bf-5ba7-9e14-98ab1d9bcb0a = { name = "LightGraphsMatching", path = "L/LightGraphsMatching" }
 160d5eed-cb0b-5d5e-9732-2f740c539f3e = { name = "Intan", path = "I/Intan" }
 160ec2fe-adfa-420e-809b-15ae23db4a01 = { name = "Qaylla", path = "Q/Qaylla" }
@@ -8911,6 +8914,7 @@ f391fee2-5786-5cc9-9662-0e362ec949e2 = { name = "SuperLU_jll", path = "jll/S/Sup
 f39326b1-4895-4d66-8554-3d921b72def4 = { name = "Indicomb", path = "I/Indicomb" }
 f39d504a-8e86-5d7d-9b06-c60674885a6f = { name = "MemoryBasedCF", path = "M/MemoryBasedCF" }
 f3a6be2d-a68d-4ec3-9269-e9777039d639 = { name = "Pesto", path = "P/Pesto" }
+f3aafa49-307a-5320-a5bb-18aa0b37134e = { name = "Hayagriva_jll", path = "jll/H/Hayagriva_jll" }
 f3b207a7-027a-5e70-b257-86293d7955fd = { name = "StatsPlots", path = "S/StatsPlots" }
 f3b72e0c-5b89-59e1-b016-84e28bfd966d = { name = "DiffEqDevTools", path = "D/DiffEqDevTools" }
 f3b833dc-6b2e-5b9c-b940-873ed6319979 = { name = "JUDI", path = "J/JUDI" }
