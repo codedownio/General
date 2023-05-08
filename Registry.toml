@@ -1283,6 +1283,7 @@ some amount of consideration when choosing package names.
 217528c2-21c4-4222-9975-97f0b0cbd7c1 = { name = "HOODESolver", path = "H/HOODESolver" }
 217fe2f1-7e3d-419f-9934-cd6900c2759a = { name = "CavityTools", path = "C/CavityTools" }
 21828b05-d3b3-40ad-870e-a4bc2f52d5e8 = { name = "GraphMLDatasets", path = "G/GraphMLDatasets" }
+2182be2a-124f-4a91-8389-f06db5907a21 = { name = "HeterogeneousComputing", path = "H/HeterogeneousComputing" }
 2196b101-3ac0-4e12-b5a8-532424305d17 = { name = "LiBr", path = "L/LiBr" }
 21a827c4-482a-11ea-3a19-4d2243a4a2c5 = { name = "SearchLightSQLite", path = "S/SearchLightSQLite" }
 21ac8556-7714-4a21-a3d1-782ae53d7567 = { name = "PyTSP", path = "P/PyTSP" }
@@ -3749,6 +3750,7 @@ some amount of consideration when choosing package names.
 656e9f32-718a-11e9-002e-018f26774860 = { name = "LabViewXML", path = "L/LabViewXML" }
 656ef2d0-ae68-5445-9ca0-591084a874a2 = { name = "OpenBLAS32_jll", path = "jll/O/OpenBLAS32_jll" }
 65888b18-ceab-5e60-b2b9-181511a3b968 = { name = "ParameterizedFunctions", path = "P/ParameterizedFunctions" }
+658cac36-ff0f-48ad-967c-110375d98c9d = { name = "ObjectPools", path = "O/ObjectPools" }
 659767e3-31a7-4dc1-8563-6e03f484b231 = { name = "QuantitativeMRI", path = "Q/QuantitativeMRI" }
 659f704f-cf79-45a2-9e03-898b721e1055 = { name = "GoogleTrans", path = "G/GoogleTrans" }
 65a8f2f4-9b39-5baf-92e2-a9cc46fdf018 = { name = "ArraysOfArrays", path = "A/ArraysOfArrays" }
@@ -5047,6 +5049,7 @@ some amount of consideration when choosing package names.
 877fb49a-56b0-480a-9049-319c0c353852 = { name = "CompileBot", path = "C/CompileBot" }
 878138dc-5b27-11ea-1a71-cb95d38d6b29 = { name = "CellularAutomata", path = "C/CellularAutomata" }
 8782c2a4-92bb-4214-98d7-3150cbd7a677 = { name = "Bigsimr", path = "B/Bigsimr" }
+878bf26d-0c49-448a-9df5-b057c815d613 = { name = "Knockoffs", path = "K/Knockoffs" }
 879160bb-2efd-4837-9d80-7b6fff7bf698 = { name = "SmoothedSpectralAbscissa", path = "S/SmoothedSpectralAbscissa" }
 8797f018-3445-11e9-3969-c13eb94a0661 = { name = "Dispersal", path = "D/Dispersal" }
 87a0c12d-51e1-52a8-b1ed-2b00825fe6a4 = { name = "KaHyPar_jll", path = "jll/K/KaHyPar_jll" }
@@ -7652,6 +7655,7 @@ ceb4388c-583f-448d-bb30-00b11e8c5682 = { name = "IsURL", path = "I/IsURL" }
 ceb70bd2-fe3f-44f0-b81f-41608acaf2f2 = { name = "OpenSpiel", path = "O/OpenSpiel" }
 ceb7f16a-07bf-5f4a-9354-b68f01b1610f = { name = "SwitchOnSafety", path = "S/SwitchOnSafety" }
 cec144fc-5a64-5bc6-99fb-dde8f63e154c = { name = "OptimTestProblems", path = "O/OptimTestProblems" }
+cec542a4-22c5-46cb-8ca4-a46a7737b387 = { name = "Wasabi", path = "W/Wasabi" }
 cecf6091-0e4e-54ba-8cba-f0e96a51f282 = { name = "MicroLogging", path = "M/MicroLogging" }
 cecfa166-9fdc-475c-9ab0-5678dea9d294 = { name = "Denumpyfy", path = "D/Denumpyfy" }
 ced4e74d-a319-5a8a-b0ac-84af2272839c = { name = "DistributionsAD", path = "D/DistributionsAD" }
