@@ -2715,8 +2715,10 @@ some amount of consideration when choosing package names.
 48a596b8-cc7a-5e48-b182-65f75e8595d0 = { name = "flex_jll", path = "jll/F/flex_jll" }
 48a634ad-e948-5137-8d70-aa71f2a747f4 = { name = "Tensors", path = "T/Tensors" }
 48abaad9-6585-5455-9ce3-84cd0709264b = { name = "FlangClassic_RTLib_jll", path = "jll/F/FlangClassic_RTLib_jll" }
+48ae9875-8a8b-401f-9c90-1ad5d6adef54 = { name = "SmoothNumbers", path = "S/SmoothNumbers" }
 48b6455b-4cf5-590d-a543-2d733c79e793 = { name = "FLANN_jll", path = "jll/F/FLANN_jll" }
 48c1b23d-d9bb-4f6d-9629-79933a599311 = { name = "SpiderMonkey", path = "S/SpiderMonkey" }
+48d54b35-e43e-4a66-a5a1-dde6b987cf69 = { name = "PEtab", path = "P/PEtab" }
 48dee9f3-50d2-49a3-a3c9-e990db172bec = { name = "SinusoidalRegressions", path = "S/SinusoidalRegressions" }
 48e2ed6f-953e-42f9-a56e-74c660f20e0a = { name = "SparseGaussianProcesses", path = "S/SparseGaussianProcesses" }
 48ea66d6-70bf-4733-809e-20017acf6e3b = { name = "NewsLookout", path = "N/NewsLookout" }
@@ -3145,6 +3147,7 @@ some amount of consideration when choosing package names.
 54e16d92-306c-5ea0-a30b-337be88ac337 = { name = "PrettyPrinting", path = "P/PrettyPrinting" }
 54e48022-12d0-513b-b20d-e273c072c6db = { name = "MultivariateFunctions", path = "M/MultivariateFunctions" }
 54e51dfa-9dd7-5231-aa84-a4037b83483a = { name = "PerceptualColourMaps", path = "P/PerceptualColourMaps" }
+54e8752a-b65a-4aac-bda5-4918ee1e3cc5 = { name = "CalcephEphemeris", path = "C/CalcephEphemeris" }
 54eb57ff-b09b-5185-b2f4-7a93509e494f = { name = "InteractiveCodeSearch", path = "I/InteractiveCodeSearch" }
 54eccfce-c43a-54d5-bb22-f204d2e1c97b = { name = "rustfft_jll", path = "jll/R/rustfft_jll" }
 54ed2464-0158-49e7-9a8e-1c1697a616e3 = { name = "OptimalBids", path = "O/OptimalBids" }
@@ -3236,6 +3239,7 @@ some amount of consideration when choosing package names.
 577e98d7-bbac-4083-8c31-d4f64f54a197 = { name = "ReduceWindows", path = "R/ReduceWindows" }
 5789e2e9-d7fb-5bc7-8068-2c6fae9b9549 = { name = "FileIO", path = "F/FileIO" }
 578b42c6-ccb1-11e9-3f90-91546bb1a07d = { name = "Glo", path = "G/Glo" }
+57a5148a-7bb8-46c0-adfc-97cbfb31d94c = { name = "MoYe", path = "M/MoYe" }
 57a71ab2-c1ee-420a-94e0-f42fd769768c = { name = "PANDA", path = "P/PANDA" }
 57b3401a-ff44-4c54-9e38-1c8db7da4902 = { name = "CUDAPreconditioners", path = "C/CUDAPreconditioners" }
 57b37032-215b-411a-8a7c-41a003a55207 = { name = "ImplicitDifferentiation", path = "I/ImplicitDifferentiation" }
@@ -3584,6 +3588,7 @@ some amount of consideration when choosing package names.
 60fd0770-a5cf-11ea-07c5-d789f1eae5cb = { name = "ChordalGraph", path = "C/ChordalGraph" }
 6103b61f-200f-420b-b397-2cbeef157920 = { name = "RigorousInvariantMeasures", path = "R/RigorousInvariantMeasures" }
 6112ee07-acf9-5e0f-b108-d242c714bf9f = { name = "UnitfulAstro", path = "U/UnitfulAstro" }
+6118da02-c7f1-44e0-8933-0c8b5cc44c9b = { name = "FractalAnimation", path = "F/FractalAnimation" }
 611adb69-ebe7-45d0-83f5-90aabba2c123 = { name = "NonconvexJuniper", path = "N/NonconvexJuniper" }
 612083be-0b0f-5412-89c1-4e7c75506a58 = { name = "Queryverse", path = "Q/Queryverse" }
 61246389-3d51-4c70-b82d-266223a1b313 = { name = "PenPlots", path = "P/PenPlots" }
@@ -5735,6 +5740,7 @@ some amount of consideration when choosing package names.
 9bd7ba1c-b518-491f-8f72-7efe190322aa = { name = "ModelicaScriptingTools", path = "M/ModelicaScriptingTools" }
 9bdc2bb6-e40d-4944-bd5f-2bf890d3f651 = { name = "MobergIO", path = "M/MobergIO" }
 9be01004-c4f5-478b-abeb-cb32b114cf5e = { name = "LibCImGui", path = "L/LibCImGui" }
+9be31aac-5446-47db-bfeb-416acd2e4415 = { name = "Thrift2", path = "T/Thrift2" }
 9be66c26-f988-4649-80fc-f4721a4a33f2 = { name = "MRISampling", path = "M/MRISampling" }
 9bed79ab-e35b-4b7a-8527-918872a9571e = { name = "Curves", path = "C/Curves" }
 9c0b9be8-e31e-490f-90fe-77697562404d = { name = "Dataverse", path = "D/Dataverse" }
@@ -5978,6 +5984,7 @@ a252ced4-3752-11e9-0615-256422162c4d = { name = "GrowthMaps", path = "G/GrowthMa
 a2598c62-e771-4eb8-9887-959a94ab00ef = { name = "StochasticGene", path = "S/StochasticGene" }
 a25bc8ac-9d24-42b2-8edd-3d267ec19fc5 = { name = "ComoniconOptions", path = "C/ComoniconOptions" }
 a25cea48-d430-424a-8ee7-0d3ad3742e9e = { name = "SpecialPolynomials", path = "S/SpecialPolynomials" }
+a25e2219-d8cc-47b2-bc88-9b0dc7d4b2a3 = { name = "ComplexPaths", path = "C/ComplexPaths" }
 a2619673-1d62-4ca3-9815-ccab58eb1c5a = { name = "FAME", path = "F/FAME" }
 a262596c-dd27-4d54-b019-3619024addbd = { name = "RemoveLFS", path = "R/RemoveLFS" }
 a262fb0b-5671-4fb4-9d61-972db9a18944 = { name = "KiteSimulators", path = "K/KiteSimulators" }
@@ -7582,6 +7589,7 @@ cc8e9863-198f-4c11-8208-8a22403099d5 = { name = "NetworkProtocols", path = "N/Ne
 cc8eb9ea-40c6-483d-ae01-5f60885b8dd9 = { name = "ExactReals", path = "E/ExactReals" }
 cc8fcbce-1519-41ac-a9d5-7b019a31028d = { name = "OptimizingIR", path = "O/OptimizingIR" }
 cc9b1b2d-f4cf-5aeb-b1c9-57f66198f3ff = { name = "ReduceAlgebra", path = "R/ReduceAlgebra" }
+cc9befaf-0110-443e-845a-60a17f3568dd = { name = "Nuclides", path = "N/Nuclides" }
 ccad5352-7643-4eb2-b711-e9c298e87bf0 = { name = "GreenFlux", path = "G/GreenFlux" }
 ccbc3e58-028d-4f4c-8cd5-9ae44345cda5 = { name = "JumpProcesses", path = "J/JumpProcesses" }
 ccc2c699-b150-5417-88f2-a95a0d1581d9 = { name = "libmseed_jll", path = "jll/L/libmseed_jll" }
@@ -8511,6 +8519,7 @@ e5fb2512-507e-11e9-3018-95af41067f06 = { name = "Beauty", path = "B/Beauty" }
 e600142f-9330-5003-8abb-0ebd767abc51 = { name = "YaoArrayRegister", path = "Y/YaoArrayRegister" }
 e6005643-8f00-58df-85c5-7d93a3520d70 = { name = "GeoArrayOps", path = "G/GeoArrayOps" }
 e605e454-228d-5ea2-8551-672d69aa7712 = { name = "QuantumLab", path = "Q/QuantumLab" }
+e6125b7d-2298-432f-af45-a1235af9403e = { name = "WhyNotEqual", path = "W/WhyNotEqual" }
 e61b41b6-3414-4803-863f-2b69057479eb = { name = "PointPatterns", path = "P/PointPatterns" }
 e61f16d8-a6b7-5689-8d03-627c2b27ebce = { name = "RigidBodySim", path = "R/RigidBodySim" }
 e6216453-ab07-4bd6-b3b4-b7ee81a805aa = { name = "ChemfilesViewer", path = "C/ChemfilesViewer" }
