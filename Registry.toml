@@ -3867,6 +3867,7 @@ some amount of consideration when choosing package names.
 68ab7a74-b89c-58c4-90e0-a4e17bbb69bc = { name = "FluorescentSeries", path = "F/FluorescentSeries" }
 68ad905a-5087-500a-aae7-0fd6acda2eb1 = { name = "Caching", path = "C/Caching" }
 68ae48f1-ae9d-5916-b516-bab924cb4d98 = { name = "PolynomialMatrices", path = "P/PolynomialMatrices" }
+68d1b5e8-2215-47d8-a76e-d1727e222b22 = { name = "AdaptiveKDTrees", path = "A/AdaptiveKDTrees" }
 68d949f0-74a3-5070-a3ac-aa8145b4bcaa = { name = "LocallyWeightedRegression", path = "L/LocallyWeightedRegression" }
 68e3532b-a499-55ff-9963-d1c0c0748b3a = { name = "Ncurses_jll", path = "jll/N/Ncurses_jll" }
 68e73e28-2238-4d5a-bf97-e5d4aa3c4be2 = { name = "DaggerGPU", path = "D/DaggerGPU" }
@@ -4589,6 +4590,7 @@ some amount of consideration when choosing package names.
 7b38b023-a4d7-4c5e-8d43-3f3097f304eb = { name = "ScanByte", path = "S/ScanByte" }
 7b398af1-3c03-4c36-a68d-b29057ec0a45 = { name = "ESeriesRounding", path = "E/ESeriesRounding" }
 7b39b095-d77a-58fa-8447-59aa0294474b = { name = "ExSup", path = "E/ExSup" }
+7b3dffa2-a94d-4703-aaf5-57911c725dc8 = { name = "SurrealdbWS", path = "S/SurrealdbWS" }
 7b4b3212-f72a-4ba2-afa8-103f0bfb7cd6 = { name = "QuasinormalModes", path = "Q/QuasinormalModes" }
 7b86fcea-f67b-53e1-809c-8f1719c154e8 = { name = "ATK_jll", path = "jll/A/ATK_jll" }
 7b913008-954d-4a4c-99e7-286cce9c5096 = { name = "Tomography", path = "T/Tomography" }
@@ -5834,6 +5836,7 @@ some amount of consideration when choosing package names.
 9e63c3cd-fb65-5a20-944b-2e08a37f68f9 = { name = "neofetch_jll", path = "jll/N/neofetch_jll" }
 9e6618a4-6605-11ea-2880-e931cf774ea8 = { name = "Qaintessent", path = "Q/Qaintessent" }
 9e6df25e-3b2c-44c5-be37-b553c26be21f = { name = "PyBullet", path = "P/PyBullet" }
+9e6ec31a-4cef-4def-9440-f7db695aa5a5 = { name = "GenieBuiltLifeProto", path = "G/GenieBuiltLifeProto" }
 9e6fccbf-6142-406a-aa4c-75c1ae647f53 = { name = "DataToolkitCommon", path = "D/DataToolkitCommon" }
 9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054 = { name = "Xpress", path = "X/Xpress" }
 9e7568c4-705a-47cd-b25f-0976344ae296 = { name = "Basinhopping", path = "B/Basinhopping" }
@@ -7229,6 +7232,7 @@ c3173eba-33fe-4761-8a84-0ec65b39ba9a = { name = "FFTResampling", path = "F/FFTRe
 c31bc6c7-79d6-424e-a85f-5b42ee086500 = { name = "Solaris", path = "S/Solaris" }
 c31f79ba-6e32-46d4-a52f-182a8ac42a54 = { name = "IntegralsCubature", path = "I/IntegralsCubature" }
 c32e1cdf-d535-416b-8655-021cdbf00cd4 = { name = "OperatorScaling", path = "O/OperatorScaling" }
+c33777b2-e695-4fae-9135-aeae8855dd81 = { name = "Tempo", path = "T/Tempo" }
 c33e1e51-3cb7-5762-8964-d0cfbd951039 = { name = "libavtp_jll", path = "jll/L/libavtp_jll" }
 c34fe46e-cbfb-4865-a11c-95c0a2f62188 = { name = "SpatialDatasets", path = "S/SpatialDatasets" }
 c3556c8d-123e-4c4d-a897-a0e9ebae0e6b = { name = "PooksoftAlphaVantageDataStore", path = "P/PooksoftAlphaVantageDataStore" }
@@ -7357,6 +7361,7 @@ c6228e60-a24f-11e9-1776-c313472ebacc = { name = "GenieAutoReload", path = "G/Gen
 c62bbaca-5768-5b75-85e2-9a0ea54e1624 = { name = "ZlibNG_jll", path = "jll/Z/ZlibNG_jll" }
 c62c433c-27ae-472e-8409-561fdc646fce = { name = "Canvas", path = "C/Canvas" }
 c6328df5-4af8-4637-a9e9-78ed74a2ae2b = { name = "MinimallyDisruptiveCurves", path = "M/MinimallyDisruptiveCurves" }
+c636ee4f-4591-4d8c-9fae-2dea21daa433 = { name = "PolyaGammaHybridSamplers", path = "P/PolyaGammaHybridSamplers" }
 c6373c32-5b88-5913-90f5-31d7686b42da = { name = "Qt5Declarative_jll", path = "jll/Q/Qt5Declarative_jll" }
 c648c4dd-c1e0-49a6-84b9-144ae7fd2468 = { name = "ConditionalDists", path = "C/ConditionalDists" }
 c64915e2-6c82-11e9-38e9-1f159a780463 = { name = "ComplexRegions", path = "C/ComplexRegions" }
@@ -8447,6 +8452,7 @@ e462d300-c971-11e9-30f1-fb93b1f8f73a = { name = "ZernikePolynomials", path = "Z/
 e4723793-2808-4fc5-8a98-c57f4c160c53 = { name = "StanQuap", path = "S/StanQuap" }
 e47305d1-6a61-5370-bc5d-77554d143183 = { name = "MendelImpute", path = "M/MendelImpute" }
 e478675d-f996-546e-baa1-da59d9de2062 = { name = "SARSOP_jll", path = "jll/S/SARSOP_jll" }
+e47b3055-b30e-52b1-9cd4-aea7f6c39f40 = { name = "blis32_jll", path = "jll/B/blis32_jll" }
 e47bb625-2913-44fb-8b24-b88572ac4ea9 = { name = "ItemResponseDatasets", path = "I/ItemResponseDatasets" }
 e47e5152-bd14-11e9-1b46-c951f0a7041d = { name = "ModelConstructors", path = "M/ModelConstructors" }
 e4811b68-74da-5b95-800f-4c79be0f9694 = { name = "TraceEstimators", path = "T/TraceEstimators" }
