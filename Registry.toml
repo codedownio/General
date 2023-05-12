@@ -1449,6 +1449,7 @@ some amount of consideration when choosing package names.
 262c1cb6-76e2-5873-868b-19ece3183cc5 = { name = "LRSLib", path = "L/LRSLib" }
 263f7e6d-e369-49af-a86e-c85638573b76 = { name = "NeuralGraphicsGL", path = "N/NeuralGraphicsGL" }
 263fe934-28e1-4ae9-998a-c2629c5fede6 = { name = "TileProviders", path = "T/TileProviders" }
+264155e8-78a8-466a-aa59-c9b28c34d21a = { name = "Stencils", path = "S/Stencils" }
 26555902-eaa5-4ecd-84b7-aef517a82a82 = { name = "Postprocessing", path = "P/Postprocessing" }
 265b7df6-2be8-4c25-b607-723db51099b1 = { name = "SALTBase", path = "S/SALTBase" }
 26663084-47d3-540f-bd97-40ca743aafa4 = { name = "PoincareInvariants", path = "P/PoincareInvariants" }
@@ -4309,6 +4310,7 @@ some amount of consideration when choosing package names.
 73a55e99-9441-455f-8acb-d9f8f3d4403a = { name = "Peggy", path = "P/Peggy" }
 73a6ac3c-4b34-4cca-a813-308f7589d80d = { name = "Tilde", path = "T/Tilde" }
 73a701b4-84e1-5df0-88ff-1968ee2ee8dc = { name = "NamedTuples", path = "N/NamedTuples" }
+73a7d86c-03e3-42fb-a0f5-70ef6cda08f4 = { name = "StatusSwitchingQP", path = "S/StatusSwitchingQP" }
 73af2aaf-3f58-5b29-82a9-435ecf827f5b = { name = "PotentialFlow", path = "P/PotentialFlow" }
 73b108b0-3f95-4bd2-8c7c-23af2537d260 = { name = "AuthGG", path = "A/AuthGG" }
 73c0b437-a350-4e9b-97ac-9adb151c271b = { name = "ClosedLoopReachability", path = "C/ClosedLoopReachability" }
@@ -4891,6 +4893,7 @@ some amount of consideration when choosing package names.
 82f577da-a64f-4709-b926-88c56b51bf4b = { name = "BuildkiteUtils", path = "B/BuildkiteUtils" }
 82f5f448-8efd-4819-9fe6-b2df6cfcafec = { name = "RSDeltaSigmaPort", path = "R/RSDeltaSigmaPort" }
 8314cec4-20b6-5062-9cdb-752b83310925 = { name = "PGFPlotsX", path = "P/PGFPlotsX" }
+8315f7d3-d5d2-4d16-bebe-3aa4ef51e4f8 = { name = "MakieDraw", path = "M/MakieDraw" }
 831f653e-6dbc-49a2-ac93-eebfaa09c6e6 = { name = "GoogleSheets", path = "G/GoogleSheets" }
 831fc53b-0fa6-4fbb-adc4-fa1e0b19763e = { name = "MoM_Kernels", path = "M/MoM_Kernels" }
 8341a549-d843-5d3b-924f-10e41641b3ea = { name = "AuditoryStimuli", path = "A/AuditoryStimuli" }
@@ -6651,6 +6654,7 @@ b37880e1-55fa-5503-9f1a-f1223ce0b53e = { name = "liblsl_jll", path = "jll/L/libl
 b3798467-87dc-4d99-943d-35a1bd39e395 = { name = "ConstrainedShortestPaths", path = "C/ConstrainedShortestPaths" }
 b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9 = { name = "LoadAllPackages", path = "L/LoadAllPackages" }
 b37d3d51-cc38-4fad-93cd-e6859934553f = { name = "Semicoroutines", path = "S/Semicoroutines" }
+b383313e-5450-4164-a800-befbd27b574d = { name = "DifferentiableFrankWolfe", path = "D/DifferentiableFrankWolfe" }
 b38be410-82b0-50bf-ab77-7b57e271db43 = { name = "FreeType", path = "F/FreeType" }
 b393f0d7-2a88-4661-a564-4e2d7462f0be = { name = "Jin", path = "J/Jin" }
 b395d269-c2ec-4df6-b679-36919ad600ca = { name = "InterferometricModels", path = "I/InterferometricModels" }
@@ -7844,6 +7848,7 @@ d3a379c0-f9a3-5b72-a4c0-6bf4d2e8af0f = { name = "LittleCMS_jll", path = "jll/L/L
 d3a6a179-465e-5219-bd3e-0137f7fd17c7 = { name = "TerminalExtensions", path = "T/TerminalExtensions" }
 d3a97c8b-a0ae-4566-9541-30732b1a2223 = { name = "BioMart", path = "B/BioMart" }
 d3b670be-7695-4f53-993c-7bcc16c2acea = { name = "DistributedAdhoc", path = "D/DistributedAdhoc" }
+d3baf920-4533-4796-be79-acb40839d791 = { name = "CloudEvents", path = "C/CloudEvents" }
 d3bb65d8-f921-4227-aa76-0b59d05b829a = { name = "VortexFilaments", path = "V/VortexFilaments" }
 d3bc4f2e-91e6-11e9-365e-cd067da536ce = { name = "BranchAndPrune", path = "B/BranchAndPrune" }
 d3cb9f0d-9994-4b1a-a019-873b7558f280 = { name = "ToolipsExport", path = "T/ToolipsExport" }
@@ -8334,6 +8339,7 @@ e149cee4-a9c8-4a03-a7b6-d91720412337 = { name = "MaximumLikelihoodProblems", pat
 e155a3c4-0841-43e1-8b83-a0e4f03cc18f = { name = "TemporalGPs", path = "T/TemporalGPs" }
 e15a9946-cd7f-4d03-83e2-6c30bacb0043 = { name = "GridWorlds", path = "G/GridWorlds" }
 e162569b-3ff4-40cf-b055-1e5f8042da73 = { name = "MassInstallAction", path = "M/MassInstallAction" }
+e170d443-b9d6-418a-9ee8-061e966341ef = { name = "Tyler", path = "T/Tyler" }
 e17aae4a-d237-47ef-801a-8fb45f2fda95 = { name = "CombinatorialBandits", path = "C/CombinatorialBandits" }
 e17b2a0c-0bdf-430a-bd0c-3a23cae4ff39 = { name = "UnsafePointers", path = "U/UnsafePointers" }
 e18202ca-4a7d-4de8-b056-fa6bbd7de157 = { name = "WindowAbstractions", path = "W/WindowAbstractions" }
