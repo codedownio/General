@@ -812,6 +812,7 @@ some amount of consideration when choosing package names.
 14a86994-10a4-4a7d-b9ad-ef6f3b1fac6a = { name = "PPTX", path = "P/PPTX" }
 14b8622a-036d-4d33-8a6e-103eec319ccf = { name = "MoziFESection", path = "M/MoziFESection" }
 14b8a8f1-9102-5b29-a752-f990bacb7fe1 = { name = "PkgTemplates", path = "P/PkgTemplates" }
+14bae519-eb20-449c-a949-9c58ed33163e = { name = "ACEbase", path = "A/ACEbase" }
 14bbafba-0b52-4ec8-8fe0-855204a3b917 = { name = "ProconIO", path = "P/ProconIO" }
 14d82f49-176c-5ed1-bb49-ad3f5cbd8c74 = { name = "Xorg_libpthread_stubs_jll", path = "jll/X/Xorg_libpthread_stubs_jll" }
 14dbef02-f468-5f15-853e-5ec8dee7b899 = { name = "AbstractStorage", path = "A/AbstractStorage" }
@@ -1306,6 +1307,7 @@ some amount of consideration when choosing package names.
 2207ec0c-686c-5054-b4d2-543502888820 = { name = "HybridSystems", path = "H/HybridSystems" }
 220ca800-aa68-49bb-acd8-6037fa93a544 = { name = "StructuralIdentifiability", path = "S/StructuralIdentifiability" }
 220efe8a-9139-4e14-a4fa-f683d572f4c5 = { name = "GeoSimulation", path = "G/GeoSimulation" }
+221a10cb-40ed-42a6-9d60-e07216d033df = { name = "StripRTF", path = "S/StripRTF" }
 22286c92-06ac-501d-9306-4abd417d9753 = { name = "AccurateArithmetic", path = "A/AccurateArithmetic" }
 222cdcc2-4038-5444-bd57-a8b76b6aa12a = { name = "rtlsdr_jll", path = "jll/R/rtlsdr_jll" }
 222fe7e8-3f39-464a-bf97-d9bbb753f246 = { name = "PcapTools", path = "P/PcapTools" }
@@ -4126,6 +4128,7 @@ some amount of consideration when choosing package names.
 6ef6ca0d-6ad7-5ff6-b225-e928bfa0a386 = { name = "NMF", path = "N/NMF" }
 6efb3b9f-b065-4dd1-b1a5-fac2350e161b = { name = "Forecast", path = "F/Forecast" }
 6f0a0517-dbc2-4a7a-8a20-99ae7f27e911 = { name = "OptimizationGCMAES", path = "O/OptimizationGCMAES" }
+6f0c0536-3c2c-4762-a987-c605a8a6f898 = { name = "BattMo", path = "B/BattMo" }
 6f1432cf-f94c-5a45-995e-cdbf5db27b0b = { name = "LoweredCodeUtils", path = "L/LoweredCodeUtils" }
 6f188dcb-512c-564b-bc01-e0f76e72f166 = { name = "LayerDicts", path = "L/LayerDicts" }
 6f1fad26-d15e-5dc8-ae53-837a1d7b8c9f = { name = "Libtask", path = "L/Libtask" }
@@ -5435,6 +5438,7 @@ some amount of consideration when choosing package names.
 92992a2b-8ce5-4a9c-bb9d-58be9a7dc841 = { name = "Umlaut", path = "U/Umlaut" }
 929cbde3-209d-540e-8aea-75f648917ca0 = { name = "LLVM", path = "L/LLVM" }
 92a963f6-6b1d-11e9-1d6c-8d25856e017b = { name = "ImportMacros", path = "I/ImportMacros" }
+92ad9a40-7767-427a-9ee6-6e577f1266cb = { name = "LearnAPI", path = "L/LearnAPI" }
 92afb270-2599-44f6-96a1-44c6efb1daf1 = { name = "JavisNB", path = "J/JavisNB" }
 92b13dbe-c966-51a2-8445-caca9f8a7d42 = { name = "TaylorIntegration", path = "T/TaylorIntegration" }
 92c85e6c-cbff-5e0c-80f7-495c94daaecd = { name = "GSL", path = "G/GSL" }
@@ -5851,6 +5855,7 @@ some amount of consideration when choosing package names.
 9e7e054f-393b-40f5-81e8-49c2b2540836 = { name = "PowerMonitor", path = "P/PowerMonitor" }
 9e818040-a151-11e9-0cac-43033c89f788 = { name = "LightGraphsGraphBLAS", path = "L/LightGraphsGraphBLAS" }
 9e8cae18-63c1-5223-a75c-80ca9d6e9a09 = { name = "Oceananigans", path = "O/Oceananigans" }
+9e8d69f6-009b-4290-9624-9f9a175b876d = { name = "FresnelEquations", path = "F/FresnelEquations" }
 9e997f8a-9a97-42d5-a9f1-ce6bfc15e2c0 = { name = "ChangesOfVariables", path = "C/ChangesOfVariables" }
 9ea4277c-da97-4c3a-afb0-537c066769de = { name = "SnoopCompileAnalysis", path = "S/SnoopCompileAnalysis" }
 9ea8cd13-fabe-5354-bade-922846b34814 = { name = "SPH", path = "S/SPH" }
@@ -7557,6 +7562,7 @@ cb13b1c6-351e-5134-b3ad-d6a530956a82 = { name = "Waveforms", path = "W/Waveforms
 cb1733c5-7124-4973-b058-890cf74b35cb = { name = "BayesSizeAndShape", path = "B/BayesSizeAndShape" }
 cb18667b-f199-4b8b-b886-9916fef47a26 = { name = "PICDataStructures", path = "P/PICDataStructures" }
 cb1a753d-6b7b-52e3-9bfe-57d99d445c39 = { name = "AsterReader", path = "A/AsterReader" }
+cb1bc77f-5443-4951-af9f-05b616a3e422 = { name = "WannierIO", path = "W/WannierIO" }
 cb339c56-07fa-4cb2-923a-142469552264 = { name = "PseudoPotentialIO", path = "P/PseudoPotentialIO" }
 cb401d7d-c4f9-4284-af24-a1eca280e8e8 = { name = "VersatileHDPMixtureModels", path = "V/VersatileHDPMixtureModels" }
 cb4044da-4d16-4ffa-a6a3-8cad7f73ebdc = { name = "PlutoTest", path = "P/PlutoTest" }
