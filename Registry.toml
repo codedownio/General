@@ -3828,6 +3828,7 @@ some amount of consideration when choosing package names.
 676d8d29-539e-4f06-b848-7dd647dd5291 = { name = "AdaptiveSparseGrids", path = "A/AdaptiveSparseGrids" }
 6774de46-80ba-43f8-ba42-e41071ccfc5f = { name = "LieGroups", path = "L/LieGroups" }
 677f5362-5107-42e4-8e81-51d9c4a1f96c = { name = "CanopyLayers", path = "C/CanopyLayers" }
+67801824-9821-48b9-a814-9bfb19231086 = { name = "JSMDUtils", path = "J/JSMDUtils" }
 678767b0-92e7-4007-89e4-4527a8725b19 = { name = "NamedGraphs", path = "N/NamedGraphs" }
 678d7417-9a84-558b-a975-2deb8d71bebc = { name = "marble_jll", path = "jll/M/marble_jll" }
 67920dd8-b58e-52a8-8622-53c4cffbe346 = { name = "KNITRO", path = "K/KNITRO" }
@@ -3960,6 +3961,7 @@ some amount of consideration when choosing package names.
 6b18b4be-af96-4ba3-bd8c-96b4a98fe4ba = { name = "OpenColor", path = "O/OpenColor" }
 6b19cf85-48de-5d9d-bfff-465abea14fab = { name = "SmolyakApprox", path = "S/SmolyakApprox" }
 6b20a5d4-3c6c-44cd-883b-1480592d72be = { name = "PSSFSS", path = "P/PSSFSS" }
+6b30ee2f-618e-4a15-bf4e-7df7b496e609 = { name = "JSMDInterfaces", path = "J/JSMDInterfaces" }
 6b349878-927d-5bd5-ab28-bc3aa4175a33 = { name = "UCX", path = "U/UCX" }
 6b361b89-ad51-55af-b263-01d4c5e5a711 = { name = "IndirectImports", path = "I/IndirectImports" }
 6b36f460-1d4e-5459-a8c4-3ab8f40f7d47 = { name = "TensorNetworkAD", path = "T/TensorNetworkAD" }
@@ -6789,6 +6791,7 @@ b70b374f-000b-463f-88dc-37030f004bd0 = { name = "CloughTocher2DInterpolation", p
 b71133ba-6b01-47a0-b4fe-e7a9e8ed2c06 = { name = "CDCLsat", path = "C/CDCLsat" }
 b7115f24-5f92-4794-81e8-23b0ddb121d3 = { name = "InvertibleNetworks", path = "I/InvertibleNetworks" }
 b7163347-bfae-5fd9-aba4-19f139889d78 = { name = "quarto_jll", path = "jll/Q/quarto_jll" }
+b717d2d3-19c6-5ced-b36a-114a71eec478 = { name = "RegNets", path = "R/RegNets" }
 b718987f-49a8-5099-9789-dcd902bef87d = { name = "TextWrap", path = "T/TextWrap" }
 b7192094-8e58-5052-a244-180a858778ee = { name = "BinningAnalysis", path = "B/BinningAnalysis" }
 b71d359b-899c-4fb1-b3ad-2de2d2cb8353 = { name = "ClimatePlots", path = "C/ClimatePlots" }
@@ -8937,6 +8940,7 @@ f23b13a2-9352-431b-a28a-b2f20c485fa1 = { name = "ChaChaCiphers", path = "C/ChaCh
 f23b31af-f0ea-4208-b2e0-bbfc29c446c9 = { name = "MatInt", path = "M/MatInt" }
 f2431ed1-b9c2-4fdb-af1b-a74d6c93b3b3 = { name = "GaussianMixtureAlignment", path = "G/GaussianMixtureAlignment" }
 f269a46b-ccf7-5d73-abea-4c690281aa53 = { name = "TimeZones", path = "T/TimeZones" }
+f2712ddf-d375-4b75-9475-5f3be79dfb12 = { name = "SVDSketch", path = "S/SVDSketch" }
 f276a096-2d87-4069-b10e-355a3501ee6e = { name = "CircuitscapeMKLPardiso", path = "C/CircuitscapeMKLPardiso" }
 f27b6e38-b328-58d1-80ce-0feddd5e7a45 = { name = "Polynomials", path = "P/Polynomials" }
 f27f6e37-5d2b-51aa-960f-b287f2bc3b7a = { name = "libvorbis_jll", path = "jll/L/libvorbis_jll" }
@@ -9197,6 +9201,7 @@ f9221216-80da-5205-bffb-473ccd158385 = { name = "Bullet_Physics_SDK_jll", path =
 f92c20c0-9f2a-4705-8116-881385faba05 = { name = "TextEncodeBase", path = "T/TextEncodeBase" }
 f92c8a04-155b-4747-b198-4c6b1c04e8f7 = { name = "FuzzyCRegression", path = "F/FuzzyCRegression" }
 f9309374-59cc-5ff5-a120-e3e470a57b4a = { name = "ApplicationBuilder", path = "A/ApplicationBuilder" }
+f9322581-1cea-4fd6-9e8e-2ae6cc4618ce = { name = "EventStudyInteracts", path = "E/EventStudyInteracts" }
 f961096e-11ae-497c-ad8a-ff09638a4fbf = { name = "PlateKinematics", path = "P/PlateKinematics" }
 f9630f5b-a116-5b0c-bd6c-4699aee17694 = { name = "ECharts", path = "E/ECharts" }
 f9640e96-87f6-5992-9c3b-0743c6a49ffa = { name = "MultiScaleArrays", path = "M/MultiScaleArrays" }
