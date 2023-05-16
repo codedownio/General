@@ -741,6 +741,7 @@ some amount of consideration when choosing package names.
 12b1f071-75ca-5403-9634-55c067809894 = { name = "FractionalGaussianFields", path = "F/FractionalGaussianFields" }
 12c3852d-bf95-4e7b-be60-68937c3c927b = { name = "ProxAL", path = "P/ProxAL" }
 12c6fc8f-875a-4553-8591-2d09aedcb433 = { name = "MetaFEM", path = "M/MetaFEM" }
+12cd0da3-566c-4730-bd56-a37e9f18d9f8 = { name = "Constellation", path = "C/Constellation" }
 12d937ae-5f68-53be-93c9-3a6f997a20a8 = { name = "PEG", path = "P/PEG" }
 12e350a7-e224-4cd9-9794-6d6b55fa14c7 = { name = "HyperSphere", path = "H/HyperSphere" }
 12e6b396-7db5-4506-8cb6-664a4fe1e50e = { name = "RestrictedBoltzmannMachines", path = "R/RestrictedBoltzmannMachines" }
@@ -1470,6 +1471,7 @@ some amount of consideration when choosing package names.
 26cc04aa-876d-5657-8c51-4c34ba976000 = { name = "FiniteDifferences", path = "F/FiniteDifferences" }
 26cce99e-4866-4b6d-ab74-862489e035e0 = { name = "BasicInterpolators", path = "B/BasicInterpolators" }
 26d59822-f2b6-4a0d-bae1-4d8fc12fd86b = { name = "GtkMarkdownTextView", path = "G/GtkMarkdownTextView" }
+26d6b5db-a198-4a75-82bf-4a48696500ea = { name = "OptimalMatrixCompletion", path = "O/OptimalMatrixCompletion" }
 26dc7fb7-0d88-57af-8ff4-0a7e14249ddd = { name = "SimpleGF2", path = "S/SimpleGF2" }
 26dcc766-85df-5edc-b560-6076d5dbac63 = { name = "LPVSpectral", path = "L/LPVSpectral" }
 26eaf3d2-abfe-5ba7-8b46-5ee72475de40 = { name = "autoconf_jll", path = "jll/A/autoconf_jll" }
@@ -2792,6 +2794,7 @@ some amount of consideration when choosing package names.
 4aa82a78-ed18-41f9-aee6-9d73ba3a0b42 = { name = "RAFF", path = "R/RAFF" }
 4aa9d100-eb0f-11e8-15f1-25748831eb3b = { name = "GCMAES", path = "G/GCMAES" }
 4ac160eb-0277-4e02-b3c6-a4c4623dd812 = { name = "Remarkable", path = "R/Remarkable" }
+4acb3128-ab29-4f79-81e6-a8e25fdcc44d = { name = "SnapshotTests", path = "S/SnapshotTests" }
 4acbeb90-81a0-11ea-1966-bdaff8155998 = { name = "Stipple", path = "S/Stipple" }
 4acc4d78-9ad5-435b-99b1-7af0628e6e5b = { name = "QCDNUM", path = "Q/QCDNUM" }
 4acc56a1-9938-4ee1-a82a-abdf2d4f6bfc = { name = "NotebookToLaTeX", path = "N/NotebookToLaTeX" }
@@ -6987,6 +6990,7 @@ bcb6b82e-7479-5933-8c8e-2e0b909ee6a3 = { name = "IterativeRefinement", path = "I
 bccb7ab1-cda7-5383-b12b-a44596912546 = { name = "MarriageMarkets", path = "M/MarriageMarkets" }
 bcd08a7b-43d2-5ff7-b6d4-c458787f915c = { name = "Singular", path = "S/Singular" }
 bcd14c31-b0d4-4eae-b592-0213e767a021 = { name = "Numssp", path = "N/Numssp" }
+bcd408f2-95f5-489e-9934-d251842dc866 = { name = "PottsGumbelRBMLayers", path = "P/PottsGumbelRBMLayers" }
 bcd4f6db-9728-5f36-b5f7-82caef46ccdb = { name = "DelayDiffEq", path = "D/DelayDiffEq" }
 bcd98974-b02a-5e2f-9ee0-a103f5c450dd = { name = "PowerSystems", path = "P/PowerSystems" }
 bcdb8e00-2c21-11e9-3065-2b553b22f898 = { name = "Metaheuristics", path = "M/Metaheuristics" }
@@ -7659,6 +7663,7 @@ cda752c5-6b03-55a3-9e33-132a441b0c17 = { name = "EFIT", path = "E/EFIT" }
 cdb1efd8-3f30-48e6-a1f7-a3d77bf376b8 = { name = "DSPopt", path = "D/DSPopt" }
 cdc13194-334e-4e1c-bc8d-fc3a28509c85 = { name = "ImmersedLayers", path = "I/ImmersedLayers" }
 cdc7adba-bef8-5cba-a7ee-c792dee3081e = { name = "libcleri_jll", path = "jll/L/libcleri_jll" }
+cdc879b2-80b7-4333-9dca-dc35859d33da = { name = "RandomNoise", path = "R/RandomNoise" }
 cdddcdb0-9152-4a09-a978-84456f9df70a = { name = "ChainRulesTestUtils", path = "C/ChainRulesTestUtils" }
 cde0203f-520b-4e04-9aee-42e57d0f514e = { name = "MatterMost", path = "M/MatterMost" }
 cde9dba0-b1de-11e9-2c62-0bab9446c55c = { name = "InfiniteLinearAlgebra", path = "I/InfiniteLinearAlgebra" }
@@ -7999,6 +8004,7 @@ d720cf60-89b5-51f5-aff5-213f193123e7 = { name = "Polymake", path = "P/Polymake" 
 d721219e-3fc6-5570-a8ef-e5402f47c49e = { name = "BasicPOMCP", path = "B/BasicPOMCP" }
 d7252348-293e-4f11-8d42-c8418dda4315 = { name = "JustSayIt", path = "J/JustSayIt" }
 d72a61cc-809d-412f-99be-fd81f4b8a598 = { name = "MadNLPGPU", path = "M/MadNLPGPU" }
+d7326954-f021-11ed-2a08-d10e464848f1 = { name = "CalculustCore", path = "C/CalculustCore" }
 d73ed964-a3ff-4a3d-ad09-d195fe0d0b35 = { name = "MimiSSPs", path = "M/MimiSSPs" }
 d7431456-977f-11e9-2de3-97ff7677985e = { name = "PowerModelsDistribution", path = "P/PowerModelsDistribution" }
 d7440221-8b5e-42fc-909c-0567823f424a = { name = "SingularIntegrals", path = "S/SingularIntegrals" }
