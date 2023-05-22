@@ -36,9 +36,15 @@ Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
 ["0.3.1-0"]
 StaticArraysCore = "1e83bf80-4336-4d27-bf5d-d5a4f845583c"
 
+["0.3.13-0"]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
 ["0.3.3-0"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
 ["0.3.8-0"]
 ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
 Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+
+["0.4-0"]
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
