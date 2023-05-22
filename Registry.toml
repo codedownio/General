@@ -2620,6 +2620,7 @@ some amount of consideration when choosing package names.
 45a664f0-7593-4733-b76c-60f36ef4c15f = { name = "HypergeoMat", path = "H/HypergeoMat" }
 45b28afb-7f9c-4d83-a9c8-739861dbc76b = { name = "Fronts", path = "F/Fronts" }
 45b36091-5ef7-4b08-b448-aaf24c763a14 = { name = "PopGenCore", path = "P/PopGenCore" }
+45c00fa2-1600-43ce-a2e6-f91e59655264 = { name = "Indefinite", path = "I/Indefinite" }
 45c10c9a-3fea-40aa-8a0f-0e2f7025918e = { name = "ComplexOperations", path = "C/ComplexOperations" }
 45ce4efb-129e-4f36-8fe9-5e4f23129ff4 = { name = "MDEStudy", path = "M/MDEStudy" }
 45d23951-e9a5-545c-8049-e4c4887f5525 = { name = "IntArrays", path = "I/IntArrays" }
@@ -2732,6 +2733,7 @@ some amount of consideration when choosing package names.
 48ae9875-8a8b-401f-9c90-1ad5d6adef54 = { name = "SmoothNumbers", path = "S/SmoothNumbers" }
 48b6455b-4cf5-590d-a543-2d733c79e793 = { name = "FLANN_jll", path = "jll/F/FLANN_jll" }
 48c1b23d-d9bb-4f6d-9629-79933a599311 = { name = "SpiderMonkey", path = "S/SpiderMonkey" }
+48c56d24-211d-4463-bbc0-7a701b291131 = { name = "JointEnergyModels", path = "J/JointEnergyModels" }
 48d54b35-e43e-4a66-a5a1-dde6b987cf69 = { name = "PEtab", path = "P/PEtab" }
 48dee9f3-50d2-49a3-a3c9-e990db172bec = { name = "SinusoidalRegressions", path = "S/SinusoidalRegressions" }
 48e2ed6f-953e-42f9-a56e-74c660f20e0a = { name = "SparseGaussianProcesses", path = "S/SparseGaussianProcesses" }
@@ -8519,6 +8521,7 @@ e4855c6d-60ae-49c0-a936-05b0c4d57984 = { name = "ReferenceImplementations", path
 e48b7b93-d2a8-4750-aba7-f743ccd5256c = { name = "FundamentalsNumericalComputation", path = "F/FundamentalsNumericalComputation" }
 e493a4bf-88d6-40ad-84dc-847a9b000e38 = { name = "ClusterEnsembles", path = "C/ClusterEnsembles" }
 e4965305-65d6-464d-9c03-ae3e5cffadab = { name = "AnovaFixedEffectModels", path = "A/AnovaFixedEffectModels" }
+e49d8811-4385-4fad-be34-8522254608f3 = { name = "ReactiveGraphs", path = "R/ReactiveGraphs" }
 e49eef03-c325-580d-b9c2-ffdb035fe7b1 = { name = "Gama_jll", path = "jll/G/Gama_jll" }
 e4aecf45-a397-53cc-864f-87db395e0248 = { name = "Qt5QuickControls_jll", path = "jll/Q/Qt5QuickControls_jll" }
 e4b2fa32-6e09-5554-b718-106ed5adafe9 = { name = "GaussianRandomFields", path = "G/GaussianRandomFields" }
@@ -8762,6 +8765,7 @@ eb3e9d2b-04dc-54b3-9584-49775b812a39 = { name = "StructuralInheritance", path = 
 eb426421-6452-4132-80ef-4b100a757ac5 = { name = "DoubleExponentialFormulas", path = "D/DoubleExponentialFormulas" }
 eb46d486-4f9c-4c3d-b445-a617f2a2f1ca = { name = "Checkpointing", path = "C/Checkpointing" }
 eb4b1da6-20f6-5c66-9826-fdb8ad410d0e = { name = "Typst_jll", path = "jll/T/Typst_jll" }
+eb50afb4-6f20-4b37-9b66-473e668300bf = { name = "TheoryOfGames", path = "T/TheoryOfGames" }
 eb527566-0f3e-4aab-bb5f-9d2e403dba70 = { name = "Dynesty", path = "D/Dynesty" }
 eb5f792d-d1b1-4535-bae3-d5649ec7daa4 = { name = "LegolasFlux", path = "L/LegolasFlux" }
 eb622722-88ce-45f2-a8b9-c2f73a5cb263 = { name = "BLPData", path = "B/BLPData" }
@@ -8847,6 +8851,7 @@ ede81e08-c6d8-4fe3-94c2-f928d9d678ed = { name = "FlxQTL", path = "F/FlxQTL" }
 edf6cd94-1a94-567d-837e-37d1f3b87eed = { name = "GAP_pkg_cddinterface_jll", path = "jll/G/GAP_pkg_cddinterface_jll" }
 ee02ff01-307c-5f43-b4c2-04ffc4645b0f = { name = "faust_jll", path = "jll/F/faust_jll" }
 ee0a3090-8ee9-5cdb-b8cb-8eeba3165522 = { name = "MINLPTests", path = "M/MINLPTests" }
+ee17a876-90d7-4d55-b638-625859505c6a = { name = "LinComs", path = "L/LinComs" }
 ee1fde0b-3d02-5ea6-8484-8dfef6360eab = { name = "Dbus_jll", path = "jll/D/Dbus_jll" }
 ee262687-6dc1-48e3-a463-c0a35b1bf9d0 = { name = "MambaLite", path = "M/MambaLite" }
 ee283ea6-eecd-56e3-beb3-83eb4d3c31e9 = { name = "Rebugger", path = "R/Rebugger" }
