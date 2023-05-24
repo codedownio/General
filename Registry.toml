@@ -2182,6 +2182,7 @@ some amount of consideration when choosing package names.
 394991d0-d7c6-11e9-19af-cd33f6408fef = { name = "EfficientGlobalOptimization", path = "E/EfficientGlobalOptimization" }
 3955a311-db13-416c-9275-1d80ed98e5e9 = { name = "GridLayoutBase", path = "G/GridLayoutBase" }
 39591389-4884-462a-89e7-9edfce40b6eb = { name = "ThreadedSparseCSR", path = "T/ThreadedSparseCSR" }
+3967666a-e078-4e4b-aee9-ca7b8401761d = { name = "Grumps", path = "G/Grumps" }
 396aa475-d5af-5b65-8c11-5c82e21b2380 = { name = "MultiResolutionIterators", path = "M/MultiResolutionIterators" }
 397faa13-b53e-4cbf-b1cd-0b7e158e6587 = { name = "Edlib", path = "E/Edlib" }
 3986aa12-c984-439b-887a-f8545bea0e93 = { name = "SyncBarriers", path = "S/SyncBarriers" }
@@ -4137,6 +4138,7 @@ some amount of consideration when choosing package names.
 6ea38b10-3220-4105-9032-02c82e619cdd = { name = "Anatta", path = "A/Anatta" }
 6eacf6c3-8458-43b9-ae03-caf5306d3d53 = { name = "CLIMAParameters", path = "C/CLIMAParameters" }
 6eb38059-8c05-41f7-8871-5e7e2697ace6 = { name = "PlutoPDF", path = "P/PlutoPDF" }
+6eb593e7-dfb4-4e48-b98e-d7222cdf0053 = { name = "AutoGP", path = "A/AutoGP" }
 6ebb71f1-8434-552f-b6b1-dc18babcca63 = { name = "GTK4_jll", path = "jll/G/GTK4_jll" }
 6ec703ca-3f29-566b-9bb1-b5c9e844abaf = { name = "LLVM_full_assert_jll", path = "jll/L/LLVM_full_assert_jll" }
 6ec83bb0-ed9f-11e9-3b4c-2b04cb4e219c = { name = "StructEquality", path = "S/StructEquality" }
@@ -4390,6 +4392,7 @@ some amount of consideration when choosing package names.
 755d2ad4-7ed4-4791-99e6-179f2b4884dd = { name = "ReverseStackTraces", path = "R/ReverseStackTraces" }
 756644eb-7399-463e-a86e-97605fb648cd = { name = "TransformsAPI", path = "T/TransformsAPI" }
 7567bd1e-91b2-4c89-85ad-d5bd41b820dc = { name = "LoggingFacilities", path = "L/LoggingFacilities" }
+756832fe-a726-4697-a3e3-9d94f93caec2 = { name = "OpenLocationCode", path = "O/OpenLocationCode" }
 75732972-a7cd-4375-b200-958e0814350d = { name = "NonconvexSearch", path = "N/NonconvexSearch" }
 75842c30-9b2d-11e9-3f58-f17fe2b89951 = { name = "TwoBit", path = "T/TwoBit" }
 7584fc6a-5a23-4eeb-8277-827aab0146ea = { name = "SpinGlassTensors", path = "S/SpinGlassTensors" }
@@ -4632,6 +4635,7 @@ some amount of consideration when choosing package names.
 7ba82512-5dde-4a56-aa4f-e00f617b4033 = { name = "GenServers", path = "G/GenServers" }
 7bb32750-d21c-11e8-1ebc-09158bc70490 = { name = "MomentTensors", path = "M/MomentTensors" }
 7bb39b10-f246-11ea-2456-25a63198e074 = { name = "RiskAdjustedLinearizations", path = "R/RiskAdjustedLinearizations" }
+7bb51ff7-3c6a-41be-b642-de78e6952b49 = { name = "SharedMemoryLocks", path = "S/SharedMemoryLocks" }
 7bbed249-721d-42ac-b1f6-7cf884be0fbe = { name = "HashCode2014", path = "H/HashCode2014" }
 7bc98958-0e37-5d67-a6ac-a3a19030071a = { name = "Cubature_jll", path = "jll/C/Cubature_jll" }
 7bd9edc1-4fdc-40a1-a0f6-da58fb4f45eb = { name = "Snowflake", path = "S/Snowflake" }
@@ -8954,6 +8958,7 @@ f151be2c-9106-41f4-ab19-57ee4f262869 = { name = "EnzymeCore", path = "E/EnzymeCo
 f1524149-62f5-490d-8249-9bfac76a7111 = { name = "RealTimeScheduling", path = "R/RealTimeScheduling" }
 f1662d9f-8043-43de-a69a-05efc1cc6ff4 = { name = "Isoband", path = "I/Isoband" }
 f16790e9-24a0-57e4-93e4-a31c5f47b348 = { name = "breakpad_jll", path = "jll/B/breakpad_jll" }
+f16ad982-4edb-46b1-8125-78e5a8b5a9e6 = { name = "NaturalNeighbours", path = "N/NaturalNeighbours" }
 f175482f-0544-4037-b362-361efbf21c04 = { name = "OpenTelemetryExporterOtlpProtoHttp", path = "O/OpenTelemetryExporterOtlpProtoHttp" }
 f1835b91-879b-4a3f-a438-e4baacf14412 = { name = "SpeedMapping", path = "S/SpeedMapping" }
 f18afe42-61d0-402c-a0bd-58c747008192 = { name = "ReducedBasis", path = "R/ReducedBasis" }
