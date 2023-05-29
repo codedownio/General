@@ -2033,6 +2033,7 @@ some amount of consideration when choosing package names.
 354b36f9-a18e-4713-926e-db85100087ba = { name = "StringViews", path = "S/StringViews" }
 354d5d7f-708f-4901-a0f3-d8f73932ec7d = { name = "FinRua", path = "F/FinRua" }
 355abbd5-f08e-5560-ac9e-8b5f2592a0ca = { name = "POMDPModels", path = "P/POMDPModels" }
+355d8124-6b2e-49b5-aab5-cdbc0a5fccbe = { name = "ImageGather", path = "I/ImageGather" }
 356022a1-0364-5f58-8944-0da4b18d706f = { name = "NamedDims", path = "N/NamedDims" }
 35604d93-0fb8-4872-9436-495b01d137e2 = { name = "ClimateBase", path = "C/ClimateBase" }
 35643b39-bfd4-4670-843f-16596ca89bf3 = { name = "DistributionMeasures", path = "D/DistributionMeasures" }
@@ -8456,6 +8457,7 @@ e275ce21-2bb6-5a50-939e-e917944b1aed = { name = "LoopTools_jll", path = "jll/L/L
 e27abb06-81da-40e5-a77a-80f0fe2578fc = { name = "PublicAPI", path = "P/PublicAPI" }
 e2860157-3336-52d5-8ddc-1def50726c76 = { name = "FirstOrderSolvers", path = "F/FirstOrderSolvers" }
 e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0 = { name = "Bootstrap", path = "B/Bootstrap" }
+e290813f-b153-47cd-bc0b-49e404587c69 = { name = "QuantumMAMBO", path = "Q/QuantumMAMBO" }
 e2912957-7d06-5673-a7d6-96d153624877 = { name = "Darknet", path = "D/Darknet" }
 e29189f1-7114-4dbd-93d0-c5673a921a58 = { name = "PDBTools", path = "P/PDBTools" }
 e29349eb-b3c8-4189-b6e7-6b7aca9b1830 = { name = "QuasiTriangular", path = "Q/QuasiTriangular" }
@@ -8855,6 +8857,7 @@ ed3f9b50-51cd-11e9-3ece-75fc8af922bb = { name = "Kwant", path = "K/Kwant" }
 ed46c112-542a-4e7e-ab0f-e39321fab6f0 = { name = "Napari", path = "N/Napari" }
 ed5aba05-e74d-5cf7-8b09-107ba3463b8e = { name = "acl_jll", path = "jll/A/acl_jll" }
 ed5d0301-4775-4676-b788-cf71e66ff8ed = { name = "PlutoExtras", path = "P/PlutoExtras" }
+ed5fc19a-51e0-403b-bf3b-cfeba61ff831 = { name = "MoM_AllinOne", path = "M/MoM_AllinOne" }
 ed619804-44bc-4c56-bdd2-11e3a27b3f1e = { name = "CJieba", path = "C/CJieba" }
 ed6da631-2423-57d3-8e4b-223f43b45c0c = { name = "Retriever", path = "R/Retriever" }
 ed7c10db-df7e-4efa-a7be-4f4190f7f227 = { name = "AtomsBaseTesting", path = "A/AtomsBaseTesting" }
