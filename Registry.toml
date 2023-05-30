@@ -669,6 +669,7 @@ some amount of consideration when choosing package names.
 10e51d30-6ba1-539a-b97e-c69c597142c4 = { name = "ImagePhaseCongruency", path = "I/ImagePhaseCongruency" }
 10f199a5-22af-520b-b891-7ce84a7b1bd0 = { name = "QPSReader", path = "Q/QPSReader" }
 10f19ff3-798f-405d-979b-55457f8fc047 = { name = "LayoutPointers", path = "L/LayoutPointers" }
+10f31823-b687-53e6-9f29-edb9d4da9f9f = { name = "polymake_oscarnumber_jll", path = "jll/P/polymake_oscarnumber_jll" }
 10f4d809-13e9-4a6a-bcde-2b39165689aa = { name = "NumNN", path = "N/NumNN" }
 11014322-c36b-48e8-9f33-d4141ac63aad = { name = "GeneralizedDubinsIntervalProblem", path = "G/GeneralizedDubinsIntervalProblem" }
 11053890-0308-406b-94d3-d76ebcae6419 = { name = "CeMicrodata", path = "C/CeMicrodata" }
@@ -1368,6 +1369,7 @@ some amount of consideration when choosing package names.
 23ae76d9-e61a-49c4-8f12-3f1a16adf9cf = { name = "NDTensors", path = "N/NDTensors" }
 23afba7c-24e5-5ee2-bc2c-b42e07f0492a = { name = "DynarePreprocessor_jll", path = "jll/D/DynarePreprocessor_jll" }
 23b0397c-cd08-4270-956a-157331f0528f = { name = "KissSmoothing", path = "K/KissSmoothing" }
+23b1b04d-225f-44b8-8726-13685da4c661 = { name = "SupportPoints", path = "S/SupportPoints" }
 23b3ee6f-a072-41d8-ada8-267420d58637 = { name = "CountingChambers", path = "C/CountingChambers" }
 23d02862-63fe-4c6e-8fdb-1d52cbbd39d5 = { name = "DynamicObjects", path = "D/DynamicObjects" }
 23d639d0-9462-4d1e-84fe-d700424865b8 = { name = "ModelingToolkitDesigner", path = "M/ModelingToolkitDesigner" }
@@ -6491,6 +6493,7 @@ ae029012-a4dd-5104-9daa-d747884805df = { name = "Requires", path = "R/Requires" 
 ae04f764-fc8b-5ee0-af1c-aa760b5c9409 = { name = "ConditionalJuMP", path = "C/ConditionalJuMP" }
 ae056753-435e-4d6b-8005-e923ff6e8938 = { name = "ZBar", path = "Z/ZBar" }
 ae1513eb-aba2-415b-9b88-80f66c7c7c76 = { name = "AeroMDAO", path = "A/AeroMDAO" }
+ae24ea40-bf11-4146-8ed5-41e60b83d222 = { name = "Earth", path = "E/Earth" }
 ae264745-0b69-425e-9d9d-cf662c5eec93 = { name = "Copulas", path = "C/Copulas" }
 ae2dfa86-617c-530c-b392-ef20fdad97bb = { name = "QuickTypes", path = "Q/QuickTypes" }
 ae347489-fc42-416e-8e9d-f76cf1731aac = { name = "BatchReactor", path = "B/BatchReactor" }
@@ -6862,6 +6865,7 @@ b7d42ee7-0b51-5a75-98ca-779d3107e4c0 = { name = "Einsum", path = "E/Einsum" }
 b7e775b7-052a-4229-9250-fe08ae90f9c6 = { name = "Webviews", path = "W/Webviews" }
 b7e79332-94ae-5b45-a0a6-65d827bd22db = { name = "HelloWorldFortran_jll", path = "jll/H/HelloWorldFortran_jll" }
 b7ef2bfb-7515-4281-9a05-d3c99bbad18e = { name = "XVGReader", path = "X/XVGReader" }
+b7f167ac-9de6-40dd-9818-ec636999de39 = { name = "RustFFT", path = "R/RustFFT" }
 b7f3fe35-ff1f-4dc5-b861-bd211d5a9a4b = { name = "MPIArray4MoMs", path = "M/MPIArray4MoMs" }
 b7f6bd3e-55dc-4da6-96a9-ef9dbec6ac19 = { name = "SpinGlassNetworks", path = "S/SpinGlassNetworks" }
 b7f77d8d-088d-5e02-8ac0-89aab2acc977 = { name = "ArcadeLearningEnvironment", path = "A/ArcadeLearningEnvironment" }
