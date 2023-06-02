@@ -1567,6 +1567,7 @@ some amount of consideration when choosing package names.
 28f2fcfb-5f6a-5f77-b781-4b42819ab36c = { name = "vmtouch_jll", path = "jll/V/vmtouch_jll" }
 28fba1bf-e12c-44a1-af44-66aee64b468f = { name = "RipsererPrep", path = "R/RipsererPrep" }
 2904ab23-551e-5aed-883f-487f97af5226 = { name = "ElasticPDMats", path = "E/ElasticPDMats" }
+29055884-00e7-4984-94b8-2baec6a723d6 = { name = "EstimatingEquationsRegression", path = "E/EstimatingEquationsRegression" }
 2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91 = { name = "StatsBase", path = "S/StatsBase" }
 2913f2de-b437-495a-9482-ef041561d0d3 = { name = "RealContinuedFractions", path = "R/RealContinuedFractions" }
 2919e153-833c-4bdc-8836-1ea460a35fc7 = { name = "ITensorNetworks", path = "I/ITensorNetworks" }
@@ -2791,6 +2792,7 @@ some amount of consideration when choosing package names.
 49c96f43-aa6d-5a04-a506-44c7070ebe78 = { name = "Nabla", path = "N/Nabla" }
 49d1aae2-ae6b-5d26-a063-7cf6630cf99c = { name = "ApproximateComputations", path = "A/ApproximateComputations" }
 49d1be55-416f-4ec4-9ddf-53cbbcddc063 = { name = "CRRao", path = "C/CRRao" }
+49d7a207-2b26-4c4c-b0e9-253fdb5aa2df = { name = "WriteTFW", path = "W/WriteTFW" }
 49dc2e85-a5d0-5ad3-a950-438e2897f1b9 = { name = "Calculus", path = "C/Calculus" }
 49dc5b4e-6806-4504-b2cc-a81764e7a38b = { name = "KernelDensitySJ", path = "K/KernelDensitySJ" }
 49dea1ee-f6fa-5aa6-9a11-8816cee7d4b9 = { name = "Nettle", path = "N/Nettle" }
@@ -5719,6 +5721,7 @@ some amount of consideration when choosing package names.
 997772c2-56d0-5ccd-9329-3f55f14e5768 = { name = "YASM_jll", path = "jll/Y/YASM_jll" }
 9977cdcb-3521-4027-9f3f-3caff6505f42 = { name = "BackgroundSubtraction", path = "B/BackgroundSubtraction" }
 997ab1e6-3595-5248-9280-8efb232c3433 = { name = "DocumenterMarkdown", path = "D/DocumenterMarkdown" }
+998763c9-5807-4081-8b95-f32419d2af94 = { name = "TinnitusReconstructor", path = "T/TinnitusReconstructor" }
 99985d1d-32ba-4be9-9821-2ec096f28918 = { name = "AbstractGPs", path = "A/AbstractGPs" }
 999f2bd7-36bf-5ba7-9bc1-c9473aa75374 = { name = "UnitfulMoles", path = "U/UnitfulMoles" }
 99c076f5-c00e-46eb-a0bd-7ba31777c146 = { name = "ERA5Reanalysis", path = "E/ERA5Reanalysis" }
@@ -6190,6 +6193,7 @@ a5f39ad1-fb6e-5f16-afbb-4d8233a49418 = { name = "MemoryMutate", path = "M/Memory
 a5ff1dd3-4e0a-50db-9022-6d011c1d5846 = { name = "SparsityOperators", path = "S/SparsityOperators" }
 a6021bc5-2e08-4bec-afaa-bd1873282c9a = { name = "AnyAscii", path = "A/AnyAscii" }
 a603d957-0e48-4f86-8fbd-0b7bc66df689 = { name = "CanonicalTraits", path = "C/CanonicalTraits" }
+a606033f-14ee-4438-ae87-3b404a2b735d = { name = "DiskBackedDicts", path = "D/DiskBackedDicts" }
 a6151927-a32b-54c0-bc8c-bbd7b3f1a996 = { name = "rocRAND_jll", path = "jll/R/rocRAND_jll" }
 a61b6c3d-25e5-5e83-9f29-3d6b98db101c = { name = "hyper_jll", path = "jll/H/hyper_jll" }
 a620830f-fdd7-5ebc-8d26-3621ab35fbfe = { name = "VCFTools", path = "V/VCFTools" }
@@ -7540,6 +7544,7 @@ c8c7ead4-852c-491e-a42d-3d43bc74259e = { name = "SeparableFunctions", path = "S/
 c8c83da1-e5f9-4e2c-a857-b8617bac3554 = { name = "Parallelism", path = "P/Parallelism" }
 c8ce9da6-5d36-5c03-b118-5a70151be7bc = { name = "IntelVectorMath", path = "I/IntelVectorMath" }
 c8d8bbfa-f476-4995-adff-2987f04015d1 = { name = "ClusterDepth", path = "C/ClusterDepth" }
+c8d9fdc7-1808-4fba-8c97-f848504396a5 = { name = "StandardizedRestrictedBoltzmannMachines", path = "S/StandardizedRestrictedBoltzmannMachines" }
 c8e18afb-d0b9-4a73-9e55-d0fe0b502904 = { name = "CitableCorpusAnalysis", path = "C/CitableCorpusAnalysis" }
 c8e1da08-722c-5040-9ed9-7db0dc04731e = { name = "IterTools", path = "I/IterTools" }
 c8ec2601-a99c-407f-b158-e79c03c2f5f7 = { name = "H5Zblosc", path = "H/H5Zblosc" }
