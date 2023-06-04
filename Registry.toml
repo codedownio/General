@@ -5707,6 +5707,7 @@ some amount of consideration when choosing package names.
 98f080ec-61e2-11eb-1c7b-31ea1097256f = { name = "ParetoSmoothedImportanceSampling", path = "P/ParetoSmoothedImportanceSampling" }
 98f94333-fa9f-48a9-ad80-1c66397b2b38 = { name = "Tensorial", path = "T/Tensorial" }
 9901752a-13b3-47c7-8fb4-ce17182539d9 = { name = "Ai4EComponentLib", path = "A/Ai4EComponentLib" }
+9907b50f-aa68-471e-a8e7-09e46bc3166c = { name = "LimitOfDetection", path = "L/LimitOfDetection" }
 9916bc9e-ef43-57a6-9be0-2f3f923f8145 = { name = "PRIMME_jll", path = "jll/P/PRIMME_jll" }
 9919d111-45a3-4056-8d55-3f6c887b9b09 = { name = "IDSGraphs", path = "I/IDSGraphs" }
 9920abf5-d2d3-40c3-98dc-d6c533a1aad6 = { name = "BumpFuncs", path = "B/BumpFuncs" }
@@ -6349,6 +6350,7 @@ a9a3c162-d163-4c15-8926-b8794fbefed2 = { name = "SparseArrayKit", path = "S/Spar
 a9ab73d0-e05c-5df1-8fde-d6a4645b8d8e = { name = "BatchedRoutines", path = "B/BatchedRoutines" }
 a9b2a840-c9d5-5181-a245-8df664c2d6e7 = { name = "Complementarity", path = "C/Complementarity" }
 a9b6321e-bd34-4604-b9c9-b65b8de01458 = { name = "Atomix", path = "A/Atomix" }
+a9b75987-8b2a-4819-9442-b884e853de6b = { name = "PearsonCorrelationMatch", path = "P/PearsonCorrelationMatch" }
 a9c6e4b1-b2fb-56d5-96a9-25f276f13840 = { name = "Qt5Tools_jll", path = "jll/Q/Qt5Tools_jll" }
 a9c8d775-2e2e-55fc-8582-045d282d599e = { name = "CPUTime", path = "C/CPUTime" }
 a9cf478a-2615-4838-ad15-fb8b30e5064d = { name = "QuadOsc", path = "Q/QuadOsc" }
@@ -7367,6 +7369,7 @@ c43c736e-a2d1-11e8-161f-af95117fbd1e = { name = "Genie", path = "G/Genie" }
 c43cd20a-c1d7-421d-b487-d45f18ab5186 = { name = "CategoricalMonteCarlo", path = "C/CategoricalMonteCarlo" }
 c442aa85-5626-4e74-944d-fad50fba57b5 = { name = "AdditiveCellCom", path = "A/AdditiveCellCom" }
 c4497e51-e72c-4304-bf71-922071a3f507 = { name = "IterativeNelderMead", path = "I/IterativeNelderMead" }
+c4555495-0e8d-488d-8e6a-965ecefe9055 = { name = "WaveguideQED", path = "W/WaveguideQED" }
 c45979d0-65bc-461f-b799-33f894c17e9f = { name = "AgnosticBayesEnsemble", path = "A/AgnosticBayesEnsemble" }
 c45eb73e-4025-11e9-27c7-23913323ccd5 = { name = "PartedArrays", path = "P/PartedArrays" }
 c45f814d-238a-4fdc-b3d7-673e55950ac7 = { name = "Causal", path = "C/Causal" }
@@ -9070,6 +9073,7 @@ f381a237-32a7-4d50-aa1c-abe0b395ff12 = { name = "SystemStats", path = "S/SystemS
 f3857b5d-3a50-4050-98ae-54c465879683 = { name = "Lexicographic", path = "L/Lexicographic" }
 f387465c-e20c-5ab1-9210-5d86af51062a = { name = "EquilibriumMeasures", path = "E/EquilibriumMeasures" }
 f38cd097-35c0-4a4d-abf7-36f5cb14a6cb = { name = "ScoredTests", path = "S/ScoredTests" }
+f391c746-b838-4748-bbb5-9885c75b726e = { name = "NewlineLexers", path = "N/NewlineLexers" }
 f391fee2-5786-5cc9-9662-0e362ec949e2 = { name = "SuperLU_jll", path = "jll/S/SuperLU_jll" }
 f39326b1-4895-4d66-8554-3d921b72def4 = { name = "Indicomb", path = "I/Indicomb" }
 f39d504a-8e86-5d7d-9b06-c60674885a6f = { name = "MemoryBasedCF", path = "M/MemoryBasedCF" }
@@ -9216,6 +9220,7 @@ f6a0035f-c5ac-4ad0-b410-ad102ced35df = { name = "DistributedData", path = "D/Dis
 f6adb021-9183-4f40-84dc-8cea6f651bb0 = { name = "ClimateModels", path = "C/ClimateModels" }
 f6c18a9d-8941-4a0a-88a3-c5fc4dcc4715 = { name = "StructuresKit", path = "S/StructuresKit" }
 f6ca3df5-1ae7-521a-b96b-cb83f57f3f1f = { name = "JasPer_jll", path = "jll/J/JasPer_jll" }
+f6d04670-764e-495b-a720-91c3c9a588ff = { name = "SlimPlotting", path = "S/SlimPlotting" }
 f6d13b3e-c4dc-4f43-9d3d-672a47390f59 = { name = "DifferentiableBackwardEuler", path = "D/DifferentiableBackwardEuler" }
 f6d8bcc6-4e01-5431-93c4-9d6004abab90 = { name = "RingBuffers", path = "R/RingBuffers" }
 f6dda52a-86e9-4b50-afb7-f39836a99446 = { name = "MPIMagneticFields", path = "M/MPIMagneticFields" }
