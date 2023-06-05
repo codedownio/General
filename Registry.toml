@@ -2205,6 +2205,7 @@ some amount of consideration when choosing package names.
 398c52f8-e6e0-45bd-bf73-2340696b0a8e = { name = "DeepCompartmentModels", path = "D/DeepCompartmentModels" }
 398de629-0a17-50a6-9837-8b3a70a53854 = { name = "boostpython_jll", path = "jll/B/boostpython_jll" }
 398f06c4-4d28-53ec-89ca-5b2656b7603d = { name = "AbstractLattices", path = "A/AbstractLattices" }
+39a08dd0-b4b7-4086-afbb-eb1796240846 = { name = "ProductArrays", path = "P/ProductArrays" }
 39abe10b-433b-5dbd-92d4-e302a9df00cd = { name = "MySQL", path = "M/MySQL" }
 39bcc72a-2642-51fe-8404-ebe33c8ec443 = { name = "LarSurf", path = "L/LarSurf" }
 39d38320-a18c-5735-a4f5-135970cd79b8 = { name = "CloudGraphs", path = "C/CloudGraphs" }
@@ -2800,6 +2801,7 @@ some amount of consideration when choosing package names.
 49dea1ee-f6fa-5aa6-9a11-8816cee7d4b9 = { name = "Nettle", path = "N/Nettle" }
 49f4e9a8-0306-5d58-91df-e9c3c0e42747 = { name = "AprilTags_jll", path = "jll/A/AprilTags_jll" }
 49fe2e30-ebaf-52e2-a844-d04adb473700 = { name = "NL2sol_jll", path = "jll/N/NL2sol_jll" }
+49ffb959-a01e-48ce-b0f8-35f9b0bd11b7 = { name = "Sysexits", path = "S/Sysexits" }
 4a03a35a-a24b-4d57-b425-13a263c27574 = { name = "Assets", path = "A/Assets" }
 4a05ff16-5f95-55f4-bb53-bb3f467c689a = { name = "Hadamard", path = "H/Hadamard" }
 4a0b20f9-fc5a-4814-8f96-b33a141a51c8 = { name = "NeuralDynamics", path = "N/NeuralDynamics" }
@@ -8616,6 +8618,7 @@ e575027e-6cd6-5018-9292-cdc6200d2b44 = { name = "ReinforcementLearningBase", pat
 e57cb7e2-dadc-4589-8217-6f26b584a9fb = { name = "ScikitSpatial", path = "S/ScikitSpatial" }
 e58298cb-69f7-4186-aecd-5834b6793426 = { name = "Ipaper", path = "I/Ipaper" }
 e584fc4d-3f36-46f9-b493-fafa6061fac8 = { name = "MongocUtils", path = "M/MongocUtils" }
+e586a49d-aa29-4ce5-8f91-fa4f824367bd = { name = "ElasticsearchClient", path = "E/ElasticsearchClient" }
 e595aebf-dd45-48e4-a6c3-f40ecff26dc3 = { name = "PathWeightSampling", path = "P/PathWeightSampling" }
 e59a39ae-ffc4-11ea-35a5-2b2996f35250 = { name = "Relief", path = "R/Relief" }
 e59f0261-166d-4fee-8bf3-5e50457de5db = { name = "FletcherPenaltySolver", path = "F/FletcherPenaltySolver" }
