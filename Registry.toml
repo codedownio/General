@@ -1716,6 +1716,7 @@ some amount of consideration when choosing package names.
 2cd74e05-b976-4426-91fa-5f1011f8952b = { name = "LibCEED", path = "L/LibCEED" }
 2cd9c1d6-d267-5370-983e-0bc605925cae = { name = "LocalDiskObjectStores", path = "L/LocalDiskObjectStores" }
 2ce0c516-f11f-5db3-98ad-e0e1048fbd70 = { name = "MPC_jll", path = "jll/M/MPC_jll" }
+2cf8c267-6e70-4ce4-bd8d-41913dbccd90 = { name = "QuadraticModelsXpress", path = "Q/QuadraticModelsXpress" }
 2d06aeeb-b05a-4dff-b7c9-38070db02149 = { name = "Hymod", path = "H/Hymod" }
 2d09df54-9d0f-5258-8220-54c2a3d4fbee = { name = "StatisticalRethinking", path = "S/StatisticalRethinking" }
 2d0ec36b-e807-5756-994b-45af29551fcf = { name = "OMETIFF", path = "O/OMETIFF" }
@@ -6627,6 +6628,7 @@ b0bd82bd-0fcb-530b-8c5b-e45de9021bf5 = { name = "DarkSky", path = "D/DarkSky" }
 b0c8ea40-1aeb-11ea-0927-b51424bf2dfe = { name = "StringParserPEG", path = "S/StringParserPEG" }
 b0d11df0-eea3-4d79-b4a5-421488cbf74b = { name = "Quantikz", path = "Q/Quantikz" }
 b0d46f97-bff5-4637-a19a-dd75974142cd = { name = "ArrayInterfaceStaticArrays", path = "A/ArrayInterfaceStaticArrays" }
+b0d9cada-d963-45e9-a4c6-4746243987f1 = { name = "PsychometricsBazaarBase", path = "P/PsychometricsBazaarBase" }
 b0deb0af-2db1-47da-a519-30ec34a965f8 = { name = "GaussianMixtureRegressions", path = "G/GaussianMixtureRegressions" }
 b0df9959-3f7b-4e37-9fbf-63cb195e8303 = { name = "Faust", path = "F/Faust" }
 b0e4dd01-7b14-53d8-9b45-175a3e362653 = { name = "RollingFunctions", path = "R/RollingFunctions" }
@@ -7539,6 +7541,7 @@ c889285c-44aa-4473-b1e1-56f5d4e3ccf5 = { name = "Phylopic", path = "P/Phylopic" 
 c88a4935-d25e-5644-aacc-5db6f1b8ef79 = { name = "obstack_jll", path = "jll/O/obstack_jll" }
 c88b6f0a-829e-4b0b-94b7-f06ab5908f5a = { name = "BridgeStan", path = "B/BridgeStan" }
 c894b116-72e5-5b58-be3c-e6d8d4ac2b12 = { name = "DiffEqJump", path = "D/DiffEqJump" }
+c89f0602-94c8-4e2b-b3c3-1de2a02037a7 = { name = "JSONTools", path = "J/JSONTools" }
 c8ab78b9-851b-475e-9620-ae22bd4bbd17 = { name = "AutoregressiveModels", path = "A/AutoregressiveModels" }
 c8ae51e6-ca1b-5cf7-8aa4-ff5973bfb1e4 = { name = "gperftools_jll", path = "jll/G/gperftools_jll" }
 c8b112a7-7677-4d35-8651-7c5b5cba290e = { name = "Ekztazy", path = "E/Ekztazy" }
@@ -8834,6 +8837,7 @@ eb89d173-8f78-57a0-9e6e-c2e8c44a5e61 = { name = "Packmol_jll", path = "jll/P/Pac
 eb8b94b2-5e6e-4467-a0a4-aef532806662 = { name = "SmartML", path = "S/SmartML" }
 eb928a42-fffd-568d-ab9c-3f5d54fc65b9 = { name = "prrte_jll", path = "jll/P/prrte_jll" }
 eb9b09e8-e158-48db-9998-d0f1810f0d04 = { name = "LibModbus", path = "L/LibModbus" }
+eb9bf01b-bf85-4b60-bf87-ee5de06c00be = { name = "FastDifferentiation", path = "F/FastDifferentiation" }
 eba0fb4b-2daf-4740-90d2-e5655143e0a0 = { name = "Falcons", path = "F/Falcons" }
 ebadf6b4-db70-5817-83da-4a19ad584e34 = { name = "UnicodeGraphics", path = "U/UnicodeGraphics" }
 ebaf19f5-aa55-568f-9bb2-d6722dad893b = { name = "MTH229", path = "M/MTH229" }
@@ -8990,6 +8994,7 @@ f09397d6-3230-428f-8b46-6217caaab93c = { name = "RecordArrays", path = "R/Record
 f0974a9f-ffa1-426c-82c3-eb116e824257 = { name = "CyclicalEncoding", path = "C/CyclicalEncoding" }
 f09e9e23-9010-5c9e-b679-9f1d8f79b85c = { name = "Couenne_jll", path = "jll/C/Couenne_jll" }
 f0b0d551-e269-4cb7-becc-9ac892c06888 = { name = "TreeViewWidget", path = "T/TreeViewWidget" }
+f0c3360a-fb8d-11e9-1194-5521fd7ee392 = { name = "MarginalLogDensities", path = "M/MarginalLogDensities" }
 f0c3f387-4ff6-435f-9d63-77e28b8d1347 = { name = "LibDLF", path = "L/LibDLF" }
 f0d1745a-41c9-11e9-1dd9-e5d34d218721 = { name = "HalfIntegers", path = "H/HalfIntegers" }
 f0e56b4a-5159-44fe-b623-3e5288b988bb = { name = "ConcurrentUtilities", path = "C/ConcurrentUtilities" }
@@ -9427,6 +9432,7 @@ fcca1770-266e-4af5-8612-876362e279e9 = { name = "ScTenifold", path = "S/ScTenifo
 fcd1aa73-243d-5665-acf3-2a5a4322c7a8 = { name = "Soup3_jll", path = "jll/S/Soup3_jll" }
 fcd2136c-9f69-4db6-97e5-f31981721d63 = { name = "DiskArrayTools", path = "D/DiskArrayTools" }
 fcd29c91-0bd7-5a09-975d-7ac3f643a60c = { name = "QuantEcon", path = "Q/QuantEcon" }
+fcdc8f60-d396-456b-adf3-1a67625f7fcb = { name = "MiniObserve", path = "M/MiniObserve" }
 fce17d29-6d86-5006-bee5-0f8b6f52dd81 = { name = "BotCoreLCMTypes", path = "B/BotCoreLCMTypes" }
 fce5fe82-541a-59a6-adf8-730c64b5f9a0 = { name = "Turing", path = "T/Turing" }
 fcefd6c4-8de0-11e9-0d15-03bc7c8ec982 = { name = "LambdaFn", path = "L/LambdaFn" }
