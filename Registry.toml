@@ -283,6 +283,7 @@ some amount of consideration when choosing package names.
 06eadbd4-12ad-4cbc-ab6e-10f8370940a5 = { name = "SparsityTracing", path = "S/SparsityTracing" }
 06eb3307-b2af-5a2a-abea-d33192699d32 = { name = "ManifoldLearning", path = "M/ManifoldLearning" }
 06ed14b1-0e40-4084-abdf-764a285f8c42 = { name = "Devito", path = "D/Devito" }
+06fc5a27-2a28-4c7c-a15d-362465fb6821 = { name = "DynamicQuantities", path = "D/DynamicQuantities" }
 0703355e-b756-11e9-17c0-8b28908087d0 = { name = "DimensionalData", path = "D/DimensionalData" }
 070ba913-1d04-4147-8b30-d43c8af0fb3e = { name = "GrafCSV", path = "G/GrafCSV" }
 070d9d8b-17a7-5814-83fa-42438ba5c6e0 = { name = "Diana", path = "D/Diana" }
@@ -5230,6 +5231,7 @@ some amount of consideration when choosing package names.
 8a731c18-cfb7-4915-927e-cc26b56b67cd = { name = "IndexedGraphs", path = "I/IndexedGraphs" }
 8a7b9de3-9c00-473e-88b4-7eccd7ef2fea = { name = "CDSAPI", path = "C/CDSAPI" }
 8a7bcfce-81ee-5a07-a07c-c8520ac69669 = { name = "SuiteSparse_LBT_jll", path = "jll/S/SuiteSparse_LBT_jll" }
+8a7d223a-a7dc-4abf-8bc1-b0ce2ace9adc = { name = "ExpandNestedData", path = "E/ExpandNestedData" }
 8a7e9035-3e12-4286-9ab6-425b4286d857 = { name = "TropicalYao", path = "T/TropicalYao" }
 8a806948-229a-4117-b79b-c12ac366026f = { name = "SPHtoGrid", path = "S/SPHtoGrid" }
 8a8a931e-bb7e-411d-b5ad-3690531b5574 = { name = "WaveOperators", path = "W/WaveOperators" }
@@ -5980,6 +5982,7 @@ some amount of consideration when choosing package names.
 a00367d1-88f1-52c5-9c6b-193aa5f849e1 = { name = "ERFA_jll", path = "jll/E/ERFA_jll" }
 a0053b83-2858-41a9-bfb0-1030075bb8f6 = { name = "NEFTInterface", path = "N/NEFTInterface" }
 a00861dc-f156-4864-bf3c-e6376f28a68d = { name = "NNlibCUDA", path = "N/NNlibCUDA" }
+a011ac08-54e6-4ec3-ad1c-4165f16ac4ce = { name = "PlutoUIExtra", path = "P/PlutoUIExtra" }
 a018b980-0677-41c0-b9a4-7f34595c2b14 = { name = "NASAPrecipitation", path = "N/NASAPrecipitation" }
 a01a1ee8-cea4-48fc-987c-fc7878d79da1 = { name = "RRTMGP", path = "R/RRTMGP" }
 a023d85a-3a31-486e-88e8-289a01a8187b = { name = "MarketRisk", path = "M/MarketRisk" }
@@ -6348,6 +6351,7 @@ a93abf59-7444-517b-a68a-c42f96afdd7d = { name = "POMDPs", path = "P/POMDPs" }
 a93c6f00-e57d-5684-b7b6-d8193f3e46c0 = { name = "DataFrames", path = "D/DataFrames" }
 a9453432-0461-11e9-1276-9b1ac3d3d0c6 = { name = "SpectralClustering", path = "S/SpectralClustering" }
 a945a9ba-879e-550e-aa45-2a4d52798e91 = { name = "WordNet", path = "W/WordNet" }
+a9523b4b-60f2-4b05-86a8-33bf953359c5 = { name = "YOLOv7", path = "Y/YOLOv7" }
 a95e085e-b118-4c2b-a00a-78cb3dcd4dd8 = { name = "VTTrac", path = "V/VTTrac" }
 a963bdd2-2df7-4f54-a1ee-49d51e6be12a = { name = "AtomsBase", path = "A/AtomsBase" }
 a9676066-08b1-4647-a3cf-89b449beb4d6 = { name = "FlipPA", path = "F/FlipPA" }
@@ -8676,6 +8680,7 @@ e670a858-c023-4621-870e-30d0f49b8322 = { name = "PopGenSims", path = "P/PopGenSi
 e6723b4c-ebff-59f1-b4b7-d97aa5274f73 = { name = "Meshing", path = "M/Meshing" }
 e67a2193-b68a-469d-be77-24baf3975c82 = { name = "ApproximateVI", path = "A/ApproximateVI" }
 e67e5439-1494-44b2-b9ab-d191a16377ec = { name = "Discord", path = "D/Discord" }
+e67f3e0e-e319-4e6a-90db-462f780913e2 = { name = "ViconUDP", path = "V/ViconUDP" }
 e689c965-62c8-4b79-b2c5-8359227902fd = { name = "Tracy", path = "T/Tracy" }
 e69011f5-f054-4fb1-b078-ffdea733e4f7 = { name = "Mikrubi", path = "M/Mikrubi" }
 e690365d-45e2-57bb-ac84-44ba829e73c4 = { name = "PowerSimulations", path = "P/PowerSimulations" }
