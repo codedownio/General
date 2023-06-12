@@ -1404,6 +1404,7 @@ some amount of consideration when choosing package names.
 249dbc79-71b0-5013-a2f7-d158f2044670 = { name = "PMC_jll", path = "jll/P/PMC_jll" }
 24b76ae0-009b-4410-993f-7a05b90d7239 = { name = "RateLimiter", path = "R/RateLimiter" }
 24c2b838-1c8b-4567-aca0-d45e60436bb9 = { name = "JSONLines", path = "J/JSONLines" }
+24d19c10-6eee-420f-95df-4537264b2753 = { name = "OpenMDAOCore", path = "O/OpenMDAOCore" }
 24d252fe-5d94-4a69-83ea-56a14333d47a = { name = "ThreadedScans", path = "T/ThreadedScans" }
 24d538e7-85d5-470c-a2b3-0f8eb58e3203 = { name = "HydroRefStations", path = "H/HydroRefStations" }
 24ddb15e-299a-5cc3-8414-dbddc482d9ca = { name = "TransmuteDims", path = "T/TransmuteDims" }
@@ -2310,6 +2311,7 @@ some amount of consideration when choosing package names.
 3c43aa7b-5398-51f3-8d75-8f051e6faa4d = { name = "algoimWrapper_jll", path = "jll/A/algoimWrapper_jll" }
 3c44080d-357b-4062-ad7b-6cab49ad4f79 = { name = "Hodge", path = "H/Hodge" }
 3c485715-4278-42b2-9b5f-8f00e43c12ef = { name = "PythonOT", path = "P/PythonOT" }
+3c499bf4-8795-40ff-83c0-5639be88f347 = { name = "RIrtWrappers", path = "R/RIrtWrappers" }
 3c6ae550-c37b-5556-a07e-d40b4910cf1c = { name = "CLIME_jll", path = "jll/C/CLIME_jll" }
 3c6b6a22-b11f-44c2-accc-f87d49953a21 = { name = "GrayCode", path = "G/GrayCode" }
 3c6eccdf-2a89-4c24-a1d4-ff210daa8476 = { name = "SingleCrystal", path = "S/SingleCrystal" }
@@ -4143,6 +4145,7 @@ some amount of consideration when choosing package names.
 6e0679c1-51ea-5a7c-ac74-d61b76210b0c = { name = "QuantumOptics", path = "Q/QuantumOptics" }
 6e0fd8a8-0703-4e38-9954-b94da054c472 = { name = "PQEcolaPoint", path = "P/PQEcolaPoint" }
 6e11effc-327b-571d-98e3-e12b1d1e7421 = { name = "GAP_pkg_ace_jll", path = "jll/G/GAP_pkg_ace_jll" }
+6e1301d5-4f4d-4fb5-9679-7191e22f0e0e = { name = "AutoDiffOperators", path = "A/AutoDiffOperators" }
 6e209a40-7ba7-48e5-b07c-698d71ff5940 = { name = "AnimalBehavior", path = "A/AnimalBehavior" }
 6e3341f8-3a0d-4582-a093-9d6e6d36caf8 = { name = "StressTest", path = "S/StressTest" }
 6e34b625-4abd-537c-b88f-471c36dfa7a0 = { name = "Bzip2_jll", path = "jll/B/Bzip2_jll" }
@@ -6186,6 +6189,7 @@ a526e669-04d3-4846-9525-c66122c55f63 = { name = "TimespanLogging", path = "T/Tim
 a52b955f-5256-5bb0-8795-313e28591558 = { name = "cbindgen_jll", path = "jll/C/cbindgen_jll" }
 a52d4850-34f0-40c4-bafd-3adb601f862f = { name = "FastLocalCorrelationCoefficients", path = "F/FastLocalCorrelationCoefficients" }
 a53098ac-c15a-4696-bee0-14caaca04665 = { name = "QuadraticModelsCPLEX", path = "Q/QuadraticModelsCPLEX" }
+a535b82e-5f3d-4d97-8b0b-d6483f5bebd5 = { name = "CryoGrid", path = "C/CryoGrid" }
 a5390f91-8eb1-5f08-bee0-b1d1ffed6cea = { name = "ZipFile", path = "Z/ZipFile" }
 a545de4d-8dba-46db-9d34-4e41d3f07807 = { name = "StanLogDensityProblems", path = "S/StanLogDensityProblems" }
 a5566ce3-012c-4b09-85b8-62131f0c3f36 = { name = "REPLHistory", path = "R/REPLHistory" }
@@ -8100,6 +8104,7 @@ d720cf60-89b5-51f5-aff5-213f193123e7 = { name = "Polymake", path = "P/Polymake" 
 d721219e-3fc6-5570-a8ef-e5402f47c49e = { name = "BasicPOMCP", path = "B/BasicPOMCP" }
 d7252348-293e-4f11-8d42-c8418dda4315 = { name = "JustSayIt", path = "J/JustSayIt" }
 d72a61cc-809d-412f-99be-fd81f4b8a598 = { name = "MadNLPGPU", path = "M/MadNLPGPU" }
+d730a6b3-54e8-5a61-8821-996059275344 = { name = "protobuf_c_jll", path = "jll/P/protobuf_c_jll" }
 d7326954-f021-11ed-2a08-d10e464848f1 = { name = "CalculustCore", path = "C/CalculustCore" }
 d73ed964-a3ff-4a3d-ad09-d195fe0d0b35 = { name = "MimiSSPs", path = "M/MimiSSPs" }
 d7431456-977f-11e9-2de3-97ff7677985e = { name = "PowerModelsDistribution", path = "P/PowerModelsDistribution" }
@@ -8851,6 +8856,7 @@ eb66a70c-a255-11e9-03ea-7ba6b2f22006 = { name = "TreeParzen", path = "T/TreeParz
 eb74ef6d-f479-4c54-be43-bc7ae9988d2f = { name = "DarkCurves", path = "D/DarkCurves" }
 eb7571c6-2196-4f03-99b8-52a5a35b3163 = { name = "SearchSpaces", path = "S/SearchSpaces" }
 eb7db99b-64ae-4b81-85c2-3439b6569b78 = { name = "Ranges", path = "R/Ranges" }
+eb87d800-f8b7-11ed-3652-a7ab94e0ce49 = { name = "BiochemNetABC", path = "B/BiochemNetABC" }
 eb89d173-8f78-57a0-9e6e-c2e8c44a5e61 = { name = "Packmol_jll", path = "jll/P/Packmol_jll" }
 eb8b94b2-5e6e-4467-a0a4-aef532806662 = { name = "SmartML", path = "S/SmartML" }
 eb928a42-fffd-568d-ab9c-3f5d54fc65b9 = { name = "prrte_jll", path = "jll/P/prrte_jll" }
