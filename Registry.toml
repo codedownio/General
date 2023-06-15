@@ -2083,6 +2083,7 @@ some amount of consideration when choosing package names.
 3639840a-3b65-599e-a5e5-6439523e890e = { name = "RandomV06", path = "R/RandomV06" }
 3646fa90-6ef7-5e7e-9f22-8aca16db6324 = { name = "ScikitLearn", path = "S/ScikitLearn" }
 36492b79-4a51-4dff-89b6-31e03c9a81c2 = { name = "GeoStatsViz", path = "G/GeoStatsViz" }
+36498ab6-316f-4d40-82fe-0951719b46b4 = { name = "FillOutliers", path = "F/FillOutliers" }
 3654c272-9f13-50b0-a4d5-1f2e7e802f45 = { name = "elfshaker_jll", path = "jll/E/elfshaker_jll" }
 366bfd00-2699-11ea-058f-f148b4cae6d8 = { name = "DynamicPPL", path = "D/DynamicPPL" }
 366cf18f-59d5-5db9-a4de-86a9f6786172 = { name = "RigidBodyDynamics", path = "R/RigidBodyDynamics" }
@@ -4194,6 +4195,7 @@ some amount of consideration when choosing package names.
 6f35c628-ac57-5bae-8ea9-703a8964f6e9 = { name = "ComplexMixtures", path = "C/ComplexMixtures" }
 6f49c342-dc21-5d91-9882-a32aef131414 = { name = "RCall", path = "R/RCall" }
 6f584044-cad5-5b68-a429-1e244a824f76 = { name = "StaticUnivariatePolynomials", path = "S/StaticUnivariatePolynomials" }
+6f58c745-96ce-5283-a1a3-a6a4b3939f59 = { name = "libNVVM_jll", path = "jll/L/libNVVM_jll" }
 6f61b460-fd45-461a-bdf7-98edd72e362f = { name = "UnbalancedOptimalTransport", path = "U/UnbalancedOptimalTransport" }
 6f6a334d-9044-495a-bc2b-8b1543872cbf = { name = "HigherOrderNetworks", path = "H/HigherOrderNetworks" }
 6f6f4c20-e954-4c6d-a185-c2fbf890196e = { name = "NestedGraphMakie", path = "N/NestedGraphMakie" }
@@ -5005,6 +5007,7 @@ some amount of consideration when choosing package names.
 84ad2fbc-dacc-5b40-99f5-8db9d02a0a8a = { name = "ffts_jll", path = "jll/F/ffts_jll" }
 84b136a2-8bec-4844-b63d-93659377b41a = { name = "XboxController", path = "X/XboxController" }
 84b91ece-59cc-50c4-8800-6f827c67b7cb = { name = "CAOS", path = "C/CAOS" }
+84ca31d5-effc-45e0-bfda-5a68cd981f47 = { name = "HiddenMarkovModels", path = "H/HiddenMarkovModels" }
 84cdf194-f1a7-4248-80dd-8c89ca764f78 = { name = "EigenShow", path = "E/EigenShow" }
 84d23798-d00f-4e9b-a82e-be69778c030a = { name = "OmegaCore", path = "O/OmegaCore" }
 84d67a5e-1aa2-4817-a501-81e0ebf70bff = { name = "NodeCall", path = "N/NodeCall" }
@@ -7521,6 +7524,7 @@ c77e7b6a-7cf9-58ed-a396-e1da12b05d87 = { name = "CXSparse_jll", path = "jll/C/CX
 c7845625-083e-5bbe-8504-b32d602b7110 = { name = "protoc_jll", path = "jll/P/protoc_jll" }
 c786d6c3-4fbc-59fc-968c-e848efb65d2d = { name = "ScHoLP", path = "S/ScHoLP" }
 c78775a3-ee38-4681-b694-0504db4f5dc7 = { name = "DifferentiableFlatten", path = "D/DifferentiableFlatten" }
+c78c806d-0713-4f4e-8b87-f7023233ea83 = { name = "BaytesOptim", path = "B/BaytesOptim" }
 c7932e45-9af1-51e7-9da9-f004cd3a462b = { name = "AstroLib", path = "A/AstroLib" }
 c79ce38c-73ba-4c3d-834c-fb94999fb590 = { name = "HighFrequencyCovariance", path = "H/HighFrequencyCovariance" }
 c79d492b-0548-5874-b488-5a62c1d9d0ca = { name = "TrajectoryOptimization", path = "T/TrajectoryOptimization" }
