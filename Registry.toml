@@ -3275,6 +3275,7 @@ some amount of consideration when choosing package names.
 570af359-4316-4cb7-8c74-252c00c2016b = { name = "PartialFunctions", path = "P/PartialFunctions" }
 5710b6fb-c5a3-5f8f-93a5-d73c28ee0e84 = { name = "SoapyUHD_jll", path = "jll/S/SoapyUHD_jll" }
 5717a53b-5d69-4fa3-b976-0bf2f97ca1e5 = { name = "QuantumInterface", path = "Q/QuantumInterface" }
+5718ef0a-a30f-426d-bcd9-4cf31dd12909 = { name = "SatelliteToolboxAtmosphericModels", path = "S/SatelliteToolboxAtmosphericModels" }
 5721bf48-af8e-5845-8445-c9e18126e773 = { name = "DataVoyager", path = "D/DataVoyager" }
 5722b1ce-14da-11ed-06c6-d930f2b72c9a = { name = "IdealistaAPIClient", path = "I/IdealistaAPIClient" }
 5732040d-69e3-5649-938a-b6b4f237613f = { name = "DelayEmbeddings", path = "D/DelayEmbeddings" }
@@ -6226,6 +6227,7 @@ a606033f-14ee-4438-ae87-3b404a2b735d = { name = "DiskBackedDicts", path = "D/Dis
 a6151927-a32b-54c0-bc8c-bbd7b3f1a996 = { name = "rocRAND_jll", path = "jll/R/rocRAND_jll" }
 a61b6c3d-25e5-5e83-9f29-3d6b98db101c = { name = "hyper_jll", path = "jll/H/hyper_jll" }
 a620830f-fdd7-5ebc-8d26-3621ab35fbfe = { name = "VCFTools", path = "V/VCFTools" }
+a62dbcb7-80f5-4d31-9a88-8b19fd92b128 = { name = "HierarchicalEOM", path = "H/HierarchicalEOM" }
 a637dc6b-bca1-447e-a4fa-35264c9d0580 = { name = "VersionCheck", path = "V/VersionCheck" }
 a641f28f-8d9e-4160-8071-676a3167f41f = { name = "SMDInterfacesUtils", path = "S/SMDInterfacesUtils" }
 a64e8dd8-bb5a-11ec-104d-290571fc3a8d = { name = "BloqadeSchema", path = "B/BloqadeSchema" }
@@ -6753,6 +6755,7 @@ b36ab563-344f-407b-a36a-4f200bebf99c = { name = "TaylorDiff", path = "T/TaylorDi
 b36d76f3-e888-5fd0-8dd3-e39a55b413c6 = { name = "Steganography", path = "S/Steganography" }
 b3701df6-d9dc-468b-b8b3-43cf0e13d0c8 = { name = "Estapir", path = "E/Estapir" }
 b372bb87-02dd-52bb-bcf6-c30dd83fd342 = { name = "SeisIO", path = "S/SeisIO" }
+b376a22e-6432-4b80-a794-261b95783a4a = { name = "DataDrivenAcoustics", path = "D/DataDrivenAcoustics" }
 b37880e1-55fa-5503-9f1a-f1223ce0b53e = { name = "liblsl_jll", path = "jll/L/liblsl_jll" }
 b3798467-87dc-4d99-943d-35a1bd39e395 = { name = "ConstrainedShortestPaths", path = "C/ConstrainedShortestPaths" }
 b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9 = { name = "LoadAllPackages", path = "L/LoadAllPackages" }
@@ -8551,6 +8554,7 @@ e2fa44a5-09d5-5fa2-a080-aa0766578c8a = { name = "SpatialJackknife", path = "S/Sp
 e30172f5-a6a5-5a46-863b-614d45cd2de4 = { name = "Documenter", path = "D/Documenter" }
 e31a5254-3556-45b0-bb0a-af5ec6251750 = { name = "TKTDsimulations", path = "T/TKTDsimulations" }
 e3267b2b-712d-427e-b03d-2cb43bb92d57 = { name = "KeywordStrings", path = "K/KeywordStrings" }
+e33883a1-8aa8-4e6e-a42d-0daf9e203b40 = { name = "NMEAParser", path = "N/NMEAParser" }
 e339f254-40e1-517e-839f-dc67f1dbd84e = { name = "USRPHardwareDriver_jll", path = "jll/U/USRPHardwareDriver_jll" }
 e33a78d0-f292-5ffc-b300-72abe9b543c8 = { name = "Hwloc_jll", path = "jll/H/Hwloc_jll" }
 e33b2407-87ff-50a0-8b27-f0fe7855237d = { name = "SDPT3", path = "S/SDPT3" }
