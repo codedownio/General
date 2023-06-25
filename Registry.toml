@@ -1280,6 +1280,7 @@ some amount of consideration when choosing package names.
 20fadf95-9e3d-483c-97cd-cab2760e7998 = { name = "StaticVectors", path = "S/StaticVectors" }
 20febd7b-183b-5ae2-ac4a-720e7ce64774 = { name = "Retry", path = "R/Retry" }
 210123e1-2ab9-5e3e-92f0-8698273d9eb6 = { name = "libtree_jll", path = "jll/L/libtree_jll" }
+210d8ceb-62d9-4e79-bbbd-4c6870635f0a = { name = "Biofilm", path = "B/Biofilm" }
 21141c5a-9bdb-4563-92ae-f87d6854732e = { name = "AMDGPU", path = "A/AMDGPU" }
 2119f1ac-fb78-50f5-8cc0-dda848ebdb19 = { name = "AssociatedLegendrePolynomials", path = "A/AssociatedLegendrePolynomials" }
 21216c6a-2e73-6563-6e65-726566657250 = { name = "Preferences", path = "P/Preferences" }
@@ -6422,6 +6423,7 @@ aa819f21-2bde-4658-8897-bab36330d9b7 = { name = "CompatHelper", path = "C/Compat
 aa8a2aa5-91d8-4396-bcef-d4f2ec43552d = { name = "EnsembleKalmanProcesses", path = "E/EnsembleKalmanProcesses" }
 aa8e78f4-663f-4ce1-b829-204476f23beb = { name = "BSONify", path = "B/BSONify" }
 aa959544-2f3b-44d5-8079-5ba914f22dbb = { name = "SAMaDB", path = "S/SAMaDB" }
+aa99b8ca-138a-5374-9557-0d35fbf901d4 = { name = "DataEcon_jll", path = "jll/D/DataEcon_jll" }
 aaaa29a8-35af-508c-8bc3-b662a17a0fe5 = { name = "Clustering", path = "C/Clustering" }
 aaaaaaaa-4a10-5553-b683-e707b00e83ce = { name = "DynamicAxisWarping", path = "D/DynamicAxisWarping" }
 aaaaaaaa-a6ca-5380-bf3e-84a91bcd477e = { name = "ControlSystemsBase", path = "C/ControlSystemsBase" }
@@ -7337,6 +7339,7 @@ c2604015-7b3d-4a30-8a26-9074551ec60a = { name = "KnuthBendix", path = "K/KnuthBe
 c268e415-724e-5440-8745-890f0ae6d2bf = { name = "KelvinletsImage", path = "K/KelvinletsImage" }
 c27321d9-0574-5035-807b-f59d2c89b15c = { name = "Glob", path = "G/Glob" }
 c279aad7-7dc9-58d3-995b-109d3f5deb94 = { name = "PowerSystemsUnits", path = "P/PowerSystemsUnits" }
+c27b174a-794e-4afe-9da0-66d3b10781c5 = { name = "MaterialDecomposition", path = "M/MaterialDecomposition" }
 c28080c6-85c9-4c53-b771-a8cba179d15c = { name = "IntegratedOptics", path = "I/IntegratedOptics" }
 c2839fe3-f1de-42fc-897f-c1b0e8db4db6 = { name = "NMRTools", path = "N/NMRTools" }
 c2843242-4f35-58a6-a2a0-7e7527607317 = { name = "Discreet", path = "D/Discreet" }
@@ -7419,6 +7422,7 @@ c43cd20a-c1d7-421d-b487-d45f18ab5186 = { name = "CategoricalMonteCarlo", path = 
 c442aa85-5626-4e74-944d-fad50fba57b5 = { name = "AdditiveCellCom", path = "A/AdditiveCellCom" }
 c4497e51-e72c-4304-bf71-922071a3f507 = { name = "IterativeNelderMead", path = "I/IterativeNelderMead" }
 c4555495-0e8d-488d-8e6a-965ecefe9055 = { name = "WaveguideQED", path = "W/WaveguideQED" }
+c45826ba-8c1e-4a55-8f5e-a4fe57395672 = { name = "MultivariateChebyshev", path = "M/MultivariateChebyshev" }
 c45979d0-65bc-461f-b799-33f894c17e9f = { name = "AgnosticBayesEnsemble", path = "A/AgnosticBayesEnsemble" }
 c45eb73e-4025-11e9-27c7-23913323ccd5 = { name = "PartedArrays", path = "P/PartedArrays" }
 c45f814d-238a-4fdc-b3d7-673e55950ac7 = { name = "Causal", path = "C/Causal" }
@@ -8045,6 +8049,7 @@ d4954a42-a18b-4f81-bb79-24f1192c93d8 = { name = "Sherlogs", path = "S/Sherlogs" 
 d496a93d-167e-4197-9f49-d3af4ff8fe40 = { name = "SeawaterPolynomials", path = "S/SeawaterPolynomials" }
 d4999880-6331-4276-8b7d-7ee1f305cff8 = { name = "QRDecoders", path = "Q/QRDecoders" }
 d49c3b98-12bb-537a-8c40-37c13654c7f4 = { name = "StanRun", path = "S/StanRun" }
+d49dbf32-c5c2-4618-8acc-27bb2598ef2d = { name = "WeightInitializers", path = "W/WeightInitializers" }
 d4bbf60b-102b-5ffb-8f97-a7ea5817e69f = { name = "Acquisition", path = "A/Acquisition" }
 d4cbf8b2-a14f-4080-9f5e-d5a64ada768e = { name = "Pixell", path = "P/Pixell" }
 d4cd8268-698a-43f6-9edf-e88d5ecd117c = { name = "Fread", path = "F/Fread" }
