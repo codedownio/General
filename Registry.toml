@@ -3555,6 +3555,7 @@ some amount of consideration when choosing package names.
 5e0eca46-5516-4b42-8bdb-e2489174fddb = { name = "ChainForth", path = "C/ChainForth" }
 5e113713-6c35-5477-b766-e1109486666f = { name = "GasModels", path = "G/GasModels" }
 5e1d693a-52d4-54aa-90a0-6f94c7384aed = { name = "ModernRoboticsBook", path = "M/ModernRoboticsBook" }
+5e2474f5-3cae-4030-9777-812344505b12 = { name = "ExtendedLaurentPolynomials", path = "E/ExtendedLaurentPolynomials" }
 5e267647-ebb4-5b7d-bc28-1d3eda37ab19 = { name = "DFWannier", path = "D/DFWannier" }
 5e27fcf9-6bac-46ba-8580-b5712f3d6387 = { name = "MLJText", path = "M/MLJText" }
 5e29dd5e-a72c-11e9-2bb7-cd1b1701caa7 = { name = "Mex", path = "M/Mex" }
@@ -6746,6 +6747,7 @@ b247a4be-ddc1-5759-8008-7e02fe3dbdaa = { name = "PARMETIS_jll", path = "jll/P/PA
 b2531deb-9288-45c6-8f4a-0220551da45d = { name = "KitML", path = "K/KitML" }
 b255c96a-a4ac-5b61-a2c4-3db36d36609d = { name = "Hermetic", path = "H/Hermetic" }
 b27032c2-a3e7-50c8-80cd-2d36dbcbfd21 = { name = "LibCURL", path = "L/LibCURL" }
+b276bca3-8be3-40c5-b17b-0eb635c89c3b = { name = "VirtualAgeModels", path = "V/VirtualAgeModels" }
 b27c85e4-d77a-5c9d-b9af-900830bae76b = { name = "MaximumLikelihoodPower", path = "M/MaximumLikelihoodPower" }
 b281dfcc-6b29-5cb9-bd90-7b3b9327bc45 = { name = "rubberband_jll", path = "jll/R/rubberband_jll" }
 b28a226c-6cff-11e9-1336-699fd753ab00 = { name = "Todo", path = "T/Todo" }
@@ -7534,6 +7536,7 @@ c6697862-1611-5eae-9ef8-48803c85c8d6 = { name = "AzStorage", path = "A/AzStorage
 c6703add-1d23-52c6-9943-3ad88652b9b2 = { name = "VTKDataIO", path = "V/VTKDataIO" }
 c69498db-0706-4865-8aa9-71281a0ffe91 = { name = "BasicTextRender", path = "B/BasicTextRender" }
 c69b092c-cabd-51ee-983a-b3d58f6c0ce7 = { name = "scopehal_jll", path = "jll/S/scopehal_jll" }
+c69e25b7-ced4-43d1-bebe-53af10824047 = { name = "SimplePolynomialRing", path = "S/SimplePolynomialRing" }
 c6aefb4f-3ac3-4095-8805-528476b02c02 = { name = "FeatureRegistries", path = "F/FeatureRegistries" }
 c6b3b713-2a2b-4e07-a35c-d57ac4f46186 = { name = "UnsupervisedClustering", path = "U/UnsupervisedClustering" }
 c6bc53e4-e6d8-51d9-af6d-d7969aa08f60 = { name = "Ccache_jll", path = "jll/C/Ccache_jll" }
@@ -8419,6 +8422,7 @@ dec02a44-0573-464b-9dcd-b0da4b5d2d2e = { name = "Hyperparameters", path = "H/Hyp
 dec2e30d-c3e4-4386-8d4a-5e4ccb406543 = { name = "GenieCache", path = "G/GenieCache" }
 dec300e5-7e5b-577b-bc13-c7c11ad250bc = { name = "OnlinePackage", path = "O/OnlinePackage" }
 dec3038e-29bc-11e9-2207-9f3d5855a202 = { name = "TraitSimulation", path = "T/TraitSimulation" }
+ded0fc24-dfea-4565-b1d9-79c027d14d84 = { name = "BVProblemLibrary", path = "B/BVProblemLibrary" }
 dedd4f52-e074-43bf-924d-d6bce14ad628 = { name = "GBIF2", path = "G/GBIF2" }
 dee08c22-ab7f-5625-9660-a9af2021b33f = { name = "RegionTrees", path = "R/RegionTrees" }
 deeba441-a6a4-5e65-99ae-21494d2aa7fd = { name = "openbabel_jll", path = "jll/O/openbabel_jll" }
