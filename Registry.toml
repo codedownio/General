@@ -535,6 +535,7 @@ some amount of consideration when choosing package names.
 0d879ee6-e5ed-4b6f-b65c-f78122b59944 = { name = "DINCAE", path = "D/DINCAE" }
 0d9b3ab0-6bba-4aec-9705-ee0b94608ce2 = { name = "TwoDotsModels", path = "T/TwoDotsModels" }
 0da941aa-91b6-4cc4-98e3-d6ba47d3ded9 = { name = "FlexibleFunctors", path = "F/FlexibleFunctors" }
+0dad4a17-6433-5fde-a0a0-daebbaba7b50 = { name = "ClustalO_jll", path = "jll/C/ClustalO_jll" }
 0dad84c5-d112-42e6-8d28-ef12dabb789f = { name = "ArgTools", path = "A/ArgTools" }
 0dae9b29-4590-421e-953b-e41aa0457150 = { name = "SMLMMetrics", path = "S/SMLMMetrics" }
 0db1332d-5c25-4deb-809f-459bc696f94f = { name = "TuringBenchmarking", path = "T/TuringBenchmarking" }
@@ -1358,6 +1359,7 @@ some amount of consideration when choosing package names.
 22fd7b30-a8c0-5bf2-aabe-97783860d07c = { name = "DirectSum", path = "D/DirectSum" }
 230433e9-56bc-4951-b27a-551e36a437d8 = { name = "GeneralizedSVD", path = "G/GeneralizedSVD" }
 2304d612-645f-44c0-913c-a25a709b015d = { name = "GenLinearAlgebra", path = "G/GenLinearAlgebra" }
+2311f341-5e6d-4941-9e3e-3ce0ae0d9ed6 = { name = "HallThruster", path = "H/HallThruster" }
 231a7ae5-8495-40ed-9891-ff920a14b9bd = { name = "Plugins", path = "P/Plugins" }
 231d3afb-1936-45f0-8367-36f73a875095 = { name = "BurrowsWheelerAligner", path = "B/BurrowsWheelerAligner" }
 233675ba-9426-43ce-b06d-28ea4529d7f1 = { name = "ComradeNested", path = "C/ComradeNested" }
@@ -1510,6 +1512,7 @@ some amount of consideration when choosing package names.
 274281c4-ae57-11e9-2014-65d3d5d9358c = { name = "MIRTio", path = "M/MIRTio" }
 274955c0-c284-5bf7-b122-5ecd51c559de = { name = "MusicManipulations", path = "M/MusicManipulations" }
 2749762c-80ed-4b14-8f33-f0736679b02b = { name = "SparseVariables", path = "S/SparseVariables" }
+274a0f0b-05f4-4024-87ff-de4a5b524b4f = { name = "MacroUtilities", path = "M/MacroUtilities" }
 274fc56d-3b97-40fa-a1cd-1b4a50311bf9 = { name = "PythonPlot", path = "P/PythonPlot" }
 274fe647-06be-54d6-af78-99f37f3755f2 = { name = "CeresSolver_jll", path = "jll/C/CeresSolver_jll" }
 2752694e-a3a0-42bd-9f17-5f3242da1ce6 = { name = "ChebyshevTransforms", path = "C/ChebyshevTransforms" }
@@ -6852,6 +6855,7 @@ b4bd816d-b975-4295-ac05-5f2992945579 = { name = "InducingPoints", path = "I/Indu
 b4c46c6c-4fb0-484d-a11a-41bc3392d094 = { name = "LinuxPerf", path = "L/LinuxPerf" }
 b4cd1eb8-1e24-11e8-3319-93036a3eb9f3 = { name = "ParameterEstimation", path = "P/ParameterEstimation" }
 b4d2a721-a957-46f4-b6b6-f139c9e7db21 = { name = "BATBase", path = "B/BATBase" }
+b4d5b4e8-9a4e-401d-a981-0a2e8ff042be = { name = "TypstGenerator", path = "T/TypstGenerator" }
 b4d66a32-c6c0-5461-b6fa-34bb9cecaf85 = { name = "Schemata", path = "S/Schemata" }
 b4db0fb7-de2a-5028-82bf-5021f5cfa881 = { name = "ReactionNetworkImporters", path = "R/ReactionNetworkImporters" }
 b4defc91-9298-4b41-9db5-a0a0c325fc4f = { name = "EasyRSA", path = "E/EasyRSA" }
@@ -9170,6 +9174,7 @@ f2e1f862-4456-4210-88f5-8c0e866c18bb = { name = "Gateway", path = "G/Gateway" }
 f2e3f4ed-6d30-53f6-bb33-6a6ab454fa9c = { name = "libwatcher_jll", path = "jll/L/libwatcher_jll" }
 f2f2c3a1-78ca-4323-b152-8442c77f9dcc = { name = "SemanticScholar", path = "S/SemanticScholar" }
 f2f44f23-99b2-4d7c-931e-31858dc08d61 = { name = "StellaratorOptimization", path = "S/StellaratorOptimization" }
+f2f4b30c-0e7b-4018-b992-2f46df5706a6 = { name = "MicroTracker", path = "M/MicroTracker" }
 f2f9631b-9a4e-5b48-9975-88f638ec36a7 = { name = "SpeexDSP_jll", path = "jll/S/SpeexDSP_jll" }
 f305370e-dc8e-427a-bb15-d3949eabeccf = { name = "PeriodicGraphEmbeddings", path = "P/PeriodicGraphEmbeddings" }
 f306ff79-ba0f-5c52-9e7c-6e6505f53397 = { name = "UnalignedVectors", path = "U/UnalignedVectors" }
