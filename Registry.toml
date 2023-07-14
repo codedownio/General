@@ -1489,6 +1489,7 @@ some amount of consideration when choosing package names.
 26663084-47d3-540f-bd97-40ca743aafa4 = { name = "PoincareInvariants", path = "P/PoincareInvariants" }
 26694ec9-1e1a-50ce-959e-f72fe0aa84a3 = { name = "PhasedArray", path = "P/PhasedArray" }
 266f59ce-6e72-579c-98bb-27b39b5c037e = { name = "LaTeXTabulars", path = "L/LaTeXTabulars" }
+26736a7f-02bb-45c4-b375-980ff81a7c31 = { name = "ArtifactOverrides", path = "A/ArtifactOverrides" }
 2673d5e8-682c-11e9-2dfd-471b09c6c819 = { name = "Determinantal", path = "D/Determinantal" }
 2679e427-3c69-5b7f-982b-ece356f1e94b = { name = "Metis", path = "M/Metis" }
 268a15bc-5756-47d6-9bea-fa5dc21c97f8 = { name = "AcousticsToolbox", path = "A/AcousticsToolbox" }
@@ -1724,6 +1725,7 @@ some amount of consideration when choosing package names.
 2c92f082-f457-11e9-1715-ebb1b5fff37b = { name = "CapacityExpansionData", path = "C/CapacityExpansionData" }
 2c982244-eb47-11e8-1c11-070084c1fd7d = { name = "EdgeCameras", path = "E/EdgeCameras" }
 2c99449f-f194-5e92-8ff0-13814ff41dcf = { name = "PROPACK_jll", path = "jll/P/PROPACK_jll" }
+2c9a3a5d-4a8d-4ca7-a6c9-04a38836deab = { name = "BlochSimulators", path = "B/BlochSimulators" }
 2ca40811-0e74-4ca9-a2c0-1cd8c267dd5a = { name = "StableHashes", path = "S/StableHashes" }
 2cab0595-8222-4775-b714-9828e6a9e01b = { name = "OptimizationNOMAD", path = "O/OptimizationNOMAD" }
 2cb1610a-c9de-4cc5-9cd8-c4853e5c0aaf = { name = "WrappedR", path = "W/WrappedR" }
@@ -5950,6 +5952,7 @@ some amount of consideration when choosing package names.
 9d649c22-cb6b-11e8-1fa9-f3896fced444 = { name = "BigWig", path = "B/BigWig" }
 9d6c422e-8155-11e9-28dd-5d3b5357240e = { name = "RandomizedProgressiveHedging", path = "R/RandomizedProgressiveHedging" }
 9d710cfd-26d5-4b84-a0a4-2b62d6e9d5fb = { name = "ExactConversions", path = "E/ExactConversions" }
+9d7617aa-e122-4445-bdd0-98866dcb605d = { name = "DirectSearch", path = "D/DirectSearch" }
 9d766032-97e2-11e9-15bd-efb533ad7bdc = { name = "BitcoinPrimitives", path = "B/BitcoinPrimitives" }
 9d84c17e-11f2-50ef-8cc9-e9701362097f = { name = "xrootdgo_jll", path = "jll/X/xrootdgo_jll" }
 9d8b7fda-1049-58bc-9481-071a9f369938 = { name = "SpikingNeuralNetworks", path = "S/SpikingNeuralNetworks" }
@@ -7392,6 +7395,7 @@ c22f9ab0-d5fe-5066-847c-f4bb1cd4e361 = { name = "Xorg_xcb_util_wm_jll", path = "
 c2308a5c-f048-11e8-3e8a-31650f418d12 = { name = "FASTX", path = "F/FASTX" }
 c2416e8a-86ea-414a-9a91-c37c770c1547 = { name = "BayesFlux", path = "B/BayesFlux" }
 c24d529b-c83e-40e0-9fc3-05832c05a0ba = { name = "TeeStreams", path = "T/TeeStreams" }
+c24f3079-adb7-4533-8329-9f66732e5e85 = { name = "DomainColoring", path = "D/DomainColoring" }
 c257ce95-4918-4279-a47c-50fdbcb74a04 = { name = "ConstrainedSystems", path = "C/ConstrainedSystems" }
 c2604015-7b3d-4a30-8a26-9074551ec60a = { name = "KnuthBendix", path = "K/KnuthBendix" }
 c268e415-724e-5440-8745-890f0ae6d2bf = { name = "KelvinletsImage", path = "K/KelvinletsImage" }
@@ -7455,6 +7459,7 @@ c389a1a6-a4ad-11e9-3760-17d115de83c0 = { name = "DotTestSets", path = "D/DotTest
 c3a54625-cd67-489e-a8e7-0a5a0ff4e31b = { name = "JET", path = "J/JET" }
 c3abd6fe-9069-5508-9372-c239bf6209ff = { name = "OCaml_jll", path = "jll/O/OCaml_jll" }
 c3af3a8c-b79e-4b01-bf44-c718d7e0e0d6 = { name = "GraphsMatching", path = "G/GraphsMatching" }
+c3b1956e-8857-4d84-9b79-890df85b1e67 = { name = "TypeUtils", path = "T/TypeUtils" }
 c3b6d118-76ef-56ca-8cc7-ebb389d030a1 = { name = "BitIntegers", path = "B/BitIntegers" }
 c3c424ec-ae8f-5049-b7bf-f9296ef684c8 = { name = "LatinSquares", path = "L/LatinSquares" }
 c3c4c650-3bb6-4a80-aee6-49dcbcefb5f1 = { name = "Sonic", path = "S/Sonic" }
@@ -8323,6 +8328,7 @@ dab8ebd6-0c04-4f46-ad10-062f8ec9cad9 = { name = "SDMX", path = "S/SDMX" }
 dab9e3cf-270b-48a8-a707-d6834c795ca3 = { name = "ChatAPICall", path = "C/ChatAPICall" }
 daba6828-70d2-4229-869c-b11708ab6c61 = { name = "Mineos", path = "M/Mineos" }
 dabd510a-92a7-54df-aa64-c306dd35554a = { name = "fpzip_jll", path = "jll/F/fpzip_jll" }
+dac988ce-a3dc-42da-8c49-b1e833185731 = { name = "AutoVectors", path = "A/AutoVectors" }
 daca4e5c-8485-4416-9301-671ef5a159db = { name = "SegmentAnything", path = "S/SegmentAnything" }
 dad2f222-ce93-54a1-a47d-0025e8a3acab = { name = "LLVMExtra_jll", path = "jll/L/LLVMExtra_jll" }
 dad468f8-6d63-5d40-b2c4-48631a3ed0cf = { name = "TopicModelsVB", path = "T/TopicModelsVB" }
