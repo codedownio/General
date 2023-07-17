@@ -3102,6 +3102,7 @@ some amount of consideration when choosing package names.
 50f2bc7e-5fd7-11e9-13c7-85fb88b4f34f = { name = "Keldysh", path = "K/Keldysh" }
 5100927d-02aa-593a-b4f9-7235df19f0db = { name = "ClusterTrees", path = "C/ClusterTrees" }
 510215fc-4207-5dde-b226-833fc4488ee2 = { name = "Observables", path = "O/Observables" }
+51095b67-9e93-468d-a683-508b52f74e81 = { name = "OpenBLAS32", path = "O/OpenBLAS32" }
 5109d7c4-8f61-540a-bdd6-fb9d06080a8f = { name = "Infernal_jll", path = "jll/I/Infernal_jll" }
 511708b7-8d90-5a63-9f8b-8993ab87fa77 = { name = "ActuarialScience", path = "A/ActuarialScience" }
 511df3fd-a8e5-5b39-b2c4-0599bfe02772 = { name = "booster_jll", path = "jll/B/booster_jll" }
@@ -5587,6 +5588,7 @@ some amount of consideration when choosing package names.
 92d184ee-bd0d-43d0-b768-a20943f3d1e3 = { name = "CompileTraces", path = "C/CompileTraces" }
 92d709cd-6900-40b7-9082-c6be49f344b6 = { name = "IrrationalConstants", path = "I/IrrationalConstants" }
 92d88b90-fb16-475b-94b1-bf26618d6898 = { name = "IceCubePublicDataReader", path = "I/IceCubePublicDataReader" }
+92e0b95a-4011-435a-96f4-10064551ddbe = { name = "IPUToolkit", path = "I/IPUToolkit" }
 92e69b6b-b976-4d9c-9029-10b5a528961a = { name = "WENO4", path = "W/WENO4" }
 92e6a534-49c2-5324-9027-86e3c861ab81 = { name = "POMDPTesting", path = "P/POMDPTesting" }
 92ef3814-971d-54d3-b0c1-59b1d13fee15 = { name = "Ripemd", path = "R/Ripemd" }
@@ -7406,6 +7408,7 @@ c214720e-3c4f-4d89-8b85-b9ea3aac2a05 = { name = "EvidentialFlux", path = "E/Evid
 c21b50f5-aa40-41ea-b809-c0f5e47bfa5c = { name = "YAXArrays", path = "Y/YAXArrays" }
 c21dee59-005f-55b6-acfd-94526b082a96 = { name = "Lattices", path = "L/Lattices" }
 c2297ded-f4af-51ae-bb23-16f91089e4e1 = { name = "ZMQ", path = "Z/ZMQ" }
+c2297e78-99bd-40ad-871d-f50e56b81012 = { name = "TensorInference", path = "T/TensorInference" }
 c22f9ab0-d5fe-5066-847c-f4bb1cd4e361 = { name = "Xorg_xcb_util_wm_jll", path = "jll/X/Xorg_xcb_util_wm_jll" }
 c2308a5c-f048-11e8-3e8a-31650f418d12 = { name = "FASTX", path = "F/FASTX" }
 c2416e8a-86ea-414a-9a91-c37c770c1547 = { name = "BayesFlux", path = "B/BayesFlux" }
@@ -8341,6 +8344,7 @@ daa1807e-96ac-4669-bc57-6ed081383131 = { name = "MimiPAGE2020", path = "M/MimiPA
 daa9fd3b-41af-4965-b715-a21506bae1e4 = { name = "MotifCluster", path = "M/MotifCluster" }
 daac0927-178b-45a3-8088-242e3d097d58 = { name = "RNAstructure", path = "R/RNAstructure" }
 dab37cba-9818-490d-9918-279965c31300 = { name = "MulticlassPerceptron", path = "M/MulticlassPerceptron" }
+dab3b9ab-a280-4855-a173-bba60dabf33a = { name = "CommandLiner", path = "C/CommandLiner" }
 dab8ebd6-0c04-4f46-ad10-062f8ec9cad9 = { name = "SDMX", path = "S/SDMX" }
 dab9e3cf-270b-48a8-a707-d6834c795ca3 = { name = "ChatAPICall", path = "C/ChatAPICall" }
 daba6828-70d2-4229-869c-b11708ab6c61 = { name = "Mineos", path = "M/Mineos" }
