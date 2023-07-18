@@ -1948,6 +1948,7 @@ some amount of consideration when choosing package names.
 31ece079-7405-46d1-96b6-7aef44ad4713 = { name = "CiteDown", path = "C/CiteDown" }
 31f4e45d-be81-5be7-b2dd-bc577b4f7be8 = { name = "DualMatrixTools", path = "D/DualMatrixTools" }
 31f734f8-188a-4ce0-8406-c8a06bd891cd = { name = "ArrowTypes", path = "A/ArrowTypes" }
+31fab0eb-bb78-4d15-8993-a8083bba6d27 = { name = "FluxNLPModels", path = "F/FluxNLPModels" }
 3201237a-9847-11e9-0d2a-6d530c977506 = { name = "LinearAdjoints", path = "L/LinearAdjoints" }
 3201582d-3078-4276-ba5d-0a1254d79d7c = { name = "SignalTables", path = "S/SignalTables" }
 3205ef68-7822-558b-ad0d-1b4740f12437 = { name = "mpg123_jll", path = "jll/M/mpg123_jll" }
@@ -2080,6 +2081,7 @@ some amount of consideration when choosing package names.
 35661453-b289-5fab-8a00-3d9160c6a3a4 = { name = "Xorg_xkbcomp_jll", path = "jll/X/Xorg_xkbcomp_jll" }
 356ae075-8bc9-5ef9-a342-46c9ba26438c = { name = "GridArrays", path = "G/GridArrays" }
 3576fdfd-e245-5854-bcf7-dae6dc3117e0 = { name = "capnproto_jll", path = "jll/C/capnproto_jll" }
+357a5a63-a2bd-4f40-8c00-16b25e94246d = { name = "SimpleCTypes", path = "S/SimpleCTypes" }
 358108f5-d052-4d0a-8344-d5384e00c0e5 = { name = "JMcDM", path = "J/JMcDM" }
 3587e190-3f89-42d0-90ee-14403ec27112 = { name = "InverseFunctions", path = "I/InverseFunctions" }
 359177bc-a543-11e8-11b7-bb015dba3358 = { name = "EarthDataLab", path = "E/EarthDataLab" }
@@ -4518,6 +4520,7 @@ some amount of consideration when choosing package names.
 76248ec8-aa36-4347-850f-ece2d673bc9f = { name = "GroupedTransforms", path = "G/GroupedTransforms" }
 76274a88-744f-5084-9051-94815aaf08c4 = { name = "Bijectors", path = "B/Bijectors" }
 7627cfbf-f290-59f7-b5e8-595c7b62b918 = { name = "GCCBootstrap_jll", path = "jll/G/GCCBootstrap_jll" }
+762dc654-8631-413a-a342-372a7419ad9d = { name = "OneTwoMany", path = "O/OneTwoMany" }
 762fde13-7596-547b-826d-8223c52d51c1 = { name = "libCEED_jll", path = "jll/L/libCEED_jll" }
 7632190a-71f5-11e9-04ef-99e081817785 = { name = "ImageTracking", path = "I/ImageTracking" }
 763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4 = { name = "MAGEMin_jll", path = "jll/M/MAGEMin_jll" }
@@ -7061,6 +7064,7 @@ b963c118-178a-40f4-9dba-c658ae91ce84 = { name = "ProgrammableAPI", path = "P/Pro
 b964385b-8358-5f44-856b-d218fe69d290 = { name = "ipx_jll", path = "jll/I/ipx_jll" }
 b964fa9f-0449-5b57-a5c2-d3ea65f4040f = { name = "LaTeXStrings", path = "L/LaTeXStrings" }
 b97313a1-7d5f-5481-80a2-59ff1cf30f79 = { name = "TableWidgets", path = "T/TableWidgets" }
+b9734e3f-1fb5-4b0f-895a-a4ed7ba034cc = { name = "SSMPlots", path = "S/SSMPlots" }
 b97acbd9-7fbb-4cbc-bc29-58677f11bc5c = { name = "CDGRNs", path = "C/CDGRNs" }
 b9828eed-09bc-50cb-b95c-f80757bd8d62 = { name = "DirectGaussianSimulation", path = "D/DirectGaussianSimulation" }
 b9860ae5-e623-471e-878b-f6a53c775ea6 = { name = "FLoopsBase", path = "F/FLoopsBase" }
@@ -9363,6 +9367,7 @@ f5c4805d-b585-58fe-b08a-e9c59614aa64 = { name = "Granular", path = "G/Granular" 
 f5cc2397-9d3e-5971-afd7-e1f28e1d1eef = { name = "LASindex", path = "L/LASindex" }
 f5cc5b76-f814-11e9-291c-a1ea2b8c31c6 = { name = "UnitfulCurrency", path = "U/UnitfulCurrency" }
 f5de1e94-2f77-472d-8c3b-9d09f580ee5e = { name = "SimplexQuad", path = "S/SimplexQuad" }
+f5e6c550-199f-11ee-3608-394420200519 = { name = "Sleipnir", path = "S/Sleipnir" }
 f5e74093-75df-45cb-9a4a-089f0fae2cb7 = { name = "LibTeXPrintf", path = "L/LibTeXPrintf" }
 f5e9ba3c-56cf-4230-8a8f-3a70500a02a9 = { name = "ThreeBodyProblem", path = "T/ThreeBodyProblem" }
 f5f396d3-230c-5e07-80e6-9fadf06146cc = { name = "ApproxBayes", path = "A/ApproxBayes" }
