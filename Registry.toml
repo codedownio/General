@@ -3369,6 +3369,7 @@ some amount of consideration when choosing package names.
 5837384c-0389-41f0-a8dd-204a40e5dede = { name = "StructuralDynamicsODESolvers", path = "S/StructuralDynamicsODESolvers" }
 583852a3-1c13-5035-b52b-3b742a7b3316 = { name = "libadwaita_jll", path = "jll/L/libadwaita_jll" }
 58433f90-7b86-51a1-96c6-55447b2352ff = { name = "GRASS_jll", path = "jll/G/GRASS_jll" }
+5846b9ac-096c-425b-b363-8d1a03210e20 = { name = "Sqids", path = "S/Sqids" }
 5847ba37-b048-5c88-b501-c62f664b1471 = { name = "libboxer_jll", path = "jll/L/libboxer_jll" }
 584ea77b-75d0-51ad-9ad6-7fb559b95557 = { name = "HelFEM_jll", path = "jll/H/HelFEM_jll" }
 58695248-dc95-54d8-8aad-a18bc9fe19aa = { name = "nPth_jll", path = "jll/N/nPth_jll" }
@@ -7703,6 +7704,7 @@ c8f0d631-89cd-4a1f-93d0-7542c3692561 = { name = "LifeContingencies", path = "L/L
 c8f3e4f4-dc8a-5e75-8464-d1f1be3e8be2 = { name = "Rscape_jll", path = "jll/R/Rscape_jll" }
 c8f6d549-b3ab-5508-a0d1-48fe138e8cc1 = { name = "Clipper", path = "C/Clipper" }
 c8f76c1c-e1da-11e9-2f58-db462fa08db6 = { name = "RigorousCoupledWaveAnalysis", path = "R/RigorousCoupledWaveAnalysis" }
+c8fa9a04-bc42-452d-8558-dc51757be744 = { name = "PseudoBooleanOptimization", path = "P/PseudoBooleanOptimization" }
 c8fd0db2-566d-4870-b0fd-1c038e266d70 = { name = "HigherOrderDerivatives", path = "H/HigherOrderDerivatives" }
 c8fef40c-3641-40f1-b0ae-e08425a5d2fc = { name = "ParallelAnalysis", path = "P/ParallelAnalysis" }
 c8ffd9c3-330d-5841-b78e-0817d7145fa1 = { name = "MbedTLS_jll", path = "jll/M/MbedTLS_jll" }
@@ -8957,6 +8959,7 @@ ea0860ee-d0ef-45ef-82e6-cc37d6be2f9c = { name = "TuringCallbacks", path = "T/Tur
 ea10d353-3f73-51f8-a26c-33c1cb351aa5 = { name = "WeakRefStrings", path = "W/WeakRefStrings" }
 ea1e2de9-7db7-4b42-91ee-0cd1bf6df167 = { name = "MCIntegration", path = "M/MCIntegration" }
 ea221983-52f3-5440-99c7-13ea201cd633 = { name = "TransferEntropy", path = "T/TransferEntropy" }
+ea2a18ed-132b-4398-a457-2ce4804e5c00 = { name = "UnionCollections", path = "U/UnionCollections" }
 ea2b2c30-cea2-479b-adc8-fbe18a3c201b = { name = "FreudenthalTriangulations", path = "F/FreudenthalTriangulations" }
 ea2cea3b-5b76-57ae-a6ef-0a8af62496e1 = { name = "Qt5Base_jll", path = "jll/Q/Qt5Base_jll" }
 ea2f1a96-1ddc-540d-b46f-429655e07cfa = { name = "Xorg_libXrender_jll", path = "jll/X/Xorg_libXrender_jll" }
