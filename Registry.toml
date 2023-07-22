@@ -346,6 +346,7 @@ some amount of consideration when choosing package names.
 08131aa3-fb12-5dee-8b74-c09406e224a2 = { name = "OpenCL", path = "O/OpenCL" }
 0814aff9-93cb-554c-9fff-9bf1cfdb5efa = { name = "TrackingLoopFilters", path = "T/TrackingLoopFilters" }
 0818e8b4-bd9c-59ff-a62a-597382e55725 = { name = "WORLD", path = "W/WORLD" }
+081f7a28-ac82-48c1-a10e-fa8b3349a52a = { name = "FixedPointToolkit", path = "F/FixedPointToolkit" }
 082447d4-558c-5d27-93f4-14fc19e9eca2 = { name = "ChainRules", path = "C/ChainRules" }
 0825541b-7374-5e1e-93bd-72e337c8a986 = { name = "ANOVA", path = "A/ANOVA" }
 0827807b-44c9-51d0-af97-efe667fe6b2a = { name = "StableDQMC", path = "S/StableDQMC" }
@@ -4516,6 +4517,7 @@ some amount of consideration when choosing package names.
 75f4d65b-1b42-4905-9fb1-6d40607712e8 = { name = "SurfaceCoverage", path = "S/SurfaceCoverage" }
 7600667b-db04-5866-8f94-e5ff75fe7256 = { name = "JuDGE", path = "J/JuDGE" }
 76062700-569f-48fc-9444-88b66f57fbe9 = { name = "MultiwayNumberPartitioning", path = "M/MultiwayNumberPartitioning" }
+760752a8-943b-47af-ae9a-04fdfee5f700 = { name = "DeepFry", path = "D/DeepFry" }
 76087f3c-5699-56af-9a33-bf431cd00edd = { name = "NLopt", path = "N/NLopt" }
 760a73f4-dca7-4de8-943d-18a66a2ce654 = { name = "HiddenMarkovModelReaders", path = "H/HiddenMarkovModelReaders" }
 761d2b37-0f2d-5ad8-be19-54610544a161 = { name = "Darknet_jll", path = "jll/D/Darknet_jll" }
@@ -4727,6 +4729,7 @@ some amount of consideration when choosing package names.
 7b38b023-a4d7-4c5e-8d43-3f3097f304eb = { name = "ScanByte", path = "S/ScanByte" }
 7b398af1-3c03-4c36-a68d-b29057ec0a45 = { name = "ESeriesRounding", path = "E/ESeriesRounding" }
 7b39b095-d77a-58fa-8447-59aa0294474b = { name = "ExSup", path = "E/ExSup" }
+7b3b3b3f-8b15-4a80-a798-b383498bc2cf = { name = "Sole", path = "S/Sole" }
 7b3dffa2-a94d-4703-aaf5-57911c725dc8 = { name = "SurrealdbWS", path = "S/SurrealdbWS" }
 7b4b3212-f72a-4ba2-afa8-103f0bfb7cd6 = { name = "QuasinormalModes", path = "Q/QuasinormalModes" }
 7b86fcea-f67b-53e1-809c-8f1719c154e8 = { name = "ATK_jll", path = "jll/A/ATK_jll" }
@@ -4903,6 +4906,7 @@ some amount of consideration when choosing package names.
 7fc23ce2-6e83-4e3c-822f-a79085ccb3e8 = { name = "DiffinDiffsBase", path = "D/DiffinDiffsBase" }
 7fc90fd6-dbef-5a6a-93f8-169f2a2e705b = { name = "SDPA_jll", path = "jll/S/SDPA_jll" }
 7fdabe25-5bc1-4a7a-966a-1dc79c0c5380 = { name = "Flick", path = "F/Flick" }
+7fdd842c-1c35-5047-b6c4-5b8c94d478bc = { name = "libcrossterm_jll", path = "jll/L/libcrossterm_jll" }
 7fe0908f-881e-4672-99a3-35ccdc95dcfc = { name = "Simulate", path = "S/Simulate" }
 7fe238d6-d31e-4646-aa16-9d8429fd6da8 = { name = "BifurcationInference", path = "B/BifurcationInference" }
 7fe627e2-2553-44c3-aa13-292e356d3647 = { name = "BEASTDataPrep", path = "B/BEASTDataPrep" }
@@ -5582,6 +5586,7 @@ some amount of consideration when choosing package names.
 927a84f5-c5f4-47a5-9785-b46e178433df = { name = "DelaunayTriangulation", path = "D/DelaunayTriangulation" }
 927da072-87df-5aff-817c-c070e1bdca98 = { name = "USalign_jll", path = "jll/U/USalign_jll" }
 928114cd-b949-50c5-8a7b-63c9d706fec3 = { name = "FlexExtract_jll", path = "jll/F/FlexExtract_jll" }
+92812004-5f8d-4354-96af-0c8b7c0637d0 = { name = "MonotoneSplines", path = "M/MonotoneSplines" }
 928aab9d-ef52-54ac-8ca1-acd7ca42c160 = { name = "SpecialMatrices", path = "S/SpecialMatrices" }
 9290252f-3c82-5b4b-93a0-1879861c8c5d = { name = "Entwine_jll", path = "jll/E/Entwine_jll" }
 92933f4c-e287-5a05-a399-4b506db050ca = { name = "ProgressMeter", path = "P/ProgressMeter" }
