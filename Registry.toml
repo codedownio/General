@@ -2650,6 +2650,7 @@ some amount of consideration when choosing package names.
 44b605c4-b955-5f2b-9b6d-d2bd01d3d205 = { name = "CRC", path = "C/CRC" }
 44c1da8e-ad92-11ea-0c62-8351ccf0aad4 = { name = "CIAOAlgorithms", path = "C/CIAOAlgorithms" }
 44c54197-9f56-47cc-9960-7f2e20bfb0d6 = { name = "ModelWrappers", path = "M/ModelWrappers" }
+44c939e5-f9c7-478c-a795-a0678313fc8a = { name = "InverseStatMech", path = "I/InverseStatMech" }
 44cc8b2a-fe03-5802-9b90-2102cf0b4e7e = { name = "SuiteSparseGraphBLAS_jll", path = "jll/S/SuiteSparseGraphBLAS_jll" }
 44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9 = { name = "Weave", path = "W/Weave" }
 44db15ec-78df-42c5-8c4e-36d253f36098 = { name = "LoggingCommon", path = "L/LoggingCommon" }
@@ -3857,6 +3858,7 @@ some amount of consideration when choosing package names.
 652de3ec-ffb6-5c91-88b5-9e9ede6ab7e4 = { name = "KAShim_jll", path = "jll/K/KAShim_jll" }
 652e05fd-ed22-5b6c-bf99-44e63a676e5f = { name = "JuliaZH", path = "J/JuliaZH" }
 65323cdd-17ec-5719-9643-72016a7f97e3 = { name = "cmt_jll", path = "jll/C/cmt_jll" }
+6539e830-265a-11ee-32ea-19fcbc6dc4d8 = { name = "Vensim2MTK", path = "V/Vensim2MTK" }
 65419b8a-9a19-58ae-bde3-3f7e1d1bf8ef = { name = "Xtensor", path = "X/Xtensor" }
 65465c31-362d-417a-a2f0-7fa38ae507b9 = { name = "PackageCompatUI", path = "P/PackageCompatUI" }
 654bb1e1-1cb7-4447-b770-09a16346af94 = { name = "BundlerIO", path = "B/BundlerIO" }
@@ -6388,6 +6390,7 @@ a7b11256-881b-11e9-3aff-ff4a76f1bfae = { name = "DigitalComm", path = "D/Digital
 a7b44dc7-5846-51fe-a1cd-6b242f0ec0a2 = { name = "Xorg_recordproto_jll", path = "jll/X/Xorg_recordproto_jll" }
 a7b85b94-2b9e-11e9-2e5f-79ec22955f58 = { name = "JSObjectLiteral", path = "J/JSObjectLiteral" }
 a7c27f48-0311-42f6-a7f8-2c11e75eb415 = { name = "Unityper", path = "U/Unityper" }
+a7d3b33b-b840-4f8e-b556-99be03134090 = { name = "SMLMBoxer", path = "S/SMLMBoxer" }
 a7d8db30-8dd7-11e9-0e2d-93ab1805d894 = { name = "CrimsonDagger", path = "C/CrimsonDagger" }
 a7db621c-8ce0-11e9-16a1-0f86dc86bd10 = { name = "QuantizedArrays", path = "Q/QuantizedArrays" }
 a7ef59f1-ab8a-5612-8cbe-0c3d3c126043 = { name = "LiterateOrg", path = "L/LiterateOrg" }
@@ -8106,6 +8109,7 @@ d3b670be-7695-4f53-993c-7bcc16c2acea = { name = "DistributedAdhoc", path = "D/Di
 d3baf920-4533-4796-be79-acb40839d791 = { name = "CloudEvents", path = "C/CloudEvents" }
 d3bb65d8-f921-4227-aa76-0b59d05b829a = { name = "VortexFilaments", path = "V/VortexFilaments" }
 d3bc4f2e-91e6-11e9-365e-cd067da536ce = { name = "BranchAndPrune", path = "B/BranchAndPrune" }
+d3c5d4cd-a8ee-40d6-aac7-e34df5a20044 = { name = "PolarizedTypes", path = "P/PolarizedTypes" }
 d3cb9f0d-9994-4b1a-a019-873b7558f280 = { name = "ToolipsExport", path = "T/ToolipsExport" }
 d3ce8812-9567-47e9-a7b5-65a6d70a3065 = { name = "SerializedElementArrays", path = "S/SerializedElementArrays" }
 d3d335b2-f152-507c-820e-958e337efb65 = { name = "RawArray", path = "R/RawArray" }
@@ -8204,6 +8208,7 @@ d607f57d-ee1e-4ba7-bcf2-7734c1e31854 = { name = "ReinforcementLearningZoo", path
 d617d09d-b3c0-43f1-8886-30d89b900f25 = { name = "MinkowskiReduction", path = "M/MinkowskiReduction" }
 d621b6e3-7715-5857-9c6f-c67000ef6083 = { name = "ValidatedNumerics", path = "V/ValidatedNumerics" }
 d62f8624-c4cb-45ae-bb33-459cd4441fb8 = { name = "GenieDeployHeroku", path = "G/GenieDeployHeroku" }
+d6343c73-7174-4e0f-bb64-562643efbeca = { name = "VLBISkyModels", path = "V/VLBISkyModels" }
 d63ee80a-a26b-5956-a0ed-fe8a48e7c1c8 = { name = "libfacedetection_jll", path = "jll/L/libfacedetection_jll" }
 d647f7b9-f016-52c0-8515-7d1c032fadec = { name = "SISL_jll", path = "jll/S/SISL_jll" }
 d65627f6-89bd-53e8-8ab5-8b75ff535eee = { name = "fts_jll", path = "jll/F/fts_jll" }
@@ -8417,6 +8422,7 @@ dc284178-beb3-4143-96bf-abb625ba06b3 = { name = "QuaternionIntegrator", path = "
 dc2ff7d6-b19f-434a-a8eb-f50e20111c56 = { name = "SeuratRDS", path = "S/SeuratRDS" }
 dc30da40-fce8-4b3c-960e-234cbed6f4a5 = { name = "SystemImageLoader", path = "S/SystemImageLoader" }
 dc339a6f-2fa1-401a-9066-9c0d413e71da = { name = "VisualizeMotifs", path = "V/VisualizeMotifs" }
+dc39d501-6ffa-4c27-9708-7dc7e3b1a5c3 = { name = "BlankLocalizationCore", path = "B/BlankLocalizationCore" }
 dc3f66f6-feed-11e8-2006-85573fddfdbc = { name = "SurrogateModelOptim", path = "S/SurrogateModelOptim" }
 dc46b164-d16f-48ec-a853-60448fc869fe = { name = "PerformanceTestTools", path = "P/PerformanceTestTools" }
 dc48124f-afd3-49fa-9962-2c9cdaf82bd1 = { name = "LinearSegmentation", path = "L/LinearSegmentation" }
