@@ -2639,6 +2639,7 @@ some amount of consideration when choosing package names.
 442fdcdd-2543-5da2-b0f3-8c86c306513e = { name = "Measures", path = "M/Measures" }
 44354dd6-1ce2-4e80-a0fb-98a3a2b05088 = { name = "LinLogQuantization", path = "L/LinLogQuantization" }
 444271a7-5434-4a02-b82b-0e30a9223c60 = { name = "AssociativeWindowAggregation", path = "A/AssociativeWindowAggregation" }
+4447db07-3941-47e2-90a2-965b7cb1b6ce = { name = "Wakame", path = "W/Wakame" }
 445028e4-d31f-4f27-89ad-17affd83fc22 = { name = "Kmers", path = "K/Kmers" }
 44505bb3-94ea-493c-a20c-f0ca548ab76b = { name = "HeatTransferFluids", path = "H/HeatTransferFluids" }
 44557152-fe0a-4de1-8405-416d90313ce6 = { name = "DateFormats", path = "D/DateFormats" }
@@ -3807,6 +3808,7 @@ some amount of consideration when choosing package names.
 6394faf6-06db-4fa8-b750-35ccc60383f7 = { name = "FlexiMaps", path = "F/FlexiMaps" }
 639c3291-70d9-5ea2-8c5b-839eba1ee399 = { name = "RecurrenceAnalysis", path = "R/RecurrenceAnalysis" }
 639d9495-0bf7-4cd9-80c6-a19f5ec6f406 = { name = "MotifPvalue", path = "M/MotifPvalue" }
+63be7be4-0e17-5266-a559-5ce1673933d5 = { name = "VCDiff_jll", path = "jll/V/VCDiff_jll" }
 63c18a36-062a-441e-b654-da1e3ab1ce7c = { name = "KernelAbstractions", path = "K/KernelAbstractions" }
 63c5698c-79a9-4248-aa10-bd2a91651b58 = { name = "PiecewiseQuadratics", path = "P/PiecewiseQuadratics" }
 63c704a1-a924-4685-a9dd-2c8225e4c0d3 = { name = "MockTableGenerators", path = "M/MockTableGenerators" }
@@ -6953,6 +6955,7 @@ b5147960-3063-5349-a9c3-a0b314d6952d = { name = "Authorization", path = "A/Autho
 b51810bb-c9f3-55da-ae3c-350fc1fbce05 = { name = "MatrixDepot", path = "M/MatrixDepot" }
 b51820a9-a924-5fc2-b09e-5fb7870ce458 = { name = "EDFlib_jll", path = "jll/E/EDFlib_jll" }
 b51826c6-2bc1-4eb0-a3af-c080fd29f1d0 = { name = "OrdinalMultinomialModels", path = "O/OrdinalMultinomialModels" }
+b51ba988-139c-5e66-8d45-d5b53cbf8c72 = { name = "bcftools_jll", path = "jll/B/bcftools_jll" }
 b51eda20-e6c3-11e9-27c2-99820284193b = { name = "SVMLightWriter", path = "S/SVMLightWriter" }
 b52a2a03-04ab-4a5f-9698-6a2deff93217 = { name = "MadNLPTests", path = "M/MadNLPTests" }
 b52af375-caae-415f-bfb3-e49a502a248a = { name = "TaylorInversion", path = "T/TaylorInversion" }
@@ -9646,6 +9649,7 @@ fc00964e-0523-47c6-8ffe-685369a5ce95 = { name = "IbanGen", path = "I/IbanGen" }
 fc0ff973-d74e-417c-9681-260383068f65 = { name = "Dance", path = "D/Dance" }
 fc1124c1-9066-4ec6-b9ac-c409d23c4e6c = { name = "FiniteDifferenceFormula", path = "F/FiniteDifferenceFormula" }
 fc1462b8-e790-43d8-8e6e-8820fe0073d6 = { name = "CombinatorialEnumeration", path = "C/CombinatorialEnumeration" }
+fc1677e0-6ad7-4515-bf3a-bd6bf20a0b1b = { name = "HydroPowerSimulations", path = "H/HydroPowerSimulations" }
 fc16ec7e-3cba-5ca4-a17a-1acd8165bbee = { name = "hidapi_jll", path = "jll/H/hidapi_jll" }
 fc18253b-5e1b-504c-a4a2-9ece4944c004 = { name = "LazyJSON", path = "L/LazyJSON" }
 fc18e7c4-0b83-4f3c-b75e-a9a8c77010a4 = { name = "FortranStrings", path = "F/FortranStrings" }
