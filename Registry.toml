@@ -654,6 +654,7 @@ some amount of consideration when choosing package names.
 102930c3-cf33-599f-b3b1-9a29a5acab30 = { name = "SmoothingSplines", path = "S/SmoothingSplines" }
 102ac46a-7ee4-5c85-9060-abc95bfdeaa3 = { name = "MultivariatePolynomials", path = "M/MultivariatePolynomials" }
 102dff8d-99cb-5cc2-9bf9-d9fe3a2e5e7a = { name = "OpenTrick", path = "O/OpenTrick" }
+1037b233-b668-4ce9-9b63-f9f681f55dd2 = { name = "ExaModels", path = "E/ExaModels" }
 103943a6-a0e8-4329-a18d-015edd6a0466 = { name = "GalacticMOI", path = "G/GalacticMOI" }
 103da179-b3e4-57c1-99a4-586354eb2c5a = { name = "ViscousFlow", path = "V/ViscousFlow" }
 1040807a-3a2f-4266-b2c1-805b33c7034a = { name = "RecordedArrays", path = "R/RecordedArrays" }
@@ -3445,6 +3446,7 @@ some amount of consideration when choosing package names.
 5a033b19-8c74-5913-a970-47c3779ef25c = { name = "CurveFit", path = "C/CurveFit" }
 5a099233-690e-4980-908f-23971e54592d = { name = "RHClient", path = "R/RHClient" }
 5a0a87e4-02d4-41f5-bf26-b8c94c784a04 = { name = "SMLMSim", path = "S/SMLMSim" }
+5a0d4f34-1f62-4a66-80fe-87aba0485488 = { name = "ComputerAdaptiveTesting", path = "C/ComputerAdaptiveTesting" }
 5a0ffddc-d203-54b0-88ba-2c03c0fc2e67 = { name = "DiffEqFinancial", path = "D/DiffEqFinancial" }
 5a1048b7-9ca6-4e8a-8e2e-1f932e78ac4e = { name = "Terming", path = "T/Terming" }
 5a1273f0-a906-4eb0-8178-7035f457d819 = { name = "PyQHA", path = "P/PyQHA" }
@@ -4905,6 +4907,7 @@ some amount of consideration when choosing package names.
 7f219486-4aa7-41d6-80a7-e08ef20ceed7 = { name = "AbstractNFFTs", path = "A/AbstractNFFTs" }
 7f27c84d-2d74-42e5-be5f-94f6748267f3 = { name = "Cambrian", path = "C/Cambrian" }
 7f35509c-0cb9-11e9-0708-2928828cdbb7 = { name = "POMDPGifs", path = "P/POMDPGifs" }
+7f36be82-ad55-44ba-a5c0-b8b5480d7aa5 = { name = "PosteriorStats", path = "P/PosteriorStats" }
 7f3e1038-61bc-5414-967e-017c9d82adda = { name = "CBOR", path = "C/CBOR" }
 7f46824f-871f-4a07-b57f-28974f6a6036 = { name = "DIVAnd_HFRadar", path = "D/DIVAnd_HFRadar" }
 7f495686-c6d2-4c77-9e8e-e4c865675f9d = { name = "ErrorTypes", path = "E/ErrorTypes" }
@@ -7230,6 +7233,7 @@ bc724e2e-2423-57c2-8f10-788c81380fc8 = { name = "TypedDelegation", path = "T/Typ
 bc769cb7-f249-5bba-802a-79f18cb247ec = { name = "SMM", path = "S/SMM" }
 bc773b8a-8374-437a-b9f2-0e9785855863 = { name = "CodeInfoTools", path = "C/CodeInfoTools" }
 bc7fa6ce-b75e-4d60-89ad-56c957190b6e = { name = "JuliaHub", path = "J/JuliaHub" }
+bc8888f7-b21e-4b7c-a06a-5d9c9496438c = { name = "SymPyPythonCall", path = "S/SymPyPythonCall" }
 bc8ceb21-a8fe-4071-b36a-0b0ea65b9c09 = { name = "Turmeric", path = "T/Turmeric" }
 bc997328-bedd-407e-bcd3-5758e064a52d = { name = "CryptoGroups", path = "C/CryptoGroups" }
 bcad6099-3893-4a89-b8e7-2c92a19b03be = { name = "UnitJuMP", path = "U/UnitJuMP" }
@@ -7349,6 +7353,7 @@ bede0ec3-65cc-49cf-9d47-682ba1bc832a = { name = "FluxTikz", path = "F/FluxTikz" 
 bedefb8d-ef00-5401-aa81-ae9c3f6f84cc = { name = "QuantumInfo", path = "Q/QuantumInfo" }
 bee2e536-65f6-11e9-3844-e5bb4c9c55c9 = { name = "DCISolver", path = "D/DCISolver" }
 bee5971c-294f-5168-9fcd-9fb3c811d495 = { name = "MParT_jll", path = "jll/M/MParT_jll" }
+bee8f34e-611d-499e-97b4-2f0d2901cb64 = { name = "UVITTools", path = "U/UVITTools" }
 beecb120-e197-59fa-b79c-0316d51c9920 = { name = "tree_sitter_go_jll", path = "jll/T/tree_sitter_go_jll" }
 befc5f09-81d5-499c-a4b2-d0464ba9f9c8 = { name = "RigidBodyTools", path = "R/RigidBodyTools" }
 bf05d729-34b2-4f1f-a2f1-2452bece7ebc = { name = "SwagUI", path = "S/SwagUI" }
