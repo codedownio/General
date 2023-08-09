@@ -1576,6 +1576,7 @@ some amount of consideration when choosing package names.
 2839a42b-739d-52bf-a6f0-df8e4ebc59da = { name = "CUDNN_CUDA111_jll", path = "jll/C/CUDNN_CUDA111_jll" }
 283c5d60-a78f-5afe-a0af-af636b173e11 = { name = "MeshCat", path = "M/MeshCat" }
 2841289f-1868-4ac6-8d7a-1afe267ffb4f = { name = "EvilArrays", path = "E/EvilArrays" }
+2841d249-20d1-448a-8f4f-e4924d4d8a20 = { name = "TermFrequencyInverseDocumentFrequency", path = "T/TermFrequencyInverseDocumentFrequency" }
 2841fd70-8698-11e9-176d-6dfa142d2ee7 = { name = "DPMMSubClusters", path = "D/DPMMSubClusters" }
 284b63b1-8759-4032-ba27-6e3216e83f43 = { name = "LazyGroupBy", path = "L/LazyGroupBy" }
 284f087d-c8bb-44c4-af3c-39d0e1f330a5 = { name = "STLCutters", path = "S/STLCutters" }
@@ -5807,6 +5808,7 @@ some amount of consideration when choosing package names.
 97d83715-92a6-43f6-a1c3-b293f6dd920a = { name = "Faiss", path = "F/Faiss" }
 97d9904f-034f-4fb7-aeaa-03a173434233 = { name = "PhysicalMeshes", path = "P/PhysicalMeshes" }
 97dd0070-d6c0-43ac-b134-ca84cdbd343e = { name = "BeepBeep", path = "B/BeepBeep" }
+97df7862-8962-462b-83f4-d1fea1a8c26c = { name = "PRONTO", path = "P/PRONTO" }
 97e2ac4a-e175-5f49-beb1-4d6866a6cdc3 = { name = "EponymTuples", path = "E/EponymTuples" }
 97e4c2e4-f0cb-461e-a268-312dec255b76 = { name = "JSXGraph", path = "J/JSXGraph" }
 97e8ad84-0770-496d-b901-33f7e6c3230c = { name = "RandomTweaks", path = "R/RandomTweaks" }
@@ -7690,6 +7692,7 @@ c751599d-da0a-543b-9d20-d0a503d91d24 = { name = "ToeplitzMatrices", path = "T/To
 c75e803d-635f-53bd-ab7d-544e482d8c75 = { name = "AdaptiveRejectionSampling", path = "A/AdaptiveRejectionSampling" }
 c76e7e64-dca4-11eb-0ff5-1d6d625192a2 = { name = "ReadCoverageDistributions", path = "R/ReadCoverageDistributions" }
 c771fb93-2439-5ece-a3b3-58fecce82101 = { name = "ODEInterface_jll", path = "jll/O/ODEInterface_jll" }
+c7752788-e2db-4f03-8189-845608b41f97 = { name = "NestedTests", path = "N/NestedTests" }
 c775ef22-2988-11e9-03e2-6f3df0344398 = { name = "Node2Vec", path = "N/Node2Vec" }
 c7772946-478f-4fc8-9340-5223c2489741 = { name = "FiniteHorizonValueIteration", path = "F/FiniteHorizonValueIteration" }
 c7785b10-740d-4428-9d22-c85dcf833c60 = { name = "KitFort", path = "K/KitFort" }
@@ -7725,6 +7728,7 @@ c8189ad9-0349-5cbb-98f2-579781f27e5c = { name = "Pathogen", path = "P/Pathogen" 
 c82cd089-7bf7-41d7-976b-6b5d413cbe0a = { name = "SlurmClusterManager", path = "S/SlurmClusterManager" }
 c834827a-8449-5923-a945-d239c165b7dd = { name = "Xorg_libSM_jll", path = "jll/X/Xorg_libSM_jll" }
 c834cb9d-35b9-419a-8ff8-ecaeea9e2a2a = { name = "CitableParserBuilder", path = "C/CitableParserBuilder" }
+c83c1981-e5c4-4837-9eb8-c9b1572acfc6 = { name = "AbstractCosmologicalEmulators", path = "A/AbstractCosmologicalEmulators" }
 c84cffac-6943-4fe6-9449-f6d23817af8b = { name = "GNSSReceiver", path = "G/GNSSReceiver" }
 c84ed2f1-dad5-54f0-aa8e-dbefe2724439 = { name = "Ratios", path = "R/Ratios" }
 c851c8d9-0c3b-43db-9ff0-525c27d20a67 = { name = "ThorlabsLTStage", path = "T/ThorlabsLTStage" }
@@ -8482,6 +8486,7 @@ dc5dba14-91b3-4cab-a142-028a31da12f7 = { name = "TZJData", path = "T/TZJData" }
 dc5eaf77-5719-4a86-9393-27bd7a74eb3e = { name = "DynamicLinearModels", path = "D/DynamicLinearModels" }
 dc83c90b-d41d-4e55-bdb7-0fc919659999 = { name = "DataToolkit", path = "D/DataToolkit" }
 dc8bdbbb-1ca9-579f-8c36-e416f6a65cce = { name = "CustomUnitRanges", path = "C/CustomUnitRanges" }
+dc90abb0-5640-4711-901d-7e5b23a2fada = { name = "SparseInverseSubset", path = "S/SparseInverseSubset" }
 dc918f9c-79cc-42e6-85f1-d8b9b09632f4 = { name = "StreamToString", path = "S/StreamToString" }
 dca1746e-5efc-54fc-8249-22745bc95a49 = { name = "HelloWorldC_jll", path = "jll/H/HelloWorldC_jll" }
 dca704ad-10d6-524d-beb3-49f38e318998 = { name = "rtmidi_jll", path = "jll/R/rtmidi_jll" }
