@@ -260,6 +260,7 @@ some amount of consideration when choosing package names.
 062a9fb7-5fc8-4fbd-8cf8-781465e7dec7 = { name = "GeometricTheoremProver", path = "G/GeometricTheoremProver" }
 062e04e5-c3d3-5549-ab66-579a72a7bc1b = { name = "PAPI_jll", path = "jll/P/PAPI_jll" }
 0631256a-41da-5d69-bb72-795e0d5510ec = { name = "armadillo_jll", path = "jll/A/armadillo_jll" }
+063317df-b1e6-4e84-b689-d7ba7b3726e4 = { name = "KiwiConstraintSolver", path = "K/KiwiConstraintSolver" }
 06334dd7-98ce-4d72-a129-750f571d4b02 = { name = "CloudCovErr", path = "C/CloudCovErr" }
 06416c39-db7e-5258-b068-33480f0cdbbc = { name = "ChipSort", path = "C/ChipSort" }
 06456b94-f2fb-4c2e-911f-0795f0d2fb0a = { name = "TarIterators", path = "T/TarIterators" }
@@ -1613,6 +1614,7 @@ some amount of consideration when choosing package names.
 291c01f3-23f6-4eb6-aeb0-063a639b53f2 = { name = "SemiclassicalOrthogonalPolynomials", path = "S/SemiclassicalOrthogonalPolynomials" }
 291d046c-3347-11e9-1e74-c3d251d406c6 = { name = "MixedSubdivisions", path = "M/MixedSubdivisions" }
 291fd964-e446-5d75-9412-e8e0eb420fa7 = { name = "PlanarMaps", path = "P/PlanarMaps" }
+292f1341-b53f-425a-80e5-3597ad0961bf = { name = "NUMA", path = "N/NUMA" }
 293f545e-9dd2-11e9-1210-cf5bcdc9c322 = { name = "MolecularDynamicsIntegrators", path = "M/MolecularDynamicsIntegrators" }
 294deba0-74fa-42c9-af84-c3834b01fefc = { name = "LKH", path = "L/LKH" }
 295020cf-ac59-42c0-b9fb-a3cbe13249ef = { name = "Isaac", path = "I/Isaac" }
@@ -6340,6 +6342,7 @@ a5344401-2eb1-4dab-b845-3affa8d070e0 = { name = "SuffixConversion", path = "S/Su
 a535b82e-5f3d-4d97-8b0b-d6483f5bebd5 = { name = "CryoGrid", path = "C/CryoGrid" }
 a5390f91-8eb1-5f08-bee0-b1d1ffed6cea = { name = "ZipFile", path = "Z/ZipFile" }
 a545de4d-8dba-46db-9d34-4e41d3f07807 = { name = "StanLogDensityProblems", path = "S/StanLogDensityProblems" }
+a54ac8ab-712d-5a0e-8e11-9296c0d3c20e = { name = "Binaryen_jll", path = "jll/B/Binaryen_jll" }
 a5566ce3-012c-4b09-85b8-62131f0c3f36 = { name = "REPLHistory", path = "R/REPLHistory" }
 a563f35e-61db-434d-8c01-8b9e3ccdfd85 = { name = "QuantumGradientGenerators", path = "Q/QuantumGradientGenerators" }
 a56a6d9d-ad03-58af-ab61-878bf78270d6 = { name = "Libxc_jll", path = "jll/L/Libxc_jll" }
