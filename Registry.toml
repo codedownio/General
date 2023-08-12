@@ -440,6 +440,7 @@ some amount of consideration when choosing package names.
 0aa819cd-b072-5ff4-a722-6bc24af294d9 = { name = "SQLite", path = "S/SQLite" }
 0ab3451c-659c-47cd-a7a9-a2d579e209dd = { name = "AbstractItemResponseModels", path = "A/AbstractItemResponseModels" }
 0ac62f75-1d6f-5e53-bd7c-93b484bb37c0 = { name = "libass_jll", path = "jll/L/libass_jll" }
+0ac74fe0-b753-4e62-be71-04a8383fbbef = { name = "UMBridge", path = "U/UMBridge" }
 0ac99047-f20c-4964-adcf-e848779dacfc = { name = "PointerStructs", path = "P/PointerStructs" }
 0ace06cf-e779-487f-a467-04008fba83a1 = { name = "FSimROS", path = "F/FSimROS" }
 0acea522-3a8c-4b93-9211-1fc67cbf95d9 = { name = "ComoniconBuilder", path = "C/ComoniconBuilder" }
@@ -2934,6 +2935,7 @@ some amount of consideration when choosing package names.
 4c0387fe-3044-4118-bcfd-2d5824909cc7 = { name = "FunctionBarrier", path = "F/FunctionBarrier" }
 4c072129-1ba8-5d2f-8069-715d74d8ac68 = { name = "tree_sitter_java_jll", path = "jll/T/tree_sitter_java_jll" }
 4c0ca9eb-093a-5379-98c5-f87ac0bbbf44 = { name = "Gtk", path = "G/Gtk" }
+4c1474f5-d57d-4103-b4cd-bd216d071502 = { name = "TRExMC", path = "T/TRExMC" }
 4c14ae50-faa6-54c0-b22f-5cc2de459edf = { name = "Santiago", path = "S/Santiago" }
 4c14af30-da9f-11e9-34cd-f9f0aee9fd2c = { name = "ParametricAirfoils", path = "P/ParametricAirfoils" }
 4c1a95c7-462a-4a7e-b284-959c63fbf1dc = { name = "PathIntersections", path = "P/PathIntersections" }
@@ -8178,6 +8180,7 @@ d3d7f49f-8593-5289-ba71-9c4f4848f489 = { name = "BloomFilters", path = "B/BloomF
 d3d80556-e9d4-5f37-9878-2ab0fcc64255 = { name = "LineSearches", path = "L/LineSearches" }
 d3d89cbb-4ecd-4604-818d-8d1ff343e4da = { name = "NonconvexMMA", path = "N/NonconvexMMA" }
 d3dd9eff-7bfc-4540-8377-597257661861 = { name = "TheNumberLine", path = "T/TheNumberLine" }
+d3ddc7e8-7106-46d1-9902-15843705f60e = { name = "CZML", path = "C/CZML" }
 d3e05d68-52be-433b-950f-1fabddef5ccc = { name = "BenchmarkEnvironments", path = "B/BenchmarkEnvironments" }
 d3e213a1-5e82-5c18-bb32-2a58a99f8c46 = { name = "ColorSchemeTools", path = "C/ColorSchemeTools" }
 d3ebd857-6980-4843-ad12-8da20c4645b4 = { name = "FiniteMesh", path = "F/FiniteMesh" }
@@ -8237,6 +8240,7 @@ d538787b-fcd7-45dd-a3fb-92a4ecb31e9f = { name = "MixedTypesContainers", path = "
 d53efdab-7ba5-41df-97a4-bb2a6cf1b478 = { name = "VaderSentiment", path = "V/VaderSentiment" }
 d5428e67-3037-59ba-9ab1-57a04f0a3b6a = { name = "Simplices", path = "S/Simplices" }
 d54b0c1a-921d-58e0-8e36-89d8069c0969 = { name = "GaussQuadrature", path = "G/GaussQuadrature" }
+d54d1f39-fb68-436b-8c41-ced000dfba13 = { name = "CurlHTTP", path = "C/CurlHTTP" }
 d55e3150-da41-5e91-b323-ecfd1eec6109 = { name = "LLD_jll", path = "jll/L/LLD_jll" }
 d5605bae-6d76-11e9-2fd7-71bcf42edbaa = { name = "F1Method", path = "F/F1Method" }
 d56128e0-8113-48cd-82a0-fc808dc30d4b = { name = "Dagitty", path = "D/Dagitty" }
@@ -8830,6 +8834,7 @@ e4aecf45-a397-53cc-864f-87db395e0248 = { name = "Qt5QuickControls_jll", path = "
 e4b2fa32-6e09-5554-b718-106ed5adafe9 = { name = "GaussianRandomFields", path = "G/GaussianRandomFields" }
 e4b3b0a2-f9a3-42f3-aabb-32142cceaf77 = { name = "YFinance", path = "Y/YFinance" }
 e4b5035b-6f80-41c4-b9c7-57c4172102a9 = { name = "FormFactor", path = "F/FormFactor" }
+e4b6a126-98cc-486b-a68d-c3e5d57f8cc9 = { name = "EulerLagrange", path = "E/EulerLagrange" }
 e4b88ea9-8232-438f-beaa-39e5d53fd5fe = { name = "Dogsay", path = "D/Dogsay" }
 e4c54217-8d3e-5504-a69c-0db1bad43e12 = { name = "LaxZonedDateTimes", path = "L/LaxZonedDateTimes" }
 e4c73209-6c8c-4213-807b-38d671e094ab = { name = "openPMD", path = "O/openPMD" }
