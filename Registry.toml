@@ -1058,6 +1058,7 @@ some amount of consideration when choosing package names.
 19e549d1-356f-5655-9f3d-c1d6136da705 = { name = "GeoStatsDevTools", path = "G/GeoStatsDevTools" }
 19eb6ba3-879d-56ad-ad62-d5c202156566 = { name = "Packing", path = "P/Packing" }
 19ecbf4d-ef7c-5e4b-b54a-0a0ff23c5aed = { name = "Codecs", path = "C/Codecs" }
+19f1efb6-7162-484a-b3a1-b52c391689d7 = { name = "SPICEBodies", path = "S/SPICEBodies" }
 19f6540d-ecb3-4e88-b99d-153996aa3b9b = { name = "AlertPushover", path = "A/AlertPushover" }
 19fa3120-7c27-5ec5-8db8-b0b0aa330d6f = { name = "VertexSafeGraphs", path = "V/VertexSafeGraphs" }
 19fc8792-2b89-4883-9e85-8362bf055f3f = { name = "NonhomotheticCES", path = "N/NonhomotheticCES" }
@@ -1837,6 +1838,7 @@ some amount of consideration when choosing package names.
 2ee39098-c373-598a-b85f-a56591580800 = { name = "LabelledArrays", path = "L/LabelledArrays" }
 2ef04bfc-99ca-5394-8b07-22b12ff94927 = { name = "QSWalk", path = "Q/QSWalk" }
 2ef26b41-8fb7-400f-a14f-66229e7861ee = { name = "CVChannel", path = "C/CVChannel" }
+2ef45bd6-4c2b-43d8-88b3-40597287359a = { name = "VectorizedKmers", path = "V/VectorizedKmers" }
 2efcf032-c050-4f8e-a9bb-153293bab1f5 = { name = "SymbolicIndexingInterface", path = "S/SymbolicIndexingInterface" }
 2efd4204-53b6-4d30-8cf4-11a055f037eb = { name = "Ewalder", path = "E/Ewalder" }
 2f0138a6-2765-53ae-bca2-2fe9d5077335 = { name = "MMseqs2_jll", path = "jll/M/MMseqs2_jll" }
@@ -5323,6 +5325,7 @@ some amount of consideration when choosing package names.
 89250b5f-5002-42e4-96e5-388c85c70594 = { name = "PDELib", path = "P/PDELib" }
 89279098-3423-5141-994b-b871f91dcb82 = { name = "Shell", path = "S/Shell" }
 892a3eda-7b42-436c-8928-eab12a02cf0e = { name = "StringManipulation", path = "S/StringManipulation" }
+892fab00-3092-4bd0-9c46-66676a93f84e = { name = "MathProgIncidence", path = "M/MathProgIncidence" }
 89340185-c6b7-517e-a5e0-0a450377a6e4 = { name = "OpenFOAM_jll", path = "jll/O/OpenFOAM_jll" }
 89398ba2-070a-4b16-a995-9893c55d93cf = { name = "LocalRegistry", path = "L/LocalRegistry" }
 893b89ae-d513-59bf-bb22-7f8468641907 = { name = "LibYAML", path = "L/LibYAML" }
@@ -7619,6 +7622,7 @@ c4bf5708-b6a6-4fbe-bcd0-6850ed671584 = { name = "SavitzkyGolay", path = "S/Savit
 c4c1e6a2-6bdd-52e0-b56d-1d4734724d2d = { name = "CloudWatchLogs", path = "C/CloudWatchLogs" }
 c4c386cf-5103-5370-be45-f3a111cca3b8 = { name = "Rsvg", path = "R/Rsvg" }
 c4c688b2-6cc8-11e9-1c12-6d20b663313d = { name = "jlpkg", path = "J/jlpkg" }
+c4d2416d-3439-49b0-a3b3-18bf95df003e = { name = "DICOMTree", path = "D/DICOMTree" }
 c4d4532c-19f6-4375-9ced-3808a145cd37 = { name = "VoronoiFVMDiffEq", path = "V/VoronoiFVMDiffEq" }
 c4d99508-4286-5418-9131-c86396af500b = { name = "Xorg_xorgproto_jll", path = "jll/X/Xorg_xorgproto_jll" }
 c4dce911-e170-5107-8314-c7bdc6785395 = { name = "FFplay_jll", path = "jll/F/FFplay_jll" }
