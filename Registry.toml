@@ -391,6 +391,7 @@ some amount of consideration when choosing package names.
 0903f2b2-81ff-5be9-abf7-91be1d67eee8 = { name = "mold_jll", path = "jll/M/mold_jll" }
 09137a06-29c6-4e66-9476-ab7e4b8c7492 = { name = "MicrobiomeAnalysis", path = "M/MicrobiomeAnalysis" }
 0913cafa-90c8-523e-aa68-da9dd2ac225d = { name = "MarkableIntegers", path = "M/MarkableIntegers" }
+09181f56-3701-4cc7-90cd-48d6c64fd517 = { name = "GradValley", path = "G/GradValley" }
 093aae92-e908-43d7-9660-e50ee39d5a0a = { name = "BSplineKit", path = "B/BSplineKit" }
 093ab8f2-bf28-59ac-8da0-1d7157d27bf9 = { name = "TrueSkillThroughTime", path = "T/TrueSkillThroughTime" }
 093fc24a-ae57-5d10-9952-331d41423f4d = { name = "LightGraphs", path = "L/LightGraphs" }
@@ -667,6 +668,7 @@ some amount of consideration when choosing package names.
 103da179-b3e4-57c1-99a4-586354eb2c5a = { name = "ViscousFlow", path = "V/ViscousFlow" }
 1040807a-3a2f-4266-b2c1-805b33c7034a = { name = "RecordedArrays", path = "R/RecordedArrays" }
 104b5d7c-a370-577a-8038-80a2059c5097 = { name = "WebSockets", path = "W/WebSockets" }
+104c01f3-edb2-4478-93b7-cdaa98dd5680 = { name = "SatelliteDataSources", path = "S/SatelliteDataSources" }
 10506e09-08cd-5f0b-aee5-631de1bcc925 = { name = "FFAST", path = "F/FFAST" }
 10587292-549a-4141-aed9-b9dca56acf27 = { name = "ClusterAnalysis", path = "C/ClusterAnalysis" }
 105a4150-501d-4750-a750-eeda3b75fac2 = { name = "MathleticsFiles", path = "M/MathleticsFiles" }
@@ -1247,6 +1249,7 @@ some amount of consideration when choosing package names.
 1eb2ecf7-7547-4427-9254-f8e5a5c22f1d = { name = "SymmetricDispatch", path = "S/SymmetricDispatch" }
 1eb89384-759d-4e70-b7ef-f01bc3213651 = { name = "JupyterPlutoConverter", path = "J/JupyterPlutoConverter" }
 1ec41992-ff65-5c91-ac43-2df89e9693a4 = { name = "MosekTools", path = "M/MosekTools" }
+1eca0e19-7dec-47c1-ba23-53c12588e011 = { name = "MassSpec", path = "M/MassSpec" }
 1eca21be-9b9b-4ed8-839a-6d8ae26b1781 = { name = "FoldingTrees", path = "F/FoldingTrees" }
 1ecd5474-83a3-4783-bb4f-06765db800d2 = { name = "GraphMakie", path = "G/GraphMakie" }
 1ed8b502-d754-442c-8d5d-10ac956f44a1 = { name = "SciMLSensitivity", path = "S/SciMLSensitivity" }
@@ -5437,6 +5440,7 @@ some amount of consideration when choosing package names.
 8b046642-f1f6-4319-8d3c-209ddc03c586 = { name = "LLVMLoopInfo", path = "L/LLVMLoopInfo" }
 8b110c62-ada2-4dd7-b53a-29f29fe8f7f4 = { name = "UpdatableQRFactorizations", path = "U/UpdatableQRFactorizations" }
 8b137802-21d4-43b8-8610-b92ef2bbc330 = { name = "LambdaMaker", path = "L/LambdaMaker" }
+8b1691f7-6002-537d-bdf7-c6203599dc08 = { name = "nats_server_jll", path = "jll/N/nats_server_jll" }
 8b1724b8-7d2d-4f3a-bca2-6234a697fafb = { name = "DiscreteEventsLite", path = "D/DiscreteEventsLite" }
 8b390c8a-e41e-419b-b3a5-595c9a4d2b26 = { name = "LinearElasticity", path = "L/LinearElasticity" }
 8b424ff8-82f5-59a4-86a6-de3761897198 = { name = "Thebes", path = "T/Thebes" }
@@ -6274,6 +6278,7 @@ a225628a-78ad-46da-a6ce-ba24cead9d4b = { name = "XYZFiles", path = "X/XYZFiles" 
 a235858a-7fde-4a43-9af5-95134240a088 = { name = "ImpedanceSpectroscopy", path = "I/ImpedanceSpectroscopy" }
 a237f610-4214-5ca7-a9c6-385896804134 = { name = "DataFlow", path = "D/DataFlow" }
 a23c94f3-7123-4b19-879a-52247cde9a4c = { name = "QuestradeAPI", path = "Q/QuestradeAPI" }
+a23dbe5c-0729-48bd-99f5-ede0f658dfcb = { name = "ImageAnnotationsIO", path = "I/ImageAnnotationsIO" }
 a24218ac-d749-4e8e-be24-21e617b5c7ba = { name = "SignalTablesInterface_PyPlot", path = "S/SignalTablesInterface_PyPlot" }
 a2441757-f6aa-5fb2-8edb-039e3f45d037 = { name = "Coverage", path = "C/Coverage" }
 a24885ee-f44e-4313-a031-cb477fdea68a = { name = "Dimensionless", path = "D/Dimensionless" }
