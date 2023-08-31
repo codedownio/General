@@ -774,6 +774,7 @@ some amount of consideration when choosing package names.
 12c3852d-bf95-4e7b-be60-68937c3c927b = { name = "ProxAL", path = "P/ProxAL" }
 12c6fc8f-875a-4553-8591-2d09aedcb433 = { name = "MetaFEM", path = "M/MetaFEM" }
 12cd0da3-566c-4730-bd56-a37e9f18d9f8 = { name = "Constellation", path = "C/Constellation" }
+12d18e13-cff8-4251-aa6b-8ee855ff1651 = { name = "RoentgenPlots", path = "R/RoentgenPlots" }
 12d937ae-5f68-53be-93c9-3a6f997a20a8 = { name = "PEG", path = "P/PEG" }
 12e350a7-e224-4cd9-9794-6d6b55fa14c7 = { name = "HyperSphere", path = "H/HyperSphere" }
 12e6b396-7db5-4506-8cb6-664a4fe1e50e = { name = "RestrictedBoltzmannMachines", path = "R/RestrictedBoltzmannMachines" }
@@ -898,6 +899,7 @@ some amount of consideration when choosing package names.
 1603b9d5-f456-4bc7-93d8-0a6ecb110267 = { name = "AlignedArrays", path = "A/AlignedArrays" }
 1607259e-80f4-4675-b495-cb9c54bacb3f = { name = "SmallCouplingDynamicCavity", path = "S/SmallCouplingDynamicCavity" }
 16094072-63d9-4fab-833b-5e04479784a5 = { name = "AdaptableFunctions", path = "A/AdaptableFunctions" }
+160ab843-0bc6-4ba4-9585-b7478b70f443 = { name = "Satisfiability", path = "S/Satisfiability" }
 160ba089-64bf-5ba7-9e14-98ab1d9bcb0a = { name = "LightGraphsMatching", path = "L/LightGraphsMatching" }
 160d5eed-cb0b-5d5e-9732-2f740c539f3e = { name = "Intan", path = "I/Intan" }
 160ec2fe-adfa-420e-809b-15ae23db4a01 = { name = "Qaylla", path = "Q/Qaylla" }
@@ -2919,6 +2921,7 @@ some amount of consideration when choosing package names.
 4a8d4f75-71cb-571b-9f05-006d53d41a65 = { name = "Pathfinder_jll", path = "jll/P/Pathfinder_jll" }
 4a954452-39e6-424b-ae51-38fc4bbc42ef = { name = "VlasovMethods", path = "V/VlasovMethods" }
 4aa08641-d763-4623-9c5b-cef742500064 = { name = "Infernal", path = "I/Infernal" }
+4aa1efa8-8c96-46dc-bb17-447ab531c4bc = { name = "SimpleTestRunner", path = "S/SimpleTestRunner" }
 4aa82a78-ed18-41f9-aee6-9d73ba3a0b42 = { name = "RAFF", path = "R/RAFF" }
 4aa9d100-eb0f-11e8-15f1-25748831eb3b = { name = "GCMAES", path = "G/GCMAES" }
 4ac160eb-0277-4e02-b3c6-a4c4623dd812 = { name = "Remarkable", path = "R/Remarkable" }
@@ -3693,6 +3696,7 @@ some amount of consideration when choosing package names.
 5f210a59-4c6a-4c2f-87d5-5cd98d51789a = { name = "AdaptiveDesignOptimization", path = "A/AdaptiveDesignOptimization" }
 5f2830c0-a9f2-11e9-177d-47448fa133db = { name = "ShapeFactory", path = "S/ShapeFactory" }
 5f4392ac-266a-47fe-a3f9-ac8379aae758 = { name = "FunctionTabulations", path = "F/FunctionTabulations" }
+5f48918c-46a5-5bc9-aa52-10e03b443aad = { name = "umesimd_jll", path = "jll/U/umesimd_jll" }
 5f4fecfd-7eb0-5078-b7f6-ad1f2563c22a = { name = "BrowseTables", path = "B/BrowseTables" }
 5f6169ef-b865-4e89-817c-551391b0abce = { name = "RegressionDiscontinuity", path = "R/RegressionDiscontinuity" }
 5f6e1e16-694c-5876-87ef-16b5274f298e = { name = "LocalCoverage", path = "L/LocalCoverage" }
@@ -4303,6 +4307,7 @@ some amount of consideration when choosing package names.
 6e9f8158-41af-4c42-b493-3202dfdd0db4 = { name = "VTUFileHandler", path = "V/VTUFileHandler" }
 6ea382ba-d04a-44a2-b811-544bd2aee867 = { name = "MRIGradients", path = "M/MRIGradients" }
 6ea38b10-3220-4105-9032-02c82e619cdd = { name = "Anatta", path = "A/Anatta" }
+6ea5c882-2ec3-5826-84d1-aff636352c13 = { name = "OpenPolicyAgent_jll", path = "jll/O/OpenPolicyAgent_jll" }
 6eacf6c3-8458-43b9-ae03-caf5306d3d53 = { name = "CLIMAParameters", path = "C/CLIMAParameters" }
 6eb38059-8c05-41f7-8871-5e7e2697ace6 = { name = "PlutoPDF", path = "P/PlutoPDF" }
 6eb593e7-dfb4-4e48-b98e-d7222cdf0053 = { name = "AutoGP", path = "A/AutoGP" }
