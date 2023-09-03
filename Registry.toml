@@ -1207,6 +1207,7 @@ some amount of consideration when choosing package names.
 1d6e2fc3-29aa-4bd6-bf55-212bcb8e2840 = { name = "FinEtoolsFlexBeams", path = "F/FinEtoolsFlexBeams" }
 1d72914e-1fed-50e5-8d1f-642a1f6dcbc8 = { name = "ReinforcementLearningEnvironmentAtari", path = "R/ReinforcementLearningEnvironmentAtari" }
 1d781980-c74a-44d0-9ec2-b658ff5df7eb = { name = "DiBitVectors", path = "D/DiBitVectors" }
+1d861738-f48e-4029-b1d3-81ce6bc7f5ab = { name = "ThinPlateSplines", path = "T/ThinPlateSplines" }
 1d8dad79-2f3d-554c-bf22-543753cb6ff4 = { name = "TMscore_jll", path = "jll/T/TMscore_jll" }
 1d939cba-ab73-4bc0-975c-87d4c856e1f9 = { name = "MHDFlows", path = "M/MHDFlows" }
 1d969ca1-ee82-491a-b198-7f2f63a25c18 = { name = "FIRLSFilterDesign", path = "F/FIRLSFilterDesign" }
@@ -1288,6 +1289,7 @@ some amount of consideration when choosing package names.
 1fbf2c77-44e2-4d5d-8131-0fa618a5c278 = { name = "Salsa", path = "S/Salsa" }
 1fcaf345-95e3-5b8b-91d6-2145eb844b9d = { name = "GasPowerModels", path = "G/GasPowerModels" }
 1fcbbee2-b350-4a01-aad8-439064dba09e = { name = "LookingGlass", path = "L/LookingGlass" }
+1fd36721-02e5-4f31-ac70-029fcd7253d3 = { name = "ComplexPlots", path = "C/ComplexPlots" }
 1fd47b50-473d-5c70-9696-f719f8f3bcdc = { name = "QuadGK", path = "Q/QuadGK" }
 1fd64df0-a4d2-11e9-360d-2f03868f4cf5 = { name = "Xsum", path = "X/Xsum" }
 1fd713ca-387f-5abc-8002-d8b8b1623b73 = { name = "Attr_jll", path = "jll/A/Attr_jll" }
@@ -2773,6 +2775,7 @@ some amount of consideration when choosing package names.
 46cd3e9d-64ff-517d-a929-236bc1a1fc9d = { name = "StructuredOptimization", path = "S/StructuredOptimization" }
 46d2c3a1-f734-5fdb-9937-b9b9aeba4221 = { name = "MuladdMacro", path = "M/MuladdMacro" }
 46d747a0-b9e1-11e9-14b5-615c73e45078 = { name = "BridgeSDEInference", path = "B/BridgeSDEInference" }
+46d852a4-2fba-44bf-a445-ee38df28a2fc = { name = "SunCalc", path = "S/SunCalc" }
 46dd5b70-b6fb-5a00-ae2d-e8fea33afaf2 = { name = "Pardiso", path = "P/Pardiso" }
 46f1a544-deae-4307-8689-c12aa3c955c6 = { name = "NanoDates", path = "N/NanoDates" }
 47013893-54eb-5c9c-83b4-9a24496ece36 = { name = "grep_jll", path = "jll/G/grep_jll" }
@@ -2961,6 +2964,7 @@ some amount of consideration when choosing package names.
 4bc5dff0-e00f-5dee-8f43-8e76277f4f7d = { name = "YAJL_jll", path = "jll/Y/YAJL_jll" }
 4bc7fa8b-4ef2-4643-8c8b-cef036f85839 = { name = "XKCD", path = "X/XKCD" }
 4bd09668-9077-4be7-adc9-6307a490e6df = { name = "ConstraintLearning", path = "C/ConstraintLearning" }
+4bd444d9-eedc-4582-9e81-098846183c20 = { name = "NoteMate", path = "N/NoteMate" }
 4bfef8eb-d10e-4c1e-a6a0-b774b262ad28 = { name = "EmailScraper", path = "E/EmailScraper" }
 4c0387fe-3044-4118-bcfd-2d5824909cc7 = { name = "FunctionBarrier", path = "F/FunctionBarrier" }
 4c072129-1ba8-5d2f-8069-715d74d8ac68 = { name = "tree_sitter_java_jll", path = "jll/T/tree_sitter_java_jll" }
@@ -6000,6 +6004,7 @@ some amount of consideration when choosing package names.
 9b0ab244-28a7-517c-931e-75c4e3199a6c = { name = "MPSolve", path = "M/MPSolve" }
 9b13fd28-a010-5f03-acff-a1bbcff69959 = { name = "IndirectArrays", path = "I/IndirectArrays" }
 9b173c7b-dc24-4dc5-a0e1-adab2f7b6ba9 = { name = "YaoToEinsum", path = "Y/YaoToEinsum" }
+9b22aa7e-b0d0-4fe8-9c3b-2b8bf774f735 = { name = "RoomAcoustics", path = "R/RoomAcoustics" }
 9b2c3604-c02d-4033-9e75-a81d4d4fb586 = { name = "LinkCutTrees", path = "L/LinkCutTrees" }
 9b3bf0c4-f070-48bc-ae01-f2584e9c23bc = { name = "ProxyInterfaces", path = "P/ProxyInterfaces" }
 9b3c4d32-3d7d-4a87-a5c7-b3f87cf9d22b = { name = "SparseExtra", path = "S/SparseExtra" }
@@ -7565,6 +7570,7 @@ c2297e78-99bd-40ad-871d-f50e56b81012 = { name = "TensorInference", path = "T/Ten
 c22f9ab0-d5fe-5066-847c-f4bb1cd4e361 = { name = "Xorg_xcb_util_wm_jll", path = "jll/X/Xorg_xcb_util_wm_jll" }
 c2308a5c-f048-11e8-3e8a-31650f418d12 = { name = "FASTX", path = "F/FASTX" }
 c2416e8a-86ea-414a-9a91-c37c770c1547 = { name = "BayesFlux", path = "B/BayesFlux" }
+c24c5e2f-a713-4bab-b0d1-32f8b5281162 = { name = "Pilates", path = "P/Pilates" }
 c24d529b-c83e-40e0-9fc3-05832c05a0ba = { name = "TeeStreams", path = "T/TeeStreams" }
 c24f3079-adb7-4533-8329-9f66732e5e85 = { name = "DomainColoring", path = "D/DomainColoring" }
 c257ce95-4918-4279-a47c-50fdbcb74a04 = { name = "ConstrainedSystems", path = "C/ConstrainedSystems" }
