@@ -2016,6 +2016,7 @@ some amount of consideration when choosing package names.
 329f2bf2-1773-4f40-9abf-1830ae341a86 = { name = "AsynchronousIterativeAlgorithms", path = "A/AsynchronousIterativeAlgorithms" }
 32a0d02f-32d9-4438-b5ed-3a2932b48f96 = { name = "PolygonAlgorithms", path = "P/PolygonAlgorithms" }
 32aeb37a-e545-4ed8-bfb1-909facd87807 = { name = "Settn", path = "S/Settn" }
+32af7c3b-80ec-5621-8194-2f6cb2280831 = { name = "MuJoCo_jll", path = "jll/M/MuJoCo_jll" }
 32b24f23-0065-419a-aebb-272ab3b73786 = { name = "Symplectic", path = "S/Symplectic" }
 32ce50af-5875-4c4d-b676-f166988c519c = { name = "OceanographyCruises", path = "O/OceanographyCruises" }
 32cfe2d9-419e-45f2-8191-2267705d8dbc = { name = "YaoPlots", path = "Y/YaoPlots" }
@@ -2107,6 +2108,7 @@ some amount of consideration when choosing package names.
 352459e4-ddd7-4360-8937-99dcb397b478 = { name = "ExtXYZ", path = "E/ExtXYZ" }
 35248bf2-58a5-46a0-9b1d-c0a73a50a101 = { name = "SudokuSolver", path = "S/SudokuSolver" }
 35248bf2-58a5-46a0-9b1d-c0a73a50a103 = { name = "SampledVectors", path = "S/SampledVectors" }
+35248bf2-58a5-46a0-9b1d-c0a73a50a105 = { name = "LanguageIdentification", path = "L/LanguageIdentification" }
 3525faa3-032d-4235-a8d4-8c2939a218dd = { name = "ZXCalculus", path = "Z/ZXCalculus" }
 3532a73c-0c3e-5edc-89e3-d771336b0a2d = { name = "ParticleScattering", path = "P/ParticleScattering" }
 353a8573-383f-4727-b0e9-478950a5ec11 = { name = "DrillMudsThermalProps", path = "D/DrillMudsThermalProps" }
@@ -2240,6 +2242,7 @@ some amount of consideration when choosing package names.
 3873f7d0-7b7c-52c3-bdf4-8ab39b8f337a = { name = "lrslib_jll", path = "jll/L/lrslib_jll" }
 38789a04-2ff8-46a2-8332-e7d8e8ce74aa = { name = "PairAsPipe", path = "P/PairAsPipe" }
 387dbc25-93e3-4e71-ad28-7b91e77c6da4 = { name = "JDQMCMeasurements", path = "J/JDQMCMeasurements" }
+388cb286-f2b1-4654-a3bb-2e137a39c658 = { name = "CellBasedModels", path = "C/CellBasedModels" }
 388fe821-2770-44f1-8af1-e3d616332038 = { name = "CHomP", path = "C/CHomP" }
 3890dd07-cc9a-5220-ba41-7d914d0b28d4 = { name = "tree_sitter_html_jll", path = "jll/T/tree_sitter_html_jll" }
 3894bb1e-daea-4181-948f-3877d7a6e5a8 = { name = "FvCFD", path = "F/FvCFD" }
@@ -4442,6 +4445,7 @@ some amount of consideration when choosing package names.
 71cc7b0d-25ae-54b3-b08b-36363cca7c2f = { name = "VMEC_jll", path = "jll/V/VMEC_jll" }
 71ce3a53-bc01-4ee9-b4af-5ce581ee5149 = { name = "Pitches", path = "P/Pitches" }
 71cfaeeb-f3e6-59e7-80b9-1b8c23d8f010 = { name = "RTLSDR", path = "R/RTLSDR" }
+71d5d903-a9d4-4e03-9846-ef3fdeefd64d = { name = "SimulinkSDIImporter", path = "S/SimulinkSDIImporter" }
 71dbed6d-20b0-48c6-bb22-c3e423edce76 = { name = "MPIAsyncPools", path = "M/MPIAsyncPools" }
 71e1c77a-176e-49fd-a90f-f84a4a948e95 = { name = "SimpleCaching", path = "S/SimpleCaching" }
 71e43887-2bd9-5f77-aebd-47f656f0a3f0 = { name = "SolidStateDetectors", path = "S/SolidStateDetectors" }
@@ -7514,6 +7518,7 @@ c0b9960a-c887-5387-b23a-5cf61873b836 = { name = "JuliaBerry", path = "J/JuliaBer
 c0c4b1a4-92fd-414d-990e-850c1287bada = { name = "EcRequests", path = "E/EcRequests" }
 c0c96f75-fb1e-4a0c-bd73-67714f26b91d = { name = "LocalPoly", path = "L/LocalPoly" }
 c0cd4b16-88b7-57fa-983b-ab80aecada7e = { name = "BAT", path = "B/BAT" }
+c0cf9fb7-f496-4999-a425-c50785d1b88b = { name = "AstrodynamicalCalculations", path = "A/AstrodynamicalCalculations" }
 c0d5b6db-e3fc-52bc-a87d-1d050989ed3b = { name = "PhyloPlots", path = "P/PhyloPlots" }
 c0d8f697-7833-4eed-a9bd-1f3da4013f1a = { name = "VertexFinder", path = "V/VertexFinder" }
 c0e83750-1142-43a8-81cf-6c956b72b4d1 = { name = "FastPow", path = "F/FastPow" }
