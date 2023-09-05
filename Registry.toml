@@ -1194,6 +1194,7 @@ some amount of consideration when choosing package names.
 1d1c96c1-3ba7-528d-adec-26a13d5085b5 = { name = "zimg_jll", path = "jll/Z/zimg_jll" }
 1d2b6a6e-f79c-4b33-849e-5348bdb84a0f = { name = "ModularFormsModuloTwo", path = "M/ModularFormsModuloTwo" }
 1d2f066d-44b9-5d42-b96c-230d176e2df5 = { name = "tree_sitter_php_jll", path = "jll/T/tree_sitter_php_jll" }
+1d30c219-805f-47bd-9cb8-33f291c94a4c = { name = "HighVoronoi", path = "H/HighVoronoi" }
 1d38b3a6-207b-531b-80e8-c83f48dafa73 = { name = "FLAC_jll", path = "jll/F/FLAC_jll" }
 1d40253f-d7d5-5bc2-be73-07f0f24a3532 = { name = "Pushover", path = "P/Pushover" }
 1d51b185-1a84-59cf-b84e-03b0e3da30b7 = { name = "DrawSimpleGraphs", path = "D/DrawSimpleGraphs" }
@@ -2282,6 +2283,7 @@ some amount of consideration when choosing package names.
 39591389-4884-462a-89e7-9edfce40b6eb = { name = "ThreadedSparseCSR", path = "T/ThreadedSparseCSR" }
 3967666a-e078-4e4b-aee9-ca7b8401761d = { name = "Grumps", path = "G/Grumps" }
 396aa475-d5af-5b65-8c11-5c82e21b2380 = { name = "MultiResolutionIterators", path = "M/MultiResolutionIterators" }
+39799108-5025-4d0e-9a62-95a61c8c6061 = { name = "GaussMLE", path = "G/GaussMLE" }
 397faa13-b53e-4cbf-b1cd-0b7e158e6587 = { name = "Edlib", path = "E/Edlib" }
 3986aa12-c984-439b-887a-f8545bea0e93 = { name = "SyncBarriers", path = "S/SyncBarriers" }
 39881422-4b75-5582-a5c7-0feb14562a65 = { name = "SetProg", path = "S/SetProg" }
@@ -2352,6 +2354,7 @@ some amount of consideration when choosing package names.
 3b27209a-d3d6-11e9-3c0f-41eb92b2cb9d = { name = "YaoSym", path = "Y/YaoSym" }
 3b2b4ff1-bcff-5658-a3ee-dbcf1ce5ac09 = { name = "Multisets", path = "M/Multisets" }
 3b430cce-3194-5812-b203-bf9e73c3e836 = { name = "AEMS", path = "A/AEMS" }
+3b43121a-1122-4a83-b2b6-7ec1eb6161aa = { name = "CycleSolver", path = "C/CycleSolver" }
 3b47aaff-9524-5d9d-a292-eeb6a187c032 = { name = "FocusedBlindDecon", path = "F/FocusedBlindDecon" }
 3b47cccd-2e0f-43d2-aaa1-0b61cbee3591 = { name = "NumericalAlgorithms", path = "N/NumericalAlgorithms" }
 3b531cbf-ee43-4e67-8118-dca2c9372f86 = { name = "DataConvenience", path = "D/DataConvenience" }
@@ -3531,6 +3534,7 @@ some amount of consideration when choosing package names.
 5ad3ddd2-0711-543a-b040-befd59781bbf = { name = "libjulia_jll", path = "jll/L/libjulia_jll" }
 5ad8b20f-a522-5ce9-bfc9-ddf1d5bda6ab = { name = "PhysicalConstants", path = "P/PhysicalConstants" }
 5adc30d5-9ddf-423c-bb15-ece697bec3ab = { name = "Isoplot", path = "I/Isoplot" }
+5ae39bbf-cd25-4248-8c0a-5a8eea00c34e = { name = "DopplerSpectroscopyCore", path = "D/DopplerSpectroscopyCore" }
 5ae413db-bbd1-5e63-b57d-d24a61df00f5 = { name = "EarCut_jll", path = "jll/E/EarCut_jll" }
 5ae59095-9a9b-59fe-a467-6f913c188581 = { name = "Colors", path = "C/Colors" }
 5ae71ed2-6f8a-4ed1-b94f-e14e8158f19e = { name = "CombinedParsers", path = "C/CombinedParsers" }
@@ -4931,6 +4935,7 @@ some amount of consideration when choosing package names.
 7df18d33-496e-4cfd-8564-72cba2c0b329 = { name = "AoGExtensions", path = "A/AoGExtensions" }
 7e02d93a-ae51-4f58-b602-d97af76e3b33 = { name = "OptimalTransport", path = "O/OptimalTransport" }
 7e08b658-56d3-11e9-2997-919d5b31e4ea = { name = "GeometricFlux", path = "G/GeometricFlux" }
+7e097bd5-a775-4bc1-90b6-ad92bd7220c1 = { name = "LibTrixi", path = "L/LibTrixi" }
 7e0f99ac-a6fe-4198-8809-f35fd52d95a1 = { name = "Aurora", path = "A/Aurora" }
 7e11003c-6902-4de6-b30c-de11577d87f1 = { name = "NetDecOPF", path = "N/NetDecOPF" }
 7e11e036-0ca3-4a2d-a287-b6bec19ddff0 = { name = "GHCNData", path = "G/GHCNData" }
