@@ -90,6 +90,7 @@ some amount of consideration when choosing package names.
 01b28500-b454-11e9-2ad6-37799b6cb31a = { name = "CVortex", path = "C/CVortex" }
 01bcebdf-4d21-426d-b5c4-6132c1619978 = { name = "Nonconvex", path = "N/Nonconvex" }
 01d81517-befc-4cb6-b9ec-a95719d0359c = { name = "RecipesPipeline", path = "R/RecipesPipeline" }
+01da207a-183e-480e-93ab-a94ea6491b8c = { name = "SpectralResampling", path = "S/SpectralResampling" }
 01db5350-6ea1-5d9a-9a47-8a31a394cb9c = { name = "AWSCRT_jll", path = "jll/A/AWSCRT_jll" }
 01e79fc4-f247-5fa3-af0e-2bd1d4cc767f = { name = "Cumulants", path = "C/Cumulants" }
 01eff828-7024-11e9-3df0-8b77921d67e3 = { name = "Limbdark", path = "L/Limbdark" }
@@ -775,6 +776,7 @@ some amount of consideration when choosing package names.
 12c6fc8f-875a-4553-8591-2d09aedcb433 = { name = "MetaFEM", path = "M/MetaFEM" }
 12cd0da3-566c-4730-bd56-a37e9f18d9f8 = { name = "Constellation", path = "C/Constellation" }
 12d18e13-cff8-4251-aa6b-8ee855ff1651 = { name = "RoentgenPlots", path = "R/RoentgenPlots" }
+12d8515a-0907-448a-8884-5fe00fdf1c5a = { name = "EnzymeTestUtils", path = "E/EnzymeTestUtils" }
 12d937ae-5f68-53be-93c9-3a6f997a20a8 = { name = "PEG", path = "P/PEG" }
 12e350a7-e224-4cd9-9794-6d6b55fa14c7 = { name = "HyperSphere", path = "H/HyperSphere" }
 12e6b396-7db5-4506-8cb6-664a4fe1e50e = { name = "RestrictedBoltzmannMachines", path = "R/RestrictedBoltzmannMachines" }
@@ -5655,6 +5657,7 @@ some amount of consideration when choosing package names.
 90d841e0-6953-4e90-9f3a-43681da8e949 = { name = "View5D", path = "V/View5D" }
 90db92cd-0007-4c0a-8e51-dbf0782ce592 = { name = "VLBILikelihoods", path = "V/VLBILikelihoods" }
 90e503ea-487f-4e8e-81fe-8dcc9db25ac5 = { name = "OpenQuantumSystems", path = "O/OpenQuantumSystems" }
+90edb7a8-79d7-49b2-b6b1-9322c3fdead8 = { name = "Diffusers", path = "D/Diffusers" }
 90f18bad-8de6-4f24-a7ee-bfe158ef45c0 = { name = "SymbolicCircuit", path = "S/SymbolicCircuit" }
 90fa49ef-747e-5e6f-a989-263ba693cf1a = { name = "ErrorfreeArithmetic", path = "E/ErrorfreeArithmetic" }
 9113e207-2504-4b06-8eee-d78e288bee65 = { name = "StableTrees", path = "S/StableTrees" }
@@ -8738,6 +8741,7 @@ dfba38dd-e1e3-5ba0-a365-f7fdd7187232 = { name = "BHAtp", path = "B/BHAtp" }
 dfbeeb84-381a-44da-9ec9-a723abf299c7 = { name = "OptionalArgChecks", path = "O/OptionalArgChecks" }
 dfcd5af1-1e31-431a-b1a1-3c72ddca0e1b = { name = "LaserFields", path = "L/LaserFields" }
 dfdd4555-3ad7-41cc-a503-a251c9c652f9 = { name = "BanyanDataFrames", path = "B/BanyanDataFrames" }
+dfdd8f93-37cf-4dac-b522-93b2288e19f1 = { name = "RasterHistograms", path = "R/RasterHistograms" }
 dfe201cf-525d-5101-8f66-6dc5e2f3b224 = { name = "Objconv_jll", path = "jll/O/Objconv_jll" }
 dfeb4ede-c75e-11e9-050d-41ab7a730e9e = { name = "PlanktonIndividuals", path = "P/PlanktonIndividuals" }
 dff2f42d-5506-450f-a8d7-e8287f476a07 = { name = "HnswAnn", path = "H/HnswAnn" }
