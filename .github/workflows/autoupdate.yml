@@ -71,6 +71,8 @@ jobs:
           --write-new-failures JuliaRegistriesGeneral/failures.yml \
           --num-workers 15
 
+        exit 0
+
     - name: Make a new commit with the changes
       run: |
         pushd JuliaRegistriesGeneral
