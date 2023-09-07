@@ -27,7 +27,7 @@ jobs:
 
     - uses: haskell/actions/setup@v2
       with:
-        ghc-version: "9.2.7"
+        ghc-version: "9.2.8"
         stack-version: "latest"
         enable-stack: true
 
@@ -35,7 +35,7 @@ jobs:
       uses: actions/cache@v3
       with:
         path: ~/.stack
-        key: ${{ runner.os }}-9.2.7-stack-2
+        key: ${{ runner.os }}-9.2.8-stack-2
 
     - name: Build
       run: |
