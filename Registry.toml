@@ -3117,6 +3117,7 @@ some amount of consideration when choosing package names.
 4f75ad7f-53e1-4703-a57b-ee35418d6f20 = { name = "RandomSplit", path = "R/RandomSplit" }
 4f7c0122-5260-4c96-aca3-bf9f51513501 = { name = "DistributedStwdLDA", path = "D/DistributedStwdLDA" }
 4f82f1eb-248c-5f56-a42e-99106d144614 = { name = "CUDA_full_jll", path = "jll/C/CUDA_full_jll" }
+4f8305f1-6461-5f12-b534-9c962894ae19 = { name = "asdf_cxx_jll", path = "jll/A/asdf_cxx_jll" }
 4f8a0a0a-376d-5ac0-ab14-e88793df67f0 = { name = "GenomicAnnotations", path = "G/GenomicAnnotations" }
 4f8c86c6-9e40-5506-9807-98571cb48bc8 = { name = "MarketTechnicals", path = "M/MarketTechnicals" }
 4f8f7498-1303-42e1-920c-5033445536df = { name = "Ghost", path = "G/Ghost" }
@@ -7530,6 +7531,7 @@ c07c4cf6-b85e-11e9-2ee5-393f21797b38 = { name = "ITK", path = "I/ITK" }
 c0867ef0-7eb8-477c-bc68-2f3754ecb96a = { name = "SpatialAccessTrees", path = "S/SpatialAccessTrees" }
 c08c26e9-7d88-5404-9cd5-c0fa6a8b90ba = { name = "ForecastEval", path = "F/ForecastEval" }
 c095b0ea-a6ca-5cbd-afed-dbab2e976880 = { name = "ACTRModels", path = "A/ACTRModels" }
+c09c6b7f-4f63-49de-90d9-97a3563c0f4a = { name = "Herb", path = "H/Herb" }
 c0a9bebe-16b7-413a-a76c-3b37481804e9 = { name = "BitemporalPostgresDDL", path = "B/BitemporalPostgresDDL" }
 c0aeaf25-5076-4817-a8d5-81caf7dfa961 = { name = "SciMLOperators", path = "S/SciMLOperators" }
 c0b1955d-4702-4680-a946-720482e78a48 = { name = "BetterInputFiles", path = "B/BetterInputFiles" }
@@ -8570,6 +8572,7 @@ db222a54-9a4e-11e9-2a63-0f03ae0fd449 = { name = "DynamicGridsGtk", path = "D/Dyn
 db2c278d-83f0-4638-b51a-78d51d6a70fe = { name = "DyadicKDE", path = "D/DyadicKDE" }
 db4098a7-f8f2-406b-8234-eadcec31f805 = { name = "InfinityEngine", path = "I/InfinityEngine" }
 db432338-e110-4b7a-9c53-0ace38eb8f7f = { name = "NonparametricRegression", path = "N/NonparametricRegression" }
+db43a6b5-d1be-4ac2-9828-026fb2246ab5 = { name = "YodaFiles", path = "Y/YodaFiles" }
 db448a0f-c3d9-5f82-93ff-ed9bd37d70e8 = { name = "GenomicMaps", path = "G/GenomicMaps" }
 db474457-f03d-4fd7-b196-5f323c96c803 = { name = "AbstractPDEInterfaces", path = "A/AbstractPDEInterfaces" }
 db4fe9aa-a353-4142-ac3f-608941c5a4fc = { name = "HyperbolicCrossApprox", path = "H/HyperbolicCrossApprox" }
@@ -9267,6 +9270,7 @@ ed268df6-2d29-4139-a3e0-ddeb8be80dc7 = { name = "CachedFunctions", path = "C/Cac
 ed2dc23b-ada4-5fdb-a26f-56368a14ad8f = { name = "EcoSISTEM", path = "E/EcoSISTEM" }
 ed3f9b50-51cd-11e9-3ece-75fc8af922bb = { name = "Kwant", path = "K/Kwant" }
 ed46c112-542a-4e7e-ab0f-e39321fab6f0 = { name = "Napari", path = "N/Napari" }
+ed4db957-447d-4319-bfb6-7fa9ae7ecf34 = { name = "TaskLocalValues", path = "T/TaskLocalValues" }
 ed5aba05-e74d-5cf7-8b09-107ba3463b8e = { name = "acl_jll", path = "jll/A/acl_jll" }
 ed5d0301-4775-4676-b788-cf71e66ff8ed = { name = "PlutoExtras", path = "P/PlutoExtras" }
 ed5fc19a-51e0-403b-bf3b-cfeba61ff831 = { name = "MoM_AllinOne", path = "M/MoM_AllinOne" }
