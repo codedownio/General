@@ -329,6 +329,7 @@ some amount of consideration when choosing package names.
 079eb43e-fd8e-5478-9966-2cf3e3edb778 = { name = "NLopt_jll", path = "jll/N/NLopt_jll" }
 07a8691f-3d11-4330-951b-3c50f98338be = { name = "PGLib", path = "P/PGLib" }
 07aaf720-95f5-4794-b3fe-c98bfa9054ef = { name = "DiagnosisClassification", path = "D/DiagnosisClassification" }
+07b0ad8c-101f-43fe-82b6-eff101a491e1 = { name = "PyCallJLD2", path = "P/PyCallJLD2" }
 07b341a0-ce75-57c6-b2de-414ffdc00be5 = { name = "ADCME", path = "A/ADCME" }
 07bf71a7-21be-5f6a-a6d1-44595bb4f960 = { name = "Arbitrary", path = "A/Arbitrary" }
 07c12ed4-43bc-5495-8a2a-d5838ef8d533 = { name = "ghr_jll", path = "jll/G/ghr_jll" }
@@ -1102,6 +1103,7 @@ some amount of consideration when choosing package names.
 1a68f91a-d9eb-11e8-2e16-69ad0016fc96 = { name = "WaterWaves1D", path = "W/WaterWaves1D" }
 1a7fcfa4-7553-5727-a5d0-072824df3c21 = { name = "PathDistribution", path = "P/PathDistribution" }
 1a804d9e-d798-534b-a6a9-4525c36f0718 = { name = "FMMLIB2D", path = "F/FMMLIB2D" }
+1a86d166-648f-46fd-af52-fbd54890c8f1 = { name = "UncertainEvidence", path = "U/UncertainEvidence" }
 1a8a6ae1-07e9-4335-83e9-6ca622dd13bc = { name = "Hawkes", path = "H/Hawkes" }
 1a8c2f83-1ff3-5112-b086-8aa67b057ba1 = { name = "Query", path = "Q/Query" }
 1a8df32f-26ad-40b8-8029-212bc012bd57 = { name = "StackOverflow", path = "S/StackOverflow" }
@@ -6808,6 +6810,7 @@ ae81ac8f-d209-56e5-92de-9978fef736f9 = { name = "ASL_jll", path = "jll/A/ASL_jll
 ae83496e-abbd-5b27-8e4c-ced0103e1cfe = { name = "ATKmm_jll", path = "jll/A/ATKmm_jll" }
 ae8a6b66-6d5b-48e8-98b1-80a7170c1f48 = { name = "SparseADRules", path = "S/SparseADRules" }
 ae8d54c2-7ccd-5906-9d76-62fc9837b5bc = { name = "Luxor", path = "L/Luxor" }
+ae947f86-e600-46c5-84d9-4ddc2fc15820 = { name = "DroughtIndices", path = "D/DroughtIndices" }
 aea05ee4-eee8-4bb2-9be1-ccb376bfd141 = { name = "LightLearn", path = "L/LightLearn" }
 aea3f91d-3b18-5712-a377-5bd7ed4ed15b = { name = "MolecularBoxes", path = "M/MolecularBoxes" }
 aea672f4-3940-5932-aa44-993d1c3ff149 = { name = "Phylo", path = "P/Phylo" }
@@ -7408,6 +7411,7 @@ bd581358-d3fa-499e-a26e-e70307242c03 = { name = "Microgrids", path = "M/Microgri
 bd5c46ae-da38-4b10-bcdd-5005402f2c4f = { name = "ExpiringCaches", path = "E/ExpiringCaches" }
 bd672f18-e544-480e-9008-37c9c38661cd = { name = "ConicBundle", path = "C/ConicBundle" }
 bd6f3a87-2f53-57d0-9c4e-5625ef189a5e = { name = "DungBase", path = "D/DungBase" }
+bd7198b4-c7d6-400c-9bab-9a24614b0240 = { name = "TaijaPlotting", path = "T/TaijaPlotting" }
 bd7594eb-a658-542f-9e75-4c4d8908c167 = { name = "SampledSignals", path = "S/SampledSignals" }
 bd7bc4c3-5181-47e7-9a4c-580310605fa6 = { name = "NonconvexAugLagLab", path = "N/NonconvexAugLagLab" }
 bd85187e-0531-4a3e-9fea-713204a818a2 = { name = "AbstractLogic", path = "A/AbstractLogic" }
