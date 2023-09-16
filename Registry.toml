@@ -1282,6 +1282,7 @@ some amount of consideration when choosing package names.
 1f5e811d-5acb-4dfc-9a45-b3a27d369aae = { name = "TernaryPlots", path = "T/TernaryPlots" }
 1f615318-737c-46ca-9fde-6231706b5dcc = { name = "FredApi", path = "F/FredApi" }
 1f61ac2c-3a1c-440a-925a-2707197041c8 = { name = "RvSpectML", path = "R/RvSpectML" }
+1f6468c7-4102-49b4-b9cb-2bfb41b5fdca = { name = "TeensyLoaderCLI", path = "T/TeensyLoaderCLI" }
 1f6a33d4-8dbe-4644-aee6-8f897f240d65 = { name = "ProbabilisticEchoInversion", path = "P/ProbabilisticEchoInversion" }
 1f764b34-43ae-408e-9bb4-377386bc1704 = { name = "HMRowUnification", path = "H/HMRowUnification" }
 1f77302d-495a-4b02-8d15-b81beb84162e = { name = "LibMseed", path = "L/LibMseed" }
@@ -1970,6 +1971,7 @@ some amount of consideration when choosing package names.
 313cdc1a-70c2-5d6a-ae34-0150d3930a38 = { name = "Indexing", path = "I/Indexing" }
 31434429-0e9f-4d24-947a-14cd43782323 = { name = "SmoothLivePlot", path = "S/SmoothLivePlot" }
 314ce334-5f6e-57ae-acf6-00b6e903104a = { name = "TaylorModels", path = "T/TaylorModels" }
+314d2b54-f2c3-11ea-15f2-0bcf2fc50b35 = { name = "mPulseAPI", path = "M/mPulseAPI" }
 31531b1e-8b04-434d-b24f-20dc49cbf098 = { name = "TensorPACK", path = "T/TensorPACK" }
 315ce56f-eed0-411d-ab8a-2fbdf9327b51 = { name = "SymbolicIntegration", path = "S/SymbolicIntegration" }
 315f7962-48a3-4962-8226-d0f33b1235f0 = { name = "NeuralPDE", path = "N/NeuralPDE" }
@@ -4538,6 +4540,7 @@ some amount of consideration when choosing package names.
 734bcdfa-9b77-4718-b76e-d5faf726ad42 = { name = "ODEHybrid", path = "O/ODEHybrid" }
 735f9d89-249f-4fc4-9125-480239e6a78f = { name = "MicroCoverage", path = "M/MicroCoverage" }
 735ffce8-66c7-5b61-a90f-89c46d1a79d5 = { name = "TrafficAssignment", path = "T/TrafficAssignment" }
+736c604d-46d4-4c6b-993b-58f501ada7d6 = { name = "DefaultFields", path = "D/DefaultFields" }
 736d6165-7244-6769-4267-6b50796e6954 = { name = "MarkdownLiteral", path = "M/MarkdownLiteral" }
 73717f16-8662-5d85-9e79-a3c1fc1c8861 = { name = "ABC_jll", path = "jll/A/ABC_jll" }
 73760f76-fbc4-59ce-8f25-708e95d2df96 = { name = "SignedDistanceFields", path = "S/SignedDistanceFields" }
@@ -6770,6 +6773,7 @@ acf642fa-ee0e-513a-b9d5-bcd150f7ec3b = { name = "FluxMPI", path = "F/FluxMPI" }
 acf6eb54-70d9-11e9-0013-234b7a5f5337 = { name = "DFTK", path = "D/DFTK" }
 ad0872d7-b137-4624-87af-d763ac8dea1a = { name = "VisualSearchACTR", path = "V/VisualSearchACTR" }
 ad2082ca-a69e-11e9-38fa-e96309a31fe4 = { name = "ExportAll", path = "E/ExportAll" }
+ad26291b-5ad9-4b61-8cdb-f4ecfd1c1fc8 = { name = "GeoDataPicker", path = "G/GeoDataPicker" }
 ad36b3a9-85b5-4b8d-a935-e72ac6d2d37a = { name = "WolfRiverPlots", path = "W/WolfRiverPlots" }
 ad3d3fd0-b5f2-51ee-b274-8cdbe62317e2 = { name = "SOFA", path = "S/SOFA" }
 ad42c870-428c-46ff-ae37-01b7349146a9 = { name = "AdversarialPrediction", path = "A/AdversarialPrediction" }
@@ -7825,6 +7829,7 @@ c6e7a17c-0287-4a42-9433-7fe3bf8697c3 = { name = "SantasLittleHelpers", path = "S
 c6f25543-311c-4c74-83dc-3ea6d1015661 = { name = "MLJDecisionTreeInterface", path = "M/MLJDecisionTreeInterface" }
 c6f6ee83-58c6-5336-a19f-2c76817e1af6 = { name = "POMDPXFiles", path = "P/POMDPXFiles" }
 c7015dd7-3fb7-4a4c-827e-526313618491 = { name = "MatrixEnsembles", path = "M/MatrixEnsembles" }
+c709b415-507b-45b7-9a3d-1767c89fde68 = { name = "Imbalance", path = "I/Imbalance" }
 c71ae3cc-a68c-42a6-9c9a-bb45e30452df = { name = "IsotopeTableDF", path = "I/IsotopeTableDF" }
 c72e72a9-a271-4b2b-8966-303ed956772e = { name = "SDEProblemLibrary", path = "S/SDEProblemLibrary" }
 c73af94c-d91f-53ed-93a7-00f77d67a9d7 = { name = "ImageMagick_jll", path = "jll/I/ImageMagick_jll" }
@@ -8283,6 +8288,7 @@ d3391a6e-3825-4561-b7f8-2cd130659cb1 = { name = "StipplePlotlyExport", path = "S
 d33a0dba-7a8b-4e4b-94ae-537a05778f3e = { name = "Bactos", path = "B/Bactos" }
 d341526d-637d-5003-8fc4-9c6812cd2b55 = { name = "minimap2_jll", path = "jll/M/minimap2_jll" }
 d34e300a-2cc9-5961-b927-8807a6583580 = { name = "GRAMPC_jll", path = "jll/G/GRAMPC_jll" }
+d352d416-c122-4e2b-b229-b93695c65420 = { name = "SelfConcordantSmoothOptimization", path = "S/SelfConcordantSmoothOptimization" }
 d354fa79-ed1c-40d4-88ef-b8c7bd1568af = { name = "MLJClusteringInterface", path = "M/MLJClusteringInterface" }
 d3576f78-cb9d-4774-9dc5-b247cf392ff4 = { name = "TightBindingApproximation", path = "T/TightBindingApproximation" }
 d35a0d8d-9068-5be2-914f-8871ec93937d = { name = "nanoflann_jll", path = "jll/N/nanoflann_jll" }
