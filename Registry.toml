@@ -2759,6 +2759,7 @@ some amount of consideration when choosing package names.
 458c3c95-2e84-50aa-8efc-19380b2a3a95 = { name = "OpenSSL_jll", path = "jll/O/OpenSSL_jll" }
 45948f9d-8d54-5094-b7bd-7e0ca68150a5 = { name = "libopenjpegextra_jll", path = "jll/L/libopenjpegextra_jll" }
 459566f4-90b8-5000-8ac3-15dfb0a30def = { name = "DiffEqCallbacks", path = "D/DiffEqCallbacks" }
+45996516-d782-4985-8a4d-8a8f0336c9da = { name = "SlackAPI", path = "S/SlackAPI" }
 459fdd68-db75-56b8-8c15-d717a790f88e = { name = "ComputedFieldTypes", path = "C/ComputedFieldTypes" }
 45a664f0-7593-4733-b76c-60f36ef4c15f = { name = "HypergeoMat", path = "H/HypergeoMat" }
 45b28afb-7f9c-4d83-a9c8-739861dbc76b = { name = "Fronts", path = "F/Fronts" }
@@ -2966,6 +2967,7 @@ some amount of consideration when choosing package names.
 4aceb6fc-b794-5e89-b0ac-b6eba507a4bd = { name = "ValueOrientedRiskManagementInsurance", path = "V/ValueOrientedRiskManagementInsurance" }
 4adfaa65-5b36-4fba-9909-626196083c27 = { name = "XNumbers", path = "X/XNumbers" }
 4ae10c0b-1ab8-4fd6-bf00-fff7d91da249 = { name = "DiscreteDifferentialGeometry", path = "D/DiscreteDifferentialGeometry" }
+4ae1174a-2808-43b3-975e-65e36c59b120 = { name = "LFUDACache", path = "L/LFUDACache" }
 4af1e8a0-adf0-4fd3-8f3c-83fd73567e83 = { name = "MarsagliaDiscreteSamplers", path = "M/MarsagliaDiscreteSamplers" }
 4af54fe1-eca0-43a8-85a7-787d91b784e3 = { name = "LazyArtifacts", path = "L/LazyArtifacts" }
 4af8ee2a-afa9-11e9-10dc-fb1b37f8f4b5 = { name = "LinearCovarianceModels", path = "L/LinearCovarianceModels" }
@@ -3915,6 +3917,7 @@ some amount of consideration when choosing package names.
 63ebbf9a-108b-456f-88e1-4a75abca4b5c = { name = "BinaryTemplates", path = "B/BinaryTemplates" }
 63f0b19f-427a-5b2a-b609-1f7cb59889f7 = { name = "BKTrees", path = "B/BKTrees" }
 63f90415-d3ea-41a7-8107-8cc186a9b888 = { name = "CitableAnnotations", path = "C/CitableAnnotations" }
+63fc710f-0bc7-4874-ab74-c4bc690e10f2 = { name = "DatadogAgentClient", path = "D/DatadogAgentClient" }
 63ff9c73-14d6-49bd-be05-5ad278f77d6a = { name = "EmpiricalOrthogonalFunctions", path = "E/EmpiricalOrthogonalFunctions" }
 64031d72-e220-11ed-1a7e-43a2532b2fa8 = { name = "SimpleCrystals", path = "S/SimpleCrystals" }
 6405355b-0ac2-5fba-af84-adbd65488c0e = { name = "Mosek", path = "M/Mosek" }
@@ -4772,6 +4775,7 @@ some amount of consideration when choosing package names.
 78ae1a1f-1d5d-5174-b61c-66e31b2346dc = { name = "QuantumLattices", path = "Q/QuantumLattices" }
 78af60b6-7677-4c75-8291-bd270d1b4390 = { name = "SMARTBackendServices", path = "S/SMARTBackendServices" }
 78b212ba-a7f9-42d4-b726-60726080707e = { name = "Javis", path = "J/Javis" }
+78b365f2-6d95-4275-8db6-8dceb35a712b = { name = "FlagSOS", path = "F/FlagSOS" }
 78b55507-aeef-58d4-861c-77aaff3498b1 = { name = "Gettext_jll", path = "jll/G/Gettext_jll" }
 78ba9c6e-4c92-4abc-8d32-e9cb1304b8da = { name = "QuantumStateDistributions", path = "Q/QuantumStateDistributions" }
 78c3b35d-d492-501b-9361-3d52fe80e533 = { name = "Mocking", path = "M/Mocking" }
