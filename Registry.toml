@@ -336,6 +336,7 @@ some amount of consideration when choosing package names.
 07bf71a7-21be-5f6a-a6d1-44595bb4f960 = { name = "Arbitrary", path = "A/Arbitrary" }
 07c12ed4-43bc-5495-8a2a-d5838ef8d533 = { name = "ghr_jll", path = "jll/G/ghr_jll" }
 07d1fe3e-3e46-537d-9eac-e9e13d0d4cec = { name = "TensorKit", path = "T/TensorKit" }
+07db6e9f-91ad-4fbd-9fd8-5722e51e9a72 = { name = "ProtocolDataUnits", path = "P/ProtocolDataUnits" }
 07e3d4f1-5dc2-5a3a-9c19-e1965b76eff9 = { name = "SortingNetworks", path = "S/SortingNetworks" }
 07e4ff7f-07bb-45cd-9e58-8fac98767c00 = { name = "OpenInterfaces", path = "O/OpenInterfaces" }
 07e67fc4-eb77-11eb-38c2-1307cbb1fbf4 = { name = "OVERT", path = "O/OVERT" }
@@ -962,6 +963,7 @@ some amount of consideration when choosing package names.
 17272adc-a42e-4be8-afd0-5a751f607cdd = { name = "IntegerSmithNormalForm", path = "I/IntegerSmithNormalForm" }
 172a5912-0be3-5bce-b68a-ea4f60b69b05 = { name = "SOM", path = "S/SOM" }
 172afb32-8f1c-513b-968f-184fcd77af72 = { name = "libinchi_jll", path = "jll/L/libinchi_jll" }
+17301647-d5f0-5157-99fa-219446a5b904 = { name = "libmonitor_jll", path = "jll/L/libmonitor_jll" }
 1735446d-a1d9-49ef-8d9f-4aa6b1e90fb9 = { name = "JSBSim", path = "J/JSBSim" }
 1746e360-1058-44a5-9855-ddd460437d0c = { name = "FdeSolver", path = "F/FdeSolver" }
 174e927f-d384-57ac-82db-e88370a29c21 = { name = "yq_jll", path = "jll/Y/yq_jll" }
@@ -1430,6 +1432,7 @@ some amount of consideration when choosing package names.
 2339b9c3-daaf-4eaa-90d5-e8471159c344 = { name = "BetaRegression", path = "B/BetaRegression" }
 233ec0c9-6b8d-4766-b9a2-a16e389fc38a = { name = "AMRVW", path = "A/AMRVW" }
 23470ee3-d0df-4052-8b1a-8cbd6363e7f0 = { name = "Brillouin", path = "B/Brillouin" }
+234d2aa0-2291-45f7-9047-6fa6f316b0a8 = { name = "MicroCanonicalHMC", path = "M/MicroCanonicalHMC" }
 234f2d50-f964-585e-b1c8-17cd4567e563 = { name = "OpenLDAPClient_jll", path = "jll/O/OpenLDAPClient_jll" }
 235f3f79-a89d-4d04-8acc-8e76a70bca42 = { name = "PCquery", path = "P/PCquery" }
 236017c9-faef-5401-ab52-d2664edfb5d0 = { name = "Wigxjpf_jll", path = "jll/W/Wigxjpf_jll" }
@@ -1724,6 +1727,7 @@ some amount of consideration when choosing package names.
 2ab3a3ac-af41-5b50-aa03-7779005ae688 = { name = "LogExpFunctions", path = "L/LogExpFunctions" }
 2ab8e4d3-e1e9-4248-86a3-8419d2d242e9 = { name = "EasyABM", path = "E/EasyABM" }
 2abced8b-c1f8-4749-8ec9-beabb40c04e0 = { name = "MaximumEntropyMomentClosures", path = "M/MaximumEntropyMomentClosures" }
+2ac20604-6aa9-4c1a-aae8-c6d78826713f = { name = "OpticalFibers", path = "O/OpticalFibers" }
 2ad872f3-bd17-40a7-8827-3f17cb035345 = { name = "TracyWidomBeta", path = "T/TracyWidomBeta" }
 2ad91f63-398d-4379-af6a-5a85689656d5 = { name = "InventoryManagement", path = "I/InventoryManagement" }
 2ae2181e-4684-4b2c-a413-203f2dd831ec = { name = "OrthoMatchingPursuit", path = "O/OrthoMatchingPursuit" }
@@ -2562,6 +2566,7 @@ some amount of consideration when choosing package names.
 3fa2051c-bcb6-4d65-8a68-41ff86d56437 = { name = "EditorsRepo", path = "E/EditorsRepo" }
 3fad61ad-f714-4a28-bb66-2c78145d2d59 = { name = "GmshImport", path = "G/GmshImport" }
 3fb22c43-5981-45f6-b839-6cbd65dbe502 = { name = "Lorenz96", path = "L/Lorenz96" }
+3fb590a3-637c-5b79-98b0-0e302591ed6a = { name = "AlphaMolWrapper_jll", path = "jll/A/AlphaMolWrapper_jll" }
 3fbf9143-36f1-400e-9c84-fa51782749e9 = { name = "MMCAcovid19", path = "M/MMCAcovid19" }
 3fc4dfc6-bd63-4703-97f2-4579ab7691c1 = { name = "ReactionCommons", path = "R/ReactionCommons" }
 3fc713dc-8771-5a7b-b2d9-79d2995ff451 = { name = "REPLCompletions", path = "R/REPLCompletions" }
@@ -4503,6 +4508,7 @@ some amount of consideration when choosing package names.
 71847384-8354-4223-ac08-659a5128069f = { name = "NeutralLandscapes", path = "N/NeutralLandscapes" }
 7186c646-c682-5568-b8f7-a702076b479d = { name = "PyDSTool", path = "P/PyDSTool" }
 7196b6e2-84d2-5468-aff3-a0acff4d3b58 = { name = "BiCePS_jll", path = "jll/B/BiCePS_jll" }
+719baba0-b808-11eb-2c94-7207250cf58f = { name = "COBSReduced", path = "C/COBSReduced" }
 719c1aef-945b-435a-a240-4c2992e5e0df = { name = "PowerModelsProtection", path = "P/PowerModelsProtection" }
 71a1bf82-56d0-4bbc-8a3c-48b961074391 = { name = "NameResolution", path = "N/NameResolution" }
 71a409db-0c41-4225-8938-aaf295661ce5 = { name = "ParetoRecipes", path = "P/ParetoRecipes" }
@@ -5989,6 +5995,7 @@ some amount of consideration when choosing package names.
 9828b13b-9cf9-4ed3-a262-66ff2e7f23f2 = { name = "QuandlAccess", path = "Q/QuandlAccess" }
 982ee2ff-df44-427b-be98-c6c9fd49f925 = { name = "ModuleDocstrings", path = "M/ModuleDocstrings" }
 98344202-5a1c-56b1-83aa-57a11ac3493f = { name = "SymFEL", path = "S/SymFEL" }
+983f8767-50b7-4083-a328-dfb7a9c26de7 = { name = "QuasiEwald", path = "Q/QuasiEwald" }
 98454f44-f182-4945-8d34-ddde53e72162 = { name = "DotMaps", path = "D/DotMaps" }
 984bce1d-4616-540c-a9ee-88d1112d94c9 = { name = "LambertW", path = "L/LambertW" }
 9854c450-6826-470b-b7cd-d3803b32f4ba = { name = "Fermionic", path = "F/Fermionic" }
@@ -7443,6 +7450,7 @@ bc7fa6ce-b75e-4d60-89ad-56c957190b6e = { name = "JuliaHub", path = "J/JuliaHub" 
 bc8888f7-b21e-4b7c-a06a-5d9c9496438c = { name = "SymPyPythonCall", path = "S/SymPyPythonCall" }
 bc8ceb21-a8fe-4071-b36a-0b0ea65b9c09 = { name = "Turmeric", path = "T/Turmeric" }
 bc997328-bedd-407e-bcd3-5758e064a52d = { name = "CryptoGroups", path = "C/CryptoGroups" }
+bc9c4d6b-10c7-430a-9b0c-cd343efcf359 = { name = "FigCLIGen", path = "F/FigCLIGen" }
 bcad6099-3893-4a89-b8e7-2c92a19b03be = { name = "UnitJuMP", path = "U/UnitJuMP" }
 bcb6b82e-7479-5933-8c8e-2e0b909ee6a3 = { name = "IterativeRefinement", path = "I/IterativeRefinement" }
 bccb7ab1-cda7-5383-b12b-a44596912546 = { name = "MarriageMarkets", path = "M/MarriageMarkets" }
@@ -9001,6 +9009,7 @@ e37357d9-0691-492f-a822-e5ea6a920954 = { name = "ConstraintCommons", path = "C/C
 e37b5aa0-c611-5f0f-83fb-aee446c0b77e = { name = "qr_mumps_jll", path = "jll/Q/qr_mumps_jll" }
 e37daf67-58a4-590a-8e99-b0245dd2ffc5 = { name = "LibGit2_jll", path = "jll/L/LibGit2_jll" }
 e37f2e79-19fa-4eb7-8510-b63b51fe0a37 = { name = "FlexiJoins", path = "F/FlexiJoins" }
+e380c706-6fd7-45be-a86f-0677ced05258 = { name = "SIMDscan", path = "S/SIMDscan" }
 e3819d11-95af-5eea-9727-70c091663a01 = { name = "Spark", path = "S/Spark" }
 e38a874e-a7c2-4ff3-8dea-81ae2e5c9b07 = { name = "CitablePhysicalText", path = "C/CitablePhysicalText" }
 e39c9192-ea4d-5e15-9584-a488c6d614bd = { name = "GroebnerBasis", path = "G/GroebnerBasis" }
