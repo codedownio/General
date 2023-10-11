@@ -4879,6 +4879,7 @@ some amount of consideration when choosing package names.
 7a06699c-c960-11e9-3c98-9f78548b5f0f = { name = "YaoExtensions", path = "Y/YaoExtensions" }
 7a098a08-e70e-483f-ae9c-35bef3462704 = { name = "TermoQuimica", path = "T/TermoQuimica" }
 7a09bdf8-3785-11e9-0bdd-57d0ec69af3f = { name = "VortexLattice", path = "V/VortexLattice" }
+7a0df574-e128-4d35-8cbd-3d84502bf7ce = { name = "FastLevenbergMarquardt", path = "F/FastLevenbergMarquardt" }
 7a12625a-238d-50fd-b39a-03d52299707e = { name = "LinearMaps", path = "L/LinearMaps" }
 7a129280-419d-58e9-81ef-4f6801251892 = { name = "Behavior", path = "B/Behavior" }
 7a16de70-abc6-11e8-02b0-4fe68abe0eac = { name = "RawFile", path = "R/RawFile" }
@@ -7514,7 +7515,7 @@ bd334432-b1e7-49c7-a2dc-dd9149e4ebd6 = { name = "InlineTest", path = "I/InlineTe
 bd34264e-e812-11e8-1ee8-bfb20fea2fb4 = { name = "Bobby", path = "B/Bobby" }
 bd369af6-aec1-5ad0-b16a-f7cc5008161c = { name = "Tables", path = "T/Tables" }
 bd3760a6-d1ff-434b-b4f3-ef62bafd7ef0 = { name = "MetadataStreams", path = "M/MetadataStreams" }
-bd393529-335a-4aed-902f-5de61cc7ff49 = { name = "QuantitativeSusceptibilityMappingTgv", path = "Q/QuantitativeSusceptibilityMappingTgv" }
+bd393529-335a-4aed-902f-5de61cc7ff49 = { name = "QuantitativeSusceptibilityMappingTGV", path = "Q/QuantitativeSusceptibilityMappingTGV" }
 bd3c0b08-7cce-4d14-b276-b0e6d20a7f61 = { name = "MissingsAsFalse", path = "M/MissingsAsFalse" }
 bd3c3ff1-ad01-40db-ab3f-ca12d8f2d1e9 = { name = "NumericalRange", path = "N/NumericalRange" }
 bd3c4b4f-113e-4e9f-b976-6f68b19c842b = { name = "SimplePDHG", path = "S/SimplePDHG" }
@@ -8506,6 +8507,7 @@ d5dc2f44-7ae2-49e9-bc77-b47b6bca565d = { name = "MPSGE", path = "M/MPSGE" }
 d5de49f9-40c9-5bd5-980e-f7e357ea5903 = { name = "qwtw_jll", path = "jll/Q/qwtw_jll" }
 d5e62ea6-ddf3-4d43-8e4c-ad5e6c8bfd7d = { name = "OpenAPI", path = "O/OpenAPI" }
 d5e6d34e-0946-4041-89ae-8db3fad848f3 = { name = "Wikidata", path = "W/Wikidata" }
+d5eb8130-0e6d-4b05-a476-6219b4bda902 = { name = "WatershedParcellation", path = "W/WatershedParcellation" }
 d5eda45b-7e79-5788-9687-2c6ab7b96158 = { name = "ItemGraphs", path = "I/ItemGraphs" }
 d5f540fe-1c90-5db3-b776-2e2f362d9394 = { name = "RoundingIntegers", path = "R/RoundingIntegers" }
 d5f7a247-b52f-4d20-a862-6998306c65a0 = { name = "ITerSOLvers", path = "I/ITerSOLvers" }
@@ -9351,6 +9353,7 @@ eb66a70c-a255-11e9-03ea-7ba6b2f22006 = { name = "TreeParzen", path = "T/TreeParz
 eb74ef6d-f479-4c54-be43-bc7ae9988d2f = { name = "DarkCurves", path = "D/DarkCurves" }
 eb7571c6-2196-4f03-99b8-52a5a35b3163 = { name = "SearchSpaces", path = "S/SearchSpaces" }
 eb7db99b-64ae-4b81-85c2-3439b6569b78 = { name = "Ranges", path = "R/Ranges" }
+eb854143-3a4d-4e07-9345-f0e999910b68 = { name = "Ripple", path = "R/Ripple" }
 eb87d800-f8b7-11ed-3652-a7ab94e0ce49 = { name = "BiochemNetABC", path = "B/BiochemNetABC" }
 eb89d173-8f78-57a0-9e6e-c2e8c44a5e61 = { name = "Packmol_jll", path = "jll/P/Packmol_jll" }
 eb8b94b2-5e6e-4467-a0a4-aef532806662 = { name = "SmartML", path = "S/SmartML" }
