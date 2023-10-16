@@ -1530,6 +1530,7 @@ some amount of consideration when choosing package names.
 25b41d81-8c24-4365-b92c-8a77f3140560 = { name = "GPI2", path = "G/GPI2" }
 25c3070e-1275-41b5-afef-2f982c87090a = { name = "ComplexOptInterface", path = "C/ComplexOptInterface" }
 25c3eafe-d88c-11e9-3031-f396758f002a = { name = "ChargeTransport", path = "C/ChargeTransport" }
+25c75577-2a26-528c-a488-ab5b6e0c7170 = { name = "charon_jll", path = "jll/C/charon_jll" }
 25d49962-0f22-42a0-bb44-b427e1ded1d4 = { name = "PrefectInterfaces", path = "P/PrefectInterfaces" }
 25ddbe4d-0058-4ca6-a349-d40aaa747e42 = { name = "GalaxyBrain", path = "G/GalaxyBrain" }
 25e41dd2-4622-11e9-1641-f1adca772921 = { name = "ReinforcementLearningEnvironments", path = "R/ReinforcementLearningEnvironments" }
@@ -2067,6 +2068,7 @@ some amount of consideration when choosing package names.
 32cfe2d9-419e-45f2-8191-2267705d8dbc = { name = "YaoPlots", path = "Y/YaoPlots" }
 32e1273b-95f2-5990-a28e-8939b2e70f37 = { name = "AlgebraResultTypes", path = "A/AlgebraResultTypes" }
 32f2db32-628a-4fc2-9392-deeafdcf461f = { name = "BLIS", path = "B/BLIS" }
+32f3d815-099f-4670-87cf-dd827b2a53b5 = { name = "PagefindWrapper", path = "P/PagefindWrapper" }
 33016aad-b69d-45be-9359-82a41f556fd4 = { name = "AccessorsExtra", path = "A/AccessorsExtra" }
 3304b86d-eb5b-5d22-9ed4-3b0a60539cfe = { name = "Optionals", path = "O/Optionals" }
 33081891-0f5e-47f5-81c7-76d5d1fed490 = { name = "KnetMetrics", path = "K/KnetMetrics" }
@@ -4497,6 +4499,7 @@ some amount of consideration when choosing package names.
 70ea7731-f516-5e6d-b63f-53a67d65e1cf = { name = "COINBLAS_jll", path = "jll/C/COINBLAS_jll" }
 70eefb7d-4b42-471c-acf6-aaa17e297c50 = { name = "TensArrays", path = "T/TensArrays" }
 70f11efc-bab2-57f1-b0f3-22aad4e67c4b = { name = "aws_c_cal_jll", path = "jll/A/aws_c_cal_jll" }
+70f3efdd-15fb-48e9-aed6-b5748bd45f5a = { name = "TailwindCSS", path = "T/TailwindCSS" }
 70f5e60a-1556-5f34-a19e-a48b3e4aaee9 = { name = "LinkedLists", path = "L/LinkedLists" }
 710532b4-0dcf-4e85-9a00-0fba2d710edd = { name = "Proquint", path = "P/Proquint" }
 7106de7a-f406-5ef1-84f7-3345f7341bd2 = { name = "LibMPDec_jll", path = "jll/L/LibMPDec_jll" }
@@ -6059,6 +6062,7 @@ some amount of consideration when choosing package names.
 98f94333-fa9f-48a9-ad80-1c66397b2b38 = { name = "Tensorial", path = "T/Tensorial" }
 9901752a-13b3-47c7-8fb4-ce17182539d9 = { name = "Ai4EComponentLib", path = "A/Ai4EComponentLib" }
 9907b50f-aa68-471e-a8e7-09e46bc3166c = { name = "LimitOfDetection", path = "L/LimitOfDetection" }
+99140e25-3765-45c6-8186-bf020531d25b = { name = "UnsafeAssume", path = "U/UnsafeAssume" }
 9916bc9e-ef43-57a6-9be0-2f3f923f8145 = { name = "PRIMME_jll", path = "jll/P/PRIMME_jll" }
 9919d111-45a3-4056-8d55-3f6c887b9b09 = { name = "IDSGraphs", path = "I/IDSGraphs" }
 9920abf5-d2d3-40c3-98dc-d6c533a1aad6 = { name = "BumpFuncs", path = "B/BumpFuncs" }
@@ -6305,6 +6309,7 @@ some amount of consideration when choosing package names.
 9f4e344d-96bc-545a-84a3-ae6b9e1b672b = { name = "Healpix", path = "H/Healpix" }
 9f57e263-0b3d-5e2e-b1be-24f2bb48858b = { name = "WignerSymbols", path = "W/WignerSymbols" }
 9f5e2b26-1114-432f-b630-d3fe2085c51c = { name = "Diffractor", path = "D/Diffractor" }
+9f60cadd-00eb-4e57-b715-beb4ff532cb8 = { name = "AtomicMassEvaluation", path = "A/AtomicMassEvaluation" }
 9f696214-9961-49f3-89a2-cb1ea204eb6e = { name = "BrillouinZoneMeshes", path = "B/BrillouinZoneMeshes" }
 9f6dbb68-adea-48dd-82a4-058b403bed1f = { name = "WebBlast", path = "W/WebBlast" }
 9f7883ad-71c0-57eb-9f7f-b5c9e6d3789c = { name = "Tracker", path = "T/Tracker" }
