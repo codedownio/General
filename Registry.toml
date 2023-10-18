@@ -440,6 +440,7 @@ some amount of consideration when choosing package names.
 0a594e34-94bc-4f62-947f-4b31ef19552b = { name = "MonteCarloMeasurementUncertainty", path = "M/MonteCarloMeasurementUncertainty" }
 0a602bbd-b08b-5d75-8d32-0de6eef44785 = { name = "HYPRE_jll", path = "jll/H/HYPRE_jll" }
 0a755509-c5b1-5d6f-9b24-59bcda3c37a3 = { name = "ProximalBase", path = "P/ProximalBase" }
+0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed = { name = "PRIMA", path = "P/PRIMA" }
 0a7d185b-be57-59df-ac21-86d8a1799c2e = { name = "JuliaPetra", path = "J/JuliaPetra" }
 0a7fc590-1c99-4bf9-b5a7-8c116fa99d16 = { name = "Qaintellect", path = "Q/Qaintellect" }
 0a870b86-ede5-5f68-8916-0c4c2008bb27 = { name = "stb_jll", path = "jll/S/stb_jll" }
@@ -3536,6 +3537,7 @@ some amount of consideration when choosing package names.
 58946fd8-f65e-4b58-ac25-0d711c9bbc40 = { name = "MetaPhylo", path = "M/MetaPhylo" }
 58948b4f-47e0-5654-a9ad-f609743f8632 = { name = "PROJ_jll", path = "jll/P/PROJ_jll" }
 58abba7c-3f8b-5571-af36-87c463197a71 = { name = "SurrealNumbers", path = "S/SurrealNumbers" }
+58b19789-dd19-4aa2-839c-c763a7b10301 = { name = "CurvilinearGrids", path = "C/CurvilinearGrids" }
 58b8660e-aa37-4837-a287-8893ee0015f8 = { name = "RxnHelperUtils", path = "R/RxnHelperUtils" }
 58bb99bf-048b-48b7-93e7-1cbf3ee61509 = { name = "STFT", path = "S/STFT" }
 58bc7355-f626-4c51-96f2-1f8a038f95a2 = { name = "IRKGaussLegendre", path = "I/IRKGaussLegendre" }
@@ -3773,6 +3775,7 @@ some amount of consideration when choosing package names.
 5eaf0fd0-dfba-4ccb-bf02-d820a40db705 = { name = "RoundingEmulator", path = "R/RoundingEmulator" }
 5eb54613-e1e4-5bb3-a6bc-ad608a6b2204 = { name = "MackeyGlass", path = "M/MackeyGlass" }
 5eb88fab-4dde-58d8-af5d-492bc9ff933e = { name = "casacorewrapper_jll", path = "jll/C/casacorewrapper_jll" }
+5ec5d1c9-c394-4ef5-850c-f245e78f4765 = { name = "Picotool", path = "P/Picotool" }
 5ecd16ac-4fd8-43d2-a9dd-e22a5cebe6f6 = { name = "Liblet", path = "L/Liblet" }
 5ed2caf0-0e3c-46c8-ab7c-f67841b915e6 = { name = "LocalPackageServer", path = "L/LocalPackageServer" }
 5ed8adda-3752-4e41-b88a-e8b09835ee3a = { name = "TestExtras", path = "T/TestExtras" }
@@ -4067,6 +4070,7 @@ some amount of consideration when choosing package names.
 66763231-799b-5fff-8662-389acfc33a85 = { name = "IPNets", path = "I/IPNets" }
 66835562-f1c4-5586-a145-e564a3963a4b = { name = "HighLevelTypes", path = "H/HighLevelTypes" }
 668502ff-1e8f-42bf-95c7-24f1e819f537 = { name = "ParametrisedConvexApproximators", path = "P/ParametrisedConvexApproximators" }
+66877b0d-840f-4af8-a0b5-b62f5ea465b3 = { name = "MultiBisect", path = "M/MultiBisect" }
 6690c6e9-4e12-53b8-b8fd-4bffaef8839f = { name = "normaliz_jll", path = "jll/N/normaliz_jll" }
 6694b27a-7f2b-41da-9dea-d3f4793b6534 = { name = "OnlineLogBinning", path = "O/OnlineLogBinning" }
 66a33bbf-0c2b-5fc8-a008-9da813334f0a = { name = "MLLabelUtils", path = "M/MLLabelUtils" }
