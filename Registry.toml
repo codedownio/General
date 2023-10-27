@@ -2856,6 +2856,7 @@ some amount of consideration when choosing package names.
 46d747a0-b9e1-11e9-14b5-615c73e45078 = { name = "BridgeSDEInference", path = "B/BridgeSDEInference" }
 46d852a4-2fba-44bf-a445-ee38df28a2fc = { name = "SunCalc", path = "S/SunCalc" }
 46dd5b70-b6fb-5a00-ae2d-e8fea33afaf2 = { name = "Pardiso", path = "P/Pardiso" }
+46de9c38-1bb3-4547-a1ec-da24d767fdad = { name = "QEDprocesses", path = "Q/QEDprocesses" }
 46e5285b-ff06-5712-adf2-cc145d39f096 = { name = "PaStiX_jll", path = "jll/P/PaStiX_jll" }
 46f1a544-deae-4307-8689-c12aa3c955c6 = { name = "NanoDates", path = "N/NanoDates" }
 47013893-54eb-5c9c-83b4-9a24496ece36 = { name = "grep_jll", path = "jll/G/grep_jll" }
@@ -4222,6 +4223,7 @@ some amount of consideration when choosing package names.
 6a3da44c-33b1-5374-838f-bf0fbf92c29b = { name = "Xorg_xineramaproto_jll", path = "jll/X/Xorg_xineramaproto_jll" }
 6a3e96c6-960a-42b3-a988-ca59d115acd5 = { name = "Kirei", path = "K/Kirei" }
 6a458947-61d4-43a6-b30c-4a7a83d249ad = { name = "AcousticFeatures", path = "A/AcousticFeatures" }
+6a4e32cb-b31a-4929-85af-fb29d9a80738 = { name = "EllipticFunctions", path = "E/EllipticFunctions" }
 6a57dadc-0402-4d39-bf46-19b28e03609d = { name = "Slugify", path = "S/Slugify" }
 6a7659b3-242e-4b14-83a6-15a101e52794 = { name = "Taichi", path = "T/Taichi" }
 6a795559-3f7e-5382-b5a1-7e858e3d15a4 = { name = "Clipper2_jll", path = "jll/C/Clipper2_jll" }
@@ -7053,6 +7055,7 @@ b09a1ce3-015a-45b4-89ae-f27efbd2c76d = { name = "XMLParser", path = "X/XMLParser
 b09c5755-86bc-4b69-9fb0-eea9d409a5ca = { name = "CbaOPF", path = "C/CbaOPF" }
 b0a14db8-6308-4ebc-8917-f72cd81f5094 = { name = "NewickTree", path = "N/NewickTree" }
 b0ab02a7-8576-43f7-aa76-eaa7c3897c54 = { name = "GarishPrint", path = "G/GarishPrint" }
+b0b32849-8088-4a6a-980f-ce3b511736e4 = { name = "XDMFFileHandler", path = "X/XDMFFileHandler" }
 b0b7db55-cfe3-40fc-9ded-d10e2dbeff66 = { name = "ComponentArrays", path = "C/ComponentArrays" }
 b0b859e2-eb2e-45cd-bd98-8fc21bfdc9fa = { name = "Matte", path = "M/Matte" }
 b0bbf007-7f53-57f1-a715-818c96e98926 = { name = "BVLS_jll", path = "jll/B/BVLS_jll" }
@@ -7639,6 +7642,7 @@ bedefb8d-ef00-5401-aa81-ae9c3f6f84cc = { name = "QuantumInfo", path = "Q/Quantum
 bee2e536-65f6-11e9-3844-e5bb4c9c55c9 = { name = "DCISolver", path = "D/DCISolver" }
 bee5971c-294f-5168-9fcd-9fb3c811d495 = { name = "MParT_jll", path = "jll/M/MParT_jll" }
 bee8f34e-611d-499e-97b4-2f0d2901cb64 = { name = "UVITTools", path = "U/UVITTools" }
+beead57b-6593-4141-bbb8-edf896229b7f = { name = "DeviceDefinitions", path = "D/DeviceDefinitions" }
 beecb120-e197-59fa-b79c-0316d51c9920 = { name = "tree_sitter_go_jll", path = "jll/T/tree_sitter_go_jll" }
 befc5f09-81d5-499c-a4b2-d0464ba9f9c8 = { name = "RigidBodyTools", path = "R/RigidBodyTools" }
 bf05d729-34b2-4f1f-a2f1-2452bece7ebc = { name = "SwagUI", path = "S/SwagUI" }
@@ -9029,6 +9033,7 @@ e248de7e-9197-5860-972e-353a2af44d75 = { name = "EffectSizes", path = "E/EffectS
 e24b7630-0518-11e9-1346-1188d3abce50 = { name = "AtomicStructure", path = "A/AtomicStructure" }
 e24c0720-ea99-47e8-929e-571b494574d3 = { name = "ExponentialAction", path = "E/ExponentialAction" }
 e24f45a5-4790-5a38-8b2c-33d770a4e70f = { name = "InverseLaplace", path = "I/InverseLaplace" }
+e253f47c-99a5-4462-a47e-a31f992eca7c = { name = "ImageColorThresholderApp", path = "I/ImageColorThresholderApp" }
 e2554591-2d5a-5553-bb4c-ff0ef3342964 = { name = "NetworkLearning", path = "N/NetworkLearning" }
 e2554f3b-3117-50c0-817c-e040a3ddf72d = { name = "Clp", path = "C/Clp" }
 e25cca7e-83ef-51fa-be6c-dfe2a3123128 = { name = "FDM", path = "F/FDM" }
