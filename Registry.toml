@@ -2489,6 +2489,7 @@ some amount of consideration when choosing package names.
 3cdcf5f2-1ef4-517c-9805-6587b60abb01 = { name = "RecipesBase", path = "R/RecipesBase" }
 3cdde19b-5bb0-4aaf-8931-af3e248e098b = { name = "SIMDDualNumbers", path = "S/SIMDDualNumbers" }
 3ce1bdb9-727b-5794-a8c0-19c5c87cd16a = { name = "SpatialGrids", path = "S/SpatialGrids" }
+3ceaaf38-e7b4-4193-a23a-303dd231a83a = { name = "IndexSpaces", path = "I/IndexSpaces" }
 3cf6f5a4-34a7-5d62-9a78-d5aadfae302d = { name = "MFEM_seq_jll", path = "jll/M/MFEM_seq_jll" }
 3cf9baf4-9b0f-5bbb-b549-4fdfb2f4a171 = { name = "SIMDe_jll", path = "jll/S/SIMDe_jll" }
 3d0dae4a-d0ce-400f-add5-31ee3cccaa25 = { name = "ApproxFunRational", path = "A/ApproxFunRational" }
@@ -7031,6 +7032,7 @@ af8da316-43a4-49f0-bd76-7de0cd630fd6 = { name = "AxisArrayTables", path = "A/Axi
 af901252-fd8a-4391-8647-10b4fde07a1e = { name = "Wigxjpf", path = "W/Wigxjpf" }
 af94d80e-94fa-4c0b-866a-2d8bf15822bc = { name = "ObservationSchemes", path = "O/ObservationSchemes" }
 af984530-d72f-4904-8b81-b992bbbeaf3f = { name = "MultilayerGraphs", path = "M/MultilayerGraphs" }
+afa5cc60-bf5a-45b9-aa6c-27158a106b2a = { name = "SimSpread", path = "S/SimSpread" }
 afadef72-ae1a-11e9-3795-e55b3621c13e = { name = "PhysicalCommunications", path = "P/PhysicalCommunications" }
 afb48802-0cf5-5a61-b18d-a3da2e9c5fb6 = { name = "OBOParse", path = "O/OBOParse" }
 afbbf031-7a57-5f58-a1b9-b774a0fad08d = { name = "TypedPolynomials", path = "T/TypedPolynomials" }
@@ -7513,6 +7515,7 @@ bbf7d656-a473-5ed7-a52c-81e309532950 = { name = "CommonSubexpressions", path = "
 bc03c374-6515-4bc9-983b-02908b112166 = { name = "TestContexts", path = "T/TestContexts" }
 bc04555c-6b3a-48e0-9330-69d76e9b444f = { name = "CellSegmentation", path = "C/CellSegmentation" }
 bc11bc94-475e-4eaf-ad55-de9f2e280376 = { name = "SpinnakerGUI", path = "S/SpinnakerGUI" }
+bc1231ea-70fa-4965-b0b3-6932f742a22e = { name = "FileJockey", path = "F/FileJockey" }
 bc1476a1-1ca6-4cc3-950b-c312b255ff95 = { name = "Trixi2Vtk", path = "T/Trixi2Vtk" }
 bc367c6b-8a6b-528e-b4bd-a4b897500b49 = { name = "ImageMetadata", path = "I/ImageMetadata" }
 bc3e21a5-3346-453f-aad7-4105b38f4ef6 = { name = "SevenDayStreamflowForecasts", path = "S/SevenDayStreamflowForecasts" }
@@ -8156,6 +8159,7 @@ cadd898e-fd86-5def-96da-d3badf016279 = { name = "GoogleSheetsCSVExporter", path 
 cadeb640-247c-4e6d-a8b8-270aef5e1f95 = { name = "ClusteredLowRankSolver", path = "C/ClusteredLowRankSolver" }
 cae243ae-269e-4f55-b966-ac2d0dc13c15 = { name = "StackViews", path = "S/StackViews" }
 cae6eaf6-1b4f-40a4-a2e0-a9a4c95b4cc3 = { name = "Docx", path = "D/Docx" }
+cae6f51d-d477-4615-8395-e10abcea54c6 = { name = "OptimalSortingNetworks", path = "O/OptimalSortingNetworks" }
 caf8df21-4939-456d-ac9c-5fefbfb04c0c = { name = "MLJGLMInterface", path = "M/MLJGLMInterface" }
 cafa7ba0-c216-50a9-a84c-e0b2e0e60c48 = { name = "samtools_jll", path = "jll/S/samtools_jll" }
 cb002d51-b850-5775-a4f8-1db47be676b8 = { name = "Levenshtein", path = "L/Levenshtein" }
@@ -8194,6 +8198,7 @@ cbea4545-8c96-4583-ad3a-44078d60d369 = { name = "MLJOpenML", path = "M/MLJOpenML
 cbf82f24-4841-4ec9-b0f8-e22c06a1387c = { name = "MoM_Visualizing", path = "M/MoM_Visualizing" }
 cbff2730-442d-58d7-89d1-8e530c41eb02 = { name = "Unmarshal", path = "U/Unmarshal" }
 cc01df09-5213-447c-9a1b-5a24cdf8b096 = { name = "Pack1", path = "P/Pack1" }
+cc0898d6-34c9-4540-a58d-8bfbe394b8dc = { name = "GoogleScholar", path = "G/GoogleScholar" }
 cc18c42c-b769-54ff-9e2a-b28141a64aae = { name = "GaussianMixtures", path = "G/GaussianMixtures" }
 cc2ba9b6-d476-5e6d-8eaf-a92d5412d41d = { name = "MLDataUtils", path = "M/MLDataUtils" }
 cc3ff66e-924d-4e6b-b111-1d9960e4bba9 = { name = "JSONPointer", path = "J/JSONPointer" }
