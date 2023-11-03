@@ -2545,6 +2545,7 @@ some amount of consideration when choosing package names.
 3e78a19a-cc83-51d8-955b-515f39fd7955 = { name = "Bukdu", path = "B/Bukdu" }
 3e7d7328-36f8-4388-bd01-4613c92c7370 = { name = "PredictMD", path = "P/PredictMD" }
 3e851597-e36f-45a9-af0a-b7781937992f = { name = "ParamPunPam", path = "P/ParamPunPam" }
+3e8f9d1a-ffc1-486d-82d6-6c7276635980 = { name = "SBMLFBCModels", path = "S/SBMLFBCModels" }
 3e920f78-0eb2-4966-9e73-7442414dae3e = { name = "OptimalApplication", path = "O/OptimalApplication" }
 3e975b7b-ab84-5bf4-b4b6-586754a53ef6 = { name = "libgraphicsmagic_jll", path = "jll/L/libgraphicsmagic_jll" }
 3e975e5d-2cf8-4263-9573-8460aaf534d9 = { name = "CartesianGrids", path = "C/CartesianGrids" }
@@ -2878,6 +2879,7 @@ some amount of consideration when choosing package names.
 474730fa-5ea9-5b8c-8629-63de62f23418 = { name = "VDT_jll", path = "jll/V/VDT_jll" }
 474b5345-2588-4284-8a58-2430a1a40cb0 = { name = "TensND", path = "T/TensND" }
 474d0f69-b32f-58bf-bb5c-c1a0a1bded17 = { name = "LAST_jll", path = "jll/L/LAST_jll" }
+475c1105-d6ed-49c1-9b32-c11adca6d3e8 = { name = "JSONFBCModels", path = "J/JSONFBCModels" }
 476501e8-09a2-5ece-8869-fb82de89a1fa = { name = "SLEEFPirates", path = "S/SLEEFPirates" }
 476790bb-718c-51bf-8f54-ac0345b4adaf = { name = "LibStdCxx_jll", path = "jll/L/LibStdCxx_jll" }
 47701775-187b-49a4-b924-794639d71cdc = { name = "ComradeGalactic", path = "C/ComradeGalactic" }
@@ -2894,6 +2896,7 @@ some amount of consideration when choosing package names.
 47a9eef4-7e08-11e9-0b38-333d64bd3804 = { name = "SparseDiffTools", path = "S/SparseDiffTools" }
 47aef6b3-ad0c-573a-a1e2-d07658019622 = { name = "SimpleWeightedGraphs", path = "S/SimpleWeightedGraphs" }
 47b8ac8e-e87e-59c1-8ebd-407ebead3f7c = { name = "PYTHIA_jll", path = "jll/P/PYTHIA_jll" }
+47b95ec9-9f64-4e52-930c-0b1ac2f8934e = { name = "AtomicArrays", path = "A/AtomicArrays" }
 47bbc3d6-959e-5592-a00a-d17660d07a0f = { name = "SeisModels", path = "S/SeisModels" }
 47bcb7c8-5119-555a-9eeb-0afcc36cd728 = { name = "libsass_jll", path = "jll/L/libsass_jll" }
 47be7bcc-f1a6-5447-8b36-7eeeff7534fd = { name = "ORCA", path = "O/ORCA" }
@@ -7576,6 +7579,7 @@ bd27d05e-4ce1-5e79-84dd-c5d7d508bbe5 = { name = "BloqadeODE", path = "B/BloqadeO
 bd27d05e-4ce1-5e79-84dd-c5d7d508bbe7 = { name = "BloqadeWaveforms", path = "B/BloqadeWaveforms" }
 bd2a388e-9788-4ef7-9fc3-f4c919ffde82 = { name = "FamaFrenchData", path = "F/FamaFrenchData" }
 bd2a9720-0cf4-11ea-3d1a-97ce67aae37d = { name = "OpticalPropagation", path = "O/OpticalPropagation" }
+bd2e13bf-42c0-49e1-9a9c-885d36daf88b = { name = "MATFBCModels", path = "M/MATFBCModels" }
 bd334432-b1e7-49c7-a2dc-dd9149e4ebd6 = { name = "InlineTest", path = "I/InlineTest" }
 bd34264e-e812-11e8-1ee8-bfb20fea2fb4 = { name = "Bobby", path = "B/Bobby" }
 bd369af6-aec1-5ad0-b16a-f7cc5008161c = { name = "Tables", path = "T/Tables" }
@@ -8789,6 +8793,7 @@ db4fe9aa-a353-4142-ac3f-608941c5a4fc = { name = "HyperbolicCrossApprox", path = 
 db551b72-c8d0-4930-8019-443d434af198 = { name = "QuestDBClient", path = "Q/QuestDBClient" }
 db5f7d96-a200-5343-9fc6-a259b42289b2 = { name = "TeaSeis", path = "T/TeaSeis" }
 db654dba-670c-566a-9226-64313b881ded = { name = "HierarchicalTemporalMemory", path = "H/HierarchicalTemporalMemory" }
+db6bb4f6-9d2a-4386-a383-884870da1331 = { name = "SimpleBoids", path = "S/SimpleBoids" }
 db8ca866-b61f-4bd1-a9b9-75c107d645d4 = { name = "EasyJobsBase", path = "E/EasyJobsBase" }
 db96dd59-cc3e-5205-9518-9f32d21f88e9 = { name = "tree_sitter_cpp_jll", path = "jll/T/tree_sitter_cpp_jll" }
 db97f5ab-fc25-52dd-a8f9-02a257c35074 = { name = "LocalFunctionApproximation", path = "L/LocalFunctionApproximation" }
