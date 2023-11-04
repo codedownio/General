@@ -222,6 +222,7 @@ some amount of consideration when choosing package names.
 054acbdd-7fbc-53f6-b51a-0fe4f8189fb8 = { name = "gawk_jll", path = "jll/G/gawk_jll" }
 054b7d4e-9922-5ad3-8b46-7dbe695a681f = { name = "Strategems", path = "S/Strategems" }
 054d326e-df27-43d9-b4b2-3b491c653341 = { name = "LibIIO", path = "L/LibIIO" }
+054db54f-6694-444d-9bbb-e9ecdbfe77be = { name = "MolSimToolkit", path = "M/MolSimToolkit" }
 055956cb-9e8b-5191-98cc-73ae4a59e68a = { name = "DiffEqPhysics", path = "D/DiffEqPhysics" }
 05599243-9ba8-485a-9b22-0f602ec9135f = { name = "PLaplace", path = "P/PLaplace" }
 056126bd-cc44-5cb8-957b-81361c7cf34c = { name = "Dalton_jll", path = "jll/D/Dalton_jll" }
@@ -1371,6 +1372,7 @@ some amount of consideration when choosing package names.
 214a0ac2-f95b-54f7-a80b-442ed9c2c9e8 = { name = "CorpusLoaders", path = "C/CorpusLoaders" }
 214eeab7-80f7-51ab-84ad-2988db7cef09 = { name = "fzf_jll", path = "jll/F/fzf_jll" }
 2160a001-e9fc-4c63-b529-f2c7ec8d982c = { name = "SodShockTube", path = "S/SodShockTube" }
+21656369-7473-754a-2065-74616d696c43 = { name = "ExpressionExplorer", path = "E/ExpressionExplorer" }
 21657275-7475-6620-6568-743d4d534157 = { name = "Promises", path = "P/Promises" }
 2169fc97-5a83-5252-b627-83903c6c433c = { name = "AlgebraicMultigrid", path = "A/AlgebraicMultigrid" }
 216cd8d6-c1f2-4f0b-a686-f7bd07ccd726 = { name = "MomentArithmetic", path = "M/MomentArithmetic" }
@@ -2775,6 +2777,7 @@ some amount of consideration when choosing package names.
 44994717-8eef-47f3-a7e0-6b313e1778f0 = { name = "EnlilGrids", path = "E/EnlilGrids" }
 449ebaaf-06bc-4dda-9a3f-b1c40666d086 = { name = "Game2048Core", path = "G/Game2048Core" }
 44ab47fd-db85-4242-8804-764e64c491dd = { name = "GlobalMetadata", path = "G/GlobalMetadata" }
+44adabc6-386d-4db0-bb6e-0f7b06129544 = { name = "SorptionModels", path = "S/SorptionModels" }
 44b1415a-b224-5c99-9168-ff4febb5f37f = { name = "ADIOS2_jll", path = "jll/A/ADIOS2_jll" }
 44b605c4-b955-5f2b-9b6d-d2bd01d3d205 = { name = "CRC", path = "C/CRC" }
 44c1da8e-ad92-11ea-0c62-8351ccf0aad4 = { name = "CIAOAlgorithms", path = "C/CIAOAlgorithms" }
@@ -3596,6 +3599,7 @@ some amount of consideration when choosing package names.
 59d54670-b8ac-4d81-ab7a-bb56233e17ab = { name = "ThreadedSparseArrays", path = "T/ThreadedSparseArrays" }
 59ddf330-608c-4938-8bc9-a4ee97bbbea6 = { name = "NearestCorrelationMatrix", path = "N/NearestCorrelationMatrix" }
 59e4e452-c47b-403c-8686-89bfb73b4fba = { name = "ModiaPlot_PyPlot", path = "M/ModiaPlot_PyPlot" }
+59ef864d-61ee-43f7-9b33-662866a07383 = { name = "HomogeneousTransformations", path = "H/HomogeneousTransformations" }
 59f5dcf9-29de-47f3-bbe3-a47d1f19a124 = { name = "SurfaceReactions", path = "S/SurfaceReactions" }
 59f7168a-df46-5410-90c8-f2779963d0ec = { name = "Giflib_jll", path = "jll/G/Giflib_jll" }
 5a033b19-8c74-5913-a970-47c3779ef25c = { name = "CurveFit", path = "C/CurveFit" }
@@ -3657,6 +3661,7 @@ some amount of consideration when choosing package names.
 5b588203-7d8b-4fab-a537-c31a7f73f46b = { name = "DataDrivenSparse", path = "D/DataDrivenSparse" }
 5b5b35a2-003c-5b99-bc04-a964994dd816 = { name = "CatmullRom", path = "C/CatmullRom" }
 5b65064a-1d0b-5b23-8760-570290dfee43 = { name = "DistributedJets", path = "D/DistributedJets" }
+5b6edb9a-6f5c-5561-95ad-cece0030cdd0 = { name = "Tasmanian_jll", path = "jll/T/Tasmanian_jll" }
 5b70daea-9db9-5a46-aedf-2142e553ecc5 = { name = "Merly", path = "M/Merly" }
 5b7e9947-ddc0-4b3f-9b55-0d8042f74170 = { name = "AdvancedMH", path = "A/AdvancedMH" }
 5b8099bc-c8ec-5219-889f-1d9e522a28bf = { name = "DomainSets", path = "D/DomainSets" }
@@ -4759,6 +4764,7 @@ some amount of consideration when choosing package names.
 7632190a-71f5-11e9-04ef-99e081817785 = { name = "ImageTracking", path = "I/ImageTracking" }
 763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4 = { name = "MAGEMin_jll", path = "jll/M/MAGEMin_jll" }
 764a87c0-6b3e-53db-9096-fe964310641d = { name = "BoundaryValueDiffEq", path = "B/BoundaryValueDiffEq" }
+7659f2e7-3eba-428e-a299-bc867dd8ac42 = { name = "CallendarVanDusen", path = "C/CallendarVanDusen" }
 76642167-d241-5cee-8c94-7a494e8cb7b7 = { name = "Ninja_jll", path = "jll/N/Ninja_jll" }
 766d9fe0-8bda-4b1c-9671-3009ced25364 = { name = "RestApis", path = "R/RestApis" }
 7673ebd9-f02d-46dd-b879-08aafde2f01b = { name = "LocalStore", path = "L/LocalStore" }
