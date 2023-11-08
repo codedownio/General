@@ -2535,6 +2535,7 @@ some amount of consideration when choosing package names.
 3e3c03f2-1a94-11e9-2981-050a4ca824ab = { name = "XUnit", path = "X/XUnit" }
 3e47f106-5d41-4e23-9040-914dff44c15a = { name = "MondrianForests", path = "M/MondrianForests" }
 3e489a4b-a92a-5e1b-a7bf-ed666eae205e = { name = "CvxCompress", path = "C/CvxCompress" }
+3e4a4fdd-3c42-44bf-ab95-e818c96fb7a6 = { name = "BarBay", path = "B/BarBay" }
 3e51950c-1d7d-41c0-8bda-2201d9a6ffd5 = { name = "SDFResults", path = "S/SDFResults" }
 3e521070-9d11-42e7-9c2c-e043c3afbd53 = { name = "ProgenyTestingTools", path = "P/ProgenyTestingTools" }
 3e5b6fbb-0976-4d2c-9146-d79de83f2fb0 = { name = "HostCPUFeatures", path = "H/HostCPUFeatures" }
@@ -4406,6 +4407,7 @@ some amount of consideration when choosing package names.
 6d80a3f9-a943-41fa-97b3-3004c0daf7a3 = { name = "Thinkers", path = "T/Thinkers" }
 6d8c423b-a35f-4ef1-850c-862fe21f82c4 = { name = "ComradeBase", path = "C/ComradeBase" }
 6d9310a3-f1d0-41b7-8edb-11c1cf57cd2d = { name = "FLOYao", path = "F/FLOYao" }
+6d9c698a-143c-4d19-893a-b951e9cb8478 = { name = "ResistanceDistance", path = "R/ResistanceDistance" }
 6d9fd711-e8b2-4778-9c70-c1dfb499d4c4 = { name = "SampleChainsDynamicHMC", path = "S/SampleChainsDynamicHMC" }
 6dad8b7f-dd9a-4c28-9b70-85b9a079bfc8 = { name = "TrajectoryIndexingUtils", path = "T/TrajectoryIndexingUtils" }
 6dae4b62-8e81-11e8-042c-0346828cfc4a = { name = "QuakeML", path = "Q/QuakeML" }
@@ -5487,6 +5489,7 @@ some amount of consideration when choosing package names.
 8797f018-3445-11e9-3969-c13eb94a0661 = { name = "Dispersal", path = "D/Dispersal" }
 87a0c12d-51e1-52a8-b1ed-2b00825fe6a4 = { name = "KaHyPar_jll", path = "jll/K/KaHyPar_jll" }
 87acb811-fa58-4e83-857d-605afdc1041b = { name = "PowerSpectra", path = "P/PowerSpectra" }
+87b137f8-3b59-4550-8c54-1b47926674ff = { name = "BagOfWords", path = "B/BagOfWords" }
 87be438c-38ae-47c4-9398-763eabe5c3be = { name = "RealPolynomialRoots", path = "R/RealPolynomialRoots" }
 87c3e826-2eb0-5ec5-bf6f-86db62fa23b2 = { name = "libxcrypt_jll", path = "jll/L/libxcrypt_jll" }
 87c4fabc-abb4-4467-86a6-1748b5c259fe = { name = "RomeoDFT", path = "R/RomeoDFT" }
@@ -5748,6 +5751,7 @@ some amount of consideration when choosing package names.
 8eb61621-d5fd-4192-a1eb-e9414570b645 = { name = "ParameterTests", path = "P/ParameterTests" }
 8ec094ee-96fb-47c5-b407-8e5042c4c592 = { name = "KEGGModuleParser", path = "K/KEGGModuleParser" }
 8ecac4f1-ae1f-5ff6-b30b-37d818d8e8b3 = { name = "FireFly_jll", path = "jll/F/FireFly_jll" }
+8ed43e74-60fb-4e11-99b9-91deed37aef7 = { name = "AssigningSecondaryStructure", path = "A/AssigningSecondaryStructure" }
 8ed9eb0b-7496-408d-8c8b-2119aeea02cd = { name = "AlphaZero", path = "A/AlphaZero" }
 8edb0fba-2c06-4136-bc13-43dbc7afa247 = { name = "PreludeDicts", path = "P/PreludeDicts" }
 8ef0a80b-9436-5d2c-a485-80b904378c43 = { name = "Languages", path = "L/Languages" }
@@ -8753,6 +8757,7 @@ da04e1cc-30fd-572f-bb4f-1f8673147195 = { name = "MPI", path = "M/MPI" }
 da1fd8a2-8d9e-5ec2-8556-3022fb5608a2 = { name = "CodeTracking", path = "C/CodeTracking" }
 da1fdf0e-e0ff-5433-a45f-9bb5ff651cb1 = { name = "FreqTables", path = "F/FreqTables" }
 da235a08-baf4-11e9-2387-6f19a530ddff = { name = "SlurmWorkloadFileGenerator", path = "S/SlurmWorkloadFileGenerator" }
+da27883c-8256-4720-924b-e7be686627bb = { name = "Tibber", path = "T/Tibber" }
 da37f231-8920-5702-a09a-bdd970cb6ddc = { name = "SBC_jll", path = "jll/S/SBC_jll" }
 da404889-ca92-49ff-9e8b-0aa6b4d38dc8 = { name = "ARFFFiles", path = "A/ARFFFiles" }
 da464f59-a6cf-4c57-92f9-0556c3abcc34 = { name = "KmerAnalysisMakie", path = "K/KmerAnalysisMakie" }
@@ -10013,6 +10018,7 @@ fb06ee43-ff84-401b-b5ac-2522e63f9402 = { name = "AirfoilMeshers", path = "A/Airf
 fb1137e3-90a6-46ce-a672-6e1e53d120f2 = { name = "MRIOperators", path = "M/MRIOperators" }
 fb13fc95-9a72-5e81-90ef-432a29d7f4c2 = { name = "StanDiagnose", path = "S/StanDiagnose" }
 fb18ad0a-c577-441c-b4b0-b42a431f6d4f = { name = "NumericalAnalysis", path = "N/NumericalAnalysis" }
+fb1930eb-fbb4-57f4-9ccd-93264b9fcc29 = { name = "htscodecs_jll", path = "jll/H/htscodecs_jll" }
 fb202ad0-d22e-11eb-2fc2-a7d76729265e = { name = "DoseCalculators", path = "D/DoseCalculators" }
 fb24a613-cb95-4ee3-a029-2b7ba7763d4b = { name = "AndTraits", path = "A/AndTraits" }
 fb2f1d7b-1de9-45a3-b106-388808110f78 = { name = "Porta", path = "P/Porta" }
