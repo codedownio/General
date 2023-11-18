@@ -520,6 +520,7 @@ some amount of consideration when choosing package names.
 0c88c325-9891-4b47-8316-abdfe8381675 = { name = "DensityScatter", path = "D/DensityScatter" }
 0c8a7d74-93ea-4f23-9ed1-b26578bfdfe6 = { name = "XKeyboard", path = "X/XKeyboard" }
 0c95cc5f-2f7e-43fe-82dd-79dbcba86b32 = { name = "RegistryCI", path = "R/RegistryCI" }
+0ca39b1e-fe0b-4e98-acfc-b1656634c4de = { name = "Chairmarks", path = "C/Chairmarks" }
 0ca489f0-7580-4b41-9fdc-1863c852da4c = { name = "TryCatch", path = "T/TryCatch" }
 0ca9fa26-8833-11e9-3415-832a08817e5a = { name = "EMpht", path = "E/EMpht" }
 0cb025a2-29c7-561e-a277-a82c5b779c13 = { name = "Deldir_jll", path = "jll/D/Deldir_jll" }
@@ -5651,6 +5652,7 @@ some amount of consideration when choosing package names.
 8b71937e-d9aa-4c4f-ad9f-572b8c3bd4f9 = { name = "AWSInfinidash", path = "A/AWSInfinidash" }
 8b73e784-e7d8-4ea5-973d-377fed4e3bce = { name = "ArtifactUtils", path = "A/ArtifactUtils" }
 8b7d4fe7-0b45-4d0d-9dd8-5cc9b23b4b77 = { name = "TensorMarket", path = "T/TensorMarket" }
+8b7dfb90-41a7-4c72-9751-87603311c074 = { name = "SeisBase", path = "S/SeisBase" }
 8b836b70-9b2a-42b1-9437-b3e8e16cacad = { name = "RandomProjectionTree", path = "R/RandomProjectionTree" }
 8b842266-38fa-440a-9b57-31493939ab85 = { name = "PalmerPenguins", path = "P/PalmerPenguins" }
 8b8459f2-c380-502b-8633-9aed2d6c2b35 = { name = "StochasticPrograms", path = "S/StochasticPrograms" }
@@ -8888,6 +8890,7 @@ dcd9ba68-c27b-5cea-ae21-829cd07325bf = { name = "UncertainData", path = "U/Uncer
 dcda4a48-b9f7-11e9-2d4a-7da573938c24 = { name = "NonlinearEquations", path = "N/NonlinearEquations" }
 dcdf9ed5-39e7-592a-90de-966c054b7718 = { name = "FEMSparse", path = "F/FEMSparse" }
 dce04be8-c92d-5529-be00-80e4d2c0e197 = { name = "ArgCheck", path = "A/ArgCheck" }
+dce2f2bf-0ed4-5a0e-8af7-a90b827a9344 = { name = "libminc_jll", path = "jll/L/libminc_jll" }
 dcf03e4a-d036-4ede-96c9-024e9e9eed12 = { name = "ComoniconZSHCompletion", path = "C/ComoniconZSHCompletion" }
 dd074c01-bd9e-510d-b91d-361c690844c9 = { name = "battery_cli_jll", path = "jll/B/battery_cli_jll" }
 dd1544ca-2576-438c-a599-ae96278fd687 = { name = "ReinforcementLearningDatasets", path = "R/ReinforcementLearningDatasets" }
@@ -9023,6 +9026,7 @@ e033fc31-0bf0-4add-9518-8e0675b669ea = { name = "CausalGPSLC", path = "C/CausalG
 e034abe6-471a-4d54-96dd-ecd1f4022419 = { name = "Controlz", path = "C/Controlz" }
 e034b28e-924e-41b2-b98f-d2bbeb830c6a = { name = "ONNXRunTime", path = "O/ONNXRunTime" }
 e03d614a-b766-59b2-b90b-cbee90a02c36 = { name = "SoapyMultiSDR_jll", path = "jll/S/SoapyMultiSDR_jll" }
+e03d936e-b143-417e-99f1-948e30aaf057 = { name = "Flavio", path = "F/Flavio" }
 e03f8fd3-a2ff-47f5-ac97-ba7f0577c430 = { name = "EnsembleInversion", path = "E/EnsembleInversion" }
 e0630bc5-6e1f-509c-a3e4-0aea24bd2b1c = { name = "JetPackTransforms", path = "J/JetPackTransforms" }
 e0774970-6faf-4e9a-8c34-3860fa82b5ca = { name = "EarthEngine", path = "E/EarthEngine" }
@@ -9568,6 +9572,7 @@ ede5f01d-793e-4c47-9885-c447d1f18d6d = { name = "Xtals", path = "X/Xtals" }
 ede63266-ebff-546c-83e0-1c6fb6d0efc8 = { name = "Qt_jll", path = "jll/Q/Qt_jll" }
 ede81e08-c6d8-4fe3-94c2-f928d9d678ed = { name = "FlxQTL", path = "F/FlxQTL" }
 edf6cd94-1a94-567d-837e-37d1f3b87eed = { name = "GAP_pkg_cddinterface_jll", path = "jll/G/GAP_pkg_cddinterface_jll" }
+edfb154a-8991-4155-9628-fd26c9c32bf2 = { name = "WGPUCanvas", path = "W/WGPUCanvas" }
 ee02ff01-307c-5f43-b4c2-04ffc4645b0f = { name = "faust_jll", path = "jll/F/faust_jll" }
 ee0a3090-8ee9-5cdb-b8cb-8eeba3165522 = { name = "MINLPTests", path = "M/MINLPTests" }
 ee17a876-90d7-4d55-b638-625859505c6a = { name = "LinComs", path = "L/LinComs" }
