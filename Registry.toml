@@ -2821,6 +2821,7 @@ some amount of consideration when choosing package names.
 4543d8c2-dbf1-4999-b2cf-e00b224f19c5 = { name = "YasolSolver", path = "Y/YasolSolver" }
 4544d5e4-abc5-4dea-817f-29e4c205d9c8 = { name = "Boltz", path = "B/Boltz" }
 454a8cc1-5e0e-5123-92d5-09b094f0e876 = { name = "jemalloc_jll", path = "jll/J/jemalloc_jll" }
+454c4576-8353-43f8-8d90-1177b7ee912a = { name = "DeMorgan", path = "D/DeMorgan" }
 4552ee2b-11da-5aef-8e78-0d48532001f1 = { name = "BlackBoxOptimizationBenchmarking", path = "B/BlackBoxOptimizationBenchmarking" }
 4557a151-568a-41c4-844f-9d8069264cea = { name = "MinimalRLCore", path = "M/MinimalRLCore" }
 4559eb44-f4ba-5e76-9185-3ac873597822 = { name = "LibUCL_jll", path = "jll/L/LibUCL_jll" }
@@ -4846,6 +4847,7 @@ some amount of consideration when choosing package names.
 77a26b50-5914-5dd7-bc55-306e6241c503 = { name = "DiffEqNoiseProcess", path = "D/DiffEqNoiseProcess" }
 77af390e-3af4-4cd8-bbfa-7ab7569c172d = { name = "TruncatedDistributions", path = "T/TruncatedDistributions" }
 77b29d01-de08-56f3-96c6-9f6f21a29421 = { name = "Mineos_jll", path = "jll/M/Mineos_jll" }
+77b3afcc-388a-4e14-926d-b99c82d1a01f = { name = "ProtPlot", path = "P/ProtPlot" }
 77b51b56-6f8f-5c3a-9cb4-d71f9594ea6e = { name = "AverageShiftedHistograms", path = "A/AverageShiftedHistograms" }
 77b9cbda-2a23-51df-82a3-24144d1cd378 = { name = "TextModels", path = "T/TextModels" }
 77ba1a33-2bad-462b-8444-1926d7830738 = { name = "CoherentTransformations", path = "C/CoherentTransformations" }
@@ -5574,6 +5576,7 @@ some amount of consideration when choosing package names.
 89340185-c6b7-517e-a5e0-0a450377a6e4 = { name = "OpenFOAM_jll", path = "jll/O/OpenFOAM_jll" }
 89398ba2-070a-4b16-a995-9893c55d93cf = { name = "LocalRegistry", path = "L/LocalRegistry" }
 893b89ae-d513-59bf-bb22-7f8468641907 = { name = "LibYAML", path = "L/LibYAML" }
+894afd4e-5c6f-4d1a-a294-873acbd0e95c = { name = "SpatialHashTables", path = "S/SpatialHashTables" }
 8967581b-3fa7-4a60-bbed-8fff548a82df = { name = "ChaoticEncryption", path = "C/ChaoticEncryption" }
 8970d5fd-81b2-46cd-bbc5-7585a55eff67 = { name = "SimpleLexica", path = "S/SimpleLexica" }
 89763e89-9b03-5906-acba-b20f662cd828 = { name = "Libtiff_jll", path = "jll/L/Libtiff_jll" }
@@ -8692,6 +8695,7 @@ d7252348-293e-4f11-8d42-c8418dda4315 = { name = "JustSayIt", path = "J/JustSayIt
 d72a61cc-809d-412f-99be-fd81f4b8a598 = { name = "MadNLPGPU", path = "M/MadNLPGPU" }
 d730a6b3-54e8-5a61-8821-996059275344 = { name = "protobuf_c_jll", path = "jll/P/protobuf_c_jll" }
 d7326954-f021-11ed-2a08-d10e464848f1 = { name = "CalculustCore", path = "C/CalculustCore" }
+d739bc73-037a-4484-8212-e0e00e9ea6bf = { name = "DefaultKeywordArguments", path = "D/DefaultKeywordArguments" }
 d73ed964-a3ff-4a3d-ad09-d195fe0d0b35 = { name = "MimiSSPs", path = "M/MimiSSPs" }
 d7431456-977f-11e9-2de3-97ff7677985e = { name = "PowerModelsDistribution", path = "P/PowerModelsDistribution" }
 d7440221-8b5e-42fc-909c-0567823f424a = { name = "SingularIntegrals", path = "S/SingularIntegrals" }
