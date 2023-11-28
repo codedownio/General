@@ -5793,6 +5793,7 @@ some amount of consideration when choosing package names.
 8ef5fce9-1516-4e06-b171-18cb54ddb04b = { name = "ReplGPT", path = "R/ReplGPT" }
 8efc31e9-3fb0-4277-b18c-5a3d5d07abad = { name = "SplittableRandoms", path = "S/SplittableRandoms" }
 8f03c58b-bd97-4933-a826-f71b64d2cca2 = { name = "Effects", path = "E/Effects" }
+8f0b679f-44a1-4a38-8011-253e3a78fd39 = { name = "TidierText", path = "T/TidierText" }
 8f0d3306-d70b-5309-b898-24bb6ab47850 = { name = "DocumentationGenerator", path = "D/DocumentationGenerator" }
 8f1571ae-b3a1-52af-8ab1-32258739efdb = { name = "StanMCMCChain", path = "S/StanMCMCChain" }
 8f1865be-045e-5c20-9c9f-bfbfb0764568 = { name = "ZeroMQ_jll", path = "jll/Z/ZeroMQ_jll" }
@@ -5830,6 +5831,7 @@ some amount of consideration when choosing package names.
 900dd30e-34bf-4e23-831d-6809554238a5 = { name = "PyVenvs", path = "P/PyVenvs" }
 90100e71-7732-535a-9be7-2e9affd1cfc1 = { name = "MongoC_jll", path = "jll/M/MongoC_jll" }
 90137ffa-7385-5640-81b9-e52037218182 = { name = "StaticArrays", path = "S/StaticArrays" }
+90220dfc-fac3-4908-b895-51c1a1f4cb85 = { name = "SegregatedVMSSolver", path = "S/SegregatedVMSSolver" }
 9024f26f-ba4d-4e0a-965a-ad5b1da667aa = { name = "Dashboards", path = "D/Dashboards" }
 902b4cfc-36dd-46ec-9aee-5fae5b5d5a99 = { name = "HomogeneityTestBBU", path = "H/HomogeneityTestBBU" }
 902c3f28-d1ec-5e7e-8399-a24c3845ee38 = { name = "Elemental", path = "E/Elemental" }
@@ -7548,6 +7550,7 @@ bb3d3a65-b032-5cdd-a073-dfed7b606c01 = { name = "SecretSanta", path = "S/SecretS
 bb4162c7-ba94-5a20-af32-d8ec4428bdd1 = { name = "BEAST", path = "B/BEAST" }
 bb4c363b-b914-514b-8517-4eb369bc008a = { name = "GridInterpolations", path = "G/GridInterpolations" }
 bb53d66c-7482-569a-820c-c7df7b381dd9 = { name = "Pikchr_jll", path = "jll/P/Pikchr_jll" }
+bb5d69b7-63fc-4a16-80bd-7e42200c7bdb = { name = "MaybeInplace", path = "M/MaybeInplace" }
 bb5f6f25-f23d-57fd-8f90-3ef7bad1d825 = { name = "CUTEst_jll", path = "jll/C/CUTEst_jll" }
 bb729d96-d836-50c8-a5f6-280bdc4918fa = { name = "ConstituencyTrees", path = "C/ConstituencyTrees" }
 bb7b2d4f-b953-405a-be8a-3427bcf465e4 = { name = "FishersExactTest", path = "F/FishersExactTest" }
@@ -7757,6 +7760,7 @@ bf9c6edb-e643-5064-a5c3-0f96a1285812 = { name = "GtkSourceView_jll", path = "jll
 bfa2eb29-3100-444f-b199-1a748fe501a4 = { name = "SemanticTrajectories", path = "S/SemanticTrajectories" }
 bfa37bea-997f-11e9-0e02-2d50932a0e04 = { name = "Secp256k1", path = "S/Secp256k1" }
 bfb209d9-8743-5e3a-8711-bc78bba37304 = { name = "Zabbix", path = "Z/Zabbix" }
+bfb82bb4-2e03-4c62-8cbb-f4e539ad28e8 = { name = "ObservableCortex", path = "O/ObservableCortex" }
 bfc457fd-c171-5ab7-bd9e-d5dbfc242d63 = { name = "QDLDL", path = "Q/QDLDL" }
 bfca5e61-7ca9-4d61-a82b-6df663fb0d3c = { name = "JuliaCon", path = "J/JuliaCon" }
 bfcb1084-f727-4b17-bfff-b14f4012e832 = { name = "ParquetS3", path = "P/ParquetS3" }
