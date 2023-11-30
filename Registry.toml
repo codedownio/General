@@ -1625,6 +1625,7 @@ some amount of consideration when choosing package names.
 276daf66-3868-5448-9aa4-cd146d93841b = { name = "SpecialFunctions", path = "S/SpecialFunctions" }
 276e7ca9-e0d7-440b-97bc-a6ae82f545b1 = { name = "PeriodicalDates", path = "P/PeriodicalDates" }
 27704a7e-a4df-40bc-951d-d074625df1c8 = { name = "TopOptProblems", path = "T/TopOptProblems" }
+2771e1c8-acf3-11e8-3576-cd129da217b6 = { name = "DynamicHMCExamples", path = "D/DynamicHMCExamples" }
 2774e3e8-f4cf-5e23-947b-6d7e65073b56 = { name = "NLsolve", path = "N/NLsolve" }
 277f244e-4908-11e9-33c2-5d5365097ef8 = { name = "GlobalApproximationValueIteration", path = "G/GlobalApproximationValueIteration" }
 27887bc2-7e01-59df-98ae-1bb60dc90ce9 = { name = "Woff2_jll", path = "jll/W/Woff2_jll" }
@@ -3383,6 +3384,7 @@ some amount of consideration when choosing package names.
 5333d757-b784-411c-847d-750c45219338 = { name = "DistributedOperations", path = "D/DistributedOperations" }
 533b6e3a-cbf4-4a92-8a96-bc27ebcb1598 = { name = "EchelleInstruments", path = "E/EchelleInstruments" }
 534720e6-2374-40c5-8712-bf9a2f1643c6 = { name = "CompositeStructs", path = "C/CompositeStructs" }
+5352d3c8-010c-4f6e-a427-fe5152755be6 = { name = "ReactiveToolkit", path = "R/ReactiveToolkit" }
 535c2557-d7d0-564d-8ff9-4ae146c18cfe = { name = "ClinicalTrialUtilities", path = "C/ClinicalTrialUtilities" }
 535c7bfe-2023-5c1d-b712-654ef9d93a38 = { name = "SauterSchwabQuadrature", path = "S/SauterSchwabQuadrature" }
 535d1a1e-7fe7-4528-a7ba-13bd0fa9d36a = { name = "SimpleCache", path = "S/SimpleCache" }
@@ -3895,6 +3897,7 @@ some amount of consideration when choosing package names.
 605abd48-4d17-4660-b914-d4df33194460 = { name = "LabelledGraphs", path = "L/LabelledGraphs" }
 605ecd9f-84a6-4c9e-81e2-4798472b76a3 = { name = "ShowCases", path = "S/ShowCases" }
 60658175-6863-4866-a322-ab51a11c0cfe = { name = "WarmupHMC", path = "W/WarmupHMC" }
+60694085-d904-4bfc-95dc-1e0e768e9359 = { name = "Swizzles", path = "S/Swizzles" }
 606afd24-34ae-43cb-b3df-40d2cc14ba61 = { name = "Polarisation", path = "P/Polarisation" }
 6074595b-091a-495a-9b39-045a690b2c53 = { name = "Muspel", path = "M/Muspel" }
 607c11b8-770f-4df0-ace8-6eaa1ea2719e = { name = "HealthMLBase", path = "H/HealthMLBase" }
@@ -6264,6 +6267,7 @@ some amount of consideration when choosing package names.
 9bb6cfbd-7763-5393-b1b5-1c8e09872146 = { name = "NRRD", path = "N/NRRD" }
 9bbbb610-88a1-53cd-9763-118ce10c1f89 = { name = "ApproxManifoldProducts", path = "A/ApproxManifoldProducts" }
 9bbee03b-0db5-5f46-924f-b5c9c21b8c60 = { name = "NaiveBayes", path = "N/NaiveBayes" }
+9bc180e8-272c-4d08-a460-9682f1716cbe = { name = "WebAssemblyCompiler", path = "W/WebAssemblyCompiler" }
 9bc6ac9d-e6b2-5f70-b0a8-242a01662520 = { name = "GeneticVariation", path = "G/GeneticVariation" }
 9bd120df-771c-42ec-88b3-c561e7179d1b = { name = "ScenTreesMakie", path = "S/ScenTreesMakie" }
 9bd350c2-7e96-507f-8002-3f2e150b4e1b = { name = "OpenSSH_jll", path = "jll/O/OpenSSH_jll" }
@@ -7393,6 +7397,7 @@ b6fd3212-6f87-5999-b9ea-021e9cd21b17 = { name = "Trilinos_jll", path = "jll/T/Tr
 b6fe5377-9711-4fad-95b0-be4eed71ecbb = { name = "SymbolicPlanners", path = "S/SymbolicPlanners" }
 b7050fa9-e91f-4b37-bcee-a89a063da141 = { name = "NonlinearProblemLibrary", path = "N/NonlinearProblemLibrary" }
 b70543e2-c0d9-56b8-a290-0d4d6d4de211 = { name = "ApproxFunOrthogonalPolynomials", path = "A/ApproxFunOrthogonalPolynomials" }
+b7062236-b0aa-4473-bf76-66f344053691 = { name = "YoungTableaux", path = "Y/YoungTableaux" }
 b70b374f-000b-463f-88dc-37030f004bd0 = { name = "CloughTocher2DInterpolation", path = "C/CloughTocher2DInterpolation" }
 b71133ba-6b01-47a0-b4fe-e7a9e8ed2c06 = { name = "CDCLsat", path = "C/CDCLsat" }
 b7115f24-5f92-4794-81e8-23b0ddb121d3 = { name = "InvertibleNetworks", path = "I/InvertibleNetworks" }
