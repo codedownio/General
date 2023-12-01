@@ -3728,6 +3728,7 @@ some amount of consideration when choosing package names.
 5c1ef01f-39c8-5834-b1a0-1a342f75f4df = { name = "Cookbook", path = "C/Cookbook" }
 5c1f47dc-42dd-5697-8aaa-4d102d140ba9 = { name = "IntervalMatrices", path = "I/IntervalMatrices" }
 5c252ae7-b5b6-46ab-a016-b0e3d78320b7 = { name = "SpectralKit", path = "S/SpectralKit" }
+5c25986e-1fdd-4016-bfbf-d983868d020f = { name = "StatisticalProcessMonitoring", path = "S/StatisticalProcessMonitoring" }
 5c2747f8-b7ea-4ff2-ba2e-563bfd36b1d4 = { name = "URIs", path = "U/URIs" }
 5c32dcf8-0cad-11ea-129f-5f4ce150df4b = { name = "BIDSTools", path = "B/BIDSTools" }
 5c499583-5bfe-4591-9b59-c1e192d48697 = { name = "BlockFactorizations", path = "B/BlockFactorizations" }
@@ -7810,6 +7811,7 @@ c0c4b1a4-92fd-414d-990e-850c1287bada = { name = "EcRequests", path = "E/EcReques
 c0c96f75-fb1e-4a0c-bd73-67714f26b91d = { name = "LocalPoly", path = "L/LocalPoly" }
 c0cd4b16-88b7-57fa-983b-ab80aecada7e = { name = "BAT", path = "B/BAT" }
 c0cf9fb7-f496-4999-a425-c50785d1b88b = { name = "AstrodynamicalCalculations", path = "A/AstrodynamicalCalculations" }
+c0d0730e-6432-44b2-a51e-6ec55e1c8b99 = { name = "ChunkedCSV", path = "C/ChunkedCSV" }
 c0d5b6db-e3fc-52bc-a87d-1d050989ed3b = { name = "PhyloPlots", path = "P/PhyloPlots" }
 c0d8f697-7833-4eed-a9bd-1f3da4013f1a = { name = "VertexFinder", path = "V/VertexFinder" }
 c0e83750-1142-43a8-81cf-6c956b72b4d1 = { name = "FastPow", path = "F/FastPow" }
@@ -9739,6 +9741,7 @@ f20549b4-2d50-407f-863c-cdd202ba59a3 = { name = "AlphaStableDistributions", path
 f2081a94-c849-46b6-8dc9-07bb90ed72a9 = { name = "RadiiPolynomial", path = "R/RadiiPolynomial" }
 f20cf718-bf4d-4727-bc8f-485b1f283ac6 = { name = "GriddingMachine", path = "G/GriddingMachine" }
 f213a82b-91d6-5c5d-acf7-10f1c761b327 = { name = "HomotopyContinuation", path = "H/HomotopyContinuation" }
+f218240f-9760-4928-9282-fb77ffd82776 = { name = "ChunkedJSONL", path = "C/ChunkedJSONL" }
 f21876d5-f57e-42d4-b770-51729cc49110 = { name = "Firebird", path = "F/Firebird" }
 f218859d-9706-56aa-9ebf-1fa4ed7b8020 = { name = "TimeseriesPrediction", path = "T/TimeseriesPrediction" }
 f218ff0c-cb54-5151-80c4-c0f62c730ce6 = { name = "ColPack_jll", path = "jll/C/ColPack_jll" }
