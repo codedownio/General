@@ -3117,6 +3117,7 @@ some amount of consideration when choosing package names.
 4c728ea3-d9ee-5c9a-9642-b6f7d7dc04fa = { name = "Flatten", path = "F/Flatten" }
 4c82536e-c426-54e4-b420-14f461c4ed8b = { name = "Nettle_jll", path = "jll/N/Nettle_jll" }
 4c88cf16-eb10-579e-8560-4a9242c79595 = { name = "Aqua", path = "A/Aqua" }
+4c8bd3c9-ead9-4b5e-a625-08f1338ba0ec = { name = "Ginkgo", path = "G/Ginkgo" }
 4c8beaf5-199b-59a0-a7f2-21d17de635b6 = { name = "StaticGraphs", path = "S/StaticGraphs" }
 4c983967-3530-4695-9d8b-d2465029e2f3 = { name = "RecoverPose", path = "R/RecoverPose" }
 4ca9428c-4c75-11e9-2efb-bf5cb6c1e8f8 = { name = "JuDoc", path = "J/JuDoc" }
@@ -3127,6 +3128,7 @@ some amount of consideration when choosing package names.
 4cc8113b-92e1-44eb-9dd6-a1e250a7ca3b = { name = "IteratedProcessSimulations", path = "I/IteratedProcessSimulations" }
 4cd002a6-0da4-410d-a012-232df062f478 = { name = "SuperLUDIST", path = "S/SuperLUDIST" }
 4cd5d487-2a85-4602-baee-1f5c94b6a44c = { name = "DecisionMakingPolicies", path = "D/DecisionMakingPolicies" }
+4ce82931-4c10-4b80-a308-e2bd97408557 = { name = "InMAPSourceReceptorMatrices", path = "I/InMAPSourceReceptorMatrices" }
 4ceb92a4-8458-42c6-ac22-7a21adf6253e = { name = "NetRC", path = "N/NetRC" }
 4cefb923-2b6f-58c4-9e65-6821f26b7b51 = { name = "Munkres", path = "M/Munkres" }
 4cf2564c-d31b-5d58-bf70-2c153d6f88fd = { name = "Amaru", path = "A/Amaru" }
@@ -4927,6 +4929,7 @@ some amount of consideration when choosing package names.
 78ddff82-25fc-5f2b-89aa-309469cbf16f = { name = "DiffEqMonteCarlo", path = "D/DiffEqMonteCarlo" }
 78e728a9-57fe-5d11-897c-5014b89e5f84 = { name = "NetCDFF_jll", path = "jll/N/NetCDFF_jll" }
 78f5a1cc-aa73-4dda-b6b2-4d6b1976988f = { name = "ExtendedDates", path = "E/ExtendedDates" }
+78f632dc-6214-4aca-89df-9f86f5ac7c9e = { name = "DispersionRelations", path = "D/DispersionRelations" }
 78faba9b-a54b-441f-8118-62407cbe4e59 = { name = "HChebInterp", path = "H/HChebInterp" }
 78feedfb-ee96-4c5d-801a-e07e5d165ffd = { name = "EqualitySampler", path = "E/EqualitySampler" }
 790186a0-1ec0-11ec-1f13-43a2532b2fa8 = { name = "ExactODEReduction", path = "E/ExactODEReduction" }
@@ -7728,6 +7731,7 @@ beacd9db-9e5e-4956-9b09-459a4b2028df = { name = "DifferentiableStateSpaceModels"
 beb21ac1-5488-4e8e-a65a-eed5c6ff7e13 = { name = "ObjectSystem", path = "O/ObjectSystem" }
 bec31ec3-4858-4ad8-9f9e-aabdaa4a593b = { name = "FinEtoolsVibInFluids", path = "F/FinEtoolsVibInFluids" }
 bec4dd0d-7755-52d5-9a02-22f0ffc7efcb = { name = "NLPModelsKnitro", path = "N/NLPModelsKnitro" }
+bec5164f-1c7a-4c32-8768-be9354254d6a = { name = "Walrus", path = "W/Walrus" }
 becb17da-46f6-5d3c-ad1b-1c5fe96bc73c = { name = "Feather", path = "F/Feather" }
 becf559c-afb9-529d-9a2d-92566e0304eb = { name = "OpenSlide_jll", path = "jll/O/OpenSlide_jll" }
 bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
@@ -9439,6 +9443,7 @@ e920d4aa-a673-5f3a-b3d7-f755a4d47c43 = { name = "Xorg_xcb_util_cursor_jll", path
 e9251ff4-c148-4db3-bf46-89407750fae0 = { name = "InitialMassFunctions", path = "I/InitialMassFunctions" }
 e92fa02b-1b7a-5e4e-a5cb-14fe26dfc45b = { name = "RadeonProRender_jll", path = "jll/R/RadeonProRender_jll" }
 e933307e-f964-4372-9340-e36d39c2f667 = { name = "Logistics", path = "L/Logistics" }
+e939450b-799e-4198-a5f5-3f2f7fb1c671 = { name = "CEEDesigns", path = "C/CEEDesigns" }
 e9467ef8-e4e7-5192-8a1a-b1aee30e663a = { name = "GLMakie", path = "G/GLMakie" }
 e94cdb99-869f-56ef-bcf0-1ae2bcbe0389 = { name = "MosaicViews", path = "M/MosaicViews" }
 e95a7839-07fb-532d-9a0e-071766bb5168 = { name = "ConicBenchmarkUtilities", path = "C/ConicBenchmarkUtilities" }
