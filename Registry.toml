@@ -1690,6 +1690,7 @@ some amount of consideration when choosing package names.
 2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91 = { name = "StatsBase", path = "S/StatsBase" }
 2913f2de-b437-495a-9482-ef041561d0d3 = { name = "RealContinuedFractions", path = "R/RealContinuedFractions" }
 2919e153-833c-4bdc-8836-1ea460a35fc7 = { name = "ITensorNetworks", path = "I/ITensorNetworks" }
+291a174b-6542-42e7-9996-fc00d7c03310 = { name = "StippleDownloads", path = "S/StippleDownloads" }
 291c01f3-23f6-4eb6-aeb0-063a639b53f2 = { name = "SemiclassicalOrthogonalPolynomials", path = "S/SemiclassicalOrthogonalPolynomials" }
 291d046c-3347-11e9-1e74-c3d251d406c6 = { name = "MixedSubdivisions", path = "M/MixedSubdivisions" }
 291fd964-e446-5d75-9412-e8e0eb420fa7 = { name = "PlanarMaps", path = "P/PlanarMaps" }
@@ -1988,6 +1989,7 @@ some amount of consideration when choosing package names.
 30392449-352a-5448-841d-b1acce4e97dc = { name = "Pixman_jll", path = "jll/P/Pixman_jll" }
 3046eef8-5348-48c9-b840-6c15f76662f3 = { name = "Scheduling", path = "S/Scheduling" }
 304da4c3-06e5-42c8-b67d-e82ababee5fb = { name = "SixDOF", path = "S/SixDOF" }
+304e07c4-4ffc-4adf-87bc-5a9afdf39ded = { name = "StippleTypedArrays", path = "S/StippleTypedArrays" }
 30578b45-9adc-5946-b283-645ec420af67 = { name = "URIParser", path = "U/URIParser" }
 3064a664-84fe-4d92-92c7-ed492f3d8fae = { name = "FIGlet", path = "F/FIGlet" }
 306e248c-d22f-4909-81db-ed3c44a8c0e1 = { name = "SpmImageTycoonInstaller", path = "S/SpmImageTycoonInstaller" }
@@ -2646,6 +2648,7 @@ some amount of consideration when choosing package names.
 40c74d1a-b44c-5b06-a7c1-6cbea58ea978 = { name = "TableView", path = "T/TableView" }
 40e3b903-d033-50b4-a0cc-940c62c95e31 = { name = "Clang", path = "C/Clang" }
 40e66cde-538c-5869-a4ad-c39174c6795b = { name = "LDLFactorizations", path = "L/LDLFactorizations" }
+40eb83ae-c93a-480c-8f39-f018b568f472 = { name = "AppBundler", path = "A/AppBundler" }
 410a4b4d-49e4-4fbc-ab6d-cb71b17b3775 = { name = "Tricks", path = "T/Tricks" }
 411431e0-e8b7-467b-b5e0-f676ba4f2910 = { name = "Extents", path = "E/Extents" }
 41177cfe-c387-11e9-2806-edd030e4594e = { name = "MaxPlus", path = "M/MaxPlus" }
@@ -3985,6 +3988,7 @@ some amount of consideration when choosing package names.
 62700b34-1872-4917-b6af-4f42ae699f38 = { name = "PlotPlants", path = "P/PlotPlants" }
 62725fbc-3a66-4df3-9000-e33e85b3a198 = { name = "MITgcmTools", path = "M/MITgcmTools" }
 62783981-4cbd-42fc-bca8-16325de8dc4b = { name = "BitTwiddlingConvenienceFunctions", path = "B/BitTwiddlingConvenienceFunctions" }
+628e9319-2ed5-413a-8fcb-ba6034deb837 = { name = "TaylorInterface", path = "T/TaylorInterface" }
 628eb91b-9d1c-424a-81d5-cd7fa5d7294a = { name = "Anime", path = "A/Anime" }
 629bc702-f1f5-5709-abd5-49b8460ea067 = { name = "Qt6Declarative_jll", path = "jll/Q/Qt6Declarative_jll" }
 62b44479-cb7b-5706-934f-f13b2eb2e645 = { name = "CUDNN_jll", path = "jll/C/CUDNN_jll" }
@@ -5904,6 +5908,7 @@ some amount of consideration when choosing package names.
 91d4177d-7536-5919-b921-800302f37372 = { name = "Opus_jll", path = "jll/O/Opus_jll" }
 91d5e9c4-6b54-5540-8e0f-f201c75be604 = { name = "FastNoise2_jll", path = "jll/F/FastNoise2_jll" }
 91da5cd7-58ae-4d67-87db-f03d1c8da121 = { name = "ReducedBasisMethods", path = "R/ReducedBasisMethods" }
+91df39b6-5e55-447c-8840-2e09be0f70fd = { name = "DigitalHolography", path = "D/DigitalHolography" }
 91e7fc40-53cd-4118-bd19-d7fcd1de2a54 = { name = "BijectiveHilbert", path = "B/BijectiveHilbert" }
 91f4afc7-28cd-4627-b11a-a83dc9ff1a58 = { name = "MimiBRICK", path = "M/MimiBRICK" }
 91f8d46f-6a72-421b-a56e-b73459bd5e0a = { name = "RedefStructs", path = "R/RedefStructs" }
@@ -9749,6 +9754,7 @@ f1e47f7f-56cf-4a63-9b2b-695e95ad7a29 = { name = "EmeraldConstants", path = "E/Em
 f1ef5e10-671a-599f-ac25-3c68827556ba = { name = "Dex_jll", path = "jll/D/Dex_jll" }
 f1f30506-32fe-5131-bd72-7c197988f9e5 = { name = "LegibleLambdas", path = "L/LegibleLambdas" }
 f1f71cc9-e9ae-5b93-9b94-4fe0e1ad3748 = { name = "MPItrampoline_jll", path = "jll/M/MPItrampoline_jll" }
+f202a280-4a11-4d8a-9d54-4c7a90dde5df = { name = "Westerfit", path = "W/Westerfit" }
 f20549b4-2d50-407f-863c-cdd202ba59a3 = { name = "AlphaStableDistributions", path = "A/AlphaStableDistributions" }
 f2081a94-c849-46b6-8dc9-07bb90ed72a9 = { name = "RadiiPolynomial", path = "R/RadiiPolynomial" }
 f20cf718-bf4d-4727-bc8f-485b1f283ac6 = { name = "GriddingMachine", path = "G/GriddingMachine" }
