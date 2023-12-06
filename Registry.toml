@@ -1921,6 +1921,7 @@ some amount of consideration when choosing package names.
 2ec8e600-e6c3-11e9-3904-61c7e8636276 = { name = "HDF5Utils", path = "H/HDF5Utils" }
 2ec943e9-cfe8-584d-b93d-64dcb6d567b7 = { name = "Libz", path = "L/Libz" }
 2ecab122-4940-479f-a518-03695d136e3f = { name = "BigO", path = "B/BigO" }
+2ecefcea-59f0-46dd-9cfd-1d2b8cc5f112 = { name = "PeriLab", path = "P/PeriLab" }
 2ed2781b-9bfa-45ba-823d-d31db75b7d93 = { name = "Leaflet", path = "L/Leaflet" }
 2edaba10-b0f1-5616-af89-8c11ac63239a = { name = "Nemo", path = "N/Nemo" }
 2edc7d5a-420c-455a-9f50-96c88fa4f765 = { name = "SimplePadics", path = "S/SimplePadics" }
@@ -2988,6 +2989,7 @@ some amount of consideration when choosing package names.
 49080126-0e18-4c2a-b176-c102e4b3760c = { name = "ZipArchives", path = "Z/ZipArchives" }
 4908299a-382f-4474-b696-db03060d32c1 = { name = "GMTAccess", path = "G/GMTAccess" }
 490da00b-a60c-4ded-a4cf-df7cded56bfa = { name = "Thunks", path = "T/Thunks" }
+49138a36-0386-40e9-aaa4-13a46f310b6c = { name = "TradeStationAPI", path = "T/TradeStationAPI" }
 491db154-c145-5abe-9c32-446728d60cce = { name = "Check_jll", path = "jll/C/Check_jll" }
 492392ba-fc20-5d72-afbd-f61f3c69e3d5 = { name = "LinearFold_jll", path = "jll/L/LinearFold_jll" }
 492f22fc-54e6-4f0f-bb9b-bacd199f5046 = { name = "LifeInsuranceProduct", path = "L/LifeInsuranceProduct" }
@@ -4705,6 +4707,7 @@ some amount of consideration when choosing package names.
 734bcdfa-9b77-4718-b76e-d5faf726ad42 = { name = "ODEHybrid", path = "O/ODEHybrid" }
 735f9d89-249f-4fc4-9125-480239e6a78f = { name = "MicroCoverage", path = "M/MicroCoverage" }
 735ffce8-66c7-5b61-a90f-89c46d1a79d5 = { name = "TrafficAssignment", path = "T/TrafficAssignment" }
+736c1586-5226-4b2e-9818-fad6972f0408 = { name = "SDLCanvas", path = "S/SDLCanvas" }
 736c604d-46d4-4c6b-993b-58f501ada7d6 = { name = "DefaultFields", path = "D/DefaultFields" }
 736d6165-7244-6769-4267-6b50796e6954 = { name = "MarkdownLiteral", path = "M/MarkdownLiteral" }
 73717f16-8662-5d85-9e79-a3c1fc1c8861 = { name = "ABC_jll", path = "jll/A/ABC_jll" }
@@ -7745,6 +7748,7 @@ beb21ac1-5488-4e8e-a65a-eed5c6ff7e13 = { name = "ObjectSystem", path = "O/Object
 bec31ec3-4858-4ad8-9f9e-aabdaa4a593b = { name = "FinEtoolsVibInFluids", path = "F/FinEtoolsVibInFluids" }
 bec4dd0d-7755-52d5-9a02-22f0ffc7efcb = { name = "NLPModelsKnitro", path = "N/NLPModelsKnitro" }
 bec5164f-1c7a-4c32-8768-be9354254d6a = { name = "Walrus", path = "W/Walrus" }
+bec7fea8-67ad-492e-b01d-b4dfa914b0da = { name = "DynamicOED", path = "D/DynamicOED" }
 becb17da-46f6-5d3c-ad1b-1c5fe96bc73c = { name = "Feather", path = "F/Feather" }
 becf559c-afb9-529d-9a2d-92566e0304eb = { name = "OpenSlide_jll", path = "jll/O/OpenSlide_jll" }
 bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
@@ -10000,6 +10004,7 @@ f79a5470-17c6-525f-b62f-3ca7bd6eedf2 = { name = "VariationalInequality", path = 
 f79d145f-20fd-5c1a-ae67-8074679d1f1f = { name = "TauDEM_jll", path = "jll/T/TauDEM_jll" }
 f7a9608b-7678-5329-8a05-97541ebc462c = { name = "SDPNAL", path = "S/SDPNAL" }
 f7b14807-3d4d-461a-888a-05dd4bca8bc3 = { name = "Bonobo", path = "B/Bonobo" }
+f7b4726d-4195-44ab-b39c-37bbdadae004 = { name = "MeshGraphNets", path = "M/MeshGraphNets" }
 f7b99bbd-2e5d-508a-a6d9-3364a7ade44d = { name = "TtH_jll", path = "jll/T/TtH_jll" }
 f7bf1975-0170-51b9-8c5f-a992d46b9575 = { name = "Impute", path = "I/Impute" }
 f7c07657-0d0a-4d46-b086-01df223a7b4f = { name = "DifferencesBase", path = "D/DifferencesBase" }
