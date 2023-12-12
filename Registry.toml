@@ -7500,6 +7500,7 @@ b8c06d6b-f458-43ac-b37a-3e779b88779f = { name = "StochasticGroundMotionSimulatio
 b8c1c048-cf81-46c6-9da0-18c1d99e41f2 = { name = "WidthLimitedIO", path = "W/WidthLimitedIO" }
 b8ccf107-3a88-5e0f-823b-b838c6a0f327 = { name = "Spec", path = "S/Spec" }
 b8ce4b42-e81b-4a39-a84a-67f74a9a16dd = { name = "LinearMixingModels", path = "L/LinearMixingModels" }
+b8d14031-e142-472f-b25f-bd9018bb5b90 = { name = "GeneralizedMorseWavelets", path = "G/GeneralizedMorseWavelets" }
 b8d15608-0852-4141-ae38-222578e2ed7b = { name = "BulkLMM", path = "B/BulkLMM" }
 b8d24480-b8ee-42fe-a917-db159b4b1a29 = { name = "GenericInstruments", path = "G/GenericInstruments" }
 b8d349fb-717b-4aac-a9b1-e1da4219c631 = { name = "SimpleContainerGenerator", path = "S/SimpleContainerGenerator" }
@@ -8648,6 +8649,7 @@ d440507b-0e4e-5f44-bdb1-2286f97ade5a = { name = "FoundationDB", path = "F/Founda
 d440d0cf-a03a-4c3f-a45e-240b6b8fa1ca = { name = "Grader", path = "G/Grader" }
 d459d6fe-e785-4cae-bf87-14a4152982ff = { name = "NeuroCore", path = "N/NeuroCore" }
 d462d321-1585-4840-9f3e-06f5c1b6ea25 = { name = "Avalon", path = "A/Avalon" }
+d4678d24-b338-4f96-a2c8-a66549d61c16 = { name = "Mice", path = "M/Mice" }
 d4699623-ce05-5c67-980b-2a42053ff8b1 = { name = "QD_jll", path = "jll/Q/QD_jll" }
 d46d16aa-1548-45e6-bb37-c0a3431c6626 = { name = "FilteredGroupbyMacro", path = "F/FilteredGroupbyMacro" }
 d46d874d-5773-4ce9-8adb-568101dc8882 = { name = "LDPCStorage", path = "L/LDPCStorage" }
@@ -9051,6 +9053,7 @@ deefbfe4-5b57-4941-9cbb-7e0220485fa4 = { name = "Recruiters", path = "R/Recruite
 def0f3ea-0521-5e8c-a7b7-92f0f4873a26 = { name = "LEAN_Community_jll", path = "jll/L/LEAN_Community_jll" }
 def46b05-8f36-4d9e-bd86-05836b3c85d9 = { name = "QuantileNN", path = "Q/QuantileNN" }
 def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/CenteredRBMs" }
+df0093a1-273d-40bc-819a-796ec3476907 = { name = "SpectralIndices", path = "S/SpectralIndices" }
 df0521af-66a0-42b3-822e-f30debbfe642 = { name = "Loraine", path = "L/Loraine" }
 df125234-20bf-4c0f-9bfa-104d3353f312 = { name = "BranchAndBound", path = "B/BranchAndBound" }
 df1608cb-88be-5058-95d4-2cc1fff969de = { name = "WORLD_jll", path = "jll/W/WORLD_jll" }
@@ -9087,6 +9090,7 @@ dfcd5af1-1e31-431a-b1a1-3c72ddca0e1b = { name = "LaserFields", path = "L/LaserFi
 dfdd4555-3ad7-41cc-a503-a251c9c652f9 = { name = "BanyanDataFrames", path = "B/BanyanDataFrames" }
 dfdd8f93-37cf-4dac-b522-93b2288e19f1 = { name = "RasterHistograms", path = "R/RasterHistograms" }
 dfe201cf-525d-5101-8f66-6dc5e2f3b224 = { name = "Objconv_jll", path = "jll/O/Objconv_jll" }
+dfe2c37b-9b3c-58e6-b43e-8bff6111200d = { name = "lovoalign_jll", path = "jll/L/lovoalign_jll" }
 dfeb4ede-c75e-11e9-050d-41ab7a730e9e = { name = "PlanktonIndividuals", path = "P/PlanktonIndividuals" }
 dff2f42d-5506-450f-a8d7-e8287f476a07 = { name = "HnswAnn", path = "H/HnswAnn" }
 dffbff30-506a-45ba-b474-e78cc8ad254e = { name = "EngThermBase", path = "E/EngThermBase" }
