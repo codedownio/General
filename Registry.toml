@@ -2250,6 +2250,7 @@ some amount of consideration when choosing package names.
 366cf18f-59d5-5db9-a4de-86a9f6786172 = { name = "RigidBodyDynamics", path = "R/RigidBodyDynamics" }
 366fac1a-8926-5ab0-83e4-4abef7ac9c79 = { name = "TVM_jll", path = "jll/T/TVM_jll" }
 3677d96b-3d39-5184-a844-8e8b2839af35 = { name = "MiniZinc_jll", path = "jll/M/MiniZinc_jll" }
+367f69f0-ca63-11e8-2372-438b29340c1b = { name = "Chevie", path = "C/Chevie" }
 3685ca4f-ed3b-50e9-b1b5-004114d6e21a = { name = "ParseGen_jll", path = "jll/P/ParseGen_jll" }
 36869731-bdee-424d-aa32-cab38c994e3b = { name = "Malt", path = "M/Malt" }
 3687fdae-f7fc-44d6-b290-5a4209d5cae9 = { name = "EqualityConstrainedMinimization", path = "E/EqualityConstrainedMinimization" }
@@ -8293,6 +8294,7 @@ cb1733c5-7124-4973-b058-890cf74b35cb = { name = "BayesSizeAndShape", path = "B/B
 cb18667b-f199-4b8b-b886-9916fef47a26 = { name = "PICDataStructures", path = "P/PICDataStructures" }
 cb1a753d-6b7b-52e3-9bfe-57d99d445c39 = { name = "AsterReader", path = "A/AsterReader" }
 cb1bc77f-5443-4951-af9f-05b616a3e422 = { name = "WannierIO", path = "W/WannierIO" }
+cb1f95eb-7c3a-45bc-9e18-5c07f1beaacd = { name = "DiffImageRotation", path = "D/DiffImageRotation" }
 cb339c56-07fa-4cb2-923a-142469552264 = { name = "PseudoPotentialIO", path = "P/PseudoPotentialIO" }
 cb401d7d-c4f9-4284-af24-a1eca280e8e8 = { name = "VersatileHDPMixtureModels", path = "V/VersatileHDPMixtureModels" }
 cb4044da-4d16-4ffa-a6a3-8cad7f73ebdc = { name = "PlutoTest", path = "P/PlutoTest" }
@@ -8385,6 +8387,7 @@ cd7c2323-e06e-549f-9837-4f85c0db7ff9 = { name = "LinearTurboFold_jll", path = "j
 cd7fe561-ad00-49f8-bbfe-26490459673c = { name = "HelpGPT", path = "H/HelpGPT" }
 cd8c4018-4f35-43b7-8520-d042ebaeaa2d = { name = "CorrelationFunctions", path = "C/CorrelationFunctions" }
 cd95cb84-3722-50de-b350-5a08abf29683 = { name = "Netgen_jll", path = "jll/N/Netgen_jll" }
+cd96f58b-6017-4a02-bb9e-f4d81626177f = { name = "NonuniformFFTs", path = "N/NonuniformFFTs" }
 cd998857-8626-517d-b929-70ad188a48f0 = { name = "Yota", path = "Y/Yota" }
 cda752c5-6b03-55a3-9e33-132a441b0c17 = { name = "EFIT", path = "E/EFIT" }
 cdb18c6f-09f1-5f87-ba27-801070dd1989 = { name = "fastp_jll", path = "jll/F/fastp_jll" }
@@ -8871,6 +8874,7 @@ da27883c-8256-4720-924b-e7be686627bb = { name = "Tibber", path = "T/Tibber" }
 da37f231-8920-5702-a09a-bdd970cb6ddc = { name = "SBC_jll", path = "jll/S/SBC_jll" }
 da404889-ca92-49ff-9e8b-0aa6b4d38dc8 = { name = "ARFFFiles", path = "A/ARFFFiles" }
 da464f59-a6cf-4c57-92f9-0556c3abcc34 = { name = "KmerAnalysisMakie", path = "K/KmerAnalysisMakie" }
+da470b1c-b0a8-4533-b4d1-e613846a4bd7 = { name = "ASDF2", path = "A/ASDF2" }
 da4a04c4-868a-4285-9821-73fa1c6f6848 = { name = "GREMLModels", path = "G/GREMLModels" }
 da5bd070-f609-4e16-a30d-de86b3faa756 = { name = "EquivalentCircuits", path = "E/EquivalentCircuits" }
 da5c29d0-fa7d-589e-88eb-ea29b0a81949 = { name = "EllipsisNotation", path = "E/EllipsisNotation" }
