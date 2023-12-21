@@ -2159,6 +2159,7 @@ some amount of consideration when choosing package names.
 343a40d9-ed99-5d34-8b56-649aaa4ecee6 = { name = "soapysdr_jll", path = "jll/S/soapysdr_jll" }
 343a5541-a696-4ae7-8102-bc61c09e1896 = { name = "FileCmp", path = "F/FileCmp" }
 343dbc49-a00e-4db9-80e1-8930f4861f86 = { name = "SeqBounds", path = "S/SeqBounds" }
+34418575-392d-4e26-8c6d-96b0910afa06 = { name = "JustRelax", path = "J/JustRelax" }
 3448aec0-5570-4d68-9f4a-848140e12c29 = { name = "NeuroFormats", path = "N/NeuroFormats" }
 34572acc-64b2-43ec-bac8-7b2a4baad13f = { name = "WorldDynamics", path = "W/WorldDynamics" }
 345a2cc7-28d8-58b2-abdf-cff77ea7d7f1 = { name = "CUDD", path = "C/CUDD" }
@@ -2277,6 +2278,7 @@ some amount of consideration when choosing package names.
 36e52ba8-0d61-4da2-bc57-6d85c7a279e7 = { name = "Smg2s", path = "S/Smg2s" }
 36e9a02b-89ba-5c81-9f23-352891f35b31 = { name = "ErdosExtras", path = "E/ErdosExtras" }
 36ec8eac-713e-50f0-b9f1-e7516df2c55e = { name = "Conduit_jll", path = "jll/C/Conduit_jll" }
+36f43c0d-3673-45fc-9557-6860e708e7aa = { name = "GeoStatsValidation", path = "G/GeoStatsValidation" }
 36f60fef-b880-50dc-9289-4aaecee93cc3 = { name = "TOPCOM_jll", path = "jll/T/TOPCOM_jll" }
 3700c31b-fa53-48a6-808a-ef22d5a84742 = { name = "GeophysicalModelGenerator", path = "G/GeophysicalModelGenerator" }
 3709ef60-1bee-4518-9f2f-acd86f176c50 = { name = "CommonEq", path = "C/CommonEq" }
@@ -7106,6 +7108,7 @@ aed68c70-c8b0-4309-8cd1-d392a74f991a = { name = "SkipNan", path = "S/SkipNan" }
 aedcc28f-63b5-4046-b467-b09cfa7c8db7 = { name = "FixedPointSinCosApproximations", path = "F/FixedPointSinCosApproximations" }
 aedffcd0-7271-4cad-89d0-dc628f76c6d3 = { name = "Static", path = "S/Static" }
 aeeaf58c-ab4d-11e9-3a9f-9b6bf58b5bc3 = { name = "GLTF", path = "G/GLTF" }
+aeef1611-66c2-4f82-a5cb-420906a81ec8 = { name = "LengthFreeStaticMatrices", path = "L/LengthFreeStaticMatrices" }
 aef68bef-9b3f-58c3-affd-5589e119eed3 = { name = "crun_jll", path = "jll/C/crun_jll" }
 aef91bff-20f9-45ec-bc27-6bc16f693c59 = { name = "TypeParams", path = "T/TypeParams" }
 af03f0a2-7cbb-11e9-3152-f985fa477d26 = { name = "RandomMatrixDistributions", path = "R/RandomMatrixDistributions" }
@@ -7184,6 +7187,7 @@ b07acf17-ba04-41c2-93f4-9e8c134c6ecc = { name = "MPSToolkit", path = "M/MPSToolk
 b0807396-df37-52ae-a4b9-7a7124410845 = { name = "Gym", path = "G/Gym" }
 b0858c3f-a9bf-4cba-a0e3-6aaeea5477ac = { name = "Terminators", path = "T/Terminators" }
 b0860ef3-f78d-49a5-98b3-8176f82dbb49 = { name = "SignedDistanceFunction", path = "S/SignedDistanceFunction" }
+b0895f2b-ad30-48b9-9e38-efbd1231cd91 = { name = "UnitTypes", path = "U/UnitTypes" }
 b097825d-39ce-45b2-a4ab-941e2c2df7e8 = { name = "ParticleMethods", path = "P/ParticleMethods" }
 b09a1ce3-015a-45b4-89ae-f27efbd2c76d = { name = "XMLParser", path = "X/XMLParser" }
 b09c5755-86bc-4b69-9fb0-eea9d409a5ca = { name = "CbaOPF", path = "C/CbaOPF" }
@@ -9518,6 +9522,7 @@ e9958f2c-b184-4647-9c5a-224a61f6a14b = { name = "DictArrays", path = "D/DictArra
 e9983d58-8b29-5530-8046-db49618142f9 = { name = "ConvexBodyProximityQueries", path = "C/ConvexBodyProximityQueries" }
 e99870d8-ce00-4fdd-aeee-e09192881159 = { name = "GeoParquet", path = "G/GeoParquet" }
 e99dba38-086e-5de3-a5b1-6e4c66e897c3 = { name = "Qt6Wayland_jll", path = "jll/Q/Qt6Wayland_jll" }
+e9a2b5d4-2139-42d9-ad42-ef6c084e8c4b = { name = "MakiePDF", path = "M/MakiePDF" }
 e9a496d4-a0ac-4054-a7cc-e43b6064761e = { name = "GreedyAlign", path = "G/GreedyAlign" }
 e9a4e08f-a0a3-5224-a821-6d0231c12d6b = { name = "RainFARM", path = "R/RainFARM" }
 e9a6253c-8580-4d32-9898-8661bb511710 = { name = "SciMLNLSolve", path = "S/SciMLNLSolve" }
@@ -9978,6 +9983,7 @@ f5e74093-75df-45cb-9a4a-089f0fae2cb7 = { name = "LibTeXPrintf", path = "L/LibTeX
 f5e9ba3c-56cf-4230-8a8f-3a70500a02a9 = { name = "ThreeBodyProblem", path = "T/ThreeBodyProblem" }
 f5f396d3-230c-5e07-80e6-9fadf06146cc = { name = "ApproxBayes", path = "A/ApproxBayes" }
 f5f7c340-0bb3-5c69-969a-41884d311d1b = { name = "PATHSolver", path = "P/PATHSolver" }
+f5f8e4a8-cb56-40ea-a13e-090cc212d358 = { name = "LongMemory", path = "L/LongMemory" }
 f6006082-12f8-11e9-0c9c-0d5d367ab1e5 = { name = "EvoTrees", path = "E/EvoTrees" }
 f60141a0-4cd3-11eb-3573-695a6f1942a1 = { name = "ChirpSignal", path = "C/ChirpSignal" }
 f6024387-75e5-5fdf-b095-327b05c0905f = { name = "StochDynamicProgramming", path = "S/StochDynamicProgramming" }
