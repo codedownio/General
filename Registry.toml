@@ -1499,6 +1499,7 @@ some amount of consideration when choosing package names.
 24678dba-d5e9-5843-a4c6-250288b04835 = { name = "TSne", path = "T/TSne" }
 2472808a-b354-52ea-a80e-1658a3c6056d = { name = "KernelDensityEstimate", path = "K/KernelDensityEstimate" }
 2478728f-ce00-4f2d-aaa1-6f265bd37e5b = { name = "ICD_GEMs", path = "I/ICD_GEMs" }
+247b9857-0442-4f1c-b9a0-de109b4a5af1 = { name = "Ncurses", path = "N/Ncurses" }
 247fc82d-8a48-4c99-91f9-777a8789624c = { name = "ModuleLogging", path = "M/ModuleLogging" }
 248e6834-d0f8-40ef-8fbb-8e711d883e9c = { name = "TidierStrings", path = "T/TidierStrings" }
 2493bdd5-554a-52e1-bea5-dc84d30aecb9 = { name = "CvxCompress_jll", path = "jll/C/CvxCompress_jll" }
@@ -7932,6 +7933,7 @@ c2416e8a-86ea-414a-9a91-c37c770c1547 = { name = "BayesFlux", path = "B/BayesFlux
 c24c5e2f-a713-4bab-b0d1-32f8b5281162 = { name = "Pilates", path = "P/Pilates" }
 c24d529b-c83e-40e0-9fc3-05832c05a0ba = { name = "TeeStreams", path = "T/TeeStreams" }
 c24f3079-adb7-4533-8329-9f66732e5e85 = { name = "DomainColoring", path = "D/DomainColoring" }
+c24f5779-9d3b-4059-90d7-a34104ea6889 = { name = "ToolipsUDP", path = "T/ToolipsUDP" }
 c257ce95-4918-4279-a47c-50fdbcb74a04 = { name = "ConstrainedSystems", path = "C/ConstrainedSystems" }
 c2604015-7b3d-4a30-8a26-9074551ec60a = { name = "KnuthBendix", path = "K/KnuthBendix" }
 c268e415-724e-5440-8745-890f0ae6d2bf = { name = "KelvinletsImage", path = "K/KelvinletsImage" }
@@ -9514,6 +9516,7 @@ e9251ff4-c148-4db3-bf46-89407750fae0 = { name = "InitialMassFunctions", path = "
 e92fa02b-1b7a-5e4e-a5cb-14fe26dfc45b = { name = "RadeonProRender_jll", path = "jll/R/RadeonProRender_jll" }
 e933307e-f964-4372-9340-e36d39c2f667 = { name = "Logistics", path = "L/Logistics" }
 e939450b-799e-4198-a5f5-3f2f7fb1c671 = { name = "CEEDesigns", path = "C/CEEDesigns" }
+e93fee26-4d5e-49c1-899d-490508cfd19b = { name = "StructureFunctions", path = "S/StructureFunctions" }
 e9467ef8-e4e7-5192-8a1a-b1aee30e663a = { name = "GLMakie", path = "G/GLMakie" }
 e94cdb99-869f-56ef-bcf0-1ae2bcbe0389 = { name = "MosaicViews", path = "M/MosaicViews" }
 e95a7839-07fb-532d-9a0e-071766bb5168 = { name = "ConicBenchmarkUtilities", path = "C/ConicBenchmarkUtilities" }
