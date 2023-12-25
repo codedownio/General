@@ -936,6 +936,7 @@ some amount of consideration when choosing package names.
 16167f82-ea26-5cba-b1de-ed6fd5e30a10 = { name = "XCB", path = "X/XCB" }
 16167f82-ea26-5cba-b1de-ed6fd5e30a11 = { name = "VulkanCore", path = "V/VulkanCore" }
 161f4978-d3bb-4696-90f4-058341551711 = { name = "NeutronTransport", path = "N/NeutronTransport" }
+1621ace8-c1f0-5e32-a05d-ca786afa56c2 = { name = "GALAHAD_jll", path = "jll/G/GALAHAD_jll" }
 1624bea9-42b1-5fc1-afd3-e96f729c8d6c = { name = "ConjugatePriors", path = "C/ConjugatePriors" }
 1629540a-9a93-50e9-aec3-2a5ae159dca9 = { name = "Batched", path = "B/Batched" }
 16339573-6216-525a-b38f-30b6f6b71b5f = { name = "LibGD_jll", path = "jll/L/LibGD_jll" }
@@ -3636,6 +3637,7 @@ some amount of consideration when choosing package names.
 5909ec93-c24e-5240-9f48-bc73cd7db194 = { name = "Gloo_jll", path = "jll/G/Gloo_jll" }
 5913d0e6-5bb6-45e3-8a06-341cf4fd0203 = { name = "OperatorLearning", path = "O/OperatorLearning" }
 591468fd-1d79-403f-bb2b-3ef7f4d90130 = { name = "CFMMRouter", path = "C/CFMMRouter" }
+5928621a-8be5-4e72-aa40-6d276f04f5c4 = { name = "GraviPet", path = "G/GraviPet" }
 59287772-0a20-5a39-b81b-1366585eb4c0 = { name = "Formatting", path = "F/Formatting" }
 592b5752-818d-11e9-1e9a-2b8ca4a44cd1 = { name = "Trapz", path = "T/Trapz" }
 592f5613-a5ae-4f31-81ac-e921b71f6ffe = { name = "NablaNet", path = "N/NablaNet" }
@@ -3861,6 +3863,7 @@ some amount of consideration when choosing package names.
 5e8e706b-2fa9-4c18-afb5-213c5db89150 = { name = "Rocketeer", path = "R/Rocketeer" }
 5ea003d0-0c30-4e5c-84d5-cc22d8d83890 = { name = "RxEnvironments", path = "R/RxEnvironments" }
 5ea955a8-74dc-49b5-be65-6ee01fc504f7 = { name = "SeqShuffle", path = "S/SeqShuffle" }
+5ead8e6a-226e-4abd-9fac-4ba193e998ab = { name = "SimpleValidations", path = "S/SimpleValidations" }
 5eaf0fd0-dfba-4ccb-bf02-d820a40db705 = { name = "RoundingEmulator", path = "R/RoundingEmulator" }
 5eb54613-e1e4-5bb3-a6bc-ad608a6b2204 = { name = "MackeyGlass", path = "M/MackeyGlass" }
 5eb88fab-4dde-58d8-af5d-492bc9ff933e = { name = "casacorewrapper_jll", path = "jll/C/casacorewrapper_jll" }
@@ -5151,6 +5154,7 @@ some amount of consideration when choosing package names.
 7da3f81e-1687-48ef-899a-d2f3e9601796 = { name = "ModifiedLatinHypercubeSampling", path = "M/ModifiedLatinHypercubeSampling" }
 7db386b5-e858-4964-8eb4-2fa66f8df882 = { name = "DependencyWalker", path = "D/DependencyWalker" }
 7dbda32b-b8f8-4b95-b50c-a09c52aba2c8 = { name = "FinEtoolsTetsFromTris", path = "F/FinEtoolsTetsFromTris" }
+7dc2201c-deb4-56f8-b3a0-2ab29a2c732a = { name = "POMDPSolve_jll", path = "jll/P/POMDPSolve_jll" }
 7dc409a7-fbe5-4c9d-b3e2-b0c19a6ba600 = { name = "ADRIA", path = "A/ADRIA" }
 7dc7d583-5213-5900-9003-a99bbb4d6a76 = { name = "TinyXML_jll", path = "jll/T/TinyXML_jll" }
 7dc86ad5-723e-4492-bd0d-d0b58009a4c8 = { name = "TuePlots", path = "T/TuePlots" }
@@ -10204,6 +10208,7 @@ fbaf683a-b9b3-4040-be64-6c4c04986dd0 = { name = "CalibrateEDMF", path = "C/Calib
 fbb19de7-1342-5f93-8193-71ff412e753d = { name = "Wynn", path = "W/Wynn" }
 fbb218c0-5317-5bc6-957e-2ee96dd4b1f0 = { name = "BSON", path = "B/BSON" }
 fbb45041-c46e-462f-888f-7c521cafbc2c = { name = "Pickle", path = "P/Pickle" }
+fbb887af-2519-40af-8dc5-25186fd85022 = { name = "RepeatingDecimalNotations", path = "R/RepeatingDecimalNotations" }
 fbca9394-dd0a-4d1c-b066-ae75f6ef1ad5 = { name = "Jchemo", path = "J/Jchemo" }
 fbcbbc08-f1bf-5204-9233-b69f5d396135 = { name = "FEMBase", path = "F/FEMBase" }
 fbce7cdf-2836-403b-b047-729f0088b997 = { name = "SlackSDK", path = "S/SlackSDK" }
