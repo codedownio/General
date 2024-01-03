@@ -510,6 +510,7 @@ some amount of consideration when choosing package names.
 0c351ed6-8a68-550e-8b79-de6f926da83c = { name = "TracyProfiler_jll", path = "jll/T/TracyProfiler_jll" }
 0c3b9dc7-9fea-4423-80ce-ed7c11218d4a = { name = "Air", path = "A/Air" }
 0c46a032-eb83-5123-abaf-570d42b7fbaa = { name = "DifferentialEquations", path = "D/DifferentialEquations" }
+0c4ad18d-0c49-4bc2-90d5-5bca8f00d6ae = { name = "DataMigrations", path = "D/DataMigrations" }
 0c4b0c42-68ec-11ea-3bc9-e7fb6e00ea0f = { name = "SyslogLogging", path = "S/SyslogLogging" }
 0c50e747-7910-4d75-be1d-ae33d9528add = { name = "TelegramClient", path = "T/TelegramClient" }
 0c5d862f-8b57-4792-8d23-62f2024744c7 = { name = "Symbolics", path = "S/Symbolics" }
@@ -627,6 +628,7 @@ some amount of consideration when choosing package names.
 0efae8bf-39e6-5d65-b05d-c8947f4cee2a = { name = "COSMA_jll", path = "jll/C/COSMA_jll" }
 0efb1f7a-1ce7-46d2-9f48-546a4c8fbb99 = { name = "UnderwaterAcoustics", path = "U/UnderwaterAcoustics" }
 0efc519c-db33-5916-ab87-703215c3906f = { name = "Faker", path = "F/Faker" }
+0f0bcd13-3e12-4a59-be10-81f16103b667 = { name = "PosixChannels", path = "P/PosixChannels" }
 0f109fa4-8a5d-4b75-95aa-f515264e7665 = { name = "BifurcationKit", path = "B/BifurcationKit" }
 0f160d28-7819-5803-9275-299e9913be39 = { name = "EgyptianFractions", path = "E/EgyptianFractions" }
 0f1e0344-ec1d-5b48-a673-e5cf874b6c29 = { name = "WebIO", path = "W/WebIO" }
@@ -7498,6 +7500,7 @@ b75c6a16-0e8c-4f76-b2fb-f6cbabf6d82b = { name = "NotionSDK", path = "N/NotionSDK
 b76368a9-c21b-4c44-a110-0e9f579e383e = { name = "RandomPhaseApproximation", path = "R/RandomPhaseApproximation" }
 b766470a-6a6d-4ee5-8c70-1dce02664e06 = { name = "NeuralQuantumState", path = "N/NeuralQuantumState" }
 b76b70d0-c2e6-4f10-aa24-8ebd5c87d188 = { name = "XSLT", path = "X/XSLT" }
+b7825cb4-7108-404a-9145-f310ea34db32 = { name = "RadioPropagation", path = "R/RadioPropagation" }
 b790e538-3052-4cb9-9f1f-e05859a455f5 = { name = "CCDReduction", path = "C/CCDReduction" }
 b792745b-7241-45be-ba96-70eb67e8468f = { name = "SMDGraphs", path = "S/SMDGraphs" }
 b795de74-0e0b-491f-a34a-f5524d7c246d = { name = "PhyloTools", path = "P/PhyloTools" }
@@ -9475,6 +9478,7 @@ e74ebddf-6ac1-4047-a0e5-c32c99e57753 = { name = "Batsrus", path = "B/Batsrus" }
 e7521202-fd63-590f-a507-4e5145ac8dd0 = { name = "PointProcessInference", path = "P/PointProcessInference" }
 e77d87cc-b440-4d37-a0c9-dafffb38ae8a = { name = "TrueRandom", path = "T/TrueRandom" }
 e77e6532-e7cc-40ad-aebc-b383a150aff6 = { name = "MPIHaloArrays", path = "M/MPIHaloArrays" }
+e7894126-fa72-4101-935a-4d6cb73e7565 = { name = "BioVossEncoder", path = "B/BioVossEncoder" }
 e78a0372-c628-4773-9c8d-eb17d149bf93 = { name = "Corpuscles", path = "C/Corpuscles" }
 e78fa76d-a187-569f-aede-ad11521a2edf = { name = "PicoSAT_jll", path = "jll/P/PicoSAT_jll" }
 e7922434-ae4b-11e9-05c5-9780451d2c66 = { name = "MPIClusterManagers", path = "M/MPIClusterManagers" }
