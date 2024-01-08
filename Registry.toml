@@ -3152,6 +3152,7 @@ some amount of consideration when choosing package names.
 4c63dfa8-a427-4548-bd2f-4c19e87a7dc7 = { name = "StaticKernels", path = "S/StaticKernels" }
 4c6ed407-134f-591c-93fa-e0f7c164a0ec = { name = "BayesianOptimization", path = "B/BayesianOptimization" }
 4c728ea3-d9ee-5c9a-9642-b6f7d7dc04fa = { name = "Flatten", path = "F/Flatten" }
+4c739d64-e22d-44e1-ada1-53a1c3c0e953 = { name = "SimpleArgParse", path = "S/SimpleArgParse" }
 4c82536e-c426-54e4-b420-14f461c4ed8b = { name = "Nettle_jll", path = "jll/N/Nettle_jll" }
 4c88cf16-eb10-579e-8560-4a9242c79595 = { name = "Aqua", path = "A/Aqua" }
 4c8bd3c9-ead9-4b5e-a625-08f1338ba0ec = { name = "Ginkgo", path = "G/Ginkgo" }
@@ -5672,6 +5673,7 @@ some amount of consideration when choosing package names.
 8949ac52-83c2-4a90-b175-e52cde45fddb = { name = "TaijaInteroperability", path = "T/TaijaInteroperability" }
 894afd4e-5c6f-4d1a-a294-873acbd0e95c = { name = "SpatialHashTables", path = "S/SpatialHashTables" }
 8967581b-3fa7-4a60-bbed-8fff548a82df = { name = "ChaoticEncryption", path = "C/ChaoticEncryption" }
+896acac2-5fe1-47fe-8ead-27e3a9bc5c85 = { name = "LoopFieldCalc", path = "L/LoopFieldCalc" }
 8970d5fd-81b2-46cd-bbc5-7585a55eff67 = { name = "SimpleLexica", path = "S/SimpleLexica" }
 89763e89-9b03-5906-acba-b20f662cd828 = { name = "Libtiff_jll", path = "jll/L/Libtiff_jll" }
 897b6980-f191-5a31-bcb0-bf3c4585e0c1 = { name = "WeakValueDicts", path = "W/WeakValueDicts" }
@@ -5896,6 +5898,7 @@ some amount of consideration when choosing package names.
 8f6bce27-0656-5410-875b-07a5572985df = { name = "GitForge", path = "G/GitForge" }
 8f72e95f-8ea1-4af3-8b89-086f52abff52 = { name = "PDDLViz", path = "P/PDDLViz" }
 8f75cd03-7ff8-4ecb-9b8f-daf728133b1b = { name = "oneAPI", path = "O/oneAPI" }
+8f7a8886-8f8a-428e-b78f-4cb978acfc7c = { name = "ExtractLinks", path = "E/ExtractLinks" }
 8f8cde19-4581-4697-bfbd-917306c72405 = { name = "SimpleSudoku", path = "S/SimpleSudoku" }
 8f9e8900-be71-40de-a258-603fdc860a2d = { name = "PoissonSolvers", path = "P/PoissonSolvers" }
 8fa3689e-f0b9-5420-9873-adf6ccf46f2d = { name = "PETSc_jll", path = "jll/P/PETSc_jll" }
@@ -8666,6 +8669,7 @@ d366530f-4af1-5ff1-9928-73bf22b88830 = { name = "NormalizeQuantiles", path = "N/
 d3690ab3-6367-44d6-ab08-b07ed981380e = { name = "BZMeshes", path = "B/BZMeshes" }
 d36a0d72-1b97-4328-8dbd-2ebdfd409140 = { name = "TropicalTensors", path = "T/TropicalTensors" }
 d36ad4e8-d74a-4f7a-ace1-eaea049febf6 = { name = "REopt", path = "R/REopt" }
+d36ae967-72a8-4ff4-a661-f51e671fe83a = { name = "TableOne", path = "T/TableOne" }
 d3707c4a-c138-5086-90bb-c65de4e50315 = { name = "Rclone_jll", path = "jll/R/Rclone_jll" }
 d3863d7c-f0c8-5437-a7b4-3ae773c01009 = { name = "InteractBase", path = "I/InteractBase" }
 d387736e-c2c9-11e9-2eda-659a30e947ca = { name = "ExtensibleUnions", path = "E/ExtensibleUnions" }
@@ -9118,6 +9122,7 @@ de9f8efb-491d-4667-8a63-6a751e3bd45f = { name = "SuccessiveConvexProgrammings", 
 deac9b47-8bc7-5906-a0fe-35ac56dc84c0 = { name = "LibCURL_jll", path = "jll/L/LibCURL_jll" }
 deae81f5-4416-4700-a781-f7a18782af9b = { name = "Binscatters", path = "B/Binscatters" }
 deb0877a-d74a-4aeb-b6ac-c17f6fb4122e = { name = "NonlinearSystems", path = "N/NonlinearSystems" }
+deba94f7-f32a-40ad-b45e-be020a5ded2f = { name = "SimpleExpressions", path = "S/SimpleExpressions" }
 dec02a44-0573-464b-9dcd-b0da4b5d2d2e = { name = "Hyperparameters", path = "H/Hyperparameters" }
 dec2e30d-c3e4-4386-8d4a-5e4ccb406543 = { name = "GenieCache", path = "G/GenieCache" }
 dec300e5-7e5b-577b-bc13-c7c11ad250bc = { name = "OnlinePackage", path = "O/OnlinePackage" }
