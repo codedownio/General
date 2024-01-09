@@ -216,6 +216,7 @@ some amount of consideration when choosing package names.
 0509ba21-2830-4def-8137-4dac647fee02 = { name = "MutableTypes", path = "M/MutableTypes" }
 05181044-ff0b-4ac5-8273-598c1e38db00 = { name = "RelocatableFolders", path = "R/RelocatableFolders" }
 0518478a-701b-4815-806c-24ad5cb92f09 = { name = "deSolveDiffEq", path = "D/deSolveDiffEq" }
+051c988a-e73c-45a4-90ec-875cac0402c7 = { name = "IntervalMDP", path = "I/IntervalMDP" }
 05236dd9-4125-5232-aa7c-9ec0c9b2c25a = { name = "Readline_jll", path = "jll/R/Readline_jll" }
 0525e862-1e90-11e9-3e4d-1b39d7109de1 = { name = "QuantumClifford", path = "Q/QuantumClifford" }
 052768ef-5323-5732-b1bb-66c8b64840ba = { name = "CUDA", path = "C/CUDA" }
@@ -583,6 +584,7 @@ some amount of consideration when choosing package names.
 0df96c42-4702-4aad-9d07-874ea0467d1e = { name = "Gcvspl", path = "G/Gcvspl" }
 0dfc7a1c-e419-4470-a3bc-787e626244db = { name = "NonsmoothOptim", path = "N/NonsmoothOptim" }
 0e08944d-e94e-41b1-9406-dcf66b6a9d2e = { name = "PencilArrays", path = "P/PencilArrays" }
+0e112785-0821-598c-8835-9f07837e8d7b = { name = "object_store_ffi_jll", path = "jll/O/object_store_ffi_jll" }
 0e18b5df-1f6d-5218-abdd-6febb37acc78 = { name = "FluxJS", path = "F/FluxJS" }
 0e1b5cf3-e725-4f3c-b25f-c55f40573e77 = { name = "UKCarbonIntensityData", path = "U/UKCarbonIntensityData" }
 0e1eec36-3e51-505b-9453-8db846dc2724 = { name = "Nord", path = "N/Nord" }
@@ -2281,6 +2283,7 @@ some amount of consideration when choosing package names.
 36b54c61-190e-5a5f-82d5-6f0a962d7362 = { name = "PushVectors", path = "P/PushVectors" }
 36b790f5-6434-4fbe-b711-1f64a1e2f6a2 = { name = "SimpleSolvers", path = "S/SimpleSolvers" }
 36b8f3f0-b776-11e8-061f-1f20094e1fc8 = { name = "MetaArrays", path = "M/MetaArrays" }
+36bce8c7-4217-4a10-b989-c910c0ce2ba6 = { name = "InfixUnions", path = "I/InfixUnions" }
 36c3bae2-c0c3-419d-b3b4-eebadd35c5e5 = { name = "RandomFeatures", path = "R/RandomFeatures" }
 36c8627f-9965-5494-a995-c6b170f724f3 = { name = "Pango_jll", path = "jll/P/Pango_jll" }
 36d08e8a-54dd-435f-8c9e-38a475050b11 = { name = "AbstractPermutations", path = "A/AbstractPermutations" }
@@ -3229,6 +3232,7 @@ some amount of consideration when choosing package names.
 4e7460e3-fd1b-4f88-90fa-49c1b80b3e77 = { name = "CudaRBMs", path = "C/CudaRBMs" }
 4e780e97-f5bf-4111-9dc4-b70aaf691b06 = { name = "SnpArrays", path = "S/SnpArrays" }
 4e842e0a-c737-477c-a320-5a4e4980a4a4 = { name = "ImageHashes", path = "I/ImageHashes" }
+4e86e20e-879b-40dc-9e12-cee74f4cd199 = { name = "IERSConventions", path = "I/IERSConventions" }
 4e8a8231-0ba9-591b-8620-81c6740d7791 = { name = "LearningStrategies", path = "L/LearningStrategies" }
 4e90bd87-f6f8-42e4-be30-8e164e8f6f7c = { name = "DiceRolls", path = "D/DiceRolls" }
 4e9b3aee-d8a1-5a3d-ad8b-7d824db253f0 = { name = "CRlibm_jll", path = "jll/C/CRlibm_jll" }
@@ -4932,6 +4936,7 @@ some amount of consideration when choosing package names.
 77ba1a33-2bad-462b-8444-1926d7830738 = { name = "CoherentTransformations", path = "C/CoherentTransformations" }
 77ba4419-2d1f-58cd-9bb1-8ffee604a2e3 = { name = "NaNMath", path = "N/NaNMath" }
 77ce9b8e-ecf5-45d1-bd8a-d31f384f2f95 = { name = "OpenFHE", path = "O/OpenFHE" }
+77d2bf28-a3e9-4b9c-9fcf-b85f74cc8a50 = { name = "ShockwaveProperties", path = "S/ShockwaveProperties" }
 77d5efa4-d40d-4655-9c8b-8729ad2310a1 = { name = "ServerMetrics", path = "S/ServerMetrics" }
 77dc65aa-8811-40c2-897b-53d922fa7daf = { name = "FunctionWrappersWrappers", path = "F/FunctionWrappersWrappers" }
 77dc8835-e407-5831-b71c-802d10921d58 = { name = "bottom_jll", path = "jll/B/bottom_jll" }
