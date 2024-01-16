@@ -3438,6 +3438,7 @@ some amount of consideration when choosing package names.
 5333d757-b784-411c-847d-750c45219338 = { name = "DistributedOperations", path = "D/DistributedOperations" }
 533b6e3a-cbf4-4a92-8a96-bc27ebcb1598 = { name = "EchelleInstruments", path = "E/EchelleInstruments" }
 534720e6-2374-40c5-8712-bf9a2f1643c6 = { name = "CompositeStructs", path = "C/CompositeStructs" }
+534c8b83-7bda-4b0b-8aeb-3cd4e0939877 = { name = "AlgebraOfNNs", path = "A/AlgebraOfNNs" }
 5352d3c8-010c-4f6e-a427-fe5152755be6 = { name = "ReactiveToolkit", path = "R/ReactiveToolkit" }
 535c2557-d7d0-564d-8ff9-4ae146c18cfe = { name = "ClinicalTrialUtilities", path = "C/ClinicalTrialUtilities" }
 535c7bfe-2023-5c1d-b712-654ef9d93a38 = { name = "SauterSchwabQuadrature", path = "S/SauterSchwabQuadrature" }
@@ -3804,6 +3805,7 @@ some amount of consideration when choosing package names.
 5c958174-e7d9-5990-9618-4567de4ba542 = { name = "SuperEnum", path = "S/SuperEnum" }
 5c9c0fc8-7103-448b-bb0a-c427020e3b0b = { name = "PkgButlerEngine", path = "P/PkgButlerEngine" }
 5cadff95-7770-533d-a838-a1bf817ee6e0 = { name = "JuliennedArrays", path = "J/JuliennedArrays" }
+5caf2b29-02d9-47a3-9434-5931c85ba645 = { name = "SpheriCart", path = "S/SpheriCart" }
 5cb6c4b0-9b79-11e8-24c9-f9621d252589 = { name = "SparseMatrixDicts", path = "S/SparseMatrixDicts" }
 5cb8414e-7aab-5a03-a681-351269c074bf = { name = "ModuleInterfaceTools", path = "M/ModuleInterfaceTools" }
 5cbb5ea9-1c69-4457-8305-4f15e70bf087 = { name = "DictDotDot", path = "D/DictDotDot" }
@@ -6229,6 +6231,7 @@ some amount of consideration when choosing package names.
 98572fba-bba0-415d-956f-fa77e587d26d = { name = "Parquet2", path = "P/Parquet2" }
 98581153-e998-4eef-8d0d-5ec2c052313d = { name = "NDTools", path = "N/NDTools" }
 9859b720-004f-4db5-b836-c34ec215a307 = { name = "LinearNoiseApproximation", path = "L/LinearNoiseApproximation" }
+985e57c0-c0fb-4ac0-a7f6-0eae5cf96536 = { name = "MonotoneDecomposition", path = "M/MonotoneDecomposition" }
 985f35cc-2c3d-4943-b8c1-f0931d5f0959 = { name = "MQTTClient", path = "M/MQTTClient" }
 985f9f6c-a11c-5717-b596-40558d7e7751 = { name = "IVerilog_jll", path = "jll/I/IVerilog_jll" }
 98617a16-9322-42db-a24f-fe7c2280ec91 = { name = "Flamenco", path = "F/Flamenco" }
@@ -8577,6 +8580,7 @@ d08873cf-a47e-4b69-9395-6fab01a89815 = { name = "Dianli", path = "D/Dianli" }
 d091dd56-f8c5-469d-b7f7-ff847498145f = { name = "AttributeGraphs", path = "A/AttributeGraphs" }
 d091e8ba-531a-589c-9de9-94069b037ed8 = { name = "Xorg_libXfixes_jll", path = "jll/X/Xorg_libXfixes_jll" }
 d0bbae9a-e099-4d5b-a835-1c6931763bda = { name = "LuxCUDA", path = "L/LuxCUDA" }
+d0bc0b20-b151-4d03-b2a4-6ca51751cb9c = { name = "KomaMRIBase", path = "K/KomaMRIBase" }
 d0cc0030-9a40-4274-8435-baadcfd54fa1 = { name = "T8code", path = "T/T8code" }
 d0ccf422-c8fb-49b5-a76d-74acdde946ac = { name = "Oceanostics", path = "O/Oceanostics" }
 d0d8031c-1ca7-4517-a182-a2551ca8592c = { name = "AbstractControlProcesses", path = "A/AbstractControlProcesses" }
@@ -8854,6 +8858,7 @@ d730a6b3-54e8-5a61-8821-996059275344 = { name = "protobuf_c_jll", path = "jll/P/
 d7326954-f021-11ed-2a08-d10e464848f1 = { name = "CalculustCore", path = "C/CalculustCore" }
 d739bc73-037a-4484-8212-e0e00e9ea6bf = { name = "DefaultKeywordArguments", path = "D/DefaultKeywordArguments" }
 d73ed964-a3ff-4a3d-ad09-d195fe0d0b35 = { name = "MimiSSPs", path = "M/MimiSSPs" }
+d7416ba7-148a-4110-b27d-9087fcebab2d = { name = "SphereUDE", path = "S/SphereUDE" }
 d7431456-977f-11e9-2de3-97ff7677985e = { name = "PowerModelsDistribution", path = "P/PowerModelsDistribution" }
 d7440221-8b5e-42fc-909c-0567823f424a = { name = "SingularIntegrals", path = "S/SingularIntegrals" }
 d749ddd5-2b29-4920-8305-6ff5a704e36e = { name = "DaemonMode", path = "D/DaemonMode" }
@@ -9480,6 +9485,7 @@ e64eaefb-b7d3-45fb-a1e6-d686d91076ba = { name = "Twistronics", path = "T/Twistro
 e6514a50-921c-4af3-9933-d2ed4e901773 = { name = "SIMIlluminationPatterns", path = "S/SIMIlluminationPatterns" }
 e6530d7c-7faa-4ede-a0d6-9eff9baad396 = { name = "DLPipelines", path = "D/DLPipelines" }
 e655511c-e992-5001-b8e2-2048e6aa15e9 = { name = "DiracNotation", path = "D/DiracNotation" }
+e6563dab-9ca1-5843-bde3-2ccf38d63843 = { name = "ThreeBodyDecays", path = "T/ThreeBodyDecays" }
 e65ccdef-c354-471a-8090-89bec1c20ec3 = { name = "LowRankMatrices", path = "L/LowRankMatrices" }
 e66e0078-7015-5450-92f7-15fbd957f2ae = { name = "CompilerSupportLibraries_jll", path = "jll/C/CompilerSupportLibraries_jll" }
 e670a858-c023-4621-870e-30d0f49b8322 = { name = "PopGenSims", path = "P/PopGenSims" }
