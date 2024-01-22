@@ -1016,6 +1016,7 @@ some amount of consideration when choosing package names.
 17eb5352-d50b-5fdc-b767-c749cd790e65 = { name = "Xorg_damageproto_jll", path = "jll/X/Xorg_damageproto_jll" }
 17f17636-5e38-52e3-a803-7ae3aaaf3da9 = { name = "CuthillMcKee", path = "C/CuthillMcKee" }
 17f450c3-bd24-55df-bb84-8c51b4b939e3 = { name = "LAPACK32_jll", path = "jll/L/LAPACK32_jll" }
+17f5de1a-9b79-4409-a58d-4d45812840f7 = { name = "PyQDecoders", path = "P/PyQDecoders" }
 17f63090-eba8-4cc7-872a-3f6808909c39 = { name = "RayCaster", path = "R/RayCaster" }
 17faa8b8-622d-400d-9fe8-1e507a5fe3e9 = { name = "Polymath", path = "P/Polymath" }
 180207a7-b08e-5162-af94-7d62a04fe081 = { name = "libsharp2_jll", path = "jll/L/libsharp2_jll" }
@@ -1271,6 +1272,7 @@ some amount of consideration when choosing package names.
 1da6f4ae-116c-4c38-8ee9-19974ff3601d = { name = "Telegram", path = "T/Telegram" }
 1da7d4ca-ffb9-4e95-b99a-7e8e4561fc9a = { name = "TextGraphs", path = "T/TextGraphs" }
 1db0cb78-5717-11e9-0361-01e0964942ce = { name = "SurfaceTopology", path = "S/SurfaceTopology" }
+1db9610d-79e1-487a-8d40-77f3295c7593 = { name = "CountFlops", path = "C/CountFlops" }
 1dbb190e-59ad-542b-b90b-8ef67c206511 = { name = "telnet_jll", path = "jll/T/telnet_jll" }
 1dc0ca97-c5ce-4e77-ac6d-c576ac9d7f27 = { name = "ArrayTools", path = "A/ArrayTools" }
 1dcdc7e9-a8b1-4892-8a0a-cdab5a60ee98 = { name = "McmcHermes", path = "M/McmcHermes" }
@@ -1753,6 +1755,7 @@ some amount of consideration when choosing package names.
 2a0a5ff3-012c-40a8-861a-42ef8f4dfa06 = { name = "AlwaysSeqCst", path = "A/AlwaysSeqCst" }
 2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9 = { name = "CPUSummary", path = "C/CPUSummary" }
 2a13b4fb-3cbe-5d55-9db2-86fcb16976f1 = { name = "rure_jll", path = "jll/R/rure_jll" }
+2a17fa6e-c440-4af9-acac-c1be9e3a006f = { name = "GasChromatographySystems", path = "G/GasChromatographySystems" }
 2a231547-1e2e-5ce0-a51e-f3f5ef0a1add = { name = "libcellml_jll", path = "jll/L/libcellml_jll" }
 2a26a249-28ed-4bc9-828d-d3ac47f0d73d = { name = "ThreeBodyTB", path = "T/ThreeBodyTB" }
 2a2a6a96-a4ec-477f-941b-476720990667 = { name = "EFTfitter", path = "E/EFTfitter" }
@@ -2156,6 +2159,7 @@ some amount of consideration when choosing package names.
 3391f64e-dcde-5f30-b752-e11513730f60 = { name = "CDDLib", path = "C/CDDLib" }
 33ad39ac-ed31-50eb-9b15-43d0656eaa72 = { name = "PhyloNetworks", path = "P/PhyloNetworks" }
 33b4df10-0173-11e9-2a0c-851a7edac40e = { name = "VectorizedRNG", path = "V/VectorizedRNG" }
+33b79e07-adbe-4034-b8be-6bacde625d75 = { name = "DataFrameIntervals", path = "D/DataFrameIntervals" }
 33b9d88c-85f9-5d73-bd91-4e2b95a9aa0b = { name = "OpenCV_jll", path = "jll/O/OpenCV_jll" }
 33bec58e-1273-512f-9401-5d533626f822 = { name = "Xorg_xkeyboard_config_jll", path = "jll/X/Xorg_xkeyboard_config_jll" }
 33c101cd-e3cd-5787-bb96-d137b8b1ecc4 = { name = "CHiPPS_BLIS_jll", path = "jll/C/CHiPPS_BLIS_jll" }
@@ -2385,6 +2389,7 @@ some amount of consideration when choosing package names.
 39099a2c-f609-41b4-99c2-62ec6735b6c9 = { name = "Consensus", path = "C/Consensus" }
 390f8997-1984-4152-8b9b-a98aeeeff9d0 = { name = "LogFixPoint16s", path = "L/LogFixPoint16s" }
 391af1a9-06f1-59d3-8d21-0be089654739 = { name = "Spectra", path = "S/Spectra" }
+39204792-bc26-423a-8bcf-54c03468b271 = { name = "BioDemultiplexer", path = "B/BioDemultiplexer" }
 3933049c-43be-478e-a8bb-6e0f7fd53575 = { name = "MultistartOptimization", path = "M/MultistartOptimization" }
 393490a8-41a6-5dea-8ab1-81a396b80891 = { name = "libLLVM_assert_jll", path = "jll/L/libLLVM_assert_jll" }
 39357346-8f20-4302-be7b-c20dcd116b7a = { name = "OceanColorData", path = "O/OceanColorData" }
@@ -2623,6 +2628,7 @@ some amount of consideration when choosing package names.
 3ecdc4d6-ee34-4049-885a-a4e3631db98b = { name = "IteratedIntegration", path = "I/IteratedIntegration" }
 3ed2f0d3-1e15-46aa-b21a-890b713d7b5d = { name = "Justly", path = "J/Justly" }
 3ed48883-6809-43ec-b77a-d23b0650d8c4 = { name = "ChemistryQuantitativeAnalysis", path = "C/ChemistryQuantitativeAnalysis" }
+3ede0511-6366-4a84-9f28-defd1d710745 = { name = "RitSpls", path = "R/RitSpls" }
 3eeacb1d-13c2-54cc-9b18-30c86af3cadb = { name = "TabularDisplay", path = "T/TabularDisplay" }
 3ef2b461-a4cb-42b1-a580-b83f8df68c40 = { name = "ITensorLattices", path = "I/ITensorLattices" }
 3f04dac9-704b-53bc-993e-1547579ac7a5 = { name = "automake_jll", path = "jll/A/automake_jll" }
