@@ -2665,6 +2665,7 @@ some amount of consideration when choosing package names.
 3f54b04b-17fc-5cd4-9758-90c048d965e3 = { name = "LorentzVectors", path = "L/LorentzVectors" }
 3f56377e-4191-4d51-b9b6-988a50b9b843 = { name = "Undefs", path = "U/Undefs" }
 3f718f31-6db8-4f43-a433-67cb5c73363e = { name = "ITensorGLMakie", path = "I/ITensorGLMakie" }
+3f775d88-a4da-46c4-a2cc-aa9f16db6708 = { name = "EnergyModelsGeography", path = "E/EnergyModelsGeography" }
 3f797b09-34e4-41d7-acf6-3302ae3248a5 = { name = "FittedItemBanks", path = "F/FittedItemBanks" }
 3f79f04f-7cac-48b4-bde1-3ad54d8f74fa = { name = "Helium", path = "H/Helium" }
 3f865c0f-6dca-5f4d-999b-29fe1e7e3c92 = { name = "ScatteredInterpolation", path = "S/ScatteredInterpolation" }
@@ -5433,6 +5434,7 @@ some amount of consideration when choosing package names.
 81a5f4ea-a946-549a-aa7e-2a7f63a27d31 = { name = "CatViews", path = "C/CatViews" }
 81b20daf-e62b-4502-a0d1-aa084de80e33 = { name = "QiskitOpt", path = "Q/QiskitOpt" }
 81c3f1f7-c8b1-4afe-97d0-b306023db0e9 = { name = "PerfectPacking", path = "P/PerfectPacking" }
+81c6ba3f-3028-455b-8a86-eff211c369f5 = { name = "EmbeddingsTools", path = "E/EmbeddingsTools" }
 81d17ec3-03a1-5e46-b53e-bddc35a13473 = { name = "L_BFGS_B_jll", path = "jll/L/L_BFGS_B_jll" }
 81d43f40-5267-43b7-ae1c-8b967f377efa = { name = "Noise", path = "N/Noise" }
 81d7bfe7-808b-4a8e-bf67-c3577adb378e = { name = "REoptPlots", path = "R/REoptPlots" }
@@ -5897,6 +5899,7 @@ some amount of consideration when choosing package names.
 8d73829f-f4b0-474a-9580-cecc8e084068 = { name = "Vecchia", path = "V/Vecchia" }
 8d776fb2-c776-41b2-9301-35f2bdade9dc = { name = "EyeTrackingUtils", path = "E/EyeTrackingUtils" }
 8d7f31fa-9986-4e1d-8c81-72752476e54d = { name = "MESTI", path = "M/MESTI" }
+8d837e6f-fc51-4c76-affd-c130faf94be7 = { name = "TIFFDatasets", path = "T/TIFFDatasets" }
 8d8e3561-0b33-5a1a-a72b-b83d4fb556a1 = { name = "CUDA_SDK_static_jll", path = "jll/C/CUDA_SDK_static_jll" }
 8d9c9c80-f77e-5080-9541-c6f69d204e22 = { name = "Thrift", path = "T/Thrift" }
 8da1a5bb-246c-59c5-9ba1-a6804f8e92f0 = { name = "libiio_jll", path = "jll/L/libiio_jll" }
@@ -6149,6 +6152,7 @@ some amount of consideration when choosing package names.
 94a5cd58-49a0-5741-bd07-fa4f4be8babf = { name = "TypeSortedCollections", path = "T/TypeSortedCollections" }
 94afc05e-a560-4acd-8e11-a7bb2c092f45 = { name = "MeshFinder", path = "M/MeshFinder" }
 94b1ba4f-4ee9-5380-92f1-94cde586c3c5 = { name = "AxisKeys", path = "A/AxisKeys" }
+94ba42e8-eed2-5f02-b2e4-6e801937ed8b = { name = "VIC5_jll", path = "jll/V/VIC5_jll" }
 94bd45ad-7a68-435f-8a71-8b2caa00d1b6 = { name = "SemiAlgebraicTypes", path = "S/SemiAlgebraicTypes" }
 94c2ca8e-d4e4-11e9-02ac-43cfcaaaed17 = { name = "Lilith", path = "L/Lilith" }
 94ce4f54-9a6c-5748-9c1c-f9c7231a4531 = { name = "Libiconv_jll", path = "jll/L/Libiconv_jll" }
@@ -7289,6 +7293,7 @@ afebb100-fbba-11eb-0f85-e5391c189ae2 = { name = "Revealables", path = "R/Reveala
 affaf649-2f8e-5dd6-a1c5-c612f82136ef = { name = "H5SectionsArrays", path = "H/H5SectionsArrays" }
 b001f823-fa75-4bff-bf55-6610c8f3688a = { name = "GeoRegions", path = "G/GeoRegions" }
 b002da8f-3cb3-4d91-bbe3-2953433912b5 = { name = "SoleLogics", path = "S/SoleLogics" }
+b007c34f-ba52-4995-ba37-fffe79fbde35 = { name = "EnergyModelsRenewableProducers", path = "E/EnergyModelsRenewableProducers" }
 b00fcea2-f4b1-4480-b444-a0ed31c44801 = { name = "MeanFieldToolkit", path = "M/MeanFieldToolkit" }
 b012eb62-94f7-4100-b683-fca14a09dfae = { name = "CBOOCall", path = "C/CBOOCall" }
 b017c6bb-e7c7-4437-8ee6-a27b72ea26ab = { name = "GeneMatrix", path = "G/GeneMatrix" }
@@ -7804,6 +7809,7 @@ bce108ef-3f60-5dd0-bcd6-e13a096cb796 = { name = "Libical_jll", path = "jll/L/Lib
 bce5aa3b-8e88-58e5-b7b9-01e2bcd06fb8 = { name = "Notifier", path = "N/Notifier" }
 bcebb21b-c2e3-54f8-a781-646b90f6d2cc = { name = "Knockout", path = "K/Knockout" }
 bcec86f5-ca56-4bff-b104-0763dbc0fc1b = { name = "SemifieldAlgebra", path = "S/SemifieldAlgebra" }
+bcf6de08-7633-46ab-86e2-ee57f9a67390 = { name = "ElasticSurfaceEmbedding", path = "E/ElasticSurfaceEmbedding" }
 bcf78de8-a01d-4207-9174-b5b11956a333 = { name = "GeometricalOptics", path = "G/GeometricalOptics" }
 bcf9a6e7-4020-453c-b88e-690564246bb8 = { name = "BugReporting", path = "B/BugReporting" }
 bd07be1c-e76f-5ff0-9c0b-f51ef45303c6 = { name = "Winston", path = "W/Winston" }
@@ -8325,6 +8331,7 @@ c862aa61-d51e-47d1-b396-b1e789b4e0b6 = { name = "CGcoefficient", path = "C/CGcoe
 c863536a-3901-11e9-33e7-d5cd0df7b904 = { name = "GAP", path = "G/GAP" }
 c87230d0-a227-11e9-1b43-d7ebe4e7570a = { name = "FFMPEG", path = "F/FFMPEG" }
 c8768967-421d-4a02-8523-37736f3dbe06 = { name = "EvoDynamics", path = "E/EvoDynamics" }
+c87f5d39-a852-4149-8a88-e3a13a25afc6 = { name = "ArbExtras", path = "A/ArbExtras" }
 c88070b3-ddf6-46c7-b699-196056389566 = { name = "RemoteSensingToolbox", path = "R/RemoteSensingToolbox" }
 c8885935-8500-56a7-9867-7708b20db0eb = { name = "FixedEffects", path = "F/FixedEffects" }
 c889285c-44aa-4473-b1e1-56f5d4e3ccf5 = { name = "Phylopic", path = "P/Phylopic" }
