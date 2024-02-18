@@ -518,6 +518,7 @@ some amount of consideration when choosing package names.
 0c351ed6-8a68-550e-8b79-de6f926da83c = { name = "TracyProfiler_jll", path = "jll/T/TracyProfiler_jll" }
 0c3b9dc7-9fea-4423-80ce-ed7c11218d4a = { name = "Air", path = "A/Air" }
 0c46a032-eb83-5123-abaf-570d42b7fbaa = { name = "DifferentialEquations", path = "D/DifferentialEquations" }
+0c4721b3-3133-403d-859d-6fdff663af57 = { name = "SymbolicInference", path = "S/SymbolicInference" }
 0c4ad18d-0c49-4bc2-90d5-5bca8f00d6ae = { name = "DataMigrations", path = "D/DataMigrations" }
 0c4b0c42-68ec-11ea-3bc9-e7fb6e00ea0f = { name = "SyslogLogging", path = "S/SyslogLogging" }
 0c50e747-7910-4d75-be1d-ae33d9528add = { name = "TelegramClient", path = "T/TelegramClient" }
@@ -5231,6 +5232,7 @@ some amount of consideration when choosing package names.
 7cdaf598-12e2-40e7-a2cf-eaf488121ec4 = { name = "Pythia", path = "P/Pythia" }
 7cde8186-f29c-533a-9367-b4054c592979 = { name = "NLSProblems", path = "N/NLSProblems" }
 7ce832dc-6953-4c0f-9163-51fbd0dcbc24 = { name = "WinTypes", path = "W/WinTypes" }
+7cf1493d-886e-405c-b582-53b49fa147b6 = { name = "RayTraceHeatTransfer", path = "R/RayTraceHeatTransfer" }
 7cf40ad8-af6a-4ede-b3c6-2a9df3bce851 = { name = "DomainColoringToy", path = "D/DomainColoringToy" }
 7cffe744-45fd-4178-b173-cf893948b8b7 = { name = "BetterExp", path = "B/BetterExp" }
 7d03e222-df96-4b80-bcdc-d089be88b5f2 = { name = "ReparametrizableDistributions", path = "R/ReparametrizableDistributions" }
@@ -7635,6 +7637,7 @@ b7c0a452-59f3-4788-8baf-51dfb4e989a2 = { name = "Kibisis", path = "K/Kibisis" }
 b7d42ee7-0b51-5a75-98ca-779d3107e4c0 = { name = "Einsum", path = "E/Einsum" }
 b7e775b7-052a-4229-9250-fe08ae90f9c6 = { name = "Webviews", path = "W/Webviews" }
 b7e79332-94ae-5b45-a0a6-65d827bd22db = { name = "HelloWorldFortran_jll", path = "jll/H/HelloWorldFortran_jll" }
+b7ea765e-cbac-4e4a-9b0d-5427cc302506 = { name = "GCIdentifier", path = "G/GCIdentifier" }
 b7ef2bfb-7515-4281-9a05-d3c99bbad18e = { name = "XVGReader", path = "X/XVGReader" }
 b7f167ac-9de6-40dd-9818-ec636999de39 = { name = "RustFFT", path = "R/RustFFT" }
 b7f3fe35-ff1f-4dc5-b861-bd211d5a9a4b = { name = "MPIArray4MoMs", path = "M/MPIArray4MoMs" }
@@ -8619,6 +8622,7 @@ cedb2ae3-6529-478c-a04f-d9256ac5d41f = { name = "SnapTests", path = "S/SnapTests
 ceedd18c-cbe2-4568-b16d-0e09f1cb20d1 = { name = "GasphaseReactions", path = "G/GasphaseReactions" }
 cef322dc-4d82-11ea-04a7-113231db804d = { name = "BioProfiling", path = "B/BioProfiling" }
 cef570c6-3a94-5604-96b7-1a5e143043f2 = { name = "SARSOP", path = "S/SARSOP" }
+cef8bb50-3052-47ee-9080-7fa14a4c9a42 = { name = "Nclusion", path = "N/Nclusion" }
 cf000e6a-8cd9-4459-9820-c8fff5d8f25f = { name = "BacenSGS", path = "B/BacenSGS" }
 cf02a7a8-8cd0-5932-97be-477f95a4d9ce = { name = "CryptoMiniSat_jll", path = "jll/C/CryptoMiniSat_jll" }
 cf09d348-ed9f-4043-bc55-1768af2a262b = { name = "Smoothing", path = "S/Smoothing" }
@@ -8916,6 +8920,7 @@ d63ee80a-a26b-5956-a0ed-fe8a48e7c1c8 = { name = "libfacedetection_jll", path = "
 d647f7b9-f016-52c0-8515-7d1c032fadec = { name = "SISL_jll", path = "jll/S/SISL_jll" }
 d65627f6-89bd-53e8-8ab5-8b75ff535eee = { name = "fts_jll", path = "jll/F/fts_jll" }
 d65ab6ab-6660-44ea-a7a3-f3acdcb1c2e6 = { name = "Convex1d", path = "C/Convex1d" }
+d66529d5-f4f4-49d9-a69b-da67f5535f0a = { name = "TrillionDollarWords", path = "T/TrillionDollarWords" }
 d6652ff9-bdf9-5f19-9e6f-c10727807222 = { name = "GAP_pkg_ferret_jll", path = "jll/G/GAP_pkg_ferret_jll" }
 d66a24ed-3b8b-4cb5-acc0-191d405a6575 = { name = "Ascii85", path = "A/Ascii85" }
 d66ac3f3-933a-5ab8-8aa2-9e591b3c5af3 = { name = "LibRaw_jll", path = "jll/L/LibRaw_jll" }
@@ -10067,6 +10072,7 @@ f33fedc7-88ab-426d-b3f4-502f30fbdde3 = { name = "PERMANOVA", path = "P/PERMANOVA
 f34749e5-bf11-50ef-9bf7-447477e32da8 = { name = "Matio_jll", path = "jll/M/Matio_jll" }
 f34a0dec-cdff-52ca-a698-8a683c311173 = { name = "ClustForOpt", path = "C/ClustForOpt" }
 f34fe3fd-af96-4859-b26f-d1ad3ec20571 = { name = "Walker2020Sampling", path = "W/Walker2020Sampling" }
+f37aa7dd-fb3b-4c75-b722-300831487a5c = { name = "BioSimplex", path = "B/BioSimplex" }
 f37d3882-d878-4a7b-89a5-2d9832311052 = { name = "TrueSkill", path = "T/TrueSkill" }
 f381a237-32a7-4d50-aa1c-abe0b395ff12 = { name = "SystemStats", path = "S/SystemStats" }
 f3857b5d-3a50-4050-98ae-54c465879683 = { name = "Lexicographic", path = "L/Lexicographic" }
