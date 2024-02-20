@@ -208,6 +208,7 @@ some amount of consideration when choosing package names.
 04d39a18-1502-5db8-a704-9ca743349cef = { name = "HyperDualMatrixTools", path = "H/HyperDualMatrixTools" }
 04d6f918-1a1e-5862-bbec-f5b7bf9ea9e9 = { name = "FXdiv_jll", path = "jll/F/FXdiv_jll" }
 04d71284-fb40-11e9-15e5-dbbde6a47ab4 = { name = "TSAnalysis", path = "T/TSAnalysis" }
+04d82aa0-596e-49d4-9e15-129fccfbf66a = { name = "FrechetDist", path = "F/FrechetDist" }
 04da0e3b-1cad-4b2c-a963-fc1602baf1af = { name = "TypeTree", path = "T/TypeTree" }
 04ea9a2a-9613-4550-8ec7-b0cad5b6b706 = { name = "AtBackslash", path = "A/AtBackslash" }
 04ed911b-6d5f-4088-a74e-60d2d5028204 = { name = "TensorDecompositions", path = "T/TensorDecompositions" }
@@ -1703,6 +1704,7 @@ some amount of consideration when choosing package names.
 286e6d88-80af-4590-acc9-0001b223b9bd = { name = "SymRCM", path = "S/SymRCM" }
 286e9d63-9694-5540-9e3c-4e6708fa07b2 = { name = "RingLists", path = "R/RingLists" }
 286ff66b-9b1b-5805-8ad0-4d725a2cae59 = { name = "Vortice", path = "V/Vortice" }
+28909d84-766e-4dab-8e3e-91fd31d78b70 = { name = "LandsatExplorer", path = "L/LandsatExplorer" }
 289a3227-1041-4740-9a48-9a9497380b0c = { name = "SQLiteDF", path = "S/SQLiteDF" }
 28a8edfd-32bd-5648-83f9-9b597c29a4fc = { name = "MeCab", path = "M/MeCab" }
 28ab5b7a-bdcc-4f1e-a5de-638613dcf356 = { name = "Spinners", path = "S/Spinners" }
@@ -2135,6 +2137,7 @@ some amount of consideration when choosing package names.
 329efeb5-5dc7-45f3-8303-d0bcfeef1c8a = { name = "EwaldSummations", path = "E/EwaldSummations" }
 329f2bf2-1773-4f40-9abf-1830ae341a86 = { name = "AsynchronousIterativeAlgorithms", path = "A/AsynchronousIterativeAlgorithms" }
 32a0d02f-32d9-4438-b5ed-3a2932b48f96 = { name = "PolygonAlgorithms", path = "P/PolygonAlgorithms" }
+32aa4ff1-cc5a-4ead-abec-09bb076ef871 = { name = "LibLZO", path = "L/LibLZO" }
 32aeb37a-e545-4ed8-bfb1-909facd87807 = { name = "Settn", path = "S/Settn" }
 32af7c3b-80ec-5621-8194-2f6cb2280831 = { name = "MuJoCo_jll", path = "jll/M/MuJoCo_jll" }
 32b24f23-0065-419a-aebb-272ab3b73786 = { name = "Symplectic", path = "S/Symplectic" }
@@ -10162,6 +10165,7 @@ f525a15e-a73f-4eef-870f-f901257eae22 = { name = "OMOPCDMCohortCreator", path = "
 f526b714-d49f-11e8-06ff-31ed36ee7ee0 = { name = "GraphViz", path = "G/GraphViz" }
 f52a7a4e-f3c4-4810-b429-372b32c00cf9 = { name = "SavitskyGolayFilters", path = "S/SavitskyGolayFilters" }
 f52c9ee2-1b1c-4fd8-8546-6350938c7f11 = { name = "AxisIndices", path = "A/AxisIndices" }
+f52de702-fb25-5922-94ba-81dd59b07444 = { name = "LLVMDowngrader_jll", path = "jll/L/LLVMDowngrader_jll" }
 f52f3d38-10ca-5f0e-b577-4b5045d0977b = { name = "TikzQTrees", path = "T/TikzQTrees" }
 f531010a-71ee-5b11-8e71-2f13f29d8a82 = { name = "LibYAML_jll", path = "jll/L/LibYAML_jll" }
 f535d66d-59bb-5153-8d2b-ef0a426c6aff = { name = "ROCAnalysis", path = "R/ROCAnalysis" }
