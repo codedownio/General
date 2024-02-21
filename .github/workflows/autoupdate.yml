@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         repository: "CodeDownIO/registry2nix"
         ref: "81a79057d16107861161fe05cb7e04808c685e2a"
@@ -46,13 +46,13 @@ jobs:
         stack install --system-ghc
 
     - name: Check out latest JuliaRegistries/General repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: "JuliaRegistries/General"
         path: JuliaRegistriesGeneral
 
     - name: Check out latest CodeDownIO/General repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         repository: "CodeDownIO/General"
         path: CodeDownIOGeneral
