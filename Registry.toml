@@ -1152,6 +1152,7 @@ some amount of consideration when choosing package names.
 1a4ff6f1-5156-5f9a-8aa5-a2840611f610 = { name = "LLVM_assert_jll", path = "jll/L/LLVM_assert_jll" }
 1a50b95c-7aac-476d-a9ce-2bfc675fc617 = { name = "SUNRepresentations", path = "S/SUNRepresentations" }
 1a520dc8-4f4e-523b-a9bd-3b3d46c5454b = { name = "SimpleRationalFunctions", path = "S/SimpleRationalFunctions" }
+1a52f20c-0d16-41d8-a00a-b2996d86a462 = { name = "AtmosphericDeposition", path = "A/AtmosphericDeposition" }
 1a55de6a-d783-4007-8775-0d59a3e033cc = { name = "HyperVoronoiDelaunay", path = "H/HyperVoronoiDelaunay" }
 1a5903ec-9658-4297-bb6d-314c615f2e02 = { name = "DataRegistryUtils", path = "D/DataRegistryUtils" }
 1a5e8c1d-b073-459e-b18e-ab421a81424e = { name = "Deductive", path = "D/Deductive" }
@@ -4061,6 +4062,7 @@ some amount of consideration when choosing package names.
 615c3f80-b0cb-4ecd-88fe-27bee056c380 = { name = "PowerModelsITD", path = "P/PowerModelsITD" }
 615f187c-cbe4-4ef1-ba3b-2fcf58d6d173 = { name = "IfElse", path = "I/IfElse" }
 61682c44-1689-4c10-8e1b-162e0db5231e = { name = "BilevelHeuristics", path = "B/BilevelHeuristics" }
+6171b9fb-adbf-4751-adb9-5faded75de07 = { name = "LowLevelFEM", path = "L/LowLevelFEM" }
 61744808-ddfa-5f27-97ff-6e42cc95d634 = { name = "DynamicalSystems", path = "D/DynamicalSystems" }
 619b3e1a-df4a-11e8-3b0b-a997e0925a8d = { name = "SolverTraces", path = "S/SolverTraces" }
 61ac1d4c-5a1f-4019-949c-7919748f8c44 = { name = "Pingouin", path = "P/Pingouin" }
@@ -9913,6 +9915,7 @@ ee291a33-5a6c-5552-a3c8-0f29a1181037 = { name = "GBIF", path = "G/GBIF" }
 ee299941-4bd7-491e-86f9-95d1f98baef4 = { name = "WeightedPCA", path = "W/WeightedPCA" }
 ee29a0df-cd28-4477-a8c7-b2df1281527b = { name = "LRESolve", path = "L/LRESolve" }
 ee2e13b9-eee9-4449-aafa-cfa6a2dbe14d = { name = "LAMMPS", path = "L/LAMMPS" }
+ee40d4b5-31c3-4fe2-b6cc-5ac7adf7f414 = { name = "CountriesBorders", path = "C/CountriesBorders" }
 ee419aa8-929d-45cd-acf6-76bd043cd7ba = { name = "PlutoProfile", path = "P/PlutoProfile" }
 ee47c953-e16d-47b3-8c84-b49e0fa97f8a = { name = "PartiallySeparableSolvers", path = "P/PartiallySeparableSolvers" }
 ee697234-451c-51c9-b102-303d89a9c3a0 = { name = "ReferenceBLAS_jll", path = "jll/R/ReferenceBLAS_jll" }
