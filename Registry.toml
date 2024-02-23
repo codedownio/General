@@ -2322,6 +2322,7 @@ some amount of consideration when choosing package names.
 36e41bbe-399b-4a86-8623-faa02b4c2ac8 = { name = "Tsunami", path = "T/Tsunami" }
 36e45090-0d1b-4017-951a-c8c63491b169 = { name = "Circo", path = "C/Circo" }
 36e52ba8-0d61-4da2-bc57-6d85c7a279e7 = { name = "Smg2s", path = "S/Smg2s" }
+36e64239-2ab9-4580-84fb-56737a503d36 = { name = "Unroll", path = "U/Unroll" }
 36e9a02b-89ba-5c81-9f23-352891f35b31 = { name = "ErdosExtras", path = "E/ErdosExtras" }
 36ec8eac-713e-50f0-b9f1-e7516df2c55e = { name = "Conduit_jll", path = "jll/C/Conduit_jll" }
 36f43c0d-3673-45fc-9557-6860e708e7aa = { name = "GeoStatsValidation", path = "G/GeoStatsValidation" }
@@ -2477,6 +2478,7 @@ some amount of consideration when choosing package names.
 3aad29fc-5640-4e8d-a22d-e10722c484ad = { name = "SyncSort", path = "S/SyncSort" }
 3aafef2f-86ae-4776-b337-85a36adf0b55 = { name = "OptimizationMetaheuristics", path = "O/OptimizationMetaheuristics" }
 3ab34fdf-2fe8-473b-9b20-30f5809db337 = { name = "NeXLMatrixCorrection", path = "N/NeXLMatrixCorrection" }
+3ab57c46-54b1-52cd-a3f5-dc477084d9ef = { name = "Qt6Positioning_jll", path = "jll/Q/Qt6Positioning_jll" }
 3abbdab7-df67-4801-8590-8effec53f469 = { name = "VOTables", path = "V/VOTables" }
 3abdc024-f177-4c2d-bf1c-90d4f241f304 = { name = "BoundedDegreeGraphs", path = "B/BoundedDegreeGraphs" }
 3abffc1c-5106-53b7-b354-a47bfc086282 = { name = "ControlSystemIdentification", path = "C/ControlSystemIdentification" }
@@ -3552,6 +3554,7 @@ some amount of consideration when choosing package names.
 54eccfce-c43a-54d5-bb22-f204d2e1c97b = { name = "rustfft_jll", path = "jll/R/rustfft_jll" }
 54ed2464-0158-49e7-9a8e-1c1697a616e3 = { name = "OptimalBids", path = "O/OptimalBids" }
 54eefc05-d75b-58de-a785-1a3403f0919f = { name = "Cascadia", path = "C/Cascadia" }
+54f05ff3-c196-4f1a-acfd-0c2b8e4405db = { name = "JointSurvivalModels", path = "J/JointSurvivalModels" }
 54f35ada-98a6-4c15-bdf4-2485f34720f9 = { name = "RenderJay", path = "R/RenderJay" }
 550c8279-ae0e-5d1b-948f-937f2608a23e = { name = "WCS_jll", path = "jll/W/WCS_jll" }
 5515826b-29c3-47a5-8849-8513ac836620 = { name = "ConstraintTrees", path = "C/ConstraintTrees" }
@@ -5332,6 +5335,7 @@ some amount of consideration when choosing package names.
 7ef17fd6-a797-4899-824e-453c4c44979c = { name = "WinKnownPaths", path = "W/WinKnownPaths" }
 7ef4cfdd-3fec-4d8b-b242-bcc5161d01d5 = { name = "AdventOfCode", path = "A/AdventOfCode" }
 7f033956-d9d2-5d02-9555-a58acfe8fcc2 = { name = "KMC_jll", path = "jll/K/KMC_jll" }
+7f078b06-e5c4-4cf8-bb56-b92882a0ad03 = { name = "NeumannKelvin", path = "N/NeumannKelvin" }
 7f07e4c8-6df2-5971-ad44-bf349b9adcfd = { name = "Divergences", path = "D/Divergences" }
 7f0a2ee1-9b43-5740-ae82-b54233cf7071 = { name = "libosmium_jll", path = "jll/L/libosmium_jll" }
 7f0fc4bf-4ffe-4e21-ab91-7bf1358d5ab3 = { name = "MirrorUpdater", path = "M/MirrorUpdater" }
@@ -6169,6 +6173,7 @@ some amount of consideration when choosing package names.
 9446b0d0-acab-56e8-85a3-5890a8313c19 = { name = "aiger_jll", path = "jll/A/aiger_jll" }
 9449cd9e-2762-5aa3-a617-5413e99d722e = { name = "TSVD", path = "T/TSVD" }
 944b1d66-785c-5afd-91f1-9de20f533193 = { name = "CodecZlib", path = "C/CodecZlib" }
+944e5dbc-7108-4f31-a215-df58b8009117 = { name = "DiscoDiff", path = "D/DiscoDiff" }
 945b72a4-3b13-509d-9b46-1525bb5c06de = { name = "MarketData", path = "M/MarketData" }
 945c410c-986d-556a-acb1-167a618e0462 = { name = "JuLIP", path = "J/JuLIP" }
 946c7259-7191-581b-9320-f4a77977c88e = { name = "JlrsLedger_jll", path = "jll/J/JlrsLedger_jll" }
@@ -8082,6 +8087,7 @@ c1a98b4d-6cd2-47ec-b9e9-69b59c35373c = { name = "Survey", path = "S/Survey" }
 c1ab834c-c4a5-50f5-9156-8f0fe7758b0e = { name = "SHOT_jll", path = "jll/S/SHOT_jll" }
 c1ae055f-0cd5-4b69-90a6-9a35b1a98df9 = { name = "RealDot", path = "R/RealDot" }
 c1b2b608-cf0a-49e8-8122-201050f5fbe7 = { name = "FractionalDelayFilter", path = "F/FractionalDelayFilter" }
+c1bf003f-4e47-49d9-bdfd-5a4051db3c04 = { name = "EoSSuperancillaries", path = "E/EoSSuperancillaries" }
 c1c5ebd0-6772-5130-a774-d5fcae4a789d = { name = "LAME_jll", path = "jll/L/LAME_jll" }
 c1ccfb80-616c-11e9-2032-47e8246e4458 = { name = "SpineBasedRecordLinkage", path = "S/SpineBasedRecordLinkage" }
 c1e1d063-8311-5f52-a749-c7b05e91ae37 = { name = "NodeJS_18_jll", path = "jll/N/NodeJS_18_jll" }
