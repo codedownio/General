@@ -255,6 +255,7 @@ some amount of consideration when choosing package names.
 05d58fe5-e6ff-58ad-86d6-05dcc0b74504 = { name = "PowerModelsMCDC", path = "P/PowerModelsMCDC" }
 05da4de1-0d5c-4141-b8ea-157f25fdd429 = { name = "ItemResponsePlots", path = "I/ItemResponsePlots" }
 05dc622f-161e-4567-aeb3-31c6e962d327 = { name = "CopositiveAnalyticCenter", path = "C/CopositiveAnalyticCenter" }
+05e36573-c726-5118-99be-97aa17437f28 = { name = "XicTools_jll", path = "jll/X/XicTools_jll" }
 05e5b401-cbd0-4511-9ee7-1ac7fa2205f5 = { name = "NomnomlJS", path = "N/NomnomlJS" }
 05e9033e-e298-417a-adae-495536c11ad4 = { name = "STREAMBenchmark", path = "S/STREAMBenchmark" }
 05ee1981-f730-42d8-b713-4f42d99733dc = { name = "HorizonsEphemeris", path = "H/HorizonsEphemeris" }
@@ -760,6 +761,7 @@ some amount of consideration when choosing package names.
 11a4bec2-2c27-4554-8fe6-a2de72ffe064 = { name = "MembraneEOS", path = "M/MembraneEOS" }
 11a73c71-dc4d-46b1-87d0-e844fed3dbfc = { name = "GlobalMatchingModels", path = "G/GlobalMatchingModels" }
 11b12826-7e46-4acf-9706-be0a67f2add7 = { name = "NonconvexMultistart", path = "N/NonconvexMultistart" }
+11b65f7f-80ac-401b-9ef2-3db765482d62 = { name = "PartitionedSolvers", path = "P/PartitionedSolvers" }
 11b7dee7-cd95-48a5-a457-717aae94d0bd = { name = "CellularPotts", path = "C/CellularPotts" }
 11b83ad2-e65e-47ba-870b-1ff818f3e30a = { name = "Population", path = "P/Population" }
 11b9c370-7f32-11e9-2601-596d25f02000 = { name = "NormalMaps", path = "N/NormalMaps" }
@@ -2697,6 +2699,7 @@ some amount of consideration when choosing package names.
 3fc713dc-8771-5a7b-b2d9-79d2995ff451 = { name = "REPLCompletions", path = "R/REPLCompletions" }
 3fca794e-44fa-49a6-b6a0-8cd45572ba0a = { name = "ProfileLikelihood", path = "P/ProfileLikelihood" }
 3fdf5847-2998-4bb9-885b-ec39b41f41a6 = { name = "WhittleLikelihoodInference", path = "W/WhittleLikelihoodInference" }
+3fe64909-d7a1-4096-9b7d-7a0f12cf0f6b = { name = "NCCL", path = "N/NCCL" }
 3fee2672-df33-422b-aa65-d915eeac013a = { name = "SurrogatesRandomForest", path = "S/SurrogatesRandomForest" }
 400165cc-b992-11e9-18fb-114a7be5e8c2 = { name = "NLIDatasets", path = "N/NLIDatasets" }
 4004b06d-e244-455f-a6ce-a5f9919cc534 = { name = "VTKBase", path = "V/VTKBase" }
@@ -8471,6 +8474,7 @@ ca7c0f55-ad95-5972-a3e2-8e5b4e3bed80 = { name = "oxigraph_server_jll", path = "j
 ca841f6f-225c-4bbd-a467-7a3512dfa6f6 = { name = "CliffordAlgebras", path = "C/CliffordAlgebras" }
 ca8b7239-ccd3-5cce-807f-2072f3f0d108 = { name = "ACME", path = "A/ACME" }
 ca8f4450-19af-48ec-a412-7beb1ac39672 = { name = "IonBase", path = "I/IonBase" }
+ca969041-2cf3-4b10-bc21-86f4417093eb = { name = "ProcessBasedModelling", path = "P/ProcessBasedModelling" }
 ca994201-3d74-4fad-8816-f8bc5449c7c3 = { name = "FastMakie", path = "F/FastMakie" }
 ca9a45ee-5845-4167-bbbe-6c434770cc9d = { name = "ComputedFields", path = "C/ComputedFields" }
 ca9d4746-8a27-5104-babe-80f83b336947 = { name = "SDL2_ttf_jll", path = "jll/S/SDL2_ttf_jll" }
@@ -8890,6 +8894,7 @@ d4e84096-4d6c-49d8-a925-3f99c52ed105 = { name = "ZygoteStructArrays", path = "Z/
 d4ead438-fe20-5cc5-a293-4fd39a41b74c = { name = "SpatialIndexing", path = "S/SpatialIndexing" }
 d4f04ab7-4f65-4d72-8a28-7087bc7f46f4 = { name = "FiniteVolumeMethod", path = "F/FiniteVolumeMethod" }
 d4f2cf9b-1959-46fe-97e6-985c98850872 = { name = "NeuralFieldEq", path = "N/NeuralFieldEq" }
+d4fd37fa-580c-4e43-9b30-361c21aae263 = { name = "ShiftedProximalOperators", path = "S/ShiftedProximalOperators" }
 d50a3a05-91c6-42d5-aeb6-a7244554f0d0 = { name = "DWDataReader", path = "D/DWDataReader" }
 d519eb52-b820-54da-95a6-98e1306fdade = { name = "RegressionTables", path = "R/RegressionTables" }
 d52248c9-e08a-51c2-9066-05d0bf3e6245 = { name = "unpaper_jll", path = "jll/U/unpaper_jll" }
