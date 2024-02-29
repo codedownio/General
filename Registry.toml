@@ -1861,6 +1861,7 @@ some amount of consideration when choosing package names.
 2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c = { name = "EulerCharacteristic", path = "E/EulerCharacteristic" }
 2c1f4335-9aeb-47fb-ad11-94d99429346c = { name = "OmicsProfiles", path = "O/OmicsProfiles" }
 2c364e2c-59fb-59c3-96f3-194112e690e0 = { name = "HSARuntime", path = "H/HSARuntime" }
+2c3d953e-07eb-42f7-9900-e75950e41d88 = { name = "GraphOptInterface", path = "G/GraphOptInterface" }
 2c470bb0-bcc8-11e8-3dad-c9649493f05e = { name = "Kronecker", path = "K/Kronecker" }
 2c4a1fb8-30c1-4c71-8b84-dff8d59868ee = { name = "CheckedArithmetic", path = "C/CheckedArithmetic" }
 2c514f87-1261-494e-8566-326879aaf4fe = { name = "SpinGlassPEPS", path = "S/SpinGlassPEPS" }
@@ -2567,6 +2568,7 @@ some amount of consideration when choosing package names.
 3c6f16a5-7773-4db2-b4fd-b1ef4c83c671 = { name = "Polymer", path = "P/Polymer" }
 3c7084bd-78ad-589a-b5bb-dbd673274bea = { name = "GLPKMathProgInterface", path = "G/GLPKMathProgInterface" }
 3c71623a-a715-5176-9801-629b201a4880 = { name = "GraphDataFrameBridge", path = "G/GraphDataFrameBridge" }
+3c80737e-c28d-49fd-9c64-d7d44b4f4ed8 = { name = "GroupNumbers", path = "G/GroupNumbers" }
 3c863552-8265-54e4-a6dc-903eb78fde85 = { name = "Graphviz_jll", path = "jll/G/Graphviz_jll" }
 3c934f36-e25c-5265-85bb-28494e4832bb = { name = "Libassuan_jll", path = "jll/L/Libassuan_jll" }
 3c954167-71e4-4212-9688-830d6b8fcbc2 = { name = "WeatherReport", path = "W/WeatherReport" }
@@ -5276,6 +5278,7 @@ some amount of consideration when choosing package names.
 7d2ed363-0947-51cb-8ada-ce58eccc042f = { name = "re2c_jll", path = "jll/R/re2c_jll" }
 7d47ec4b-9a51-4ee3-9fcc-f90243bd7361 = { name = "CanopyRadiativeTransfer", path = "C/CanopyRadiativeTransfer" }
 7d512f48-7fb1-5a58-b986-67e6dc259f01 = { name = "InternedStrings", path = "I/InternedStrings" }
+7d51a73a-1435-4ff3-83d9-f097790105c7 = { name = "ExplicitImports", path = "E/ExplicitImports" }
 7d669430-f675-4ae7-b43e-fab78ec5a902 = { name = "P4est", path = "P/P4est" }
 7d6e2781-1c99-4c66-97ec-106669f3e96e = { name = "PlantGeomTurtle", path = "P/PlantGeomTurtle" }
 7d867975-de6c-4c05-9efa-f68ebc224697 = { name = "RecursiveTiles", path = "R/RecursiveTiles" }
@@ -6256,6 +6259,7 @@ some amount of consideration when choosing package names.
 961331e1-62bb-46d9-b9e3-f058129f1391 = { name = "UnitfulCosmo", path = "U/UnitfulCosmo" }
 961e5755-77e0-4113-a782-3f305e67c3ba = { name = "LabJack", path = "L/LabJack" }
 961ee093-0014-501f-94e3-6117800e7a78 = { name = "ModelingToolkit", path = "M/ModelingToolkit" }
+962878d8-9763-11ee-8c14-fbf60c98afae = { name = "WrapIt", path = "W/WrapIt" }
 962a53e2-84f2-440b-bfbc-4e96ec28357f = { name = "VisualGeometryDatasets", path = "V/VisualGeometryDatasets" }
 962e16cf-eed8-4072-a8f8-1d4280395610 = { name = "SineFit", path = "S/SineFit" }
 962f5c4a-ca9e-56d3-a659-14f0d9baaf78 = { name = "FEMBeam", path = "F/FEMBeam" }
@@ -10500,6 +10504,7 @@ fc91e7d7-639c-4584-a1b8-453dd568b9a2 = { name = "Individual", path = "I/Individu
 fc9abe76-a5e6-5fed-b0b7-a12f309cf031 = { name = "SCIP_PaPILO_jll", path = "jll/S/SCIP_PaPILO_jll" }
 fc9b0551-4f1b-42e1-8440-e8a535f5a551 = { name = "SymbolicCodegen", path = "S/SymbolicCodegen" }
 fca3f8eb-b383-437d-8e7b-aac76bb2004f = { name = "EnergyModelsInvestments", path = "E/EnergyModelsInvestments" }
+fca4bea3-143f-49fa-bca2-9809b242ef85 = { name = "VectorPrisms", path = "V/VectorPrisms" }
 fcae8fc2-2969-4f4b-b6c9-a95746d81969 = { name = "QMCGenerators", path = "Q/QMCGenerators" }
 fcb5363a-df8d-57f1-a64b-7615e60d793b = { name = "Schedulers", path = "S/Schedulers" }
 fcca1770-266e-4af5-8612-876362e279e9 = { name = "ScTenifold", path = "S/ScTenifold" }
