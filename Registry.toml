@@ -3695,6 +3695,7 @@ some amount of consideration when choosing package names.
 580d1d9c-67b1-4c59-872e-f12456ffb9fa = { name = "FinitePosets", path = "F/FinitePosets" }
 5818bda4-868b-5068-b238-e370ed6eefef = { name = "coreutils_jll", path = "jll/C/coreutils_jll" }
 581a75fa-a23a-52d0-a590-d6201de2218a = { name = "SolverBenchmark", path = "S/SolverBenchmark" }
+582173b4-e96e-43f2-ad91-374f9af63bd1 = { name = "ProgressTMap", path = "P/ProgressTMap" }
 582645c0-90fa-497a-98b9-936b80116c29 = { name = "PovertyAndInequalityMeasures", path = "P/PovertyAndInequalityMeasures" }
 58298e0b-d05c-52ec-a210-0694647ebfc7 = { name = "COBRA", path = "C/COBRA" }
 582d7a84-78fd-59ab-a7bb-47fc6b175004 = { name = "EDFPlus", path = "E/EDFPlus" }
@@ -5322,6 +5323,7 @@ some amount of consideration when choosing package names.
 7e1ea31b-b9a5-4cc0-940e-7c5f7cd080d6 = { name = "JpegGlitcher", path = "J/JpegGlitcher" }
 7e2492bd-0955-4089-8696-9df2af57a479 = { name = "ConstrainedRootSolvers", path = "C/ConstrainedRootSolvers" }
 7e2db94e-98cb-4b2e-907e-9710ad85db91 = { name = "LibNanoVG", path = "L/LibNanoVG" }
+7e4462cd-8001-4c22-b109-db8e4e581e9c = { name = "Modulo2", path = "M/Modulo2" }
 7e49a35a-f44a-4d26-94aa-eba1b4ca6b47 = { name = "RuntimeGeneratedFunctions", path = "R/RuntimeGeneratedFunctions" }
 7e49bc5d-d907-5fdd-93a4-11f1b4f8bb51 = { name = "BayesianNonparametrics", path = "B/BayesianNonparametrics" }
 7e4c8b08-07ea-4d35-9260-462b5bfff2a0 = { name = "DZOptimization", path = "D/DZOptimization" }
@@ -5900,6 +5902,7 @@ some amount of consideration when choosing package names.
 8bb6e9a1-7d73-552c-a44a-e5dc5634aac4 = { name = "BeliefUpdaters", path = "B/BeliefUpdaters" }
 8bc5a954-2dfc-11e9-10e6-cd969bffa420 = { name = "PermutationGroups", path = "P/PermutationGroups" }
 8bca1bde-e0b5-5803-b535-ac666483fcca = { name = "WhiteboxTools_jll", path = "jll/W/WhiteboxTools_jll" }
+8bd03d06-bfef-4aaf-8250-1a26cbb401bf = { name = "StructEqualHash", path = "S/StructEqualHash" }
 8bd9f6a2-9625-11e9-045b-d30bc2bc79c3 = { name = "Presentation", path = "P/Presentation" }
 8be319e6-bccf-4806-a6f7-6fae938471bc = { name = "Chain", path = "C/Chain" }
 8be67bde-e6c3-11e9-38b8-61e71f321663 = { name = "MLInterpret", path = "M/MLInterpret" }
@@ -6194,6 +6197,7 @@ some amount of consideration when choosing package names.
 93f3dd0f-005d-4452-894a-a31841fa4078 = { name = "MiniLoggers", path = "M/MiniLoggers" }
 93ffb859-d6b2-40fc-9f9f-e7ec8bc255b8 = { name = "FindDefinition", path = "F/FindDefinition" }
 9404b2b5-64ac-5ade-85a3-77c836ef30b4 = { name = "SortedVectors", path = "S/SortedVectors" }
+9406b108-c799-4c20-a955-6fb73514e56d = { name = "MortalityModels", path = "M/MortalityModels" }
 94167541-0a4e-5fbf-aeea-474b87c587e3 = { name = "LCIO", path = "L/LCIO" }
 9427e74d-4e05-59c1-8ff3-7d74b6e52ac8 = { name = "libsamplerate_jll", path = "jll/L/libsamplerate_jll" }
 94295238-5935-5bd7-bb0f-b00942e9bdd5 = { name = "libigc_jll", path = "jll/L/libigc_jll" }
@@ -9485,6 +9489,7 @@ e2ba6199-217a-4e67-a87a-7c52f15ade04 = { name = "ExprTools", path = "E/ExprTools
 e2c39885-2134-4813-a274-cbd32ca8996e = { name = "Miter", path = "M/Miter" }
 e2c437b3-d38f-4222-8753-dddcd5679a95 = { name = "LOLTools", path = "L/LOLTools" }
 e2c51686-8c13-4540-892e-18cf079a7e1a = { name = "MLJGaussianProcesses", path = "M/MLJGaussianProcesses" }
+e2d0dd93-c6be-4a4f-9a61-2b35d7242bb2 = { name = "LFRBenchmarkGraphs", path = "L/LFRBenchmarkGraphs" }
 e2d170a0-9d28-54be-80f0-106bbe20a464 = { name = "DataValueInterfaces", path = "D/DataValueInterfaces" }
 e2d5807d-1594-43f7-91a6-54c6eef5a9d2 = { name = "FSimZoo", path = "F/FSimZoo" }
 e2e10f9a-a85d-4fa9-b6b2-639a32100a12 = { name = "CatBoost", path = "C/CatBoost" }
@@ -10555,6 +10560,7 @@ fdbf4ff8-1666-58a4-91e7-1b58723a45e0 = { name = "XLSX", path = "X/XLSX" }
 fdc4e326-1af4-4b90-96e7-779fcce2daa5 = { name = "ODEProblemLibrary", path = "O/ODEProblemLibrary" }
 fdc92b62-57bd-11e9-1326-e584eb179d13 = { name = "UProbes", path = "U/UProbes" }
 fdc9d97d-6704-4816-9428-252828370922 = { name = "Bosonic", path = "B/Bosonic" }
+fdcc7804-6c20-4e83-8118-baad6b7d05b7 = { name = "GenericCharacterTables", path = "G/GenericCharacterTables" }
 fde5428d-3bf0-5ade-b94a-d334303c4d77 = { name = "TuringPatterns", path = "T/TuringPatterns" }
 fde71243-0cda-4261-b7c7-4845bd106b21 = { name = "EasyFit", path = "E/EasyFit" }
 fdea26ae-647d-5447-a871-4b548cad5224 = { name = "SIMD", path = "S/SIMD" }
