@@ -850,6 +850,7 @@ some amount of consideration when choosing package names.
 137488db-d2e6-4fb9-97f3-1e40a263e83c = { name = "Bcrypt", path = "B/Bcrypt" }
 1375f997-1772-542d-b6fa-a8ee39124556 = { name = "CompEcon", path = "C/CompEcon" }
 137af188-b1ec-11e9-0b40-31ed9142ae64 = { name = "XXhash", path = "X/XXhash" }
+137e0234-31ad-43b7-8b27-b236525e28e1 = { name = "VectorAlignments", path = "V/VectorAlignments" }
 1382f7fc-2744-4d9d-8ec6-1e3efdec0746 = { name = "QuartetNetworkGoodnessFit", path = "Q/QuartetNetworkGoodnessFit" }
 1383d23e-2ec2-5912-9712-7b5da7cfadcb = { name = "aws_c_event_stream_jll", path = "jll/A/aws_c_event_stream_jll" }
 1384c1f3-d8dd-4e05-9122-0c792acaad72 = { name = "FluxPrune", path = "F/FluxPrune" }
@@ -1134,6 +1135,7 @@ some amount of consideration when choosing package names.
 19eb6ba3-879d-56ad-ad62-d5c202156566 = { name = "Packing", path = "P/Packing" }
 19ecbf4d-ef7c-5e4b-b54a-0a0ff23c5aed = { name = "Codecs", path = "C/Codecs" }
 19f1efb6-7162-484a-b3a1-b52c391689d7 = { name = "SPICEBodies", path = "S/SPICEBodies" }
+19f23fe9-fdab-4a78-91af-e7b7767979c3 = { name = "SymbolicLimits", path = "S/SymbolicLimits" }
 19f6540d-ecb3-4e88-b99d-153996aa3b9b = { name = "AlertPushover", path = "A/AlertPushover" }
 19f71287-e05d-461c-be93-c347e7defd4d = { name = "MAiNGO", path = "M/MAiNGO" }
 19fa3120-7c27-5ec5-8db8-b0b0aa330d6f = { name = "VertexSafeGraphs", path = "V/VertexSafeGraphs" }
@@ -7251,6 +7253,7 @@ ad70616a-06c9-5745-b1f1-6a5f42545108 = { name = "Wandb", path = "W/Wandb" }
 ad72c4b6-2990-538c-bd38-e122d63d24d9 = { name = "Kpax3", path = "K/Kpax3" }
 ad744131-fa5b-4912-8d03-4395d7e5240b = { name = "GenerateProperties", path = "G/GenerateProperties" }
 ad7b0a5e-d6ee-550c-835e-59a288c14bf3 = { name = "XFloats", path = "X/XFloats" }
+ad7bff83-59f0-4382-9fe5-c2ac8aa77434 = { name = "REPLSmuggler", path = "R/REPLSmuggler" }
 ad839575-38b3-5650-b840-f874b8c74a25 = { name = "Blink", path = "B/Blink" }
 ad83bbfc-c153-533a-bb97-700a7db721e0 = { name = "minio_jll", path = "jll/M/minio_jll" }
 ad8dfdfc-bf80-4d0a-b5f0-e1f877673ab7 = { name = "Bangumis", path = "B/Bangumis" }
@@ -7469,6 +7472,7 @@ b247a4be-ddc1-5759-8008-7e02fe3dbdaa = { name = "PARMETIS_jll", path = "jll/P/PA
 b2531deb-9288-45c6-8f4a-0220551da45d = { name = "KitML", path = "K/KitML" }
 b255c96a-a4ac-5b61-a2c4-3db36d36609d = { name = "Hermetic", path = "H/Hermetic" }
 b25a35d4-863d-483c-9fa1-95480bd075d2 = { name = "OkFiles", path = "O/OkFiles" }
+b261b2ec-6378-4871-b32e-9173bb050604 = { name = "TensorCrossInterpolation", path = "T/TensorCrossInterpolation" }
 b27032c2-a3e7-50c8-80cd-2d36dbcbfd21 = { name = "LibCURL", path = "L/LibCURL" }
 b2723bf5-94c5-4359-89e1-3e553b39f040 = { name = "BetaDecayUtils", path = "B/BetaDecayUtils" }
 b276bca3-8be3-40c5-b17b-0eb635c89c3b = { name = "VirtualAgeModels", path = "V/VirtualAgeModels" }
@@ -9090,6 +9094,7 @@ d8f48be2-8af9-45f0-b400-11a6372d221d = { name = "Multiplexers", path = "M/Multip
 d8fb68d0-12a3-5cfd-a85a-d49703b185fd = { name = "xkbcommon_jll", path = "jll/X/xkbcommon_jll" }
 d8fd485f-4c4b-4cfa-b507-2290d128bc2e = { name = "CorrelatedEquilibria", path = "C/CorrelatedEquilibria" }
 d91beb5f-3141-4656-855d-efd5d97b23c4 = { name = "ClimateSatellite", path = "C/ClimateSatellite" }
+d92c97cf-b87d-42c1-a9c0-25df00b4d958 = { name = "Dionysos", path = "D/Dionysos" }
 d92e12fc-aea5-418c-9372-8108a4db1700 = { name = "NPFinancial", path = "N/NPFinancial" }
 d92ed5c0-d2da-11e9-1f26-3721184dea2b = { name = "MathematicalPredicates", path = "M/MathematicalPredicates" }
 d934ef94-cdd4-4710-83d6-720549644b70 = { name = "ClimaCoreTempestRemap", path = "C/ClimaCoreTempestRemap" }
