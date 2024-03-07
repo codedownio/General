@@ -4344,6 +4344,7 @@ some amount of consideration when choosing package names.
 679fc9cc-3e84-11e9-251b-cbd013bd8115 = { name = "VLBIData", path = "V/VLBIData" }
 67a05f95-e8e3-406b-b1ec-9f1919b23209 = { name = "MPITestImages", path = "M/MPITestImages" }
 67afee28-ec33-4cc2-88ea-a48c87ed52f9 = { name = "MetapopulationDynamics", path = "M/MetapopulationDynamics" }
+67be3549-475c-46bf-8928-de3404d670d9 = { name = "LinearCombinations", path = "L/LinearCombinations" }
 67c07d97-cdcb-5c2c-af73-a7f9c32a568b = { name = "Automa", path = "A/Automa" }
 67ccffd1-116d-535b-ad39-76a8fd0cbf71 = { name = "ModiaMath", path = "M/ModiaMath" }
 67d073f6-f659-405d-833d-5a2f6a1cf902 = { name = "QCIntegrals", path = "Q/QCIntegrals" }
@@ -7148,6 +7149,7 @@ aabda75e-bfe4-5a37-92e3-ffe54af3c273 = { name = "SCALAPACK32_jll", path = "jll/S
 aaca4a50-36af-4a1d-b878-4c443f2061ad = { name = "gRPCClient", path = "G/gRPCClient" }
 aacb0929-27c6-5080-af7c-e887e16e4e49 = { name = "Pitchjx", path = "P/Pitchjx" }
 aacddb02-875f-59d6-b918-886e6ef4fbf8 = { name = "JpegTurbo_jll", path = "jll/J/JpegTurbo_jll" }
+aad1d28c-1a3f-47da-806d-2ed76430c1d6 = { name = "BraketAHS", path = "B/BraketAHS" }
 aad220d6-53bb-4824-ac0f-9e0382ca6dbc = { name = "ConfSets", path = "C/ConfSets" }
 aae01518-5342-5314-be14-df237901396f = { name = "BandedMatrices", path = "B/BandedMatrices" }
 aae0fff6-70f8-51e1-979a-8150c7cc74bd = { name = "LSODA_jll", path = "jll/L/LSODA_jll" }
@@ -9645,6 +9647,7 @@ e5cc3859-2e89-4a16-aeca-5b21eb6ba5f1 = { name = "SubglobalSensitivityAnalysis", 
 e5d154b4-4325-4737-9c37-b2b3515e42eb = { name = "SentinelExplorer", path = "S/SentinelExplorer" }
 e5d170eb-415a-4524-987b-12f1bce1ddab = { name = "MAGEMin_C", path = "M/MAGEMin_C" }
 e5d66e97-8c70-46bb-8b66-04a2d73ad782 = { name = "TableDistances", path = "T/TableDistances" }
+e5d8e439-e7fa-4681-9c12-1c64bda517be = { name = "XXHashNative", path = "X/XXHashNative" }
 e5e0dc1b-0480-54bc-9374-aad01c23163d = { name = "Juno", path = "J/Juno" }
 e5e5f8be-2a6a-5994-adbb-5afbd0e30425 = { name = "MIPVerify", path = "M/MIPVerify" }
 e5e64596-b6ca-11e8-20a9-11eddeb55bda = { name = "ModelBasedCF", path = "M/ModelBasedCF" }
