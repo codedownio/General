@@ -2220,6 +2220,7 @@ some amount of consideration when choosing package names.
 3448aec0-5570-4d68-9f4a-848140e12c29 = { name = "NeuroFormats", path = "N/NeuroFormats" }
 34572acc-64b2-43ec-bac8-7b2a4baad13f = { name = "WorldDynamics", path = "W/WorldDynamics" }
 345a2cc7-28d8-58b2-abdf-cff77ea7d7f1 = { name = "CUDD", path = "C/CUDD" }
+347c79ec-5835-41b8-b087-11d269c34aff = { name = "PropertyMethods", path = "P/PropertyMethods" }
 348581b9-6e84-42e0-ac4e-fe9177c221e6 = { name = "SequencerJ", path = "S/SequencerJ" }
 348f2d5d-71a3-5ad4-b565-8af070f99681 = { name = "SpatialEcology", path = "S/SpatialEcology" }
 3490aa6f-05e0-5d3a-9648-5b0c647c155f = { name = "Musl_jll", path = "jll/M/Musl_jll" }
@@ -3771,6 +3772,7 @@ some amount of consideration when choosing package names.
 59f5dcf9-29de-47f3-bbe3-a47d1f19a124 = { name = "SurfaceReactions", path = "S/SurfaceReactions" }
 59f7168a-df46-5410-90c8-f2779963d0ec = { name = "Giflib_jll", path = "jll/G/Giflib_jll" }
 5a033b19-8c74-5913-a970-47c3779ef25c = { name = "CurveFit", path = "C/CurveFit" }
+5a0628fe-1738-4658-9b6d-0b7605a9755b = { name = "Supposition", path = "S/Supposition" }
 5a099233-690e-4980-908f-23971e54592d = { name = "RHClient", path = "R/RHClient" }
 5a0a87e4-02d4-41f5-bf26-b8c94c784a04 = { name = "SMLMSim", path = "S/SMLMSim" }
 5a0d4f34-1f62-4a66-80fe-87aba0485488 = { name = "ComputerAdaptiveTesting", path = "C/ComputerAdaptiveTesting" }
@@ -4777,6 +4779,7 @@ some amount of consideration when choosing package names.
 71847384-8354-4223-ac08-659a5128069f = { name = "NeutralLandscapes", path = "N/NeutralLandscapes" }
 7186c646-c682-5568-b8f7-a702076b479d = { name = "PyDSTool", path = "P/PyDSTool" }
 7196b6e2-84d2-5468-aff3-a0acff4d3b58 = { name = "BiCePS_jll", path = "jll/B/BiCePS_jll" }
+71991d8d-1ef0-4564-8bfb-550f91a1a974 = { name = "FFTIndexing", path = "F/FFTIndexing" }
 719baba0-b808-11eb-2c94-7207250cf58f = { name = "COBSReduced", path = "C/COBSReduced" }
 719c1aef-945b-435a-a240-4c2992e5e0df = { name = "PowerModelsProtection", path = "P/PowerModelsProtection" }
 71a1bf82-56d0-4bbc-8a3c-48b961074391 = { name = "NameResolution", path = "N/NameResolution" }
@@ -6033,6 +6036,7 @@ some amount of consideration when choosing package names.
 8f4d0f93-b110-5947-807f-2305c1781a2d = { name = "Conda", path = "C/Conda" }
 8f55a569-a1ee-45d2-b761-b2b316ddd8e9 = { name = "CryptoDashApp", path = "C/CryptoDashApp" }
 8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615 = { name = "EzXML", path = "E/EzXML" }
+8f5ebde3-ef8e-4825-b277-c25898c0de77 = { name = "ConsensusBasedX", path = "C/ConsensusBasedX" }
 8f64fb4b-d933-4fa5-a855-09390d771cf3 = { name = "AcuteBenchmark", path = "A/AcuteBenchmark" }
 8f6bce27-0656-5410-875b-07a5572985df = { name = "GitForge", path = "G/GitForge" }
 8f72e95f-8ea1-4af3-8b89-086f52abff52 = { name = "PDDLViz", path = "P/PDDLViz" }
@@ -7421,6 +7425,7 @@ b1065af9-dcad-4f81-8559-1003c45b126b = { name = "BinnedStatistics", path = "B/Bi
 b10a6b5e-eaef-4b72-b159-8e5005e98e8e = { name = "JSONSchemaGenerator", path = "J/JSONSchemaGenerator" }
 b10b62ed-fbae-5ea5-b934-abaf0477b71d = { name = "MurmurHash3", path = "M/MurmurHash3" }
 b1162f8a-ee7e-515c-ae1d-7fab3c0ab9f7 = { name = "LetsBeRational_jll", path = "jll/L/LetsBeRational_jll" }
+b11687fd-3a1c-4c41-97d0-998ab401d50e = { name = "QuanticsTCI", path = "Q/QuanticsTCI" }
 b1168b60-8710-48c1-88d2-5c53ae207dd0 = { name = "ScatterNNlib", path = "S/ScatterNNlib" }
 b11e30b1-63be-5002-9df0-88ee0fe906ff = { name = "PGPLOT_jll", path = "jll/P/PGPLOT_jll" }
 b12ae82c-6730-437f-aff9-d2c38332a376 = { name = "MixedModelsMakie", path = "M/MixedModelsMakie" }
@@ -8808,6 +8813,7 @@ d20e7657-e361-40d3-9674-24e82b8f1914 = { name = "ChatThemAll", path = "C/ChatThe
 d2208f48-c256-5759-9089-c25ed2a93924 = { name = "LatexPrint", path = "L/LatexPrint" }
 d2256c36-f6cb-4f2b-bb45-9577641c7b75 = { name = "FastParzenWindows", path = "F/FastParzenWindows" }
 d22a30c1-52ac-4762-a8c9-5838452405e0 = { name = "LiftedMaps", path = "L/LiftedMaps" }
+d22a7203-ad50-4fbc-abc4-d6ac724cca58 = { name = "SIMDMathFunctions", path = "S/SIMDMathFunctions" }
 d236fae5-4411-538c-8e31-a6e3d9e00b46 = { name = "PreallocationTools", path = "P/PreallocationTools" }
 d2399bea-3a32-5108-a30f-aef315c0e3a8 = { name = "libusb_compat_jll", path = "jll/L/libusb_compat_jll" }
 d23aac74-fdd5-4749-9733-a7e65d8a2269 = { name = "GnuplotLite", path = "G/GnuplotLite" }
