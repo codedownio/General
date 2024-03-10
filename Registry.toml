@@ -1673,6 +1673,7 @@ some amount of consideration when choosing package names.
 276e7ca9-e0d7-440b-97bc-a6ae82f545b1 = { name = "PeriodicalDates", path = "P/PeriodicalDates" }
 27704a7e-a4df-40bc-951d-d074625df1c8 = { name = "TopOptProblems", path = "T/TopOptProblems" }
 2771e1c8-acf3-11e8-3576-cd129da217b6 = { name = "DynamicHMCExamples", path = "D/DynamicHMCExamples" }
+27726e8a-9648-448d-a8f7-a27e0ac037d6 = { name = "SymbolicSigns", path = "S/SymbolicSigns" }
 2774e3e8-f4cf-5e23-947b-6d7e65073b56 = { name = "NLsolve", path = "N/NLsolve" }
 277cf75d-8bce-46ef-b2a4-258a2479b121 = { name = "DBMigrations", path = "D/DBMigrations" }
 277f244e-4908-11e9-33c2-5d5365097ef8 = { name = "GlobalApproximationValueIteration", path = "G/GlobalApproximationValueIteration" }
@@ -2705,6 +2706,7 @@ some amount of consideration when choosing package names.
 3f90d43e-2ba6-5087-9e86-8e3765b17318 = { name = "Tachyons", path = "T/Tachyons" }
 3f92b583-c0aa-4596-8bdf-f02f6c0a52df = { name = "LFAToolkit", path = "L/LFAToolkit" }
 3f93ea72-029c-46bb-aa46-2b37939b0662 = { name = "ServiceSolicitation", path = "S/ServiceSolicitation" }
+3f952873-5d0e-4cfa-8412-438bae177e42 = { name = "SimplicialSets", path = "S/SimplicialSets" }
 3f956635-a9f6-4086-ac4e-002c78554187 = { name = "UnrollingAverages", path = "U/UnrollingAverages" }
 3f97089f-1c6f-4fad-8772-aee14d889bd8 = { name = "RDMREopt", path = "R/RDMREopt" }
 3f9d9eeb-f6fe-486e-aab5-ad2c1ff40024 = { name = "SerializationCaches", path = "S/SerializationCaches" }
@@ -4907,6 +4909,7 @@ some amount of consideration when choosing package names.
 74087812-796a-5b5d-8853-05524746bad3 = { name = "Random123", path = "R/Random123" }
 7408c33d-3899-58ec-b6f6-b7e67cfb9908 = { name = "JSCall", path = "J/JSCall" }
 740b204e-26e5-40b1-866a-9c367e60c4b6 = { name = "CheckedArithmeticCore", path = "C/CheckedArithmeticCore" }
+74123790-a849-591a-9c73-46a70652358a = { name = "cppcheck_jll", path = "jll/C/cppcheck_jll" }
 741b9549-f6ed-4911-9fbf-4a1c0c97f0cd = { name = "Legolas", path = "L/Legolas" }
 7424abe3-9926-5da8-9b28-863d6330819c = { name = "bsdiff_classic_jll", path = "jll/B/bsdiff_classic_jll" }
 7424e34d-94f7-41d6-98a0-85abaf1b6c91 = { name = "NFFTTools", path = "N/NFFTTools" }
@@ -9967,6 +9970,7 @@ ed8dd712-c67e-57b2-a78d-39b336ca029f = { name = "Sudoku", path = "S/Sudoku" }
 ed8fcbec-b94c-44b6-89df-898894ad9591 = { name = "Entropies", path = "E/Entropies" }
 edad4870-8a01-11e9-2d75-8f02e448fc59 = { name = "Leibniz", path = "L/Leibniz" }
 edb9ae08-98fc-4535-bc7b-43b5fa0191ff = { name = "FuzzyClusteringSimilarity", path = "F/FuzzyClusteringSimilarity" }
+edc0d1de-cbb6-43e5-80c3-282b59182d08 = { name = "PlasmoDataPlots", path = "P/PlasmoDataPlots" }
 edc76f5a-727d-11e9-15f5-7184c9a7c95d = { name = "Taarruz", path = "T/Taarruz" }
 edccaa42-18b2-46d1-80ce-8508c2c4933c = { name = "F16Model", path = "F/F16Model" }
 edd8e46e-3ca5-477d-bc67-b483295d3b14 = { name = "ChoosyDataLoggers", path = "C/ChoosyDataLoggers" }
