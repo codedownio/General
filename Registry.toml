@@ -905,6 +905,7 @@ some amount of consideration when choosing package names.
 14d82f49-176c-5ed1-bb49-ad3f5cbd8c74 = { name = "Xorg_libpthread_stubs_jll", path = "jll/X/Xorg_libpthread_stubs_jll" }
 14dbef02-f468-5f15-853e-5ec8dee7b899 = { name = "AbstractStorage", path = "A/AbstractStorage" }
 14e20f5a-e304-4f94-b7d9-bca841234ddf = { name = "ShowGraphviz", path = "S/ShowGraphviz" }
+14f4b459-b795-4db2-be2a-be7a7c74c78d = { name = "Text2Tex", path = "T/Text2Tex" }
 14f7f29c-3bd6-536c-9a0b-7339e30b5a3e = { name = "AMD", path = "A/AMD" }
 14fc9687-df25-4852-9e56-61a08c6e8132 = { name = "Namtso", path = "N/Namtso" }
 150a09a7-b056-4ea4-b4c3-781faca6e549 = { name = "WordErrorRate", path = "W/WordErrorRate" }
@@ -957,6 +958,7 @@ some amount of consideration when choosing package names.
 160ec2fe-adfa-420e-809b-15ae23db4a01 = { name = "Qaylla", path = "Q/Qaylla" }
 16167f82-ea26-5cba-b1de-ed6fd5e30a10 = { name = "XCB", path = "X/XCB" }
 16167f82-ea26-5cba-b1de-ed6fd5e30a11 = { name = "VulkanCore", path = "V/VulkanCore" }
+1618359f-28d0-421c-9c3d-0705aaf8cc0d = { name = "SeisMakie", path = "S/SeisMakie" }
 161f4978-d3bb-4696-90f4-058341551711 = { name = "NeutronTransport", path = "N/NeutronTransport" }
 1621ace8-c1f0-5e32-a05d-ca786afa56c2 = { name = "GALAHAD_jll", path = "jll/G/GALAHAD_jll" }
 1624bea9-42b1-5fc1-afd3-e96f729c8d6c = { name = "ConjugatePriors", path = "C/ConjugatePriors" }
@@ -1294,6 +1296,7 @@ some amount of consideration when choosing package names.
 1da7d4ca-ffb9-4e95-b99a-7e8e4561fc9a = { name = "TextGraphs", path = "T/TextGraphs" }
 1db0cb78-5717-11e9-0361-01e0964942ce = { name = "SurfaceTopology", path = "S/SurfaceTopology" }
 1db4e0a5-a364-4b0c-897c-2bd5a4a3a1f2 = { name = "NeuroTreeModels", path = "N/NeuroTreeModels" }
+1db8e8ca-f8ef-4fae-b3f5-ea2940ece087 = { name = "BrazilCentralBank", path = "B/BrazilCentralBank" }
 1db9610d-79e1-487a-8d40-77f3295c7593 = { name = "CountFlops", path = "C/CountFlops" }
 1dbb190e-59ad-542b-b90b-8ef67c206511 = { name = "telnet_jll", path = "jll/T/telnet_jll" }
 1dc0ca97-c5ce-4e77-ac6d-c576ac9d7f27 = { name = "ArrayTools", path = "A/ArrayTools" }
@@ -4994,6 +4997,7 @@ some amount of consideration when choosing package names.
 762dc654-8631-413a-a342-372a7419ad9d = { name = "OneTwoMany", path = "O/OneTwoMany" }
 762fde13-7596-547b-826d-8223c52d51c1 = { name = "libCEED_jll", path = "jll/L/libCEED_jll" }
 7632190a-71f5-11e9-04ef-99e081817785 = { name = "ImageTracking", path = "I/ImageTracking" }
+763a8c06-ba23-41fc-b385-b3b57b52403a = { name = "Asap", path = "A/Asap" }
 763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4 = { name = "MAGEMin_jll", path = "jll/M/MAGEMin_jll" }
 764a87c0-6b3e-53db-9096-fe964310641d = { name = "BoundaryValueDiffEq", path = "B/BoundaryValueDiffEq" }
 7659f2e7-3eba-428e-a299-bc867dd8ac42 = { name = "CallendarVanDusen", path = "C/CallendarVanDusen" }
