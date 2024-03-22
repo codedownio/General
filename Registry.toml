@@ -5641,6 +5641,7 @@ some amount of consideration when choosing package names.
 84e62fa8-74a0-5990-9214-c45bd74ae4d7 = { name = "ElectricalEngineering", path = "E/ElectricalEngineering" }
 84eb9a3b-232b-4081-b917-cfea549d0d83 = { name = "KhepriAutoCAD", path = "K/KhepriAutoCAD" }
 84ebd660-cff8-11e8-33d2-5334dd07f13c = { name = "QSimulator", path = "Q/QSimulator" }
+84ef374a-9d6e-5be7-91be-6cf66a2d5e4c = { name = "MaximumIndependentSet_jll", path = "jll/M/MaximumIndependentSet_jll" }
 84ef9827-9357-47d4-b4e4-19dbb3edd7c1 = { name = "TreeOfLife", path = "T/TreeOfLife" }
 84f0eee1-10ae-40da-994b-b9d0e53829ae = { name = "QXTools", path = "Q/QXTools" }
 8503087a-994b-5095-bd6e-f54267f2dd19 = { name = "ThreePhasePowerModels", path = "T/ThreePhasePowerModels" }
@@ -8774,6 +8775,7 @@ d02b474b-c6a0-45b1-beee-9a2049fa00e6 = { name = "Tetris", path = "T/Tetris" }
 d0351b0e-4b05-5898-87b3-e2a8edfddd1d = { name = "InspectDR", path = "I/InspectDR" }
 d0430b04-9e26-4b95-8372-754e5cd95c01 = { name = "FiniteStateTransducers", path = "F/FiniteStateTransducers" }
 d0486fca-abc3-4e94-983c-1d27790b80a4 = { name = "PolynomialGTM", path = "P/PolynomialGTM" }
+d049ceea-54ee-41d7-a26f-ba29db3b6599 = { name = "WriteDocx", path = "W/WriteDocx" }
 d04bc951-f907-4aa3-859a-fc6f9fe5eea9 = { name = "CuFluxSampler", path = "C/CuFluxSampler" }
 d04cd5f8-5917-4006-ac6f-d139328806a7 = { name = "AndorSIF", path = "A/AndorSIF" }
 d04f5788-f3bf-50c4-8044-9206750af6c9 = { name = "Glowe", path = "G/Glowe" }
@@ -8800,6 +8802,7 @@ d0f58030-e4f1-4214-a600-bc055fa6d38e = { name = "FMIExchange", path = "F/FMIExch
 d0f7bc7f-cd2f-4cc8-8336-d901b45b4b8e = { name = "SymDiff", path = "S/SymDiff" }
 d0ff3c94-28b9-43ce-b75b-813f49a99563 = { name = "AesKeywrapNettle", path = "A/AesKeywrapNettle" }
 d1067089-e8d3-40d0-a348-a9765823bb51 = { name = "Demes", path = "D/Demes" }
+d1073d05-2d26-4019-b855-dfa0385fef5e = { name = "CentralizedCaches", path = "C/CentralizedCaches" }
 d108a3e0-159a-438b-bbd8-7bf1a8b5a5d1 = { name = "GenieDeploy", path = "G/GenieDeploy" }
 d1185830-fcd6-423d-90d6-eec64667417b = { name = "SymbolicUtils", path = "S/SymbolicUtils" }
 d125e4d3-2237-4719-b19c-fa641b8a4667 = { name = "ManualMemory", path = "M/ManualMemory" }
@@ -9289,6 +9292,7 @@ dcda4a48-b9f7-11e9-2d4a-7da573938c24 = { name = "NonlinearEquations", path = "N/
 dcdf9ed5-39e7-592a-90de-966c054b7718 = { name = "FEMSparse", path = "F/FEMSparse" }
 dce04be8-c92d-5529-be00-80e4d2c0e197 = { name = "ArgCheck", path = "A/ArgCheck" }
 dce2f2bf-0ed4-5a0e-8af7-a90b827a9344 = { name = "libminc_jll", path = "jll/L/libminc_jll" }
+dce5fa8e-68ce-4431-a242-9469c69627a0 = { name = "MITgcm", path = "M/MITgcm" }
 dcf03e4a-d036-4ede-96c9-024e9e9eed12 = { name = "ComoniconZSHCompletion", path = "C/ComoniconZSHCompletion" }
 dd074c01-bd9e-510d-b91d-361c690844c9 = { name = "battery_cli_jll", path = "jll/B/battery_cli_jll" }
 dd1544ca-2576-438c-a599-ae96278fd687 = { name = "ReinforcementLearningDatasets", path = "R/ReinforcementLearningDatasets" }
@@ -10621,6 +10625,7 @@ fdcc7804-6c20-4e83-8118-baad6b7d05b7 = { name = "GenericCharacterTables", path =
 fde5428d-3bf0-5ade-b94a-d334303c4d77 = { name = "TuringPatterns", path = "T/TuringPatterns" }
 fde71243-0cda-4261-b7c7-4845bd106b21 = { name = "EasyFit", path = "E/EasyFit" }
 fdea26ae-647d-5447-a871-4b548cad5224 = { name = "SIMD", path = "S/SIMD" }
+fdf1312e-3664-4954-b7ca-858ba92ca8e2 = { name = "MolecularDynamicsFiles", path = "M/MolecularDynamicsFiles" }
 fe03f759-463e-4126-a68f-1df7fb7a8375 = { name = "IRViz", path = "I/IRViz" }
 fe0851c0-eecd-5654-98d4-656369965a5c = { name = "OpenMPI_jll", path = "jll/O/OpenMPI_jll" }
 fe0d2b3f-bf6f-562d-b83f-78e4174e3058 = { name = "PDFHighlights_jll", path = "jll/P/PDFHighlights_jll" }
