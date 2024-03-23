@@ -482,6 +482,7 @@ some amount of consideration when choosing package names.
 0b197c3a-da26-4bf3-b373-765e7d9e4c53 = { name = "NodalPolynomialSpaces", path = "N/NodalPolynomialSpaces" }
 0b1a1467-8014-51b9-945f-bf0ae24f4b77 = { name = "KrylovKit", path = "K/KrylovKit" }
 0b1bfda6-eb8a-41d2-88d8-f5af5cad476f = { name = "OneHotArrays", path = "O/OneHotArrays" }
+0b1c068e-6a84-4e66-8136-5c95cafa83ed = { name = "SwarmMakie", path = "S/SwarmMakie" }
 0b21cfa8-e591-48a4-a07b-a9d20be7c264 = { name = "Nevanlinna", path = "N/Nevanlinna" }
 0b3b1443-0f03-428d-bdfb-f27f9c1191ea = { name = "MicroMamba", path = "M/MicroMamba" }
 0b43b601-686d-58a3-8a1c-6623616c7cd4 = { name = "Groebner", path = "G/Groebner" }
@@ -3221,6 +3222,7 @@ some amount of consideration when choosing package names.
 4c1474f5-d57d-4103-b4cd-bd216d071502 = { name = "TRExMC", path = "T/TRExMC" }
 4c14ae50-faa6-54c0-b22f-5cc2de459edf = { name = "Santiago", path = "S/Santiago" }
 4c14af30-da9f-11e9-34cd-f9f0aee9fd2c = { name = "ParametricAirfoils", path = "P/ParametricAirfoils" }
+4c160800-dae9-4e88-8d4c-769bf7c259e1 = { name = "ForestPlot", path = "F/ForestPlot" }
 4c1783e2-9161-5535-8c19-0930ad2c4cff = { name = "libjwt_jll", path = "jll/L/libjwt_jll" }
 4c1a95c7-462a-4a7e-b284-959c63fbf1dc = { name = "PathIntersections", path = "P/PathIntersections" }
 4c1fdd90-559f-11e9-1abf-07ceafc4ffc0 = { name = "NCTiles", path = "N/NCTiles" }
@@ -4228,6 +4230,7 @@ some amount of consideration when choosing package names.
 6465ae08-de3a-5dbe-bda8-3920f6a01ab7 = { name = "PhyloModels", path = "P/PhyloModels" }
 646a8480-3455-4dcb-93e7-a10dc646a0af = { name = "MOSLab", path = "M/MOSLab" }
 646e1f28-b900-46d7-9d87-d554eb38a413 = { name = "PlutoVista", path = "P/PlutoVista" }
+646e3a94-a092-4ccf-81d9-1ab43b008f5e = { name = "LoRaPHY", path = "L/LoRaPHY" }
 6470b2ab-4fe8-498e-808d-6badd5c3da38 = { name = "OutlierDetectionTrees", path = "O/OutlierDetectionTrees" }
 647866c9-e3ac-4575-94e7-e3d426903924 = { name = "PolygonOps", path = "P/PolygonOps" }
 647c4018-d7ef-4d03-a0cc-8889a722319e = { name = "MixedModelsPermutations", path = "M/MixedModelsPermutations" }
@@ -5280,6 +5283,7 @@ some amount of consideration when choosing package names.
 7c720533-a3c7-49b7-973c-85ef17efca74 = { name = "DataAssimilationBenchmarks", path = "D/DataAssimilationBenchmarks" }
 7c7805af-46cc-48c9-995b-ed0ed2dc909a = { name = "Clapeyron", path = "C/Clapeyron" }
 7c79adba-b25c-591c-9e76-5703f3b8509b = { name = "libmcfp_jll", path = "jll/L/libmcfp_jll" }
+7c7c7bd4-5f1c-5db3-8b3f-fcf8282f06da = { name = "nlohmann_json_jll", path = "jll/N/nlohmann_json_jll" }
 7c893195-952b-5c83-bb6e-be12f22eed51 = { name = "HierarchicalMatrices", path = "H/HierarchicalMatrices" }
 7cab812c-4aca-53c6-a1cf-d62f3ca054b4 = { name = "AmazonCACerts_jll", path = "jll/A/AmazonCACerts_jll" }
 7cb0a576-ebde-5e09-9194-50597f1243b4 = { name = "MPICH_jll", path = "jll/M/MPICH_jll" }
@@ -10506,6 +10510,7 @@ fae87a5f-d1ad-5cf0-8f61-c941e1580b46 = { name = "ParserCombinator", path = "P/Pa
 faeb8267-8352-4c3e-81c7-04150084d5bf = { name = "ErrorsInVariables", path = "E/ErrorsInVariables" }
 faf0f6d7-8cee-47cb-b27c-1eb80cef534e = { name = "JumpProblemLibrary", path = "J/JumpProblemLibrary" }
 faf572ed-2b53-4324-a741-daa175e50348 = { name = "EvolutionaryModelingTools", path = "E/EvolutionaryModelingTools" }
+fafdf525-54c7-48ec-ae29-528bd4cccfab = { name = "SwissVAMyKnife", path = "S/SwissVAMyKnife" }
 fb03b324-f2a4-578c-aba7-71fab90f4c9b = { name = "Figures", path = "F/Figures" }
 fb0408be-4331-42cc-8584-db8fa022598a = { name = "StartupCustomizer", path = "S/StartupCustomizer" }
 fb06ee43-ff84-401b-b5ac-2522e63f9402 = { name = "AirfoilMeshers", path = "A/AirfoilMeshers" }
