@@ -694,6 +694,7 @@ some amount of consideration when choosing package names.
 1019f520-868f-41f5-a6de-eb00f4b6a39c = { name = "JLFzf", path = "J/JLFzf" }
 1022446e-a4a4-4a46-8bce-0ffd39f68cd3 = { name = "ThermodynamicIntegration", path = "T/ThermodynamicIntegration" }
 10233e3b-0d6c-416a-8c1a-d3d286bd6cd2 = { name = "TERMIOS", path = "T/TERMIOS" }
+10284c91-9f28-4c9a-abbf-ee43576dfff6 = { name = "TaijaBase", path = "T/TaijaBase" }
 102930c3-cf33-599f-b3b1-9a29a5acab30 = { name = "SmoothingSplines", path = "S/SmoothingSplines" }
 102ac46a-7ee4-5c85-9060-abc95bfdeaa3 = { name = "MultivariatePolynomials", path = "M/MultivariatePolynomials" }
 102dff8d-99cb-5cc2-9bf9-d9fe3a2e5e7a = { name = "OpenTrick", path = "O/OpenTrick" }
@@ -6098,6 +6099,7 @@ some amount of consideration when choosing package names.
 9024f26f-ba4d-4e0a-965a-ad5b1da667aa = { name = "Dashboards", path = "D/Dashboards" }
 902b4cfc-36dd-46ec-9aee-5fae5b5d5a99 = { name = "HomogeneityTestBBU", path = "H/HomogeneityTestBBU" }
 902c3f28-d1ec-5e7e-8399-a24c3845ee38 = { name = "Elemental", path = "E/Elemental" }
+903d41d1-eaca-47dd-943b-fee3930375ab = { name = "GoogleGenAI", path = "G/GoogleGenAI" }
 904591bb-b899-562f-9e6f-b8df64c7d480 = { name = "IncrementalInference", path = "I/IncrementalInference" }
 90484964-6d6a-4979-af09-8657dbed84ff = { name = "OneRule", path = "O/OneRule" }
 904a6c7d-4c1b-562f-9573-ab2e7e1c7946 = { name = "ADI", path = "A/ADI" }
@@ -7355,6 +7357,7 @@ aeaa251e-9d76-11e9-311b-83636bf44738 = { name = "LazyAlgebra", path = "L/LazyAlg
 aebc047d-cbe2-4ea1-a181-a2987ad69fed = { name = "LinearFold", path = "L/LinearFold" }
 aec56ffe-cd48-4f37-83c0-3fddfef137dd = { name = "SMRPInversion", path = "S/SMRPInversion" }
 aed1982a-8fda-507f-9586-7b0439959a61 = { name = "XSLT_jll", path = "jll/X/XSLT_jll" }
+aed23131-dcd0-47ca-8090-d21e605652e3 = { name = "SymbolicNeuralNetworks", path = "S/SymbolicNeuralNetworks" }
 aed68c70-c8b0-4309-8cd1-d392a74f991a = { name = "SkipNan", path = "S/SkipNan" }
 aedcc28f-63b5-4046-b467-b09cfa7c8db7 = { name = "FixedPointSinCosApproximations", path = "F/FixedPointSinCosApproximations" }
 aedffcd0-7271-4cad-89d0-dc628f76c6d3 = { name = "Static", path = "S/Static" }
@@ -9515,6 +9518,7 @@ e209d0c3-e863-446f-9b45-de6ca9730756 = { name = "DataToolkitBase", path = "D/Dat
 e20b0d26-85b9-4cc4-ab0c-abba12ca33a5 = { name = "RecursiveDicts", path = "R/RecursiveDicts" }
 e21ec000-9f72-519e-ba6d-10061e575a27 = { name = "Antic_jll", path = "jll/A/Antic_jll" }
 e21ee072-cbb1-4ecc-b257-6a793c43976a = { name = "DecisionMakingUtils", path = "D/DecisionMakingUtils" }
+e2278aa8-582f-4560-9362-4c5cc370c803 = { name = "WGPUTranspiler", path = "W/WGPUTranspiler" }
 e22a7426-82a6-487a-9ac6-2ced2976a2d6 = { name = "BipolarSphericalHarmonics", path = "B/BipolarSphericalHarmonics" }
 e234a932-2705-4c8f-8500-f312fba88976 = { name = "PublishOrPerish", path = "P/PublishOrPerish" }
 e2403620-b030-4fa5-8994-0cb25fd74009 = { name = "LaguerreVoronoi", path = "L/LaguerreVoronoi" }
