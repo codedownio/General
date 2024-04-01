@@ -344,6 +344,7 @@ some amount of consideration when choosing package names.
 07bf71a7-21be-5f6a-a6d1-44595bb4f960 = { name = "Arbitrary", path = "A/Arbitrary" }
 07c12ed4-43bc-5495-8a2a-d5838ef8d533 = { name = "ghr_jll", path = "jll/G/ghr_jll" }
 07d1fe3e-3e46-537d-9eac-e9e13d0d4cec = { name = "TensorKit", path = "T/TensorKit" }
+07d77754-e150-4737-8c94-cd238a1fb45b = { name = "Tapir", path = "T/Tapir" }
 07db6e9f-91ad-4fbd-9fd8-5722e51e9a72 = { name = "ProtocolDataUnits", path = "P/ProtocolDataUnits" }
 07e3d4f1-5dc2-5a3a-9c19-e1965b76eff9 = { name = "SortingNetworks", path = "S/SortingNetworks" }
 07e4ff7f-07bb-45cd-9e58-8fac98767c00 = { name = "OpenInterfaces", path = "O/OpenInterfaces" }
@@ -2173,6 +2174,7 @@ some amount of consideration when choosing package names.
 32b24f23-0065-419a-aebb-272ab3b73786 = { name = "Symplectic", path = "S/Symplectic" }
 32ce50af-5875-4c4d-b676-f166988c519c = { name = "OceanographyCruises", path = "O/OceanographyCruises" }
 32cfe2d9-419e-45f2-8191-2267705d8dbc = { name = "YaoPlots", path = "Y/YaoPlots" }
+32d208e1-246e-420c-b6ff-18b71b410923 = { name = "JobQueueMPI", path = "J/JobQueueMPI" }
 32e1273b-95f2-5990-a28e-8939b2e70f37 = { name = "AlgebraResultTypes", path = "A/AlgebraResultTypes" }
 32f2db32-628a-4fc2-9392-deeafdcf461f = { name = "BLIS", path = "B/BLIS" }
 32f3d815-099f-4670-87cf-dd827b2a53b5 = { name = "PagefindWrapper", path = "P/PagefindWrapper" }
@@ -3165,6 +3167,7 @@ some amount of consideration when choosing package names.
 4a446bee-a8a1-53bd-a908-d1601923a297 = { name = "Monads", path = "M/Monads" }
 4a48ec48-d94f-48cc-b069-74d6d3e6e633 = { name = "Blowfish", path = "B/Blowfish" }
 4a48f351-57a6-4416-9ec4-c37015456aae = { name = "PencilFFTs", path = "P/PencilFFTs" }
+4a543033-a920-4921-b9ec-d69f25e1cf2a = { name = "ConfigurationsENV", path = "C/ConfigurationsENV" }
 4a558cac-c1ed-11e9-20da-3584bcd8709a = { name = "ImmutableList", path = "I/ImmutableList" }
 4a5d46fc-d8cf-5151-a261-86b458210efb = { name = "SPIRV_LLVM_Translator_jll", path = "jll/S/SPIRV_LLVM_Translator_jll" }
 4a64a370-b39e-4988-9b44-fc3fb6d78c25 = { name = "Algames", path = "A/Algames" }
@@ -3269,6 +3272,7 @@ some amount of consideration when choosing package names.
 4ceb92a4-8458-42c6-ac22-7a21adf6253e = { name = "NetRC", path = "N/NetRC" }
 4cefb923-2b6f-58c4-9e65-6821f26b7b51 = { name = "Munkres", path = "M/Munkres" }
 4cf2564c-d31b-5d58-bf70-2c153d6f88fd = { name = "Amaru", path = "A/Amaru" }
+4d0033b7-5721-4f65-a8b8-e6b2952e74b5 = { name = "UnetUtils", path = "U/UnetUtils" }
 4d00f742-c7ba-57c2-abde-4428a4b178cb = { name = "GeometryTypes", path = "G/GeometryTypes" }
 4d01364a-afc1-4828-a15a-b5219e90899b = { name = "DistributedReinforcementLearning", path = "D/DistributedReinforcementLearning" }
 4d03fd4d-39a1-545a-9bf0-a2e993faffdf = { name = "Autologistic", path = "A/Autologistic" }
@@ -4161,6 +4165,7 @@ some amount of consideration when choosing package names.
 628e9319-2ed5-413a-8fcb-ba6034deb837 = { name = "TaylorInterface", path = "T/TaylorInterface" }
 628eb91b-9d1c-424a-81d5-cd7fa5d7294a = { name = "Anime", path = "A/Anime" }
 629bc702-f1f5-5709-abd5-49b8460ea067 = { name = "Qt6Declarative_jll", path = "jll/Q/Qt6Declarative_jll" }
+629e117c-1786-4222-ab4a-1acab234d923 = { name = "VirtualAcousticOcean", path = "V/VirtualAcousticOcean" }
 62b44479-cb7b-5706-934f-f13b2eb2e645 = { name = "CUDNN_jll", path = "jll/C/CUDNN_jll" }
 62c264cc-5bfb-59d7-84eb-c0e4dde7f66b = { name = "FMM3D_jll", path = "jll/F/FMM3D_jll" }
 62cb38b5-d8d2-4862-a48e-6a340996859f = { name = "GeoDataFrames", path = "G/GeoDataFrames" }
@@ -4293,6 +4298,7 @@ some amount of consideration when choosing package names.
 65b0d8a9-e9fd-4f02-8653-a7163c490b26 = { name = "ConstrainedDynamics", path = "C/ConstrainedDynamics" }
 65c2e505-86ba-4c19-93f1-95506c1443d5 = { name = "WildBootTests", path = "W/WildBootTests" }
 65c8ffb1-ee6d-406d-bfb3-dd2ddae09be4 = { name = "Demultiplex", path = "D/Demultiplex" }
+65cd4d85-9fe5-4fdc-93e2-c8798c615752 = { name = "MomentPolynomialOpt", path = "M/MomentPolynomialOpt" }
 65ce6f38-6b18-4e1d-a461-8949797d7930 = { name = "PackageExtensionCompat", path = "P/PackageExtensionCompat" }
 65cff058-67fb-5034-9600-a8f6a0feb90b = { name = "Minuit2_Julia_Wrapper_jll", path = "jll/M/Minuit2_Julia_Wrapper_jll" }
 65d46eb8-70e9-5a30-bf48-2afa3a021b8f = { name = "CutPruners", path = "C/CutPruners" }
