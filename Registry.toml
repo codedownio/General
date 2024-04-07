@@ -175,6 +175,7 @@ some amount of consideration when choosing package names.
 03e8d3fe-358f-4065-ab07-c13f1e32eb0b = { name = "Judyp", path = "J/Judyp" }
 03ede2b8-90d7-56cb-9af1-359a44c6802d = { name = "AeroAcoustics", path = "A/AeroAcoustics" }
 03f602be-98a1-4bb2-9504-fbd3406624a7 = { name = "TreeKnit", path = "T/TreeKnit" }
+03fe91ce-8ec6-4610-8e8d-e7491ccca690 = { name = "Colorfy", path = "C/Colorfy" }
 04082e5c-1d57-4577-9a0f-61e6cd56dade = { name = "VibrationalAnalysis", path = "V/VibrationalAnalysis" }
 040ba96c-7d3d-4d4a-931c-37903f53a565 = { name = "JuliaGrid", path = "J/JuliaGrid" }
 04147abc-ba09-4e01-921c-df05119b4dca = { name = "DPMMSubClustersStreaming", path = "D/DPMMSubClustersStreaming" }
@@ -1344,6 +1345,7 @@ some amount of consideration when choosing package names.
 1ec41992-ff65-5c91-ac43-2df89e9693a4 = { name = "MosekTools", path = "M/MosekTools" }
 1eca0e19-7dec-47c1-ba23-53c12588e011 = { name = "MassSpec", path = "M/MassSpec" }
 1eca21be-9b9b-4ed8-839a-6d8ae26b1781 = { name = "FoldingTrees", path = "F/FoldingTrees" }
+1ecacbb8-0713-4841-9a07-eb5aa8a2d53f = { name = "ClimaDiagnostics", path = "C/ClimaDiagnostics" }
 1ecd5474-83a3-4783-bb4f-06765db800d2 = { name = "GraphMakie", path = "G/GraphMakie" }
 1ed8b502-d754-442c-8d5d-10ac956f44a1 = { name = "SciMLSensitivity", path = "S/SciMLSensitivity" }
 1ef8cab2-a151-54b4-a57f-5fbb4046a4ab = { name = "rocBLAS_jll", path = "jll/R/rocBLAS_jll" }
@@ -2763,6 +2765,7 @@ some amount of consideration when choosing package names.
 4093c41a-2008-41fd-82b8-e3f9d02b504f = { name = "StructHelpers", path = "S/StructHelpers" }
 4096cdfb-f084-40a3-b02d-1a2a54920cb8 = { name = "VIDA", path = "V/VIDA" }
 409b0d58-1332-5589-be3b-4d778b0df058 = { name = "SZ_jll", path = "jll/S/SZ_jll" }
+409be4c9-afa4-4246-894e-472b92a1ed06 = { name = "ParameterizedQuantumControl", path = "P/ParameterizedQuantumControl" }
 409d34a3-91d5-4945-b6ec-7529ddf182d8 = { name = "VectorInterface", path = "V/VectorInterface" }
 409f5150-fb84-534f-94db-80d1e10f57e1 = { name = "FeatherLib", path = "F/FeatherLib" }
 40b095a5-5852-4c12-98c7-d43bf788e795 = { name = "StateSpaceSets", path = "S/StateSpaceSets" }
@@ -2917,6 +2920,7 @@ some amount of consideration when choosing package names.
 445028e4-d31f-4f27-89ad-17affd83fc22 = { name = "Kmers", path = "K/Kmers" }
 44505bb3-94ea-493c-a20c-f0ca548ab76b = { name = "HeatTransferFluids", path = "H/HeatTransferFluids" }
 44557152-fe0a-4de1-8405-416d90313ce6 = { name = "DateFormats", path = "D/DateFormats" }
+4455ec5f-b558-4ef1-b6d8-c3694046c382 = { name = "Readability", path = "R/Readability" }
 4456351a-5be3-4067-ade9-541926a41e04 = { name = "SimpleTensorNetworks", path = "S/SimpleTensorNetworks" }
 4459d02e-7d0b-4014-b2a2-e38a540ff820 = { name = "AVLTrees", path = "A/AVLTrees" }
 4461d12d-4663-4550-8580-cb764c85e20f = { name = "PiecewiseOrthogonalPolynomials", path = "P/PiecewiseOrthogonalPolynomials" }
@@ -4551,6 +4555,7 @@ some amount of consideration when choosing package names.
 6b8bdb16-f930-11eb-22b5-7ba1dabdf7a8 = { name = "RelationalDatasets", path = "R/RelationalDatasets" }
 6b9d7cbe-bcb9-11e9-073f-15a7a543e2eb = { name = "GeneralizedGenerated", path = "G/GeneralizedGenerated" }
 6ba088a2-8465-4c0a-af30-387133b534db = { name = "ArrayInterfaceGPUArrays", path = "A/ArrayInterfaceGPUArrays" }
+6ba0ff68-24e6-4315-936c-2e99227c95a4 = { name = "ClimaSeaIce", path = "C/ClimaSeaIce" }
 6ba116df-6904-454d-b214-90038a8281a6 = { name = "Yunir", path = "Y/Yunir" }
 6ba57fb7-81df-4b24-8e8e-a3885b6fcae7 = { name = "TestHandcalcFunctions", path = "T/TestHandcalcFunctions" }
 6bac03b7-bcd8-55bf-9a08-86b9b673b6cc = { name = "DatasetsCF", path = "D/DatasetsCF" }
