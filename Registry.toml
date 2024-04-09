@@ -6787,6 +6787,7 @@ a0b5b9ef-44b7-5148-a2d1-f6db19f3c3d2 = { name = "Cxx", path = "C/Cxx" }
 a0ba0308-c025-49c4-97d8-6cbc8d45a63d = { name = "Alexya", path = "A/Alexya" }
 a0baa3b2-8ece-51b8-9952-c0b61b0787fb = { name = "raptor_jll", path = "jll/R/raptor_jll" }
 a0becc08-653f-40d2-91e7-721373d1053f = { name = "QuantReg", path = "Q/QuantReg" }
+a0c0ee7d-e4b9-4e03-894e-1c5f64a51d63 = { name = "DifferentiationInterface", path = "D/DifferentiationInterface" }
 a0c94c4b-ebed-5953-b5fc-82fe598ac79f = { name = "FastaIO", path = "F/FastaIO" }
 a0ca49aa-d5b3-56d4-a580-62818514636d = { name = "sccache_jll", path = "jll/S/sccache_jll" }
 a0d4ced5-b29c-5395-b614-ca030a679c4b = { name = "BioServices", path = "B/BioServices" }
@@ -6867,6 +6868,7 @@ a2687184-f17b-54bc-b2bb-b849352af807 = { name = "OpenFHE_jll", path = "jll/O/Ope
 a26e6606-dd52-5f6a-a97f-4f611373d757 = { name = "DICOM", path = "D/DICOM" }
 a271ce43-5be6-465b-b549-2328063b090f = { name = "SlackThreads", path = "S/SlackThreads" }
 a2741ea9-3318-4d4b-8b99-ae5c58b57db7 = { name = "CircleFit", path = "C/CircleFit" }
+a275e4ba-a8a9-5328-a18a-85c73bd42860 = { name = "CutBranching_jll", path = "jll/C/CutBranching_jll" }
 a2826780-45ff-53db-9dda-fd961bc58de1 = { name = "lttng_ust_jll", path = "jll/L/lttng_ust_jll" }
 a2847a04-7795-4581-bff1-964344ea125d = { name = "Lowess", path = "L/Lowess" }
 a293c155-435f-439d-9c11-a083b6b47337 = { name = "EarthSciData", path = "E/EarthSciData" }
@@ -7691,6 +7693,7 @@ b53b4c65-9356-5827-b1ea-8c7a1a84506f = { name = "libpng_jll", path = "jll/L/libp
 b53f056f-43f6-4734-8d94-3aedffe6e4fb = { name = "PellsEquation", path = "P/PellsEquation" }
 b54418be-38bf-423c-8dbb-66731efe0690 = { name = "SimpleHMM", path = "S/SimpleHMM" }
 b5475fc2-85c9-5de8-8430-71c9b732ec36 = { name = "SPIRV_Cross_jll", path = "jll/S/SPIRV_Cross_jll" }
+b54e767b-1ebd-4480-ac2a-f5f4d8853074 = { name = "UnfoldBIDS", path = "U/UnfoldBIDS" }
 b552c78f-8df3-52c6-915a-8e097449b14b = { name = "DiffRules", path = "D/DiffRules" }
 b554fa5d-8411-41ee-8688-d60d0f644aa9 = { name = "FunctionWranglers", path = "F/FunctionWranglers" }
 b55500c1-4cdc-457d-b883-f6a82974aba3 = { name = "BestApproximation", path = "B/BestApproximation" }
@@ -9872,6 +9875,7 @@ e8aa6df9-e6ca-548a-97ff-1f85fc5b8b98 = { name = "GLPK_jll", path = "jll/G/GLPK_j
 e8b5fb6c-218f-5c08-bc3d-6b0e551bbffd = { name = "MPFI_jll", path = "jll/M/MPFI_jll" }
 e8c3bf11-b54e-5fcf-8bd0-49e7696ff13f = { name = "FastCGI", path = "F/FastCGI" }
 e8c45408-479c-54df-ae5b-4501057d3a5a = { name = "smesh_jll", path = "jll/S/smesh_jll" }
+e8ddb7d6-0a34-4df1-87ae-36dec4b447d4 = { name = "ApproxLogFunction", path = "A/ApproxLogFunction" }
 e8e009a8-4479-409b-a274-75b76d9b8a40 = { name = "LanguageFinder", path = "L/LanguageFinder" }
 e8ee4b5e-54b2-4408-8575-c3c89e582a15 = { name = "StanPathfinder", path = "S/StanPathfinder" }
 e8efc688-5342-4ad4-b4ba-9025a731b363 = { name = "ImPlot", path = "I/ImPlot" }
