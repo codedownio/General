@@ -252,6 +252,7 @@ some amount of consideration when choosing package names.
 05b439c0-bb3c-11e9-1d8d-1f0a9ebca87a = { name = "MatLang", path = "M/MatLang" }
 05b474ee-a85b-49bb-add9-23a425369ba3 = { name = "ImplicitDifferentiables", path = "I/ImplicitDifferentiables" }
 05bca326-078c-5bf0-a5bf-ce7c7982d7fd = { name = "SimpleDiffEq", path = "S/SimpleDiffEq" }
+05d16eb0-506c-4fac-9187-f7ce7e253b09 = { name = "WildcardArrays", path = "W/WildcardArrays" }
 05d52523-c636-5a6c-8a6a-526edab90d71 = { name = "libfreenect_jll", path = "jll/L/libfreenect_jll" }
 05d58fe5-e6ff-58ad-86d6-05dcc0b74504 = { name = "PowerModelsMCDC", path = "P/PowerModelsMCDC" }
 05da4de1-0d5c-4141-b8ea-157f25fdd429 = { name = "ItemResponsePlots", path = "I/ItemResponsePlots" }
@@ -3203,6 +3204,7 @@ some amount of consideration when choosing package names.
 4acc4d78-9ad5-435b-99b1-7af0628e6e5b = { name = "QCDNUM", path = "Q/QCDNUM" }
 4acc56a1-9938-4ee1-a82a-abdf2d4f6bfc = { name = "NotebookToLaTeX", path = "N/NotebookToLaTeX" }
 4aceb6fc-b794-5e89-b0ac-b6eba507a4bd = { name = "ValueOrientedRiskManagementInsurance", path = "V/ValueOrientedRiskManagementInsurance" }
+4ade58fe-a8da-486c-bd89-46df092ec0c7 = { name = "ClimaCoupler", path = "C/ClimaCoupler" }
 4adfaa65-5b36-4fba-9909-626196083c27 = { name = "XNumbers", path = "X/XNumbers" }
 4ae10c0b-1ab8-4fd6-bf00-fff7d91da249 = { name = "DiscreteDifferentialGeometry", path = "D/DiscreteDifferentialGeometry" }
 4ae1174a-2808-43b3-975e-65e36c59b120 = { name = "LFUDACache", path = "L/LFUDACache" }
@@ -5749,6 +5751,7 @@ some amount of consideration when choosing package names.
 867a2677-d0be-406c-9fc2-92fafbd54ad6 = { name = "ImageMethodReverb", path = "I/ImageMethodReverb" }
 86800b63-3017-5277-aca5-15d7d6a5f2b2 = { name = "Persa", path = "P/Persa" }
 86859df6-51c5-4863-9ac2-2c1ab8e53eb2 = { name = "Knapsacks", path = "K/Knapsacks" }
+86993f9b-bbba-4084-97c5-ee15961ad48b = { name = "TidierDB", path = "T/TidierDB" }
 86adb855-6620-4b42-899a-fdd8a58d2ebe = { name = "MatrixImpute", path = "M/MatrixImpute" }
 86ae5844-b998-5f56-950b-e2311b0a7e21 = { name = "kalign_jll", path = "jll/K/kalign_jll" }
 86b0dc02-7903-11e9-325f-f195ca7e6c1a = { name = "LITS", path = "L/LITS" }
@@ -7502,6 +7505,7 @@ b0d46f97-bff5-4637-a19a-dd75974142cd = { name = "ArrayInterfaceStaticArrays", pa
 b0d9cada-d963-45e9-a4c6-4746243987f1 = { name = "PsychometricsBazaarBase", path = "P/PsychometricsBazaarBase" }
 b0deb0af-2db1-47da-a519-30ec34a965f8 = { name = "GaussianMixtureRegressions", path = "G/GaussianMixtureRegressions" }
 b0df9959-3f7b-4e37-9fbf-63cb195e8303 = { name = "Faust", path = "F/Faust" }
+b0e16111-6728-43b3-a540-753ecafcbb71 = { name = "TulipaPlots", path = "T/TulipaPlots" }
 b0e4dd01-7b14-53d8-9b45-175a3e362653 = { name = "RollingFunctions", path = "R/RollingFunctions" }
 b0e84e9e-02e5-475e-ba3d-15d5a275d7bc = { name = "ProgressMeterLogging", path = "P/ProgressMeterLogging" }
 b0edd99f-a7ca-4aa6-9a1e-a53e8f506046 = { name = "SatelliteToolboxCelestialBodies", path = "S/SatelliteToolboxCelestialBodies" }
@@ -8060,6 +8064,7 @@ bdf86e05-2d2b-5731-a332-f3fe1f9e047f = { name = "MRIReco", path = "M/MRIReco" }
 bdfbc6b8-a7f8-11e8-26c1-51ecc9f04035 = { name = "DFTforge", path = "D/DFTforge" }
 bdfc003b-8df8-5c39-adcd-3a9087f5df4a = { name = "TimesDates", path = "T/TimesDates" }
 be027038-0da8-5614-b30d-e42594cb92df = { name = "CoinUtils_jll", path = "jll/C/CoinUtils_jll" }
+be0294bd-f90f-4760-ac4e-3421ce2b2da0 = { name = "SimpleBoundaryValueDiffEq", path = "S/SimpleBoundaryValueDiffEq" }
 be03bc56-bb7c-4dbf-b252-c57e9365e4bb = { name = "MaxMinFilters", path = "M/MaxMinFilters" }
 be115224-59cd-429b-ad48-344e309966f0 = { name = "MCMCDiagnosticTools", path = "M/MCMCDiagnosticTools" }
 be1275fb-6550-422f-8b88-a5943ccecfb8 = { name = "SymbolicGA", path = "S/SymbolicGA" }
@@ -8503,6 +8508,7 @@ c7d46f9d-34c3-4420-bf57-257f25aec718 = { name = "HypertextTemplates", path = "H/
 c7d4f63d-6dfa-4fdc-9408-5961e0889e3a = { name = "BokehBlink", path = "B/BokehBlink" }
 c7e460c6-2fb9-53a9-8c5b-16f535851c63 = { name = "ArgParse", path = "A/ArgParse" }
 c7e9ad6d-41c4-4c87-9c27-841f8c354b7f = { name = "ImgCIFHandler", path = "I/ImgCIFHandler" }
+c7ec8986-4b84-48ba-9795-9bd526637602 = { name = "OperatorApproximation", path = "O/OperatorApproximation" }
 c7efdb1c-7caa-4c7d-9b5e-9093f9323c7c = { name = "HyperSparseMatrices", path = "H/HyperSparseMatrices" }
 c7f57e37-4fcb-4a0b-a36c-c2204bc839a7 = { name = "OutlierDetectionNetworks", path = "O/OutlierDetectionNetworks" }
 c7f686f2-ff18-58e9-bc7b-31028e88f75d = { name = "MCMCChains", path = "M/MCMCChains" }
