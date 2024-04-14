@@ -434,6 +434,7 @@ some amount of consideration when choosing package names.
 09b61566-bbdb-49ee-a687-6096cc4472a0 = { name = "MonteCarloSummary", path = "M/MonteCarloSummary" }
 09c11fbc-f0d5-45fc-84dd-4606816a719d = { name = "DiskDataProviders", path = "D/DiskDataProviders" }
 09c1cff2-b94d-4c31-85a1-721512e21c63 = { name = "ParallelOperations", path = "P/ParallelOperations" }
+09cdc199-4954-42dd-9e0c-2e47e8233053 = { name = "BasicAutoloads", path = "B/BasicAutoloads" }
 09d831e3-9c21-47a9-bfd8-076871817219 = { name = "GraphQLClient", path = "G/GraphQLClient" }
 09e18e8d-40f5-4176-baf5-9239a33e36dd = { name = "KiteConnect", path = "K/KiteConnect" }
 09e6dd1b-8208-5c7e-a336-6e9061773d0b = { name = "ONNXRuntime_jll", path = "jll/O/ONNXRuntime_jll" }
@@ -1195,6 +1196,7 @@ some amount of consideration when choosing package names.
 1ac9d6a4-0fea-4ca3-8a21-bd292c035e25 = { name = "EHTDimensionalData", path = "E/EHTDimensionalData" }
 1acb6d80-f93a-4117-912f-ae4c0dd090a6 = { name = "Glycolysis", path = "G/Glycolysis" }
 1acc1471-1fd5-4be2-a8c2-3f3b1db75813 = { name = "FWFTables", path = "F/FWFTables" }
+1acf2333-b1bd-424d-862d-25e89a4f23c1 = { name = "TCXReader", path = "T/TCXReader" }
 1ad517f0-379a-4563-bead-04a8bca42320 = { name = "WeightedEdgeListFormat", path = "W/WeightedEdgeListFormat" }
 1ada24be-c16d-4464-9f61-27c2e0f16645 = { name = "Overseer", path = "O/Overseer" }
 1af16e33-887a-59b3-8344-18f1671b3ade = { name = "Omega", path = "O/Omega" }
@@ -3602,6 +3604,7 @@ some amount of consideration when choosing package names.
 5470531f-076d-47a9-aacb-e15e1e7f44ac = { name = "FastFilter", path = "F/FastFilter" }
 5472d9e0-cb42-52f7-96c9-a9fd19db341f = { name = "GMAT_jll", path = "jll/G/GMAT_jll" }
 5488f106-40b8-4660-84c5-84a168990d1b = { name = "SMLMData", path = "S/SMLMData" }
+548b5689-f04a-429b-874f-be14d81f5589 = { name = "DistributedSparseGridsPlotting", path = "D/DistributedSparseGridsPlotting" }
 548c1776-ba68-4672-b53d-6583dd12d8ca = { name = "NonNegLeastSquaresMLJInterface", path = "N/NonNegLeastSquaresMLJInterface" }
 5497687e-e4d1-4cb6-b14f-a6a808518ccd = { name = "GreekSyntax", path = "G/GreekSyntax" }
 54a5dec1-bae8-447e-bd66-474f7865e6c6 = { name = "DataSkimmer", path = "D/DataSkimmer" }
@@ -6674,6 +6677,7 @@ some amount of consideration when choosing package names.
 9dbaeea7-558f-4e29-ba60-30a5dee37710 = { name = "SIIP2Marmot", path = "S/SIIP2Marmot" }
 9dbca590-e19a-5566-89a8-3997bfd21c58 = { name = "XPA_jll", path = "jll/X/XPA_jll" }
 9dc342f4-d0cc-4e90-9103-06b4474f2d96 = { name = "GreekBetaCode", path = "G/GreekBetaCode" }
+9dccce8e-a116-406d-9fcc-a88ed4f510c8 = { name = "LazyBroadcast", path = "L/LazyBroadcast" }
 9dd28c12-4719-4e7d-b634-e7b733a6d046 = { name = "SphericalHarmonicArrays", path = "S/SphericalHarmonicArrays" }
 9dd7a2f8-ab8d-577c-ac83-a3992ff7c30e = { name = "SeriesAccelerators", path = "S/SeriesAccelerators" }
 9dda63f9-cce7-5873-89fa-eccbb2fffcde = { name = "ForceImport", path = "F/ForceImport" }
@@ -7942,6 +7946,7 @@ bb81f446-86f5-47d0-8ffc-7ac2adc264fd = { name = "DynamicallyLoadedEmbedding", pa
 bb8a82d8-767e-5107-8790-5a1f1965cb16 = { name = "Xorg_libxshmfence_jll", path = "jll/X/Xorg_libxshmfence_jll" }
 bb8be931-2a91-5aca-9f87-79e1cb69959a = { name = "EAGO", path = "E/EAGO" }
 bb993ee8-2a51-46a1-a315-55ff424041b4 = { name = "PyFOOOF", path = "P/PyFOOOF" }
+bb9cb41e-5262-42dc-ac73-4f266bc6ab72 = { name = "Microstructure", path = "M/Microstructure" }
 bba4e509-098c-4c3e-9e4f-ff6e34834d9e = { name = "LabMaze", path = "L/LabMaze" }
 bbac0a1f-7c9d-5672-960b-c6ca726e5d5d = { name = "WeightedOnlineStats", path = "W/WeightedOnlineStats" }
 bbac6d45-d8f3-5730-bfe4-7a449cd117ca = { name = "IdentityRanges", path = "I/IdentityRanges" }
@@ -10087,6 +10092,7 @@ edb9ae08-98fc-4535-bc7b-43b5fa0191ff = { name = "FuzzyClusteringSimilarity", pat
 edc0d1de-cbb6-43e5-80c3-282b59182d08 = { name = "PlasmoDataPlots", path = "P/PlasmoDataPlots" }
 edc76f5a-727d-11e9-15f5-7184c9a7c95d = { name = "Taarruz", path = "T/Taarruz" }
 edccaa42-18b2-46d1-80ce-8508c2c4933c = { name = "F16Model", path = "F/F16Model" }
+edd09736-da86-44b6-b465-b626e6fb8c8b = { name = "NeptuneAILogger", path = "N/NeptuneAILogger" }
 edd8e46e-3ca5-477d-bc67-b483295d3b14 = { name = "ChoosyDataLoggers", path = "C/ChoosyDataLoggers" }
 eddcc1f7-2d42-55ad-abc0-463b4ff6875a = { name = "Atomsk_jll", path = "jll/A/Atomsk_jll" }
 eddce310-d14b-4c2d-aa06-cfe9e2f7af98 = { name = "SingleCell10x", path = "S/SingleCell10x" }
