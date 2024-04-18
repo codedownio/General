@@ -1449,6 +1449,7 @@ some amount of consideration when choosing package names.
 216c6a2e-6c61-7669-6863-726165657274 = { name = "TreeArchival", path = "T/TreeArchival" }
 216cd8d6-c1f2-4f0b-a686-f7bd07ccd726 = { name = "MomentArithmetic", path = "M/MomentArithmetic" }
 216eeeb1-80f3-427b-9618-77bd73e1755d = { name = "LittleEphemeris", path = "L/LittleEphemeris" }
+21706172-204c-4d4f-5420-656854206f44 = { name = "LazyJLLWrappers", path = "L/LazyJLLWrappers" }
 2172800d-0309-5a57-a84f-d50c94757422 = { name = "Probably", path = "P/Probably" }
 217528c2-21c4-4222-9975-97f0b0cbd7c1 = { name = "HOODESolver", path = "H/HOODESolver" }
 217fe2f1-7e3d-419f-9934-cd6900c2759a = { name = "CavityTools", path = "C/CavityTools" }
@@ -2128,6 +2129,7 @@ some amount of consideration when choosing package names.
 315f7962-48a3-4962-8226-d0f33b1235f0 = { name = "NeuralPDE", path = "N/NeuralPDE" }
 3161d3a3-bdf6-5164-811a-617609db77b4 = { name = "Zstd_jll", path = "jll/Z/Zstd_jll" }
 31692b3b-61a6-410b-a229-5e9354f2e019 = { name = "CDLmotif", path = "C/CDLmotif" }
+316c416d-4527-6863-7465-466137743047 = { name = "BinaryBuilderSources", path = "B/BinaryBuilderSources" }
 316e074d-b47d-40a7-868b-1b027d6a4e76 = { name = "Solcast", path = "S/Solcast" }
 31822d60-0862-422f-9a3d-0eb9781332f3 = { name = "PossibilisticArithmetic", path = "P/PossibilisticArithmetic" }
 3184f35e-742b-451a-92dd-8d9fc5a03efb = { name = "ToolipsAuth", path = "T/ToolipsAuth" }
@@ -2782,6 +2784,7 @@ some amount of consideration when choosing package names.
 40bba58d-c7f1-4fe3-926e-2f246c890c3c = { name = "Slack", path = "S/Slack" }
 40c276f3-910b-46f6-a8e5-80a1b18107b2 = { name = "ProjectAssigner", path = "P/ProjectAssigner" }
 40c74d1a-b44c-5b06-a7c1-6cbea58ea978 = { name = "TableView", path = "T/TableView" }
+40de70a5-cf80-53d9-bda4-3aa67fea2f4f = { name = "DACE_jll", path = "jll/D/DACE_jll" }
 40e3b903-d033-50b4-a0cc-940c62c95e31 = { name = "Clang", path = "C/Clang" }
 40e66cde-538c-5869-a4ad-c39174c6795b = { name = "LDLFactorizations", path = "L/LDLFactorizations" }
 40eb83ae-c93a-480c-8f39-f018b568f472 = { name = "AppBundler", path = "A/AppBundler" }
@@ -4933,6 +4936,7 @@ some amount of consideration when choosing package names.
 734052d1-fea3-4ffe-af92-b9cc64c3051c = { name = "BranchTests", path = "B/BranchTests" }
 734901b1-590a-5f47-85e0-724a0ec3af09 = { name = "DynamicBounds", path = "D/DynamicBounds" }
 734bcdfa-9b77-4718-b76e-d5faf726ad42 = { name = "ODEHybrid", path = "O/ODEHybrid" }
+73536572-7074-4e69-5270-206c4c6a2061 = { name = "JLLGenerator", path = "J/JLLGenerator" }
 735f9d89-249f-4fc4-9125-480239e6a78f = { name = "MicroCoverage", path = "M/MicroCoverage" }
 735ffce8-66c7-5b61-a90f-89c46d1a79d5 = { name = "TrafficAssignment", path = "T/TrafficAssignment" }
 736c1586-5226-4b2e-9818-fad6972f0408 = { name = "SDLCanvas", path = "S/SDLCanvas" }
@@ -6801,6 +6805,7 @@ a08977f5-a20d-4b99-b11f-f5ea535e0575 = { name = "QuadratureRules", path = "Q/Qua
 a09551c4-f815-4143-809e-dd1986753ba7 = { name = "CompactBasisFunctions", path = "C/CompactBasisFunctions" }
 a09fc81d-aa75-5fe9-8630-4744c3626534 = { name = "ImageCore", path = "I/ImageCore" }
 a0a7dd2c-ebf4-11e9-1f05-cf50bc540ca1 = { name = "SparseMatricesCSR", path = "S/SparseMatricesCSR" }
+a0afc4d6-34a3-5dc3-9aa8-ab4d2706eb2d = { name = "BOLT_jll", path = "jll/B/BOLT_jll" }
 a0b457aa-173f-450d-9d76-dd2c7c1da9bd = { name = "MinAtar", path = "M/MinAtar" }
 a0b5b9ef-44b7-5148-a2d1-f6db19f3c3d2 = { name = "Cxx", path = "C/Cxx" }
 a0ba0308-c025-49c4-97d8-6cbc8d45a63d = { name = "Alexya", path = "A/Alexya" }
@@ -7657,6 +7662,7 @@ b3f8163a-e979-4e85-b43e-1f63d8c8b42c = { name = "GraphPPL", path = "G/GraphPPL" 
 b3f849d4-7198-5f76-a9c5-8e4f35f75d39 = { name = "FlangClassic_jll", path = "jll/F/FlangClassic_jll" }
 b3fbeaf7-5746-403c-a6b7-06939dc82746 = { name = "NonlinearSchrodinger", path = "N/NonlinearSchrodinger" }
 b3ff564c-d3b6-11e9-0ef2-9b4ae9f9cbe1 = { name = "EliminateGraphs", path = "E/EliminateGraphs" }
+b401a7b7-5953-49f1-86ca-9d186498acee = { name = "AnalyticalMethodValidation", path = "A/AnalyticalMethodValidation" }
 b40dcafa-b65c-47ad-a230-3174ba5cadd1 = { name = "NeuroAnalyzer", path = "N/NeuroAnalyzer" }
 b41c07a2-2abb-11e9-070a-c3c1b239e7df = { name = "NEOs", path = "N/NEOs" }
 b429d917-457f-4dbc-8f4c-0cc954292b1d = { name = "DensityInterface", path = "D/DensityInterface" }
