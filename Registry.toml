@@ -4997,6 +4997,7 @@ some amount of consideration when choosing package names.
 748b5efa-ed57-4836-b183-a38105a77fdd = { name = "PostgresORM", path = "P/PostgresORM" }
 7494e58d-996d-52b4-b7cf-f5d9dde4b521 = { name = "ntl_jll", path = "jll/N/ntl_jll" }
 749bcd42-40b2-4908-9ca0-95341da8b98b = { name = "SignalTablesInterface_WGLMakie", path = "S/SignalTablesInterface_WGLMakie" }
+749eb255-e7f0-474c-bf5d-cdfd6b01954b = { name = "DiscreteOrderedMedian", path = "D/DiscreteOrderedMedian" }
 74acc403-992c-5bc5-99bd-1528790dac51 = { name = "Reproducible", path = "R/Reproducible" }
 74aeefec-6ade-5337-bbc5-48a18adb804f = { name = "Wilkinson", path = "W/Wilkinson" }
 74be38bb-dcc2-4b9e-baf3-d6373cd95f10 = { name = "RobotZoo", path = "R/RobotZoo" }
@@ -5172,6 +5173,7 @@ some amount of consideration when choosing package names.
 7884a58f-fab6-4fd0-82bb-ecfedb2d8430 = { name = "ClimaLSM", path = "C/ClimaLSM" }
 7885c543-3ac4-48a3-abed-7a36d7ddb69f = { name = "TreatmentPanels", path = "T/TreatmentPanels" }
 78862bba-adae-4a83-bb4d-33c106177f81 = { name = "StenoGraphs", path = "S/StenoGraphs" }
+78927d98-f421-490e-8789-96b006983a5c = { name = "SimulationBasedInference", path = "S/SimulationBasedInference" }
 789caeaf-c7a9-5a7d-9973-96adeb23e2a0 = { name = "StochasticDiffEq", path = "S/StochasticDiffEq" }
 78a0c066-08f1-49a8-82f0-b29cd485e1d3 = { name = "AutoSymPTR", path = "A/AutoSymPTR" }
 78a364fa-1a3c-552a-b4bb-8fa0f9c1fcca = { name = "Chemfiles_jll", path = "jll/C/Chemfiles_jll" }
@@ -9571,6 +9573,7 @@ e134572f-a0d5-539d-bddf-3cad8db41a82 = { name = "FLINT_jll", path = "jll/F/FLINT
 e1397348-e965-55d8-8fb3-3dd9faf6e4f1 = { name = "GradDescent", path = "G/GradDescent" }
 e13b9ff6-59c3-11ec-14b1-f3d2cc6c135e = { name = "HarmonicBalance", path = "H/HarmonicBalance" }
 e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d = { name = "BufferedStreams", path = "B/BufferedStreams" }
+e145bb07-96d9-421f-b0a2-c579a69b21bf = { name = "SpatialOmicsGPs", path = "S/SpatialOmicsGPs" }
 e146f72c-d4f8-45d3-b3ca-12a16cb68a38 = { name = "PowerSystemsMaps", path = "P/PowerSystemsMaps" }
 e149cee4-a9c8-4a03-a7b6-d91720412337 = { name = "MaximumLikelihoodProblems", path = "M/MaximumLikelihoodProblems" }
 e155a3c4-0841-43e1-8b83-a0e4f03cc18f = { name = "TemporalGPs", path = "T/TemporalGPs" }
