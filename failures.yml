@@ -400,6 +400,10 @@
   name: CDLmotif
   info:
     tag: repo_inaccessible
+- uuid: 332a3e40-df62-419b-9f04-2cb73588ccaf
+  name: LibAwsChecksums
+  info:
+    tag: repo_inaccessible
 - uuid: 35055d32-6816-4a65-8aeb-d6e3aca393e8
   name: KirUtil
   info:
@@ -606,6 +610,10 @@
   name: MultilayerFiber
   info:
     tag: repo_inaccessible
+- uuid: 51c8708f-2dd9-446d-a0d4-ba9f49ba4b23
+  name: LibAwsCompression
+  info:
+    tag: repo_inaccessible
 - uuid: 53b67e40-53a7-4335-973f-e3e901fe4865
   name: ComoniconTestUtils
   info:
@@ -680,12 +688,20 @@
   name: RestApis
   info:
     tag: repo_inaccessible
+- uuid: 7707c54a-f152-44d3-a3d6-cc4209ac0b85
+  name: LibAwsEventStream
+  info:
+    tag: repo_inaccessible
 - uuid: 7743456c-e0c5-4477-a2b6-196c240b0368
   name: PeaceCypher
   info:
     tag: repo_inaccessible
 - uuid: 7ddc1c72-b467-4b56-ac1e-188734e3cfa7
   name: MaxwellBase
+  info:
+    tag: repo_inaccessible
+- uuid: 7e4e0a2a-738e-4919-8f64-2391d105e660
+  name: LibAwsS3
   info:
     tag: repo_inaccessible
 - uuid: 80e77ffc-c35e-544b-8e57-5accc6d0de25
@@ -1030,6 +1046,10 @@
   name: TeXTable
   info:
     tag: repo_inaccessible
+- uuid: a5388770-19df-4151-b103-3d71de896ddf
+  name: LibAwsIO
+  info:
+    tag: repo_inaccessible
 - uuid: a641f28f-8d9e-4160-8071-676a3167f41f
   name: SMDInterfacesUtils
   info:
@@ -1191,6 +1211,10 @@
       fatal: remote error: upload-pack: not our ref 6f4646f277261658185f474e6e826cad14301b2a
       From https://g...
     version: '"0.1.1"'
+- uuid: c5f27dc9-c37b-4573-9b6c-b90055172160
+  name: LibAwsSdkutils
+  info:
+    tag: repo_inaccessible
 - uuid: c7a8a04f-9555-4fea-9aa6-9f2fbff5049a
   name: GraphicsMath
   info:
@@ -1215,6 +1239,14 @@
   name: GAPTypes
   info:
     tag: repo_inaccessible
+- uuid: ce851869-0d7a-41e7-95ef-2d4cb63876dd
+  name: LibAwsHTTP
+  info:
+    tag: repo_inaccessible
+- uuid: d022c788-31c6-4e56-9a35-f63e7e4f3ca1
+  name: LibAwsIot
+  info:
+    tag: repo_inaccessible
 - uuid: d0bbae9a-e099-4d5b-a835-1c6931763bda
   name: LuxCUDA
   info:
@@ -1232,12 +1264,20 @@
   name: Asimov
   info:
     tag: repo_inaccessible
+- uuid: dbf63f58-971e-4a9b-b153-820e5f7f543b
+  name: LibAwsMqtt
+  info:
+    tag: repo_inaccessible
 - uuid: dc1670bf-010d-423c-baea-ccde1e2dde80
   name: CountdownNumbers
   info:
     tag: repo_inaccessible
 - uuid: deefbfe4-5b57-4941-9cbb-7e0220485fa4
   name: Recruiters
+  info:
+    tag: repo_inaccessible
+- uuid: e028494f-7ddb-47cd-bd9c-7e7578dea4c5
+  name: LibAwsAuth
   info:
     tag: repo_inaccessible
 - uuid: e12149e5-c757-4a94-a92e-d43df22eb56a
@@ -1283,6 +1323,10 @@
     tag: repo_inaccessible
 - uuid: ed5fc19a-51e0-403b-bf3b-cfeba61ff831
   name: MoM_AllinOne
+  info:
+    tag: repo_inaccessible
+- uuid: ef519ef6-af43-41a0-8ac4-eb81328190af
+  name: LibAwsCal
   info:
     tag: repo_inaccessible
 - uuid: eff96cbd-3442-458f-9fe2-6cad589fe5e1
