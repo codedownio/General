@@ -560,6 +560,7 @@ some amount of consideration when choosing package names.
 0cf705f9-a9e2-50d1-a699-2b372a39b750 = { name = "Redis", path = "R/Redis" }
 0d0b3e3c-8241-4271-8221-92a6a704d6fd = { name = "ElasticSearch", path = "E/ElasticSearch" }
 0d1115f3-e42e-5952-a93b-f179746a6ed7 = { name = "fakechroot_jll", path = "jll/F/fakechroot_jll" }
+0d1a4710-d33b-49a5-8f18-73bdf49b47e2 = { name = "ITensorMPS", path = "I/ITensorMPS" }
 0d1a6071-c6ae-40ce-b68e-43bf1c0beb66 = { name = "EHTNCDBase", path = "E/EHTNCDBase" }
 0d23d9a6-c44e-4ca5-9c36-ffcb6594a9c5 = { name = "SurveyDataWeighting", path = "S/SurveyDataWeighting" }
 0d262f2c-28e9-492c-8e19-d7a5c4f11611 = { name = "PkgUtility", path = "P/PkgUtility" }
@@ -2217,6 +2218,7 @@ some amount of consideration when choosing package names.
 3351c21f-4feb-5f29-afb9-f4fcb0e27549 = { name = "CoolProp_jll", path = "jll/C/CoolProp_jll" }
 33540e4f-9c8d-4a7a-bd62-985e8d20a53a = { name = "Faulhaber", path = "F/Faulhaber" }
 33561aa0-85d4-466e-be0d-17c227566225 = { name = "MetOfficeStationData", path = "M/MetOfficeStationData" }
+33566f4c-336c-3150-6d30-4374274e6143 = { name = "BinaryBuilderToolchains", path = "B/BinaryBuilderToolchains" }
 335f7d24-6316-57dd-9c3a-df470f2b739e = { name = "SetIntersectionProjection", path = "S/SetIntersectionProjection" }
 3362a694-cdb4-48f5-aa9a-ff559879651c = { name = "Procrastinate", path = "P/Procrastinate" }
 3362f125-f0bb-47a3-aa74-596ffd7ef2fb = { name = "ManifoldsBase", path = "M/ManifoldsBase" }
@@ -2901,6 +2903,7 @@ some amount of consideration when choosing package names.
 435ee224-1b87-4f8d-89fc-f6e8a2c17c6c = { name = "SimpleQuantumCircuit", path = "S/SimpleQuantumCircuit" }
 436227dc-6146-11e9-240b-9df6ee45b799 = { name = "MatrixLMnet", path = "M/MatrixLMnet" }
 43668171-7344-4272-8ca6-106380bd294d = { name = "FunctionIndices", path = "F/FunctionIndices" }
+436b0209-26ab-4e65-94a9-6526d86fea76 = { name = "NaturalEarth", path = "N/NaturalEarth" }
 436ed74b-f7b6-57fe-bd82-efdbd6c0ab0c = { name = "AtlasRobot", path = "A/AtlasRobot" }
 43761bbe-b505-42c3-b8bd-5d4ae40fd227 = { name = "ChainPlots", path = "C/ChainPlots" }
 437b6fc4-8e8e-11e9-3fa1-ad391e66c018 = { name = "ProtoStructs", path = "P/ProtoStructs" }
@@ -6498,6 +6501,7 @@ some amount of consideration when choosing package names.
 988d40dc-a58a-4803-bd2c-6d7438fe27fe = { name = "GPMaxlik", path = "G/GPMaxlik" }
 988db7c6-b368-4d8d-9ee1-ae26d5771fb3 = { name = "Qwind", path = "Q/Qwind" }
 9896bf05-9493-4e5b-be64-41b6a423b7e2 = { name = "RFImpairmentsModels", path = "R/RFImpairmentsModels" }
+98999733-62a0-5dba-8ad6-4caa993b519a = { name = "Netpbm_jll", path = "jll/N/Netpbm_jll" }
 989f9ba8-86ac-4138-b458-047055bae907 = { name = "MetaStrategist", path = "M/MetaStrategist" }
 98ad42d3-8ce6-553d-ae41-509bd26b5557 = { name = "VisualDL", path = "V/VisualDL" }
 98b081ad-f1c9-55d3-8b20-4c87d4299306 = { name = "Literate", path = "L/Literate" }
@@ -6641,6 +6645,7 @@ some amount of consideration when choosing package names.
 9c0b9be8-e31e-490f-90fe-77697562404d = { name = "Dataverse", path = "D/Dataverse" }
 9c0cb1da-21b1-4615-967b-153e03110a28 = { name = "CalciumScoring", path = "C/CalciumScoring" }
 9c0f25c4-2ca1-5870-89f6-52640788da1d = { name = "Eirene", path = "E/Eirene" }
+9c1363d0-405f-4779-b1bc-67e54cdcac85 = { name = "ECLGraphColor", path = "E/ECLGraphColor" }
 9c18f8f7-1c8d-5a34-9fc2-3ecefed5c104 = { name = "Perple_X_jll", path = "jll/P/Perple_X_jll" }
 9c1af47c-29f5-11e9-0b47-9f5334384f20 = { name = "EmbeddedGraphs", path = "E/EmbeddedGraphs" }
 9c1d0b0a-7046-5b2e-a33f-ea22f176ac7e = { name = "JuliaNVTXCallbacks_jll", path = "jll/J/JuliaNVTXCallbacks_jll" }
@@ -10838,6 +10843,7 @@ ff70551f-00bc-5e1a-85c4-e17d0b71e9c9 = { name = "RRRMC", path = "R/RRRMC" }
 ff710082-a9bc-57f3-81b5-980fc0acaaef = { name = "SpectralEnvelope", path = "S/SpectralEnvelope" }
 ff71e718-51f3-5ec2-a782-8ffcbfa3c316 = { name = "MixedModels", path = "M/MixedModels" }
 ff7dd447-1dcb-4ce3-b8ac-22a812192de7 = { name = "FromFile", path = "F/FromFile" }
+ff833f9a-10fd-491c-ad5c-961b556a6c53 = { name = "BoundTypes", path = "B/BoundTypes" }
 ffa27691-3a59-46ab-a8d4-551f45b8d401 = { name = "ColPack", path = "C/ColPack" }
 ffa89bc3-d1bd-4aea-b9f7-e9902d9f56ab = { name = "MeshSteward", path = "M/MeshSteward" }
 ffa9a821-9c82-50df-894e-fbcef3ed31cd = { name = "DocumentFormat", path = "D/DocumentFormat" }
