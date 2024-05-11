@@ -1257,6 +1257,7 @@ some amount of consideration when choosing package names.
 1c23619d-4212-4747-83aa-717207fae70f = { name = "MyterialColors", path = "M/MyterialColors" }
 1c3ea84b-a956-4dfe-a2f4-485757f48f1d = { name = "AlgebraicRelations", path = "A/AlgebraicRelations" }
 1c4bc282-d2f5-44f9-b6d1-8c4424a23ad4 = { name = "PosteriorDB", path = "P/PosteriorDB" }
+1c4d5385-0a27-49de-8e2c-43b175c8985c = { name = "PointNeighbors", path = "P/PointNeighbors" }
 1c555f4c-8d6b-45c3-bbc1-c64989f538fe = { name = "CancerImagingArchive", path = "C/CancerImagingArchive" }
 1c621080-faea-4a02-84b6-bbd5e436b8fe = { name = "TestItems", path = "T/TestItems" }
 1c659ad8-f6e2-554d-814b-22ddd907b91c = { name = "GAP_pkg_simpcomp_jll", path = "jll/G/GAP_pkg_simpcomp_jll" }
@@ -2888,6 +2889,7 @@ some amount of consideration when choosing package names.
 42fb36cb-998a-4034-bf40-4eee476c43a1 = { name = "SeasonalTrendLoess", path = "S/SeasonalTrendLoess" }
 42fd0dbc-a981-5370-80f2-aaf504508153 = { name = "IterativeSolvers", path = "I/IterativeSolvers" }
 430257b6-7d61-4797-9a77-8ecd01b73801 = { name = "SuffixTrees", path = "S/SuffixTrees" }
+43133aba-3931-5066-b004-a34c79b93f2e = { name = "abseil_cpp_jll", path = "jll/A/abseil_cpp_jll" }
 432009dd-59a1-4b72-8c93-6462ce9b220f = { name = "Flux3D", path = "F/Flux3D" }
 4327cdd6-4902-11ea-0272-430cea0431bd = { name = "SearchLightPostgreSQL", path = "S/SearchLightPostgreSQL" }
 432ab697-7a72-484f-bc4a-bc531f5c819b = { name = "BesselK", path = "B/BesselK" }
@@ -5310,6 +5312,7 @@ some amount of consideration when choosing package names.
 7b2266bf-644c-5ea3-82d8-af4bbd25a884 = { name = "PeriodicTable", path = "P/PeriodicTable" }
 7b33fef7-ef1d-5d54-bb67-cf96d4c8a166 = { name = "BigCombinatorics", path = "B/BigCombinatorics" }
 7b36c455-f227-419f-b582-14f635f70924 = { name = "FinancialPortfolios", path = "F/FinancialPortfolios" }
+7b3808b7-0819-42d4-885c-978ba173db11 = { name = "TulipaIO", path = "T/TulipaIO" }
 7b38b023-a4d7-4c5e-8d43-3f3097f304eb = { name = "ScanByte", path = "S/ScanByte" }
 7b398af1-3c03-4c36-a68d-b29057ec0a45 = { name = "ESeriesRounding", path = "E/ESeriesRounding" }
 7b39b095-d77a-58fa-8447-59aa0294474b = { name = "ExSup", path = "E/ExSup" }
@@ -5655,6 +5658,7 @@ some amount of consideration when choosing package names.
 82bedeac-9837-5b62-883a-b5b3b7c811c5 = { name = "Jute", path = "J/Jute" }
 82cb661a-3f19-5665-9e27-df437c7e54c8 = { name = "SliceMap", path = "S/SliceMap" }
 82cc6244-b520-54b8-b5a6-8a565e85f1d0 = { name = "DataInterpolations", path = "D/DataInterpolations" }
+82d1dbe1-805e-4225-b33e-b4fa63e6e659 = { name = "TheMovieDB", path = "T/TheMovieDB" }
 82daab19-8fc9-5c1e-9f69-37d6aaa0269b = { name = "RigidBodyTreeInspector", path = "R/RigidBodyTreeInspector" }
 82e2f556-b1bd-5f1a-9576-f93c0da5f0ee = { name = "GmshTools", path = "G/GmshTools" }
 82e4d734-157c-48bb-816b-45c225c6df19 = { name = "ImageIO", path = "I/ImageIO" }
@@ -6158,6 +6162,7 @@ some amount of consideration when choosing package names.
 8f5ebde3-ef8e-4825-b277-c25898c0de77 = { name = "ConsensusBasedX", path = "C/ConsensusBasedX" }
 8f64fb4b-d933-4fa5-a855-09390d771cf3 = { name = "AcuteBenchmark", path = "A/AcuteBenchmark" }
 8f6bce27-0656-5410-875b-07a5572985df = { name = "GitForge", path = "G/GitForge" }
+8f700d64-2ec0-4e18-b562-010c3a374dda = { name = "TypeCompletion", path = "T/TypeCompletion" }
 8f72e95f-8ea1-4af3-8b89-086f52abff52 = { name = "PDDLViz", path = "P/PDDLViz" }
 8f75cd03-7ff8-4ecb-9b8f-daf728133b1b = { name = "oneAPI", path = "O/oneAPI" }
 8f7a8886-8f8a-428e-b78f-4cb978acfc7c = { name = "ExtractLinks", path = "E/ExtractLinks" }
@@ -7853,6 +7858,7 @@ b790e538-3052-4cb9-9f1f-e05859a455f5 = { name = "CCDReduction", path = "C/CCDRed
 b792745b-7241-45be-ba96-70eb67e8468f = { name = "SMDGraphs", path = "S/SMDGraphs" }
 b795de74-0e0b-491f-a34a-f5524d7c246d = { name = "PhyloTools", path = "P/PhyloTools" }
 b7963979-8425-4501-99b9-c790a878aaaf = { name = "TaylorFourierTransform", path = "T/TaylorFourierTransform" }
+b7a0d2b7-1990-46dc-b5dd-87820ecd1b09 = { name = "AxisKeysExtra", path = "A/AxisKeysExtra" }
 b7a990de-7fa3-5a2e-8a39-d875e4dafecd = { name = "ViennaRNA_jll", path = "jll/V/ViennaRNA_jll" }
 b7afff70-4bfb-11e9-240b-a35f420ae9bd = { name = "PressureDrop", path = "P/PressureDrop" }
 b7bf5f09-dce4-461b-b741-5180c76f4cfe = { name = "Electrum", path = "E/Electrum" }
@@ -9186,6 +9192,7 @@ d6749236-802c-4af3-9b09-2fcebf7269d7 = { name = "ElectricGrid", path = "E/Electr
 d6851e30-d4b8-11e9-06de-0b345e2a813d = { name = "BeliefGridValueIteration", path = "B/BeliefGridValueIteration" }
 d68e4d5e-4a60-4df1-b225-9a1636c75ae0 = { name = "PanelShift", path = "P/PanelShift" }
 d692c182-a058-4be8-a8d1-a27943fde503 = { name = "RICoverAlg", path = "R/RICoverAlg" }
+d6998af1-87ca-4e7f-83d4-864c79a249fa = { name = "LightweightCharts", path = "L/LightweightCharts" }
 d6a58270-6f46-44a2-ab4b-2a767377cb4b = { name = "ReversedStrings", path = "R/ReversedStrings" }
 d6ab3a89-b2a3-4279-9123-91d1be4d1a9a = { name = "Nbdev", path = "N/Nbdev" }
 d6acb6ec-f7e4-548d-b108-f8a3d9a6ce13 = { name = "PlantHydraulics", path = "P/PlantHydraulics" }
