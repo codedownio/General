@@ -2892,6 +2892,7 @@ some amount of consideration when choosing package names.
 43133aba-3931-5066-b004-a34c79b93f2e = { name = "abseil_cpp_jll", path = "jll/A/abseil_cpp_jll" }
 432009dd-59a1-4b72-8c93-6462ce9b220f = { name = "Flux3D", path = "F/Flux3D" }
 4327cdd6-4902-11ea-0272-430cea0431bd = { name = "SearchLightPostgreSQL", path = "S/SearchLightPostgreSQL" }
+43287f4e-b6f4-7ad1-bb20-aadabca52c3d = { name = "PtrArrays", path = "P/PtrArrays" }
 432ab697-7a72-484f-bc4a-bc531f5c819b = { name = "BesselK", path = "B/BesselK" }
 4343a256-5453-507d-8aad-01a9d7189916 = { name = "BasisFunctions", path = "B/BasisFunctions" }
 4343dc35-3317-4c6e-8877-f0cc8502c90e = { name = "SolverTest", path = "S/SolverTest" }
@@ -3167,6 +3168,7 @@ some amount of consideration when choosing package names.
 4958c51a-00f6-11ea-2b94-f3f784e4d148 = { name = "AbstractRationals", path = "A/AbstractRationals" }
 495a3ad3-8034-41b3-a087-aacf2fd71098 = { name = "HerbData", path = "H/HerbData" }
 496038af-b016-571c-b31e-8262695ac102 = { name = "Lens", path = "L/Lens" }
+496adb70-ccd1-4bf3-8d93-537a078619e1 = { name = "GenomicOffsets", path = "G/GenomicOffsets" }
 497a8b3b-efae-58df-a0af-a86822472b78 = { name = "DoubleFloats", path = "D/DoubleFloats" }
 497ad153-c143-42a2-80c7-87bdfcf8382a = { name = "DataBags", path = "D/DataBags" }
 497af919-c005-5197-85cc-b1f3ea720854 = { name = "Emoslib_jll", path = "jll/E/Emoslib_jll" }
@@ -10622,6 +10624,7 @@ f9322581-1cea-4fd6-9e8e-2ae6cc4618ce = { name = "EventStudyInteracts", path = "E
 f961096e-11ae-497c-ad8a-ff09638a4fbf = { name = "PlateKinematics", path = "P/PlateKinematics" }
 f9630f5b-a116-5b0c-bd6c-4699aee17694 = { name = "ECharts", path = "E/ECharts" }
 f9640e96-87f6-5992-9c3b-0743c6a49ffa = { name = "MultiScaleArrays", path = "M/MultiScaleArrays" }
+f967765a-671f-4dab-8ad7-3d510d8fd276 = { name = "NelsonRules", path = "N/NelsonRules" }
 f96e3c25-ae70-5588-8d8e-4a7ab3ba4c45 = { name = "pandoc_crossref_jll", path = "jll/P/pandoc_crossref_jll" }
 f96f1e2a-1be0-483a-ac4e-37f33550e2cb = { name = "GaussianVariationalInference", path = "G/GaussianVariationalInference" }
 f96f8458-5c05-4a28-b3fd-d398aeb95222 = { name = "CalibrationAnalysis", path = "C/CalibrationAnalysis" }
