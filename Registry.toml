@@ -1677,6 +1677,7 @@ some amount of consideration when choosing package names.
 26d6b5db-a198-4a75-82bf-4a48696500ea = { name = "OptimalMatrixCompletion", path = "O/OptimalMatrixCompletion" }
 26dc7fb7-0d88-57af-8ff4-0a7e14249ddd = { name = "SimpleGF2", path = "S/SimpleGF2" }
 26dcc766-85df-5edc-b560-6076d5dbac63 = { name = "LPVSpectral", path = "L/LPVSpectral" }
+26e330ee-2514-4fac-b42d-929ac0d6997d = { name = "FaSTLMMlight", path = "F/FaSTLMMlight" }
 26eaf3d2-abfe-5ba7-8b46-5ee72475de40 = { name = "autoconf_jll", path = "jll/A/autoconf_jll" }
 26fa0e40-23c6-5e70-8e5d-49a8a0c72583 = { name = "Scryfall", path = "S/Scryfall" }
 26fcc630-e5d3-11e9-1f2e-33567d4860bc = { name = "CorrectMatch", path = "C/CorrectMatch" }
@@ -6338,6 +6339,7 @@ some amount of consideration when choosing package names.
 9337fcb6-6716-45db-ab69-a0212f696681 = { name = "SVGDraw", path = "S/SVGDraw" }
 933afed5-ab4b-5649-acc9-3edb4be3c343 = { name = "Perceptrons", path = "P/Perceptrons" }
 93488820-1883-11ed-0c34-05177b029e4d = { name = "Muscade", path = "M/Muscade" }
+9348d769-4460-4e86-9927-452f530f5601 = { name = "ITerm2Images", path = "I/ITerm2Images" }
 935fb764-8cf2-53bf-bb30-45bb1f8bf724 = { name = "Xorg_libXcursor_jll", path = "jll/X/Xorg_libXcursor_jll" }
 93705cf0-0d0c-4207-9085-aa3a02725bf0 = { name = "FlowWorkspace", path = "F/FlowWorkspace" }
 937e9308-674a-48ca-a404-047094c8c902 = { name = "Figgy", path = "F/Figgy" }
@@ -7083,6 +7085,7 @@ a5390f91-8eb1-5f08-bee0-b1d1ffed6cea = { name = "ZipFile", path = "Z/ZipFile" }
 a545de4d-8dba-46db-9d34-4e41d3f07807 = { name = "StanLogDensityProblems", path = "S/StanLogDensityProblems" }
 a54ac8ab-712d-5a0e-8e11-9296c0d3c20e = { name = "Binaryen_jll", path = "jll/B/Binaryen_jll" }
 a5566ce3-012c-4b09-85b8-62131f0c3f36 = { name = "REPLHistory", path = "R/REPLHistory" }
+a56137cc-9937-5467-96f1-bf8abe647212 = { name = "xtensor_io_jll", path = "jll/X/xtensor_io_jll" }
 a562b63c-6e73-49f2-82ca-bd0905bcffd6 = { name = "PkgHelpers", path = "P/PkgHelpers" }
 a563f35e-61db-434d-8c01-8b9e3ccdfd85 = { name = "QuantumGradientGenerators", path = "Q/QuantumGradientGenerators" }
 a56a6d9d-ad03-58af-ab61-878bf78270d6 = { name = "Libxc_jll", path = "jll/L/Libxc_jll" }
@@ -7945,6 +7948,7 @@ b8f752a5-abd5-43b6-a55b-e75efda20de0 = { name = "DitherPunk", path = "D/DitherPu
 b8f7f481-73e0-42c6-b6bd-c66d3b4942cc = { name = "ParticleHolography", path = "P/ParticleHolography" }
 b903362a-f3fb-4fd6-ad42-15d1112bb05b = { name = "GrapheneQFT", path = "G/GrapheneQFT" }
 b905b068-7150-5b22-bc23-80596c88c6a6 = { name = "DeIdentification", path = "D/DeIdentification" }
+b906bd41-8a13-4c88-a09a-4b011115ea16 = { name = "QuadratureOnImplicitRegions", path = "Q/QuadratureOnImplicitRegions" }
 b9118d5e-f165-4cbd-b2ae-b030566b7b26 = { name = "Autocorrelations", path = "A/Autocorrelations" }
 b920cfb2-02b9-492b-931b-17200f17e6e0 = { name = "CrimsonSkyline", path = "C/CrimsonSkyline" }
 b92785ef-f07b-4bd7-b7d7-af12e1e8f537 = { name = "Tabben", path = "T/Tabben" }
@@ -8260,6 +8264,7 @@ bfca5e61-7ca9-4d61-a82b-6df663fb0d3c = { name = "JuliaCon", path = "J/JuliaCon" 
 bfcb1084-f727-4b17-bfff-b14f4012e832 = { name = "ParquetS3", path = "P/ParquetS3" }
 bfcbc1eb-9170-5dc4-a833-47b2e27cecb4 = { name = "ReduceLinAlg", path = "R/ReduceLinAlg" }
 bfd8ad24-ccb0-5e6a-9bd1-fc4bec713fae = { name = "DropboxSDK", path = "D/DropboxSDK" }
+bfde9dd4-8f40-4a1e-be09-1475335e1c92 = { name = "MLIR", path = "M/MLIR" }
 bfe18334-aefd-11e9-1109-4bf2b15a5b91 = { name = "SDPAFamily", path = "S/SDPAFamily" }
 bfecab0d-fd4d-5014-a23f-56c5fae6447a = { name = "Rematch", path = "R/Rematch" }
 bffe22d1-cb55-4f4e-ac2c-f4dd4bf58912 = { name = "Gaius", path = "G/Gaius" }
@@ -10152,6 +10157,7 @@ ebce4138-bfdf-4619-8560-1f9aac1a682b = { name = "NetworkHawkesProcesses", path =
 ebe7aa44-baf0-506c-a96f-8464559b3922 = { name = "OMEinsum", path = "O/OMEinsum" }
 ebf5ac4f-3ec1-555f-9ac9-3d72ed88c471 = { name = "TexTables", path = "T/TexTables" }
 ec016732-9331-11e9-305f-d53cb440b85a = { name = "KalmanFilterTools", path = "K/KalmanFilterTools" }
+ec057cc2-7a8d-4b58-b3b3-92acb9f63b42 = { name = "StructUtils", path = "S/StructUtils" }
 ec145902-31c2-532e-934a-7c64254c4b82 = { name = "PolynomialFactors", path = "P/PolynomialFactors" }
 ec21ea4c-06aa-48cd-aeb3-a42dd9f5a482 = { name = "GML_Glauber_Dynamics", path = "G/GML_Glauber_Dynamics" }
 ec2bfdc2-55df-4fc9-b9ae-4958c2cf2486 = { name = "Vcov", path = "V/Vcov" }
