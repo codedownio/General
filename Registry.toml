@@ -2642,6 +2642,7 @@ some amount of consideration when choosing package names.
 3c863552-8265-54e4-a6dc-903eb78fde85 = { name = "Graphviz_jll", path = "jll/G/Graphviz_jll" }
 3c934f36-e25c-5265-85bb-28494e4832bb = { name = "Libassuan_jll", path = "jll/L/Libassuan_jll" }
 3c954167-71e4-4212-9688-830d6b8fcbc2 = { name = "WeatherReport", path = "W/WeatherReport" }
+3c95a420-e72f-46bd-bd8e-135251b8d06f = { name = "StaticArraysBlasInterfaces", path = "S/StaticArraysBlasInterfaces" }
 3c9796d7-64a0-5134-86ad-79f8eb684845 = { name = "Xorg_libXcomposite_jll", path = "jll/X/Xorg_libXcomposite_jll" }
 3c991dec-9c56-4f58-9859-82b65299ade1 = { name = "PairVelocities", path = "P/PairVelocities" }
 3c9adf31-5280-42ff-b439-b71cc6b07807 = { name = "DataDrivenDMD", path = "D/DataDrivenDMD" }
@@ -2949,6 +2950,7 @@ some amount of consideration when choosing package names.
 43e2f499-f4c7-585f-8317-cbc2d9c3bf8f = { name = "RDKafka", path = "R/RDKafka" }
 43ec2cc1-0e50-5406-a854-b7ff8fdb8dad = { name = "ToStruct", path = "T/ToStruct" }
 43edad99-fa64-5e4f-9937-1c09a410b73f = { name = "InstantiateFromURL", path = "I/InstantiateFromURL" }
+43f4d3e8-9711-4a8c-bd1b-03ac73a255cf = { name = "SliceSampling", path = "S/SliceSampling" }
 43fecb94-217b-4542-9f6a-a624b53b7d19 = { name = "FractionalSystems", path = "F/FractionalSystems" }
 44044271-7623-48dc-8250-42433c44e4b7 = { name = "RDKitMinimalLib", path = "R/RDKitMinimalLib" }
 44063525-382a-5b84-b7ca-976d099b8647 = { name = "NODAL", path = "N/NODAL" }
@@ -6196,6 +6198,7 @@ some amount of consideration when choosing package names.
 8f75cd03-7ff8-4ecb-9b8f-daf728133b1b = { name = "oneAPI", path = "O/oneAPI" }
 8f7a8886-8f8a-428e-b78f-4cb978acfc7c = { name = "ExtractLinks", path = "E/ExtractLinks" }
 8f8cde19-4581-4697-bfbd-917306c72405 = { name = "SimpleSudoku", path = "S/SimpleSudoku" }
+8f9d5d0e-dd2e-4568-92d4-f8c5d34f25cf = { name = "NetSurvival", path = "N/NetSurvival" }
 8f9e8900-be71-40de-a258-603fdc860a2d = { name = "PoissonSolvers", path = "P/PoissonSolvers" }
 8fa3689e-f0b9-5420-9873-adf6ccf46f2d = { name = "PETSc_jll", path = "jll/P/PETSc_jll" }
 8faf48c0-8b73-11e9-0e63-2155955bfa4d = { name = "NeuralNetDiffEq", path = "N/NeuralNetDiffEq" }
@@ -8250,6 +8253,7 @@ bf64f69c-3949-4e90-aa8d-30c3e4cdf50d = { name = "ActorInterfacesTests", path = "
 bf674bac-ffe4-48d3-9f32-72124ffa9ede = { name = "LinDistFlow", path = "L/LinDistFlow" }
 bf6b1ec8-12ad-4501-972c-3dec0d675c2b = { name = "GNSSDecoder", path = "G/GNSSDecoder" }
 bf6b54a3-cbc8-4fbf-8641-14341a8f5c06 = { name = "GlowupVibes", path = "G/GlowupVibes" }
+bf6bd3dc-c349-4a39-9695-9ea99bf10cfe = { name = "FlipGraphs", path = "F/FlipGraphs" }
 bf752c2e-6b1c-53e3-a22f-e5bb209bd3f1 = { name = "EventSimulation", path = "E/EventSimulation" }
 bf7b4fbe-ccb1-42c5-83c2-e6e9378b660c = { name = "PALEOmodel", path = "P/PALEOmodel" }
 bf80db26-2df5-4c23-a907-3a9ed30ce870 = { name = "GenFlux", path = "G/GenFlux" }
@@ -8915,6 +8919,7 @@ cecfa166-9fdc-475c-9ab0-5678dea9d294 = { name = "Denumpyfy", path = "D/Denumpyfy
 ced4e74d-a319-5a8a-b0ac-84af2272839c = { name = "DistributionsAD", path = "D/DistributionsAD" }
 cedb2ae3-6529-478c-a04f-d9256ac5d41f = { name = "SnapTests", path = "S/SnapTests" }
 ceedd18c-cbe2-4568-b16d-0e09f1cb20d1 = { name = "GasphaseReactions", path = "G/GasphaseReactions" }
+cef16ca0-16a8-11ef-389e-9fbcf1974e83 = { name = "MicroMagnetic", path = "M/MicroMagnetic" }
 cef322dc-4d82-11ea-04a7-113231db804d = { name = "BioProfiling", path = "B/BioProfiling" }
 cef570c6-3a94-5604-96b7-1a5e143043f2 = { name = "SARSOP", path = "S/SARSOP" }
 cef8bb50-3052-47ee-9080-7fa14a4c9a42 = { name = "Nclusion", path = "N/Nclusion" }
@@ -10183,6 +10188,7 @@ ecaff61d-cab6-41c0-aa18-077b272b9ea4 = { name = "PlugFlowReactor", path = "P/Plu
 ecb7cac2-dae3-4a6f-a5f6-8274be99c6cb = { name = "GithubMarkdown", path = "G/GithubMarkdown" }
 ecbce9bc-3e5e-569d-9e29-55181f61f8d0 = { name = "BenchmarkProfiles", path = "B/BenchmarkProfiles" }
 ecbed89c-9d59-4137-ae1f-d1084086d01c = { name = "WeakKeyIdDicts", path = "W/WeakKeyIdDicts" }
+ecd20d55-42c1-4d31-a87b-fff5cebab0b6 = { name = "PrettyTests", path = "P/PrettyTests" }
 ecdfd59a-7c14-409c-ab7a-3704f8e92dd6 = { name = "FastFloat16s", path = "F/FastFloat16s" }
 ece33410-b69e-4f47-aa1e-8b3d16462b5e = { name = "Postman", path = "P/Postman" }
 ece49558-7bf7-4b1b-9202-b5cfb4999bf7 = { name = "NonconvexMetaheuristics", path = "N/NonconvexMetaheuristics" }
