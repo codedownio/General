@@ -1105,6 +1105,7 @@ some amount of consideration when choosing package names.
 18e29207-5ae3-59c1-81aa-5a72e5c4dbed = { name = "MIMEBundles", path = "M/MIMEBundles" }
 18e31ff7-3703-566c-8e60-38913d67486b = { name = "Peaks", path = "P/Peaks" }
 18e54dd8-cb9d-406c-a71d-865a43cbb235 = { name = "IntegerMathUtils", path = "I/IntegerMathUtils" }
+18e85bec-f2a0-4122-b3a6-37651333b522 = { name = "ItemResponseFunctions", path = "I/ItemResponseFunctions" }
 18ed25b1-892a-4a3b-b8fc-1036dc9a6a89 = { name = "PokerHandEvaluator", path = "P/PokerHandEvaluator" }
 1901280f-61ce-5048-a6a8-fd033512e07b = { name = "libcifpp_jll", path = "jll/L/libcifpp_jll" }
 1902729b-b4d4-4bb0-ae7d-e2f19e2a15fb = { name = "LibGEOSMakie", path = "L/LibGEOSMakie" }
@@ -1892,6 +1893,7 @@ some amount of consideration when choosing package names.
 2bd173c7-0d6d-553b-b6af-13a54713934c = { name = "NodeJS", path = "N/NodeJS" }
 2bd2a319-f9c6-417c-a4f9-7b097fc62840 = { name = "MathepiaModels", path = "M/MathepiaModels" }
 2bd31493-540e-5c8d-87b8-e806a807424c = { name = "Dust_jll", path = "jll/D/Dust_jll" }
+2bd6b0f1-efc2-5146-be01-bc30fa938f5c = { name = "libCppInterOp_jll", path = "jll/L/libCppInterOp_jll" }
 2bdbdf9c-dbd8-403f-947b-1a4e0dd41a7a = { name = "TopoPlots", path = "T/TopoPlots" }
 2bdc0d93-21f3-4e16-a26e-769a2eaf80d4 = { name = "ParticleCorrelations", path = "P/ParticleCorrelations" }
 2be3f83a-7913-5748-9f20-7d448995b934 = { name = "FlashWeave", path = "F/FlashWeave" }
@@ -2483,6 +2485,7 @@ some amount of consideration when choosing package names.
 39046a72-5a6f-4d18-ae88-b64c04dba158 = { name = "Crispulator", path = "C/Crispulator" }
 39099a2c-f609-41b4-99c2-62ec6735b6c9 = { name = "Consensus", path = "C/Consensus" }
 390f8997-1984-4152-8b9b-a98aeeeff9d0 = { name = "LogFixPoint16s", path = "L/LogFixPoint16s" }
+391672e0-bbe4-4ab4-8bc9-b89a79cbc2f0 = { name = "CallableExpressions", path = "C/CallableExpressions" }
 391af1a9-06f1-59d3-8d21-0be089654739 = { name = "Spectra", path = "S/Spectra" }
 39204792-bc26-423a-8bcf-54c03468b271 = { name = "BioDemultiplexer", path = "B/BioDemultiplexer" }
 3933049c-43be-478e-a8bb-6e0f7fd53575 = { name = "MultistartOptimization", path = "M/MultistartOptimization" }
@@ -5281,6 +5284,7 @@ some amount of consideration when choosing package names.
 799edfa2-b1a3-4e1c-96c0-d1ebdffd3208 = { name = "ZeroInflatedLikelihoods", path = "Z/ZeroInflatedLikelihoods" }
 79a39cca-baf0-44da-ad00-3ac4adec8886 = { name = "PolynomialsMutableArithmetics", path = "P/PolynomialsMutableArithmetics" }
 79a69506-cdd1-4876-b8e5-7af85e53af4f = { name = "ChannelBuffers", path = "C/ChannelBuffers" }
+79abecb7-a74d-442d-bb0e-6136fbda6b73 = { name = "FuncTransforms", path = "F/FuncTransforms" }
 79adfba0-1eab-50d9-8528-0589417a2bfe = { name = "AdaptiveRegularization", path = "A/AdaptiveRegularization" }
 79afa230-ca09-11e8-120b-5decf7bf5e25 = { name = "Continuables", path = "C/Continuables" }
 79b45036-8e38-5d04-8f49-b9fb23ff5a0d = { name = "Remark", path = "R/Remark" }
@@ -6332,6 +6336,7 @@ some amount of consideration when choosing package names.
 92ef3814-971d-54d3-b0c1-59b1d13fee15 = { name = "Ripemd", path = "R/Ripemd" }
 92ef5d18-3a1f-4c68-9409-006e7edfe355 = { name = "SimGBS", path = "S/SimGBS" }
 92f7fd98-d22e-4c0d-85a8-6ade11b672fb = { name = "cuStateVec", path = "C/cuStateVec" }
+92f832ab-a3ce-4d7c-a08d-a5d13ab1bbba = { name = "BioExplorer", path = "B/BioExplorer" }
 92fd0282-be9c-47fb-a489-f0d0a91db595 = { name = "PSID", path = "P/PSID" }
 92fee26a-97fe-5a0c-ad85-20a5f3185b63 = { name = "GZip", path = "G/GZip" }
 92ff4b2b-8094-53d3-b29d-97f740f06cef = { name = "ImageFeatures", path = "I/ImageFeatures" }
@@ -8322,6 +8327,7 @@ c121886f-841d-4855-8f3a-15f9a2397416 = { name = "SignalPlots", path = "S/SignalP
 c126fcb9-5a08-4fee-b75a-97eb446288b0 = { name = "DiffusionDefinition", path = "D/DiffusionDefinition" }
 c12fb04c-f5e9-5c82-b5d6-b53f8f8d9a32 = { name = "Torch_jll", path = "jll/T/Torch_jll" }
 c13076dc-bdcd-48ba-bc88-4b44c2587ab3 = { name = "SeaPearl", path = "S/SeaPearl" }
+c131b360-78aa-49ef-85bf-52f23aef648f = { name = "JudiLingMeasures", path = "J/JudiLingMeasures" }
 c133084b-7dba-4976-8ce9-624a349e415e = { name = "ChpSim", path = "C/ChpSim" }
 c1345d04-1a7a-4e7a-b935-9916dcf58fca = { name = "AppliSales", path = "A/AppliSales" }
 c1363496-6848-4723-8758-079b737f6baf = { name = "DiscretePIDs", path = "D/DiscretePIDs" }
