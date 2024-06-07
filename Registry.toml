@@ -4022,6 +4022,7 @@ some amount of consideration when choosing package names.
 5d3f8266-9186-4afd-be5f-84c55396a2a7 = { name = "HomogeneousVectors", path = "H/HomogeneousVectors" }
 5d3fc3e8-a677-5550-826f-6cfd58f208da = { name = "SCALAPACK_jll", path = "jll/S/SCALAPACK_jll" }
 5d41aeb0-57df-5a94-a3c4-60ba49600646 = { name = "StructDualDynProg", path = "S/StructDualDynProg" }
+5d54f141-216f-4d16-867d-ae7ad4aba2dd = { name = "FluxKAN", path = "F/FluxKAN" }
 5d58af2d-7d6a-4ad4-9195-74ef913580e2 = { name = "RPkg", path = "R/RPkg" }
 5d661840-88be-4b78-9825-7b6c04c1bd9a = { name = "Diderot", path = "D/Diderot" }
 5d6e2f64-5c87-46b6-9ff4-cf810e78676d = { name = "PackedReadWrite", path = "P/PackedReadWrite" }
@@ -6796,6 +6797,7 @@ some amount of consideration when choosing package names.
 9e21ff56-eb25-42d3-b86f-5b0612f555e7 = { name = "NonconvexSemidefinite", path = "N/NonconvexSemidefinite" }
 9e226e20-d153-4fed-8a5b-493def4f21a9 = { name = "SpeedyWeather", path = "S/SpeedyWeather" }
 9e28174c-4ba2-5203-b857-d8d62c4213ee = { name = "BinDeps", path = "B/BinDeps" }
+9e2c1f1d-9131-4ad4-b32f-bd2a0b0ecd1e = { name = "MultiGridBarrier", path = "M/MultiGridBarrier" }
 9e32d19f-1e4f-477a-8631-b16c78aa0f56 = { name = "MetaTesting", path = "M/MetaTesting" }
 9e34d9e9-352a-4bdb-89aa-065cccceaa64 = { name = "TerminalCalendar", path = "T/TerminalCalendar" }
 9e3b23bb-e7cc-4b94-886c-65de2234ba87 = { name = "Cloudy", path = "C/Cloudy" }
@@ -8343,6 +8345,7 @@ c106d4f1-74b1-53cf-8919-47dd3f5c79fb = { name = "SimpleIntegrals", path = "S/Sim
 c10a2893-4f73-4179-bc1e-881bcc6b6c0c = { name = "MeshBridge", path = "M/MeshBridge" }
 c10abcb9-3e37-4bfe-9bab-99a3bc662411 = { name = "AdFem", path = "A/AdFem" }
 c116f080-063d-490a-9873-2b5b2cce4c34 = { name = "Mendeleev", path = "M/Mendeleev" }
+c11bb9a7-2755-425a-88f3-ebe93bbdb91f = { name = "FlyThroughPaths", path = "F/FlyThroughPaths" }
 c1216c3d-6bb3-5a2b-bbbf-529b35eba709 = { name = "Kokkos_jll", path = "jll/K/Kokkos_jll" }
 c121886f-841d-4855-8f3a-15f9a2397416 = { name = "SignalPlots", path = "S/SignalPlots" }
 c126fcb9-5a08-4fee-b75a-97eb446288b0 = { name = "DiffusionDefinition", path = "D/DiffusionDefinition" }
@@ -9918,6 +9921,7 @@ e56a9233-b9d6-4f03-8d0f-1825330902ac = { name = "Sparspak", path = "S/Sparspak" 
 e56c3062-542c-497d-ab50-e8a2f2a25ce2 = { name = "PrincipalMomentAnalysisApp", path = "P/PrincipalMomentAnalysisApp" }
 e5719326-7e34-5a7d-b19a-3e86f2e9acf7 = { name = "TriangleMesh", path = "T/TriangleMesh" }
 e575027e-6cd6-5018-9292-cdc6200d2b44 = { name = "ReinforcementLearningBase", path = "R/ReinforcementLearningBase" }
+e57b7fff-7ee7-4550-b4f0-90e9476e9fb6 = { name = "OptimizationManopt", path = "O/OptimizationManopt" }
 e57cb7e2-dadc-4589-8217-6f26b584a9fb = { name = "ScikitSpatial", path = "S/ScikitSpatial" }
 e58298cb-69f7-4186-aecd-5834b6793426 = { name = "Ipaper", path = "I/Ipaper" }
 e584fc4d-3f36-46f9-b493-fafa6061fac8 = { name = "MongocUtils", path = "M/MongocUtils" }
@@ -10234,6 +10238,7 @@ ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45 = { name = "kubectl_jll", path = "jll/K/kub
 ed25ef7a-b813-415f-98cd-eb06d9efe1db = { name = "ReactionSensitivity", path = "R/ReactionSensitivity" }
 ed268df6-2d29-4139-a3e0-ddeb8be80dc7 = { name = "CachedFunctions", path = "C/CachedFunctions" }
 ed2dc23b-ada4-5fdb-a26f-56368a14ad8f = { name = "EcoSISTEM", path = "E/EcoSISTEM" }
+ed3f0a38-8ad9-4cf8-877e-929e8d190fe9 = { name = "IESopt", path = "I/IESopt" }
 ed3f9b50-51cd-11e9-3ece-75fc8af922bb = { name = "Kwant", path = "K/Kwant" }
 ed46c112-542a-4e7e-ab0f-e39321fab6f0 = { name = "Napari", path = "N/Napari" }
 ed4db957-447d-4319-bfb6-7fa9ae7ecf34 = { name = "TaskLocalValues", path = "T/TaskLocalValues" }
