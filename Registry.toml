@@ -2965,6 +2965,7 @@ some amount of consideration when choosing package names.
 43fecb94-217b-4542-9f6a-a624b53b7d19 = { name = "FractionalSystems", path = "F/FractionalSystems" }
 44044271-7623-48dc-8250-42433c44e4b7 = { name = "RDKitMinimalLib", path = "R/RDKitMinimalLib" }
 44063525-382a-5b84-b7ca-976d099b8647 = { name = "NODAL", path = "N/NODAL" }
+4412c578-8aba-4b04-8c8c-6ae573ccb792 = { name = "SmoothInterpolation", path = "S/SmoothInterpolation" }
 4418983a-e44d-11e8-3aec-9789530b3b3e = { name = "Registrator", path = "R/Registrator" }
 4428f09d-fda0-4bc5-909e-74e028533219 = { name = "MahjongTiles", path = "M/MahjongTiles" }
 442a2c76-b920-505d-bb47-c5924d526838 = { name = "FastGaussQuadrature", path = "F/FastGaussQuadrature" }
@@ -6103,6 +6104,7 @@ some amount of consideration when choosing package names.
 8c3ed914-120a-47bd-8d72-56c743732853 = { name = "DPFEHM", path = "D/DPFEHM" }
 8c3f51a0-5c4f-440f-9c08-8c30078f3199 = { name = "Multiverses", path = "M/Multiverses" }
 8c44504f-1cba-4a08-a12a-8828b1581fee = { name = "ManifestUtilities", path = "M/ManifestUtilities" }
+8c544392-5fd9-4640-bea4-e12b3d59d9d1 = { name = "VectorModesolver", path = "V/VectorModesolver" }
 8c5e0f79-7402-43d4-9c5c-e1bde87b1895 = { name = "HomotopyOpt", path = "H/HomotopyOpt" }
 8c675823-c5d5-50f8-acb2-29aff48dfc1d = { name = "SequentialMonteCarlo", path = "S/SequentialMonteCarlo" }
 8c6ce2ba-659c-5ec7-ba4c-37596cf1f22a = { name = "rocSPARSE_jll", path = "jll/R/rocSPARSE_jll" }
@@ -6744,6 +6746,7 @@ some amount of consideration when choosing package names.
 9c9e696b-6b05-402c-8ae4-5dc38852c714 = { name = "PkgServerClient", path = "P/PkgServerClient" }
 9c9e855c-dc5f-4faf-9e51-68ae7b74148d = { name = "BipartiteNull", path = "B/BipartiteNull" }
 9ca883c9-bd92-40d2-857a-2c75d8956e5d = { name = "Elfel", path = "E/Elfel" }
+9cb6079b-e021-4662-8a75-9f65bfa286f2 = { name = "SurvivalBase", path = "S/SurvivalBase" }
 9cb796e9-d0ea-421b-b37d-eb97bc1add55 = { name = "Huginn", path = "H/Huginn" }
 9cc047cb-c261-5740-88fc-0cf96f7bdcc7 = { name = "Ipopt_jll", path = "jll/I/Ipopt_jll" }
 9cc86067-7e36-4c61-b350-1ac9833d277f = { name = "ColumnSelectors", path = "C/ColumnSelectors" }
@@ -9431,6 +9434,7 @@ da404889-ca92-49ff-9e8b-0aa6b4d38dc8 = { name = "ARFFFiles", path = "A/ARFFFiles
 da464f59-a6cf-4c57-92f9-0556c3abcc34 = { name = "KmerAnalysisMakie", path = "K/KmerAnalysisMakie" }
 da470b1c-b0a8-4533-b4d1-e613846a4bd7 = { name = "ASDF2", path = "A/ASDF2" }
 da4a04c4-868a-4285-9821-73fa1c6f6848 = { name = "GREMLModels", path = "G/GREMLModels" }
+da4dd95e-df4f-4caf-ac06-cee3b0f5c2e6 = { name = "PlotlyGeometries", path = "P/PlotlyGeometries" }
 da5bd070-f609-4e16-a30d-de86b3faa756 = { name = "EquivalentCircuits", path = "E/EquivalentCircuits" }
 da5c29d0-fa7d-589e-88eb-ea29b0a81949 = { name = "EllipsisNotation", path = "E/EllipsisNotation" }
 da5e4181-4678-44ac-9e93-56ca85e03b1f = { name = "ArgumentProcessor", path = "A/ArgumentProcessor" }
