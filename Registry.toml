@@ -427,6 +427,7 @@ some amount of consideration when choosing package names.
 0951126a-58fd-58f1-b5b3-b08c7c4a876d = { name = "GnuTLS_jll", path = "jll/G/GnuTLS_jll" }
 09521429-32ac-4aec-8e5f-91f1cf1e3144 = { name = "MetaAnalysis", path = "M/MetaAnalysis" }
 09606e27-ecf5-54fc-bb29-004bd9f985bf = { name = "ODEInterfaceDiffEq", path = "O/ODEInterfaceDiffEq" }
+09780231-1698-4933-9d9d-4e01e0abea36 = { name = "HmtGutenberg", path = "H/HmtGutenberg" }
 0979c8fe-16a4-4796-9b82-89a9f10403ea = { name = "JACC", path = "J/JACC" }
 097c2839-c7bc-4c4b-a5f2-b4167c1b4e7c = { name = "MetidaNCA", path = "M/MetidaNCA" }
 09812cc9-162f-4ef5-b000-81142b1d39ff = { name = "UnitfulCoordinateSystems", path = "U/UnitfulCoordinateSystems" }
@@ -3008,6 +3009,7 @@ some amount of consideration when choosing package names.
 44db15ec-78df-42c5-8c4e-36d253f36098 = { name = "LoggingCommon", path = "L/LoggingCommon" }
 44e12807-9a19-5591-91cf-c1b4fb89ce64 = { name = "AcceleratedArrays", path = "A/AcceleratedArrays" }
 44e31299-2c53-5a9b-9141-82aa45d7972f = { name = "DayCounts", path = "D/DayCounts" }
+44e8cb2c-dfab-4825-9c70-d4808a591196 = { name = "JetReconstruction", path = "J/JetReconstruction" }
 44eb87bc-f37b-45e8-9f53-3bcb453a652d = { name = "RepoSnapshots", path = "R/RepoSnapshots" }
 44ee3b1c-bc02-53fa-8355-8e347616e15e = { name = "GeophysicalFlows", path = "G/GeophysicalFlows" }
 44f9e87b-acd6-44e6-b5b0-e1db9a6b2dd4 = { name = "WaveFD", path = "W/WaveFD" }
@@ -10141,6 +10143,7 @@ e9a6253c-8580-4d32-9898-8661bb511710 = { name = "SciMLNLSolve", path = "S/SciMLN
 e9ad47b2-a301-5fb7-a0bd-6eece649b37c = { name = "libcgal_julia_jll", path = "jll/L/libcgal_julia_jll" }
 e9b0fb4c-9cb7-4f61-9c14-701a41c684d7 = { name = "Bernstein", path = "B/Bernstein" }
 e9b4b195-f5cd-427c-8076-5358c553c37f = { name = "Fenrir", path = "F/Fenrir" }
+e9b70463-8ccb-4e30-a2e2-0d1ec8db6536 = { name = "Open62541", path = "O/Open62541" }
 e9bf6461-d004-4b32-878f-fe25c44bfa3e = { name = "Earth2014", path = "E/Earth2014" }
 e9bfd9a4-9025-4baf-81dc-99e507987dd3 = { name = "GeneralizedMonteCarlo", path = "G/GeneralizedMonteCarlo" }
 e9c4abe8-3893-4664-acb8-58f49d1e9fc0 = { name = "FFTInterpolations", path = "F/FFTInterpolations" }
@@ -10815,6 +10818,7 @@ fb1137e3-90a6-46ce-a672-6e1e53d120f2 = { name = "MRIOperators", path = "M/MRIOpe
 fb13fc95-9a72-5e81-90ef-432a29d7f4c2 = { name = "StanDiagnose", path = "S/StanDiagnose" }
 fb18ad0a-c577-441c-b4b0-b42a431f6d4f = { name = "NumericalAnalysis", path = "N/NumericalAnalysis" }
 fb1930eb-fbb4-57f4-9ccd-93264b9fcc29 = { name = "htscodecs_jll", path = "jll/H/htscodecs_jll" }
+fb1aa66a-603c-4c1d-9bc4-66947c7b08dd = { name = "WithAlloc", path = "W/WithAlloc" }
 fb202ad0-d22e-11eb-2fc2-a7d76729265e = { name = "DoseCalculators", path = "D/DoseCalculators" }
 fb24a613-cb95-4ee3-a029-2b7ba7763d4b = { name = "AndTraits", path = "A/AndTraits" }
 fb2f1d7b-1de9-45a3-b106-388808110f78 = { name = "Porta", path = "P/Porta" }
