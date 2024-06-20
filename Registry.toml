@@ -1607,6 +1607,7 @@ some amount of consideration when choosing package names.
 24f4c3ab-28f3-4779-ba6e-75fbc5297b09 = { name = "SlimeMoldOptim", path = "S/SlimeMoldOptim" }
 24f65c1e-0a10-5d3d-8a1f-a83399f3fced = { name = "SuffixArrays", path = "S/SuffixArrays" }
 24f86df5-245d-5634-a4cc-32433d9800b3 = { name = "oneAPI_Support_Headers_jll", path = "jll/O/oneAPI_Support_Headers_jll" }
+2502db7c-e51e-5cc5-b107-5f8e6dbfe9b6 = { name = "LAStools_jll", path = "jll/L/LAStools_jll" }
 25055022-b8af-4985-a550-c8f3f9f56f04 = { name = "DrugInteractions", path = "D/DrugInteractions" }
 251d5f9e-10c1-4699-ba24-e0ad168fa3e4 = { name = "EvalMetrics", path = "E/EvalMetrics" }
 251f48c7-f5a4-5bc8-b6b6-ff4797c45649 = { name = "SMCExamples", path = "S/SMCExamples" }
@@ -2478,6 +2479,7 @@ some amount of consideration when choosing package names.
 3890dd07-cc9a-5220-ba41-7d914d0b28d4 = { name = "tree_sitter_html_jll", path = "jll/T/tree_sitter_html_jll" }
 3894bb1e-daea-4181-948f-3877d7a6e5a8 = { name = "FvCFD", path = "F/FvCFD" }
 3895d2a7-ec45-59b8-82bb-cfc6a382f9b3 = { name = "CUDAapi", path = "C/CUDAapi" }
+389a429b-44cc-5496-a6f5-f62ac9baf48b = { name = "libCppInterOpExtra_jll", path = "jll/L/libCppInterOpExtra_jll" }
 389c4311-7670-4ca7-a1b4-f34bb8a2527a = { name = "KeplerGL", path = "K/KeplerGL" }
 38a0872c-fafd-5507-99b7-5cae04c321c8 = { name = "NanoVG_jll", path = "jll/N/NanoVG_jll" }
 38a345b3-de98-5d2b-a5d3-14cd9215e700 = { name = "Libuuid_jll", path = "jll/L/Libuuid_jll" }
@@ -4542,6 +4544,7 @@ some amount of consideration when choosing package names.
 69024149-9ee7-55f6-a4c4-859efe599b68 = { name = "StringEncodings", path = "S/StringEncodings" }
 6912e4f1-e036-58b0-9138-08d1e6358ea9 = { name = "Espresso", path = "E/Espresso" }
 691e61f8-6502-44a1-a143-5276a0aa0dc4 = { name = "EPOCHInput", path = "E/EPOCHInput" }
+69275a5b-71b6-5a9c-a287-c8fd9491cd23 = { name = "patchutils_jll", path = "jll/P/patchutils_jll" }
 692b3bcd-3c85-4b1f-b108-f13ce0eb3210 = { name = "JLLWrappers", path = "J/JLLWrappers" }
 69311175-8ceb-4e66-8d4a-fec439d19437 = { name = "AppliGeneralLedger", path = "A/AppliGeneralLedger" }
 69381cfd-d032-43bc-afd6-efe925dccc54 = { name = "TinyGibbs", path = "T/TinyGibbs" }
@@ -4980,6 +4983,7 @@ some amount of consideration when choosing package names.
 72694564-f60b-4882-9057-f9f0ff647ee8 = { name = "RobotVisualizer", path = "R/RobotVisualizer" }
 72696420-646e-6120-6e77-6f6420746567 = { name = "FileTrees", path = "F/FileTrees" }
 7269a6da-0436-5bbc-96c2-40638cbb6118 = { name = "MeshIO", path = "M/MeshIO" }
+726cd793-0c59-4a7a-97d2-1baad301d093 = { name = "DynamicModelTestUtils", path = "D/DynamicModelTestUtils" }
 726dbf0d-6eb6-41af-b36c-cd770e0f00cc = { name = "LicenseCheck", path = "L/LicenseCheck" }
 7277111d-0ca7-4af3-9cd2-5d6e94f85dba = { name = "WorldVocoder", path = "W/WorldVocoder" }
 727e6d20-b764-4bd8-a329-72de5adea6c7 = { name = "SimpleNonlinearSolve", path = "S/SimpleNonlinearSolve" }
@@ -5524,6 +5528,7 @@ some amount of consideration when choosing package names.
 7e6bc812-129d-48ed-802a-d741917feb1c = { name = "PandasJSON", path = "P/PandasJSON" }
 7e732cdd-9a46-54ef-932c-559ab8d83ddb = { name = "AllanDeviations", path = "A/AllanDeviations" }
 7e76a0d4-f3c7-5321-8279-8d96eeed0f29 = { name = "Libglvnd_jll", path = "jll/L/Libglvnd_jll" }
+7e85a9e7-c65d-495e-8ec0-baa06f07ebbf = { name = "LearningSchedules", path = "L/LearningSchedules" }
 7e88e5ca-120e-58e7-9660-b2187fd466c0 = { name = "SDL2_mixer_jll", path = "jll/S/SDL2_mixer_jll" }
 7e9258e2-c4b0-4fc1-89eb-9ad7f6b40598 = { name = "TermStructureModels", path = "T/TermStructureModels" }
 7e930afe-c91a-4d40-8977-8548870aff83 = { name = "BootlegCassette", path = "B/BootlegCassette" }
@@ -7548,6 +7553,7 @@ ae81ac8f-d209-56e5-92de-9978fef736f9 = { name = "ASL_jll", path = "jll/A/ASL_jll
 ae83496e-abbd-5b27-8e4c-ced0103e1cfe = { name = "ATKmm_jll", path = "jll/A/ATKmm_jll" }
 ae8a6b66-6d5b-48e8-98b1-80a7170c1f48 = { name = "SparseADRules", path = "S/SparseADRules" }
 ae8d54c2-7ccd-5906-9d76-62fc9837b5bc = { name = "Luxor", path = "L/Luxor" }
+ae913f53-5f59-5f3b-81b1-950d2d33782a = { name = "polyfill_glibc_jll", path = "jll/P/polyfill_glibc_jll" }
 ae947f86-e600-46c5-84d9-4ddc2fc15820 = { name = "DroughtIndices", path = "D/DroughtIndices" }
 ae98c720-c025-4a4a-838c-29b094483192 = { name = "Jieko", path = "J/Jieko" }
 aea05ee4-eee8-4bb2-9be1-ccb376bfd141 = { name = "LightLearn", path = "L/LightLearn" }
