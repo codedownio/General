@@ -1054,6 +1054,7 @@ some amount of consideration when choosing package names.
 179dd4c9-9988-5cd9-88b2-3b95f65d2a72 = { name = "Bloaty_jll", path = "jll/B/Bloaty_jll" }
 17a086e9-ed03-4f30-ab88-8b63f0f6126c = { name = "MLJParticleSwarmOptimization", path = "M/MLJParticleSwarmOptimization" }
 17a596ad-87cd-578c-9b6d-01108c31dc04 = { name = "ChebyshevApprox", path = "C/ChebyshevApprox" }
+17afcda4-a678-4b99-aabd-b1f8835dcb1e = { name = "IDFCurves", path = "I/IDFCurves" }
 17b2198d-36ea-452c-8144-ba1790da919f = { name = "Scalpels", path = "S/Scalpels" }
 17b45ede-fd0d-54ef-b825-8cf9fc64da95 = { name = "RLEVectors", path = "R/RLEVectors" }
 17bed46d-0ab5-4cd4-b792-a5c4b8547c6d = { name = "MLJSerialization", path = "M/MLJSerialization" }
@@ -2371,6 +2372,7 @@ some amount of consideration when choosing package names.
 35f9db7c-caf0-4b8b-9aa8-b55447bc07d3 = { name = "CurrencyAmounts", path = "C/CurrencyAmounts" }
 35fa313e-aa48-52ea-bc82-ddb91c7db87b = { name = "Materials", path = "M/Materials" }
 35fd387a-780d-5580-bc3c-2dd06d6487c2 = { name = "LCIO_jll", path = "jll/L/LCIO_jll" }
+36161bb8-d084-4d22-844f-8ce7d076efe9 = { name = "Microstates", path = "M/Microstates" }
 36230cab-47f6-4611-a9ad-d42316f9a74f = { name = "Repotomata", path = "R/Repotomata" }
 3632ec16-99db-4259-aa88-30b9105699f8 = { name = "CoinbasePro", path = "C/CoinbasePro" }
 36347407-b186-4a6a-8c98-4f4567861712 = { name = "ZigZagBoomerang", path = "Z/ZigZagBoomerang" }
@@ -5241,6 +5243,7 @@ some amount of consideration when choosing package names.
 7806a523-6efd-50cb-b5f6-3fa6f1930dbb = { name = "DecisionTree", path = "D/DecisionTree" }
 7806f430-7229-459c-b2e6-df35e8e4eb5d = { name = "NetworkHistogram", path = "N/NetworkHistogram" }
 7809f980-de1b-4f9a-8451-85f041491431 = { name = "GraphNetCore", path = "G/GraphNetCore" }
+780baa95-dd42-481b-93db-80fe3d88832c = { name = "RandomFeatureMaps", path = "R/RandomFeatureMaps" }
 780c37f4-4e5a-43de-9e79-65c261e525a4 = { name = "Carlo", path = "C/Carlo" }
 781609d7-10c4-51f6-84f2-b8444358ff6d = { name = "GMP_jll", path = "jll/G/GMP_jll" }
 781a26e1-49f4-409a-8f4c-c3159d78c17e = { name = "MixedModelsExtras", path = "M/MixedModelsExtras" }
@@ -5800,6 +5803,7 @@ some amount of consideration when choosing package names.
 84cdf194-f1a7-4248-80dd-8c89ca764f78 = { name = "EigenShow", path = "E/EigenShow" }
 84d23798-d00f-4e9b-a82e-be69778c030a = { name = "OmegaCore", path = "O/OmegaCore" }
 84d37b2b-9fed-4c25-9b89-de30dae39924 = { name = "NetPromoterScore", path = "N/NetPromoterScore" }
+84d5bf51-c9fe-456b-b992-3a1345f8cdeb = { name = "CirculantAttention", path = "C/CirculantAttention" }
 84d67a5e-1aa2-4817-a501-81e0ebf70bff = { name = "NodeCall", path = "N/NodeCall" }
 84d6cd60-beca-5f49-93c5-789031781a2d = { name = "Xorg_inputproto_jll", path = "jll/X/Xorg_inputproto_jll" }
 84d730a5-1eb9-4187-a799-27dd07f33a14 = { name = "GeneratedExpressions", path = "G/GeneratedExpressions" }
@@ -6672,6 +6676,7 @@ some amount of consideration when choosing package names.
 9a7e659c-8ee8-5706-894e-f68f43bc57ea = { name = "Proj4", path = "P/Proj4" }
 9a84b867-ccd3-531b-bb38-095e36150902 = { name = "ISL_jll", path = "jll/I/ISL_jll" }
 9a8bc11e-79be-5b39-94d7-1ccc349a1a85 = { name = "DataStreams", path = "D/DataStreams" }
+9a8c767f-158d-41a6-96f9-54dc897bf7e9 = { name = "PrecompileAfterUpdate", path = "P/PrecompileAfterUpdate" }
 9a962f9c-6df0-11e9-0e5d-c546b8b5ee8a = { name = "DataAPI", path = "D/DataAPI" }
 9a9db56c-8f71-5460-add5-cb450131785e = { name = "Rectangle", path = "R/Rectangle" }
 9a9fc9a6-283d-47e9-a2f6-b3a44e559ea3 = { name = "TimeAxes", path = "T/TimeAxes" }
@@ -10084,6 +10089,7 @@ e813748c-f071-5ac4-9ddd-9e9e72545407 = { name = "SassC_jll", path = "jll/S/SassC
 e814f24e-44b0-11e9-2fd5-aba2b6113d95 = { name = "DirectionalStatistics", path = "D/DirectionalStatistics" }
 e82bed00-89d9-4bf2-a298-ae594e22fac7 = { name = "GalacticEvolutionary", path = "G/GalacticEvolutionary" }
 e83058a5-5d84-4d47-98c5-f4cddc4c1074 = { name = "IsoPkg", path = "I/IsoPkg" }
+e837618a-1c15-48db-beb0-68297dffdb28 = { name = "BatchAssign", path = "B/BatchAssign" }
 e840c479-728b-4aa1-8e51-d6f149480f58 = { name = "TwiliteTimeline", path = "T/TwiliteTimeline" }
 e850a1a4-d859-11e8-3d54-a195e6d045d3 = { name = "GpABC", path = "G/GpABC" }
 e85266a6-1825-490b-a80e-9b9469c53660 = { name = "PyBraket", path = "P/PyBraket" }
