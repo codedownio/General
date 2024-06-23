@@ -2805,6 +2805,7 @@ some amount of consideration when choosing package names.
 3fc4dfc6-bd63-4703-97f2-4579ab7691c1 = { name = "ReactionCommons", path = "R/ReactionCommons" }
 3fc713dc-8771-5a7b-b2d9-79d2995ff451 = { name = "REPLCompletions", path = "R/REPLCompletions" }
 3fca794e-44fa-49a6-b6a0-8cd45572ba0a = { name = "ProfileLikelihood", path = "P/ProfileLikelihood" }
+3fdc3add-cc48-55bb-9161-26699b513878 = { name = "strobealign_jll", path = "jll/S/strobealign_jll" }
 3fdf5847-2998-4bb9-885b-ec39b41f41a6 = { name = "WhittleLikelihoodInference", path = "W/WhittleLikelihoodInference" }
 3fe64909-d7a1-4096-9b7d-7a0f12cf0f6b = { name = "NCCL", path = "N/NCCL" }
 3fee2672-df33-422b-aa65-d915eeac013a = { name = "SurrogatesRandomForest", path = "S/SurrogatesRandomForest" }
@@ -8928,6 +8929,7 @@ cd0106a6-6d98-567f-99b2-156dd1635c57 = { name = "ExpectationStubs", path = "E/Ex
 cd092912-fa1d-4500-ad73-daf1b0b0bfff = { name = "HorseML", path = "H/HorseML" }
 cd156443-31ad-4f6f-850f-a93ee5f75905 = { name = "Karnak", path = "K/Karnak" }
 cd2553d2-8bef-4d93-8a38-c62f17d5ad23 = { name = "ITensorVisualizationBase", path = "I/ITensorVisualizationBase" }
+cd26b91b-75b4-4f6e-a355-d2a0d136006d = { name = "IPGBs", path = "I/IPGBs" }
 cd27a545-1e2a-5997-b51f-f9caa06aeab2 = { name = "NonUniformRandomVariateGeneration", path = "N/NonUniformRandomVariateGeneration" }
 cd3eb016-35fb-5094-929b-558a96fad6f3 = { name = "HTTP", path = "H/HTTP" }
 cd4130c4-8d21-11e9-2a29-61e008680c2d = { name = "GAPTypes", path = "G/GAPTypes" }
@@ -9991,6 +9993,7 @@ e5ac4fe4-a920-5659-9bf8-f9f73e9e79ce = { name = "SCIP_jll", path = "jll/S/SCIP_j
 e5add9ea-9f03-521a-be84-f8c1bde3cbe9 = { name = "LevelDB_jll", path = "jll/L/LevelDB_jll" }
 e5aedecb-f6c0-4c91-b6ff-fbae4296f459 = { name = "PeriodicSchurDecompositions", path = "P/PeriodicSchurDecompositions" }
 e5af9688-3aeb-5ed5-8c7e-253e55323d3e = { name = "Gnuplot_jll", path = "jll/G/Gnuplot_jll" }
+e5afb96c-f319-4582-8667-2a6c7d02249d = { name = "LazyReports", path = "L/LazyReports" }
 e5bec534-b9b5-4198-8c6c-e8157877c5d1 = { name = "Pylustrator", path = "P/Pylustrator" }
 e5c7262c-e9d2-5620-ad8e-1af14eb8a8e3 = { name = "Dolang", path = "D/Dolang" }
 e5cc3859-2e89-4a16-aeca-5b21eb6ba5f1 = { name = "SubglobalSensitivityAnalysis", path = "S/SubglobalSensitivityAnalysis" }
