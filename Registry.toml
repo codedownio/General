@@ -2184,6 +2184,7 @@ some amount of consideration when choosing package names.
 31cdf514-beb7-4750-89db-dda9d2eb8d3d = { name = "StructWalk", path = "S/StructWalk" }
 31ce9bba-fd9d-44a1-b005-f5f509afda38 = { name = "Sparlectra", path = "S/Sparlectra" }
 31d3d393-e656-4614-8ab7-f376885a6db2 = { name = "CartesianDomains", path = "C/CartesianDomains" }
+31d768e5-ae28-4338-b319-fc9871ebca58 = { name = "ApproximatingMapsBetweenLinearSpaces", path = "A/ApproximatingMapsBetweenLinearSpaces" }
 31d8bc61-a8a5-4aaa-ae43-a3b73cb73fef = { name = "CommonLicenses", path = "C/CommonLicenses" }
 31df374a-5bce-54dc-914a-f687be069de8 = { name = "Getopt", path = "G/Getopt" }
 31e2f376-db9e-427a-b76e-a14f56347a14 = { name = "PredefinedDynamicalSystems", path = "P/PredefinedDynamicalSystems" }
@@ -4831,6 +4832,7 @@ some amount of consideration when choosing package names.
 6ef1bc8b-493b-44e1-8d40-549aa65c4b41 = { name = "Scanf", path = "S/Scanf" }
 6ef6ca0d-6ad7-5ff6-b225-e928bfa0a386 = { name = "NMF", path = "N/NMF" }
 6efb3b9f-b065-4dd1-b1a5-fac2350e161b = { name = "Forecast", path = "F/Forecast" }
+6f00a2c5-ea4a-46bf-9183-91b7b57a087f = { name = "SimplePlutoInclude", path = "S/SimplePlutoInclude" }
 6f00c28b-6bed-4403-80fa-30e0dc12f317 = { name = "DiagrammaticEquations", path = "D/DiagrammaticEquations" }
 6f0a0517-dbc2-4a7a-8a20-99ae7f27e911 = { name = "OptimizationGCMAES", path = "O/OptimizationGCMAES" }
 6f0c0536-3c2c-4762-a987-c605a8a6f898 = { name = "BattMo", path = "B/BattMo" }
@@ -10865,6 +10867,7 @@ fb59780d-f43e-4e99-95bf-76de9f0a287a = { name = "Osnaps", path = "O/Osnaps" }
 fb686558-2515-59ef-acaa-46db3789a887 = { name = "RandomExtensions", path = "R/RandomExtensions" }
 fb6a15b2-703c-40df-9091-08a04967cfa9 = { name = "CloseOpenIntervals", path = "C/CloseOpenIntervals" }
 fb740163-aa3c-59c1-9c12-c3f890714cde = { name = "StanModels", path = "S/StanModels" }
+fb74042b-437e-4c5b-88cf-d4e2beb394d5 = { name = "Inti", path = "I/Inti" }
 fb77eaff-e24c-56d4-86b1-d163f2edb164 = { name = "Sundials_jll", path = "jll/S/Sundials_jll" }
 fb8f903a-0164-4e73-9ffe-431110250c3b = { name = "Snowball", path = "S/Snowball" }
 fb98f0d0-f82c-4729-879a-95be0d8634ee = { name = "AddInit", path = "A/AddInit" }
