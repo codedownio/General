@@ -4114,6 +4114,7 @@ some amount of consideration when choosing package names.
 5e7992ee-18b2-4301-9ba0-4f17696dc75a = { name = "PBWDeformations", path = "P/PBWDeformations" }
 5e7a79f3-ee03-5374-bd42-db9a52b6e959 = { name = "LinearTimeVaryingModelsBase", path = "L/LinearTimeVaryingModelsBase" }
 5e8e706b-2fa9-4c18-afb5-213c5db89150 = { name = "Rocketeer", path = "R/Rocketeer" }
+5e91a2ef-9aa0-5e70-a688-1b4db15e1463 = { name = "PresentationScheduling", path = "P/PresentationScheduling" }
 5ea003d0-0c30-4e5c-84d5-cc22d8d83890 = { name = "RxEnvironments", path = "R/RxEnvironments" }
 5ea955a8-74dc-49b5-be65-6ee01fc504f7 = { name = "SeqShuffle", path = "S/SeqShuffle" }
 5ead8e6a-226e-4abd-9fac-4ba193e998ab = { name = "SimpleValidations", path = "S/SimpleValidations" }
@@ -8902,6 +8903,7 @@ cc44fc10-d0fb-5545-af72-ba1cb661a341 = { name = "MultiscaleGraphSignalTransforms
 cc46b21f-1b17-51c2-b642-af74c3d3a8be = { name = "PowerDynamics", path = "P/PowerDynamics" }
 cc47b68c-3164-5771-a705-2bc0097375a0 = { name = "SimplePolynomials", path = "S/SimplePolynomials" }
 cc48e778-429c-5593-b60f-2bcf41d5649c = { name = "VerTeX", path = "V/VerTeX" }
+cc498e2a-d443-4943-8f26-2a8a0f3c7cdb = { name = "LASDatasets", path = "L/LASDatasets" }
 cc4d5295-06e1-420e-aa8e-2bd5f6f39c3c = { name = "TensorFactorizations", path = "T/TensorFactorizations" }
 cc50ea96-f961-4e72-b5ee-c2bc8a08302f = { name = "Proportions", path = "P/Proportions" }
 cc5db6c5-6ee2-4027-b902-77472ae9c2f7 = { name = "EfficientFrontier", path = "E/EfficientFrontier" }
@@ -9597,6 +9599,7 @@ dce04be8-c92d-5529-be00-80e4d2c0e197 = { name = "ArgCheck", path = "A/ArgCheck" 
 dce2f2bf-0ed4-5a0e-8af7-a90b827a9344 = { name = "libminc_jll", path = "jll/L/libminc_jll" }
 dce5fa8e-68ce-4431-a242-9469c69627a0 = { name = "MITgcm", path = "M/MITgcm" }
 dcf03e4a-d036-4ede-96c9-024e9e9eed12 = { name = "ComoniconZSHCompletion", path = "C/ComoniconZSHCompletion" }
+dcf425a8-86bf-4135-b17a-04ddca2f3b37 = { name = "SintPowerCase", path = "S/SintPowerCase" }
 dd074c01-bd9e-510d-b91d-361c690844c9 = { name = "battery_cli_jll", path = "jll/B/battery_cli_jll" }
 dd1544ca-2576-438c-a599-ae96278fd687 = { name = "ReinforcementLearningDatasets", path = "R/ReinforcementLearningDatasets" }
 dd192d2f-8180-539f-9fb4-cc70b1dcf69a = { name = "LibVPX_jll", path = "jll/L/LibVPX_jll" }
@@ -9820,6 +9823,7 @@ e234a932-2705-4c8f-8500-f312fba88976 = { name = "PublishOrPerish", path = "P/Pub
 e2403620-b030-4fa5-8994-0cb25fd74009 = { name = "LaguerreVoronoi", path = "L/LaguerreVoronoi" }
 e241e3f8-b5bc-4834-a945-877018c5ef6c = { name = "DogAPI", path = "D/DogAPI" }
 e248de7e-9197-5860-972e-353a2af44d75 = { name = "EffectSizes", path = "E/EffectSizes" }
+e24af43f-9fd5-4672-9264-a75f3ae40eb2 = { name = "Cartan", path = "C/Cartan" }
 e24b7630-0518-11e9-1346-1188d3abce50 = { name = "AtomicStructure", path = "A/AtomicStructure" }
 e24c0720-ea99-47e8-929e-571b494574d3 = { name = "ExponentialAction", path = "E/ExponentialAction" }
 e24f45a5-4790-5a38-8b2c-33d770a4e70f = { name = "InverseLaplace", path = "I/InverseLaplace" }
@@ -10542,6 +10546,7 @@ f37aa7dd-fb3b-4c75-b722-300831487a5c = { name = "BioSimplex", path = "B/BioSimpl
 f37d3882-d878-4a7b-89a5-2d9832311052 = { name = "TrueSkill", path = "T/TrueSkill" }
 f381a237-32a7-4d50-aa1c-abe0b395ff12 = { name = "SystemStats", path = "S/SystemStats" }
 f3857b5d-3a50-4050-98ae-54c465879683 = { name = "Lexicographic", path = "L/Lexicographic" }
+f386ec8f-7408-45ea-aa1c-e80969af901e = { name = "AtomsToolbox", path = "A/AtomsToolbox" }
 f387465c-e20c-5ab1-9210-5d86af51062a = { name = "EquilibriumMeasures", path = "E/EquilibriumMeasures" }
 f38cd097-35c0-4a4d-abf7-36f5cb14a6cb = { name = "ScoredTests", path = "S/ScoredTests" }
 f391c746-b838-4748-bbb5-9885c75b726e = { name = "NewlineLexers", path = "N/NewlineLexers" }
