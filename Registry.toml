@@ -16,6 +16,7 @@ some amount of consideration when choosing package names.
 000d9b38-65fe-4c81-bdb9-69f01f102479 = { name = "BayesHistogram", path = "B/BayesHistogram" }
 000eeb74-f857-587a-a816-be5685e97e75 = { name = "KCP_jll", path = "jll/K/KCP_jll" }
 001e2b2b-9a5a-4695-8244-d905e27b08dc = { name = "ProgressView", path = "P/ProgressView" }
+002418b5-1437-4398-8918-fc420664f8a4 = { name = "LevelDB2", path = "L/LevelDB2" }
 0038a6a5-a77d-50b4-8f67-3bd55e463950 = { name = "oneAPI_Level_Zero_jll", path = "jll/O/oneAPI_Level_Zero_jll" }
 00428148-03d9-50ae-bfb7-4a690d5612f1 = { name = "OrdinalGWAS", path = "O/OrdinalGWAS" }
 0047d930-76bf-11ea-1377-bb3cda807e9f = { name = "HeartRateVariability", path = "H/HeartRateVariability" }
@@ -887,6 +888,7 @@ some amount of consideration when choosing package names.
 1398eb57-c31f-488b-b7ed-988721cb81f1 = { name = "TypeVars", path = "T/TypeVars" }
 139e0cf6-64b2-48ae-acd2-4285c0bb47c3 = { name = "JuliaProjectFormatter", path = "J/JuliaProjectFormatter" }
 13b007ba-0ca8-5af2-9adf-bc6a6301e25a = { name = "FIB", path = "F/FIB" }
+13b2040c-5979-4bcf-93a6-c2323bf411ba = { name = "Spehulak", path = "S/Spehulak" }
 13b29641-ba3c-435b-b4fe-906d24f049a9 = { name = "HydrophoneCalibrations", path = "H/HydrophoneCalibrations" }
 13b2da74-5743-4fb0-a7fd-ee492c7bd322 = { name = "NetCDFTools", path = "N/NetCDFTools" }
 13bb3beb-38fe-5ca7-9a46-050a216300b1 = { name = "ViZDoom", path = "V/ViZDoom" }
@@ -1669,6 +1671,7 @@ some amount of consideration when choosing package names.
 263f7e6d-e369-49af-a86e-c85638573b76 = { name = "NeuralGraphicsGL", path = "N/NeuralGraphicsGL" }
 263fe934-28e1-4ae9-998a-c2629c5fede6 = { name = "TileProviders", path = "T/TileProviders" }
 264155e8-78a8-466a-aa59-c9b28c34d21a = { name = "Stencils", path = "S/Stencils" }
+26420b10-3f9f-4b54-bd85-e6b3d5a44d3c = { name = "RuleMiner", path = "R/RuleMiner" }
 26555902-eaa5-4ecd-84b7-aef517a82a82 = { name = "Postprocessing", path = "P/Postprocessing" }
 265b7df6-2be8-4c25-b607-723db51099b1 = { name = "SALTBase", path = "S/SALTBase" }
 26663084-47d3-540f-bd97-40ca743aafa4 = { name = "PoincareInvariants", path = "P/PoincareInvariants" }
@@ -1886,6 +1889,7 @@ some amount of consideration when choosing package names.
 2b2c4be0-e38c-5918-b8b4-9a308845a1e9 = { name = "Extrae_jll", path = "jll/E/Extrae_jll" }
 2b3700d1-4306-52e2-a478-c162f0c514be = { name = "aws_c_auth_jll", path = "jll/A/aws_c_auth_jll" }
 2b3899e7-9068-5c5c-a4f4-f7d195ee295c = { name = "DCEMRI", path = "D/DCEMRI" }
+2b41e42f-53d3-436c-aed0-ebb7c31b58f1 = { name = "StippleMarkdown", path = "S/StippleMarkdown" }
 2b41e42f-53d9-436c-aed0-ebb7c31b58f1 = { name = "StippleKeplerGL", path = "S/StippleKeplerGL" }
 2b460a1a-8a2b-45b2-b125-b5c536396eb9 = { name = "Jutul", path = "J/Jutul" }
 2b46c670-0004-47b5-bf0a-1741584931e9 = { name = "VMEC", path = "V/VMEC" }
@@ -2911,6 +2915,7 @@ some amount of consideration when choosing package names.
 429591f6-91af-11e9-00e2-59fbe8cec110 = { name = "ExactPredicates", path = "E/ExactPredicates" }
 4296d2f8-d960-4a51-97e7-b097944e4d59 = { name = "JqData", path = "J/JqData" }
 4296f080-e499-44ba-a02c-ae40015c44d5 = { name = "NonconvexPercival", path = "N/NonconvexPercival" }
+4297ee4d-0239-47d8-ba5d-195ecdf594fe = { name = "SymbolicAnalysis", path = "S/SymbolicAnalysis" }
 42a22799-231f-43e2-8d9d-80a724399a88 = { name = "QuantumStatePlots", path = "Q/QuantumStatePlots" }
 42a5c2e1-f365-4540-8ca5-3684de3ecd95 = { name = "ODEConvergenceTester", path = "O/ODEConvergenceTester" }
 42abab5c-8093-4643-9324-a21c2f6fbe28 = { name = "OILMMs", path = "O/OILMMs" }
@@ -7263,6 +7268,7 @@ a780ab42-b33a-11e9-16c1-a92d75b2a626 = { name = "QuantumESPRESSOParser", path = 
 a7812802-0625-4b9e-961c-d332478797e5 = { name = "PDEBase", path = "P/PDEBase" }
 a7847b3b-b7f1-4dd5-83c3-60e0aa0f8599 = { name = "LogicCircuits", path = "L/LogicCircuits" }
 a7891802-63bf-5f83-a64c-1e6309098446 = { name = "RE2_jll", path = "jll/R/RE2_jll" }
+a791c907-b98b-4e44-8f4d-e4c2362c6b2f = { name = "MemoryViews", path = "M/MemoryViews" }
 a7949054-b901-59c6-b8e3-7238c29bf7f0 = { name = "MXNet", path = "M/MXNet" }
 a79a9ddd-d50e-4d85-a979-5d85760e62a0 = { name = "SignalTemporalLogic", path = "S/SignalTemporalLogic" }
 a79dbac3-5528-457e-b637-ec38aefb197a = { name = "GOF3R", path = "G/GOF3R" }
@@ -10014,6 +10020,7 @@ e5cc3859-2e89-4a16-aeca-5b21eb6ba5f1 = { name = "SubglobalSensitivityAnalysis", 
 e5d154b4-4325-4737-9c37-b2b3515e42eb = { name = "SentinelExplorer", path = "S/SentinelExplorer" }
 e5d170eb-415a-4524-987b-12f1bce1ddab = { name = "MAGEMin_C", path = "M/MAGEMin_C" }
 e5d66e97-8c70-46bb-8b66-04a2d73ad782 = { name = "TableDistances", path = "T/TableDistances" }
+e5d671a7-4186-4f1a-bf88-c19b630da94f = { name = "BestieTemplate", path = "B/BestieTemplate" }
 e5d8e439-e7fa-4681-9c12-1c64bda517be = { name = "XXHashNative", path = "X/XXHashNative" }
 e5e0dc1b-0480-54bc-9374-aad01c23163d = { name = "Juno", path = "J/Juno" }
 e5e5f8be-2a6a-5994-adbb-5afbd0e30425 = { name = "MIPVerify", path = "M/MIPVerify" }
