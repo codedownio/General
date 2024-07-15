@@ -1079,6 +1079,7 @@ some amount of consideration when choosing package names.
 17f63090-eba8-4cc7-872a-3f6808909c39 = { name = "RayCaster", path = "R/RayCaster" }
 17faa8b8-622d-400d-9fe8-1e507a5fe3e9 = { name = "Polymath", path = "P/Polymath" }
 180207a7-b08e-5162-af94-7d62a04fe081 = { name = "libsharp2_jll", path = "jll/L/libsharp2_jll" }
+18031d04-943d-420a-99da-58315a5a21aa = { name = "OpenFST", path = "O/OpenFST" }
 18056a9e-ed0c-4ef3-9ad7-376a7fb08032 = { name = "MultiThreadedCaches", path = "M/MultiThreadedCaches" }
 181bd894-5b11-491a-bec3-9b1779d96000 = { name = "OndaBatches", path = "O/OndaBatches" }
 181c99d8-e21b-4ff3-b70b-c233eddec679 = { name = "Unfold", path = "U/Unfold" }
@@ -6998,6 +6999,7 @@ a07f4532-e2c9-11e9-2ea2-6d98fe4a1f21 = { name = "PosDefManifoldML", path = "P/Po
 a082159f-dd50-4f6d-a3c5-00c38fd36577 = { name = "GenieDeployDocker", path = "G/GenieDeployDocker" }
 a0859a10-ccb4-11e8-145d-674b3750773a = { name = "RootsAndPoles", path = "R/RootsAndPoles" }
 a08977f5-a20d-4b99-b11f-f5ea535e0575 = { name = "QuadratureRules", path = "Q/QuadratureRules" }
+a090a8c4-0549-4ee2-a6c2-f599d7ae654c = { name = "SequentialZfpCompression", path = "S/SequentialZfpCompression" }
 a09551c4-f815-4143-809e-dd1986753ba7 = { name = "CompactBasisFunctions", path = "C/CompactBasisFunctions" }
 a09fc81d-aa75-5fe9-8630-4744c3626534 = { name = "ImageCore", path = "I/ImageCore" }
 a0a7dd2c-ebf4-11e9-1f05-cf50bc540ca1 = { name = "SparseMatricesCSR", path = "S/SparseMatricesCSR" }
@@ -9149,6 +9151,7 @@ d1286fa9-018f-4163-8b95-1473a4173f0d = { name = "MetalSurfaceImpedance", path = 
 d13234e1-ff52-466f-9770-1615bbbda812 = { name = "PlateMotionRequests", path = "P/PlateMotionRequests" }
 d13bc2ba-d276-5c6f-8a1c-29ed04aab5d0 = { name = "Xorg_xextproto_jll", path = "jll/X/Xorg_xextproto_jll" }
 d13d08e5-712c-4367-96aa-3a4dbb4385aa = { name = "ImgHdr", path = "I/ImgHdr" }
+d13d708c-e6ca-4145-9b59-cdd1b3737971 = { name = "NautyTraces", path = "N/NautyTraces" }
 d1413c6f-1a60-4f18-acd6-8d361c31e2f3 = { name = "LandDataTools", path = "L/LandDataTools" }
 d145281a-7b66-43b1-b4e0-c06cc84e19a4 = { name = "NewsAPI", path = "N/NewsAPI" }
 d1454406-59df-5ea1-beac-c340f2130bc3 = { name = "Xorg_libXinerama_jll", path = "jll/X/Xorg_libXinerama_jll" }
@@ -9733,6 +9736,7 @@ dec02a44-0573-464b-9dcd-b0da4b5d2d2e = { name = "Hyperparameters", path = "H/Hyp
 dec2e30d-c3e4-4386-8d4a-5e4ccb406543 = { name = "GenieCache", path = "G/GenieCache" }
 dec300e5-7e5b-577b-bc13-c7c11ad250bc = { name = "OnlinePackage", path = "O/OnlinePackage" }
 dec3038e-29bc-11e9-2207-9f3d5855a202 = { name = "TraitSimulation", path = "T/TraitSimulation" }
+deca77a3-49e2-4fa7-ba04-95ade2bf29f1 = { name = "RogueWaveInfiniteNLS", path = "R/RogueWaveInfiniteNLS" }
 ded0fc24-dfea-4565-b1d9-79c027d14d84 = { name = "BVProblemLibrary", path = "B/BVProblemLibrary" }
 dedd4f52-e074-43bf-924d-d6bce14ad628 = { name = "GBIF2", path = "G/GBIF2" }
 dee08c22-ab7f-5625-9660-a9af2021b33f = { name = "RegionTrees", path = "R/RegionTrees" }
