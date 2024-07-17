@@ -1323,6 +1323,7 @@ some amount of consideration when choosing package names.
 1d30c219-805f-47bd-9cb8-33f291c94a4c = { name = "HighVoronoi", path = "H/HighVoronoi" }
 1d38b3a6-207b-531b-80e8-c83f48dafa73 = { name = "FLAC_jll", path = "jll/F/FLAC_jll" }
 1d40253f-d7d5-5bc2-be73-07f0f24a3532 = { name = "Pushover", path = "P/Pushover" }
+1d4aff4b-e088-40cb-b713-ffe4caf1580b = { name = "AbstractXsdTypes", path = "A/AbstractXsdTypes" }
 1d51b185-1a84-59cf-b84e-03b0e3da30b7 = { name = "DrawSimpleGraphs", path = "D/DrawSimpleGraphs" }
 1d56a567-eebb-4d79-96f4-589d6165ccdd = { name = "ChebyshevFiltering", path = "C/ChebyshevFiltering" }
 1d56ff18-86b0-54eb-9ca6-1c12e018e922 = { name = "strace_jll", path = "jll/S/strace_jll" }
@@ -2386,6 +2387,7 @@ some amount of consideration when choosing package names.
 35d66a44-7359-11ea-387b-f94ed747d8e0 = { name = "Fresa", path = "F/Fresa" }
 35d6a980-a343-548e-a6ea-1d62b119f2f4 = { name = "ColorSchemes", path = "C/ColorSchemes" }
 35d9aba7-3991-5541-aec2-52abade7e365 = { name = "Qt6WebSockets_jll", path = "jll/Q/Qt6WebSockets_jll" }
+35dc0263-cb5f-4c33-a114-1d7f54ab753e = { name = "QEDcore", path = "Q/QEDcore" }
 35e5bd01-9722-4017-9deb-64a5d32478ff = { name = "MultiComponentFlash", path = "M/MultiComponentFlash" }
 35e999c2-fdc2-5bcf-ab83-8b034bf9a5d1 = { name = "LHAPDF_jll", path = "jll/L/LHAPDF_jll" }
 35eb6272-8738-11e9-0051-6dceb7698eda = { name = "ConsoleInput", path = "C/ConsoleInput" }
@@ -2803,6 +2805,7 @@ some amount of consideration when choosing package names.
 3f428ce3-b273-4d47-9ed2-092cb711fea6 = { name = "VibrationGEPHelpers", path = "V/VibrationGEPHelpers" }
 3f4651c6-dca0-5abf-a9ca-128c6c1e6eb6 = { name = "ZipFlow_jll", path = "jll/Z/ZipFlow_jll" }
 3f465f53-8c2e-426b-b4f1-431dfde0fdf8 = { name = "NeighborJoining", path = "N/NeighborJoining" }
+3f482e55-661e-4eec-8a53-436578a72954 = { name = "NovaML", path = "N/NovaML" }
 3f48aabc-caa9-5088-9d68-3c6fc69eadfd = { name = "libtasn1_jll", path = "jll/L/libtasn1_jll" }
 3f49405f-012b-5ae6-ad9b-9087b1131e69 = { name = "Jfire", path = "J/Jfire" }
 3f4e10e2-61f2-5801-8945-23b9d642d0e6 = { name = "CMake_jll", path = "jll/C/CMake_jll" }
@@ -4189,6 +4192,7 @@ some amount of consideration when choosing package names.
 5f8afd5a-bb66-5d20-9595-63d13a19fd2b = { name = "MemoryArena", path = "M/MemoryArena" }
 5f906781-1e48-4758-8d00-55479429a6a5 = { name = "AddToField", path = "A/AddToField" }
 5f923234-c850-556d-bb4f-28324fa1959a = { name = "Fatou", path = "F/Fatou" }
+5f98b655-cc9a-415a-b60e-744165666948 = { name = "OptimalControl", path = "O/OptimalControl" }
 5f9c4118-ff96-4443-8e36-82746d603364 = { name = "SigmoidNumbers", path = "S/SigmoidNumbers" }
 5fa394f2-99ce-4e3a-9704-be7b3526889d = { name = "StomataModels", path = "S/StomataModels" }
 5fa4ca3b-1c55-51a6-87f0-d5811ecf545c = { name = "BulkSMS", path = "B/BulkSMS" }
@@ -6256,6 +6260,7 @@ some amount of consideration when choosing package names.
 8e6b2b91-af83-483e-ba35-d00930e4cf9b = { name = "FunctionChains", path = "F/FunctionChains" }
 8e6e46a0-107e-4f93-8296-97663f3953ce = { name = "BaytesMCMC", path = "B/BaytesMCMC" }
 8e6f2f06-34e2-40fe-8437-e396464d2a7f = { name = "Minc2", path = "M/Minc2" }
+8e776571-0c84-4d8d-842c-0d284f11a20a = { name = "PropertyGraphs", path = "P/PropertyGraphs" }
 8e7c35d0-a365-5155-bbbb-fb81a777f24e = { name = "BlockArrays", path = "B/BlockArrays" }
 8e80e5df-fef1-4887-b628-3eb47b49e5ff = { name = "GaussianRelations", path = "G/GaussianRelations" }
 8e81a8c7-bcc1-427a-a96d-044c48f48ed2 = { name = "Cn2An", path = "C/Cn2An" }
