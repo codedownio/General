@@ -945,6 +945,7 @@ some amount of consideration when choosing package names.
 14f4b459-b795-4db2-be2a-be7a7c74c78d = { name = "Text2Tex", path = "T/Text2Tex" }
 14f7f29c-3bd6-536c-9a0b-7339e30b5a3e = { name = "AMD", path = "A/AMD" }
 14fc9687-df25-4852-9e56-61a08c6e8132 = { name = "Namtso", path = "N/Namtso" }
+15052f3f-a82a-4ca3-bbc4-f478a3bd1ae2 = { name = "BOSS", path = "B/BOSS" }
 150a09a7-b056-4ea4-b4c3-781faca6e549 = { name = "WordErrorRate", path = "W/WordErrorRate" }
 150eb455-5306-5404-9cee-2592286d6298 = { name = "CoordinateTransformations", path = "C/CoordinateTransformations" }
 15111844-de3b-5229-b4ba-526f2f385dc9 = { name = "IntervalContractors", path = "I/IntervalContractors" }
@@ -1202,6 +1203,7 @@ some amount of consideration when choosing package names.
 1a297f60-69ca-5386-bcde-b61e274b549b = { name = "FillArrays", path = "F/FillArrays" }
 1a32220a-4ac3-442e-849d-1943511e16f7 = { name = "NextGP", path = "N/NextGP" }
 1a361701-5cf3-415b-af48-956f67dbd5f6 = { name = "MaxwellGuidedMode", path = "M/MaxwellGuidedMode" }
+1a3c8808-2843-4c72-af8e-d50ed15039bf = { name = "ManifoldGroupUtils", path = "M/ManifoldGroupUtils" }
 1a3ddb2d-74e3-57f3-a27b-e9b16291b4f2 = { name = "Xorg_libXpm_jll", path = "jll/X/Xorg_libXpm_jll" }
 1a49d507-8691-47fa-b95e-812ffcc74e70 = { name = "ClimateTasks", path = "C/ClimateTasks" }
 1a4ff6f1-5156-5f9a-8aa5-a2840611f610 = { name = "LLVM_assert_jll", path = "jll/L/LLVM_assert_jll" }
@@ -6177,6 +6179,7 @@ some amount of consideration when choosing package names.
 8c0df181-3ed8-49fb-8e60-811d535a551e = { name = "ScaledNumbersInput", path = "S/ScaledNumbersInput" }
 8c143463-af6f-456f-8aed-72447cb569d2 = { name = "XPORTA", path = "X/XPORTA" }
 8c1589a6-e1d0-11e8-3509-29fca4fccf6a = { name = "ExactWrightFisher", path = "E/ExactWrightFisher" }
+8c229dad-8b3a-4031-83d6-73545c88426d = { name = "Vizagrams", path = "V/Vizagrams" }
 8c3ed914-120a-47bd-8d72-56c743732853 = { name = "DPFEHM", path = "D/DPFEHM" }
 8c3f51a0-5c4f-440f-9c08-8c30078f3199 = { name = "Multiverses", path = "M/Multiverses" }
 8c44504f-1cba-4a08-a12a-8828b1581fee = { name = "ManifestUtilities", path = "M/ManifestUtilities" }
@@ -8084,6 +8087,7 @@ b8d15608-0852-4141-ae38-222578e2ed7b = { name = "BulkLMM", path = "B/BulkLMM" }
 b8d24480-b8ee-42fe-a917-db159b4b1a29 = { name = "GenericInstruments", path = "G/GenericInstruments" }
 b8d349fb-717b-4aac-a9b1-e1da4219c631 = { name = "SimpleContainerGenerator", path = "S/SimpleContainerGenerator" }
 b8d669dd-3d88-55df-ae05-b65fc3f9fff9 = { name = "CornerPlot", path = "C/CornerPlot" }
+b8f1d712-e88d-4f2a-8498-e66ce688ee29 = { name = "EphemerisSourcesBase", path = "E/EphemerisSourcesBase" }
 b8f27783-ece8-5eb3-8dc8-9495eed66fee = { name = "MathOptInterface", path = "M/MathOptInterface" }
 b8f752a5-abd5-43b6-a55b-e75efda20de0 = { name = "DitherPunk", path = "D/DitherPunk" }
 b8f7f481-73e0-42c6-b6bd-c66d3b4942cc = { name = "ParticleHolography", path = "P/ParticleHolography" }
@@ -10108,6 +10112,7 @@ e6530d7c-7faa-4ede-a0d6-9eff9baad396 = { name = "DLPipelines", path = "D/DLPipel
 e655511c-e992-5001-b8e2-2048e6aa15e9 = { name = "DiracNotation", path = "D/DiracNotation" }
 e6563dab-9ca1-5843-bde3-2ccf38d63843 = { name = "ThreeBodyDecays", path = "T/ThreeBodyDecays" }
 e65ccdef-c354-471a-8090-89bec1c20ec3 = { name = "LowRankMatrices", path = "L/LowRankMatrices" }
+e6614011-adc0-4f34-baa6-5a168cd5013f = { name = "DistributedWorkflows", path = "D/DistributedWorkflows" }
 e66e0078-7015-5450-92f7-15fbd957f2ae = { name = "CompilerSupportLibraries_jll", path = "jll/C/CompilerSupportLibraries_jll" }
 e670a858-c023-4621-870e-30d0f49b8322 = { name = "PopGenSims", path = "P/PopGenSims" }
 e6723b4c-ebff-59f1-b4b7-d97aa5274f73 = { name = "Meshing", path = "M/Meshing" }
