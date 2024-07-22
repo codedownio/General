@@ -2708,6 +2708,7 @@ some amount of consideration when choosing package names.
 3ccad509-8039-4f04-ad0e-35c379e37327 = { name = "InteractiveGeodynamics", path = "I/InteractiveGeodynamics" }
 3ccf6684-3f25-4581-8c58-114637dcab4a = { name = "TimeZoneFinder", path = "T/TimeZoneFinder" }
 3ccff026-9a20-11e9-1704-43e1c6ed0af5 = { name = "DynamicGridsInteract", path = "D/DynamicGridsInteract" }
+3cd48f03-9865-4243-ab2c-9fbbaa30d0d4 = { name = "SlottedRandomAccess", path = "S/SlottedRandomAccess" }
 3cd96dde-e98d-4713-81e9-a4a1b0235ce9 = { name = "UnROOT", path = "U/UnROOT" }
 3cdcf5f2-1ef4-517c-9805-6587b60abb01 = { name = "RecipesBase", path = "R/RecipesBase" }
 3cdde19b-5bb0-4aaf-8931-af3e248e098b = { name = "SIMDDualNumbers", path = "S/SIMDDualNumbers" }
@@ -9675,6 +9676,7 @@ dce2f2bf-0ed4-5a0e-8af7-a90b827a9344 = { name = "libminc_jll", path = "jll/L/lib
 dce5fa8e-68ce-4431-a242-9469c69627a0 = { name = "MITgcm", path = "M/MITgcm" }
 dcf03e4a-d036-4ede-96c9-024e9e9eed12 = { name = "ComoniconZSHCompletion", path = "C/ComoniconZSHCompletion" }
 dcf425a8-86bf-4135-b17a-04ddca2f3b37 = { name = "SintPowerCase", path = "S/SintPowerCase" }
+dcf505f5-2bf4-45cb-8fef-5f56a3c0e7fc = { name = "GivEmXL", path = "G/GivEmXL" }
 dd074c01-bd9e-510d-b91d-361c690844c9 = { name = "battery_cli_jll", path = "jll/B/battery_cli_jll" }
 dd1544ca-2576-438c-a599-ae96278fd687 = { name = "ReinforcementLearningDatasets", path = "R/ReinforcementLearningDatasets" }
 dd192d2f-8180-539f-9fb4-cc70b1dcf69a = { name = "LibVPX_jll", path = "jll/L/LibVPX_jll" }
@@ -10429,6 +10431,7 @@ eddce310-d14b-4c2d-aa06-cfe9e2f7af98 = { name = "SingleCell10x", path = "S/Singl
 ede5f01d-793e-4c47-9885-c447d1f18d6d = { name = "Xtals", path = "X/Xtals" }
 ede63266-ebff-546c-83e0-1c6fb6d0efc8 = { name = "Qt_jll", path = "jll/Q/Qt_jll" }
 ede81e08-c6d8-4fe3-94c2-f928d9d678ed = { name = "FlxQTL", path = "F/FlxQTL" }
+ede86a6c-608d-4331-8790-0f4b0558141a = { name = "PersonParameters", path = "P/PersonParameters" }
 edf0a622-c16b-410a-a162-e53dc16a76ae = { name = "IndexedFactorGraphs", path = "I/IndexedFactorGraphs" }
 edf6cd94-1a94-567d-837e-37d1f3b87eed = { name = "GAP_pkg_cddinterface_jll", path = "jll/G/GAP_pkg_cddinterface_jll" }
 edfb154a-8991-4155-9628-fd26c9c32bf2 = { name = "WGPUCanvas", path = "W/WGPUCanvas" }
@@ -11080,6 +11083,7 @@ fe294631-7164-4d0f-9497-e1b4dc4640c8 = { name = "Hamburg", path = "H/Hamburg" }
 fe2b3641-c6e9-460c-8da8-2838146e3f25 = { name = "SimpleStringScanners", path = "S/SimpleStringScanners" }
 fe33d248-b583-4bd1-8106-a6949c99f4d9 = { name = "XDGSpec", path = "X/XDGSpec" }
 fe3a0b7f-0e79-43cc-aa0f-33de5212abe5 = { name = "ElectronLiquid", path = "E/ElectronLiquid" }
+fe3e30a4-de68-41ff-a057-b00c4bb8fcbc = { name = "SmoQySynthAC", path = "S/SmoQySynthAC" }
 fe3fc30c-9b16-11e9-1c73-17dabf39f4ad = { name = "AstroImages", path = "A/AstroImages" }
 fe3fe864-1b39-11e9-20b8-1f96fa57382d = { name = "Extremes", path = "E/Extremes" }
 fe430cf8-67eb-422a-967a-4fec9d586e64 = { name = "DashDeploymentExample", path = "D/DashDeploymentExample" }
