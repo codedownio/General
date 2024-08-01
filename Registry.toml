@@ -1916,6 +1916,7 @@ some amount of consideration when choosing package names.
 2b46c670-0004-47b5-bf0a-1741584931e9 = { name = "VMEC", path = "V/VMEC" }
 2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736 = { name = "Sunny", path = "S/Sunny" }
 2b5bf9a6-f3f8-5352-af9c-82bb4af718d8 = { name = "CollisionDetection", path = "C/CollisionDetection" }
+2b5f0a26-aae2-5c4c-af55-bc6d20297121 = { name = "ModuleMixins", path = "M/ModuleMixins" }
 2b5f629d-d688-5b77-993f-72d75c75574e = { name = "DiffEqBase", path = "D/DiffEqBase" }
 2b613a20-8d2a-5290-b19f-e06f4bcc2e7d = { name = "OrbitalTrajectories", path = "O/OrbitalTrajectories" }
 2b6d1eac-7baa-5078-8adc-e6a3e659f14f = { name = "SingleFloats", path = "S/SingleFloats" }
@@ -4194,6 +4195,7 @@ some amount of consideration when choosing package names.
 5f0870c7-49c9-4542-b5f1-5d9ed4caea51 = { name = "ViterbiDecoder", path = "V/ViterbiDecoder" }
 5f129dbe-4c99-420f-990a-21e94701024b = { name = "MSTM3Runner", path = "M/MSTM3Runner" }
 5f19fa64-e0b3-455f-937a-ba40af0c08d8 = { name = "Clockwork", path = "C/Clockwork" }
+5f1e1ae2-5dfd-4ed6-a67a-be13e387a3fa = { name = "SLEEFMath", path = "S/SLEEFMath" }
 5f210a59-4c6a-4c2f-87d5-5cd98d51789a = { name = "AdaptiveDesignOptimization", path = "A/AdaptiveDesignOptimization" }
 5f2830c0-a9f2-11e9-177d-47448fa133db = { name = "ShapeFactory", path = "S/ShapeFactory" }
 5f30fb9f-668d-42ca-b792-67747b8fdcd1 = { name = "SIGPROCFiles", path = "S/SIGPROCFiles" }
@@ -8601,6 +8603,7 @@ c2d87ffe-efce-4f64-b293-8fcb5ddda528 = { name = "LightLattices", path = "L/Light
 c2e08473-88be-4f39-9d3c-afcdb6e3aeb8 = { name = "SolverLogging", path = "S/SolverLogging" }
 c2e53169-916a-425c-bc99-aa016d67d968 = { name = "DiscreteChoiceModels", path = "D/DiscreteChoiceModels" }
 c2e53296-7b14-11e9-1210-bddfa8111e1d = { name = "SuiteSparseGraphBLAS", path = "S/SuiteSparseGraphBLAS" }
+c2e61002-3542-480d-8b3c-5f05cc4f8554 = { name = "TestsForCodecPackages", path = "T/TestsForCodecPackages" }
 c2e960f2-a21d-557e-aa36-859d46eed7e8 = { name = "Elemental_jll", path = "jll/E/Elemental_jll" }
 c2e9c405-c068-5e7b-9b35-084fd074cae4 = { name = "Xorg_xcb_proto_jll", path = "jll/X/Xorg_xcb_proto_jll" }
 c300d64c-1c1d-5dc3-9d9e-1537157676b9 = { name = "Cling_jll", path = "jll/C/Cling_jll" }
