@@ -3388,6 +3388,7 @@ some amount of consideration when choosing package names.
 4c24e94e-21a7-4591-8ee4-d226b67258b2 = { name = "CALIPSO", path = "C/CALIPSO" }
 4c2ee4bc-ae8c-4f43-b820-7df96744ebfe = { name = "SolarGeometry", path = "S/SolarGeometry" }
 4c422213-1242-4325-9ff2-ab065d5354a7 = { name = "YAActL", path = "Y/YAActL" }
+4c4340ea-7f9e-46b4-8512-61f1f6c41a11 = { name = "Sainsc", path = "S/Sainsc" }
 4c445503-5c2d-5ebd-97f6-9e823778a91e = { name = "FastCDR_jll", path = "jll/F/FastCDR_jll" }
 4c47b132-0681-5a5d-b498-3afcf53fd314 = { name = "PhyloTrees", path = "P/PhyloTrees" }
 4c526841-e1e8-562c-bfa9-9f39d642e243 = { name = "PolynomialTestSystems", path = "P/PolynomialTestSystems" }
@@ -4558,6 +4559,7 @@ some amount of consideration when choosing package names.
 67601950-bd08-11e9-3c89-fd23fb4432d2 = { name = "Quadrature", path = "Q/Quadrature" }
 6768ce78-dd5b-4160-b677-5994b15e298d = { name = "Hopfields", path = "H/Hopfields" }
 6769671a-fce8-4286-b3f7-6099e1b1298a = { name = "YaoHIR", path = "Y/YaoHIR" }
+67697473-756c-6b61-6172-6b407461726b = { name = "PlutoTurtles", path = "P/PlutoTurtles" }
 676d8d29-539e-4f06-b848-7dd647dd5291 = { name = "AdaptiveSparseGrids", path = "A/AdaptiveSparseGrids" }
 6771c435-bc22-4842-b0c3-41852a255103 = { name = "GeoStatsFunctions", path = "G/GeoStatsFunctions" }
 6774de46-80ba-43f8-ba42-e41071ccfc5f = { name = "LieGroups", path = "L/LieGroups" }
@@ -6258,6 +6260,7 @@ some amount of consideration when choosing package names.
 8cf91db1-0219-5b69-b551-5a0ff3c32cce = { name = "Pukeko", path = "P/Pukeko" }
 8cf9e0f4-2236-4022-885f-e952f37830b5 = { name = "RandFieldStructFuncs", path = "R/RandFieldStructFuncs" }
 8d01e2c4-1bfe-4abb-85d1-ae030bc38508 = { name = "HalfIntegerArrays", path = "H/HalfIntegerArrays" }
+8d02dd3f-0ae5-4a36-8097-157a91f88471 = { name = "PhilipsDataList", path = "P/PhilipsDataList" }
 8d0d7f98-d412-5cd4-8397-071c807280aa = { name = "GaloisFields", path = "G/GaloisFields" }
 8d0e9305-38f4-5c97-8ceb-e1429a1a2d0c = { name = "Nuklear", path = "N/Nuklear" }
 8d120385-201d-43c1-a82b-e15c39505f50 = { name = "SqState", path = "S/SqState" }
@@ -6778,6 +6781,7 @@ some amount of consideration when choosing package names.
 9a0b12b7-583b-4f04-aa1f-d8551b6addc9 = { name = "GeometricBase", path = "G/GeometricBase" }
 9a0f1c46-06d5-4909-a5a3-ce25d3fa3284 = { name = "TrixiBase", path = "T/TrixiBase" }
 9a1356b0-3c82-5da3-b77c-7c198e8bd7ab = { name = "SuperLU_DIST_jll", path = "jll/S/SuperLU_DIST_jll" }
+9a158a65-591e-4f68-ac4f-9ffef2fc51f2 = { name = "Posets", path = "P/Posets" }
 9a15a9f4-ddd5-46ee-89fc-c219f813dd6f = { name = "HTMLSanitizer", path = "H/HTMLSanitizer" }
 9a18c034-6024-4f9e-89ee-87be330f4587 = { name = "SignedDistanceField", path = "S/SignedDistanceField" }
 9a22fb26-0b63-4589-b28e-8f9d0b5c3d05 = { name = "GibbsSeaWater", path = "G/GibbsSeaWater" }
@@ -7264,6 +7268,7 @@ a4e7ca57-d8d8-4f74-9c0b-0b18081c205e = { name = "QuantumESPRESSOFormatter", path
 a506da57-2f56-4b21-828f-08a84784c93c = { name = "IndependentComponentAnalysis", path = "I/IndependentComponentAnalysis" }
 a51aa0fd-4e3c-5386-b890-e753decda492 = { name = "Xorg_libXi_jll", path = "jll/X/Xorg_libXi_jll" }
 a51ab1cf-af8e-5615-a023-bc2c838bba6b = { name = "ICU_jll", path = "jll/I/ICU_jll" }
+a5223014-48d4-4ad6-9e99-a590982f2972 = { name = "PhilipsWorkspace", path = "P/PhilipsWorkspace" }
 a526e669-04d3-4846-9525-c66122c55f63 = { name = "TimespanLogging", path = "T/TimespanLogging" }
 a52b955f-5256-5bb0-8795-313e28591558 = { name = "cbindgen_jll", path = "jll/C/cbindgen_jll" }
 a52d4850-34f0-40c4-bafd-3adb601f862f = { name = "FastLocalCorrelationCoefficients", path = "F/FastLocalCorrelationCoefficients" }
