@@ -303,6 +303,7 @@ some amount of consideration when choosing package names.
 06905c2e-4b4a-4765-8bb9-c6b6b2b99b1d = { name = "ParametricBodies", path = "P/ParametricBodies" }
 06909019-6f44-4949-96fc-b9d9aaa02889 = { name = "GraphsFlows", path = "G/GraphsFlows" }
 069161ab-964a-4228-89a0-7a676f2e1f46 = { name = "ChemicalFormula", path = "C/ChemicalFormula" }
+06919feb-fec6-4e74-a260-ddb603bc7a1b = { name = "TypeDomainNaturalNumbers", path = "T/TypeDomainNaturalNumbers" }
 06971c4e-2824-4b19-bcf3-55442efb9bc7 = { name = "FastHistograms", path = "F/FastHistograms" }
 06985876-5285-5a41-9fcb-8948a742cc53 = { name = "Clp_jll", path = "jll/C/Clp_jll" }
 069b7b12-0de2-55c6-9aab-29f3d0a68a2e = { name = "FunctionWrappers", path = "F/FunctionWrappers" }
@@ -2656,6 +2657,7 @@ some amount of consideration when choosing package names.
 3b68f936-7ca7-4d01-8649-6fbe85730bea = { name = "QuasiPeriodicCrystals", path = "Q/QuasiPeriodicCrystals" }
 3b77e48d-c9ed-58bf-9cd3-a4bf8083278d = { name = "Intel_XED_jll", path = "jll/I/Intel_XED_jll" }
 3b7a836e-365b-5785-a47d-02c71176b4aa = { name = "PGFPlots", path = "P/PGFPlots" }
+3b7c519f-be5e-4159-a208-6486ce96bb37 = { name = "Kinbiont", path = "K/Kinbiont" }
 3b7eb3ab-5558-5250-ad56-7cbe1b8a43e3 = { name = "mpv_jll", path = "jll/M/mpv_jll" }
 3b83494e-c0a4-4895-918b-9157a7a085a1 = { name = "MadNLPMumps", path = "M/MadNLPMumps" }
 3b853605-1c98-4422-8364-4bd93ee0529e = { name = "VectorizedStatistics", path = "V/VectorizedStatistics" }
@@ -6864,6 +6866,7 @@ some amount of consideration when choosing package names.
 9be01004-c4f5-478b-abeb-cb32b114cf5e = { name = "LibCImGui", path = "L/LibCImGui" }
 9be31aac-5446-47db-bfeb-416acd2e4415 = { name = "Thrift2", path = "T/Thrift2" }
 9be66c26-f988-4649-80fc-f4721a4a33f2 = { name = "MRISampling", path = "M/MRISampling" }
+9bed6e46-0232-43fb-95ab-f63adf9bda0f = { name = "BeeDeeDee", path = "B/BeeDeeDee" }
 9bed79ab-e35b-4b7a-8527-918872a9571e = { name = "Curves", path = "C/Curves" }
 9c0b9be8-e31e-490f-90fe-77697562404d = { name = "Dataverse", path = "D/Dataverse" }
 9c0cb1da-21b1-4615-967b-153e03110a28 = { name = "CalciumScoring", path = "C/CalciumScoring" }
@@ -9880,6 +9883,7 @@ dfeb4ede-c75e-11e9-050d-41ab7a730e9e = { name = "PlanktonIndividuals", path = "P
 dff2f42d-5506-450f-a8d7-e8287f476a07 = { name = "HnswAnn", path = "H/HnswAnn" }
 dffbff30-506a-45ba-b474-e78cc8ad254e = { name = "EngThermBase", path = "E/EngThermBase" }
 e00cd5f1-6337-4131-8b37-28b2fe4cd6cb = { name = "IntegralsCuba", path = "I/IntegralsCuba" }
+e00e7eca-deca-4415-9dc4-9b3efe792c16 = { name = "AssociatedTests", path = "A/AssociatedTests" }
 e010f91f-06b9-52b3-bed3-bb1da186bddc = { name = "PLSRegressor", path = "P/PLSRegressor" }
 e01155f1-5c6f-4375-a9d8-616dd036575f = { name = "NLPModelsModifiers", path = "N/NLPModelsModifiers" }
 e018b62d-d9de-4a26-8697-af89c310ae38 = { name = "GeoParams", path = "G/GeoParams" }
