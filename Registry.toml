@@ -300,6 +300,7 @@ some amount of consideration when choosing package names.
 0672f53d-ad77-409a-bbb3-4bc94f101f4b = { name = "Hygese", path = "H/Hygese" }
 06784e46-84fc-5582-b8de-0e984192b79e = { name = "PlmDCA", path = "P/PlmDCA" }
 067cfa3b-fa88-53b2-a873-5b23b3a16e31 = { name = "NonlinearEigenproblems", path = "N/NonlinearEigenproblems" }
+0682c367-51f6-4d82-8bfe-b4722079e034 = { name = "Relationals", path = "R/Relationals" }
 06905c2e-4b4a-4765-8bb9-c6b6b2b99b1d = { name = "ParametricBodies", path = "P/ParametricBodies" }
 06909019-6f44-4949-96fc-b9d9aaa02889 = { name = "GraphsFlows", path = "G/GraphsFlows" }
 069161ab-964a-4228-89a0-7a676f2e1f46 = { name = "ChemicalFormula", path = "C/ChemicalFormula" }
@@ -1447,6 +1448,7 @@ some amount of consideration when choosing package names.
 1fe83854-81c0-42f7-afc9-71ba9af673ca = { name = "BioLab", path = "B/BioLab" }
 1febdd50-69ad-4f0a-8312-f316c31db602 = { name = "SupplyChainSimulation", path = "S/SupplyChainSimulation" }
 1fee779b-79a2-446d-a52f-d1aa38b3d5ab = { name = "Slacker", path = "S/Slacker" }
+1ffc817a-885e-4a73-a887-574cb954c7d7 = { name = "BcdiMeso", path = "B/BcdiMeso" }
 200436fd-7f69-44ff-b485-688a1ddb115b = { name = "KeplerTools", path = "K/KeplerTools" }
 20087e1a-bb94-462b-b900-33d17a750383 = { name = "CalibrationErrorsDistributions", path = "C/CalibrationErrorsDistributions" }
 20179301-8dfd-43f5-a10b-08fddd2c788a = { name = "BoltzmannCollisionIntegral", path = "B/BoltzmannCollisionIntegral" }
@@ -1551,6 +1553,7 @@ some amount of consideration when choosing package names.
 22bb73d7-edb2-5785-ba1e-7d60d6824784 = { name = "SVR", path = "S/SVR" }
 22bb929c-8bcf-4852-b455-eb3e1675e09c = { name = "SyntacticModels", path = "S/SyntacticModels" }
 22c333fb-6c73-5509-a736-78cf55b615ef = { name = "BracedErrors", path = "B/BracedErrors" }
+22c7c615-cf67-4787-b800-cc81b4f1a63f = { name = "GeoGrids", path = "G/GeoGrids" }
 22cc3f58-1757-4700-bb45-2032706e5a8d = { name = "FlashRank", path = "F/FlashRank" }
 22cec73e-a1b8-11e9-2c92-598750a2cf9c = { name = "InitialValues", path = "I/InitialValues" }
 22d8b318-f366-56fb-a292-a93f7d76c017 = { name = "OAuth", path = "O/OAuth" }
@@ -7420,6 +7423,7 @@ a8343a65-b356-5275-be17-d741438d126c = { name = "EntityComponentSystem", path = 
 a83860b7-747b-57cf-bf1f-3e79990d037f = { name = "LibOSXUnwind_jll", path = "jll/L/LibOSXUnwind_jll" }
 a83a3aaf-d014-45d2-af27-d8a782db1bf5 = { name = "PkgVersionHelper", path = "P/PkgVersionHelper" }
 a8468747-bd6f-53ef-9e5c-744dbc5c59e7 = { name = "QHull", path = "Q/QHull" }
+a85f0e34-77fa-494d-9980-9155dceff362 = { name = "Refraction", path = "R/Refraction" }
 a867eb61-6e20-512e-ac9f-cfafa65876cc = { name = "SFML_jll", path = "jll/S/SFML_jll" }
 a8697a1a-c835-4068-9491-e8abc49d0056 = { name = "QSymbolicsBase", path = "Q/QSymbolicsBase" }
 a86d3b49-e43c-5f8d-b693-d32ec726be17 = { name = "FlexibilityAnalysis", path = "F/FlexibilityAnalysis" }
@@ -8102,6 +8106,7 @@ b76368a9-c21b-4c44-a110-0e9f579e383e = { name = "RandomPhaseApproximation", path
 b766470a-6a6d-4ee5-8c70-1dce02664e06 = { name = "NeuralQuantumState", path = "N/NeuralQuantumState" }
 b76b70d0-c2e6-4f10-aa24-8ebd5c87d188 = { name = "XSLT", path = "X/XSLT" }
 b7825cb4-7108-404a-9145-f310ea34db32 = { name = "RadioPropagation", path = "R/RadioPropagation" }
+b788224a-5de6-46e5-9aeb-ad1a5171efd9 = { name = "BcdiTrad", path = "B/BcdiTrad" }
 b790e538-3052-4cb9-9f1f-e05859a455f5 = { name = "CCDReduction", path = "C/CCDReduction" }
 b792745b-7241-45be-ba96-70eb67e8468f = { name = "SMDGraphs", path = "S/SMDGraphs" }
 b792d7bf-f512-5dba-8a02-6d8084434f1d = { name = "cminpack_jll", path = "jll/C/cminpack_jll" }
@@ -8284,6 +8289,7 @@ bbdedc48-cb31-4a37-9fe3-b015aecc8dd3 = { name = "TrigPolys", path = "T/TrigPolys
 bbe1b2b0-80d5-5705-9e4b-b28efe83ce82 = { name = "libseccomp_jll", path = "jll/L/libseccomp_jll" }
 bbe32c30-8a1d-11e9-18de-655e918680e9 = { name = "Marconi", path = "M/Marconi" }
 bbf38c07-751d-5a2b-a7fc-5c0acd9bd57e = { name = "UASM_jll", path = "jll/U/UASM_jll" }
+bbf590c4-e513-4bbe-9b18-05decba2e5d8 = { name = "OrdinaryDiffEqCore", path = "O/OrdinaryDiffEqCore" }
 bbf7d656-a473-5ed7-a52c-81e309532950 = { name = "CommonSubexpressions", path = "C/CommonSubexpressions" }
 bc03c374-6515-4bc9-983b-02908b112166 = { name = "TestContexts", path = "T/TestContexts" }
 bc04555c-6b3a-48e0-9330-69d76e9b444f = { name = "CellSegmentation", path = "C/CellSegmentation" }
@@ -8407,6 +8413,7 @@ be247f3c-b89e-4149-9092-0bc3d48f38b6 = { name = "Transparency", path = "T/Transp
 be282fd4-ad43-11e9-1d11-8bd9d7e43378 = { name = "MultivariateBases", path = "M/MultivariateBases" }
 be2ed200-ac97-4d62-828c-ed82e987dbf4 = { name = "YaoTargetQobj", path = "Y/YaoTargetQobj" }
 be33ccc6-a3ff-5ff2-a52e-74243cff1e17 = { name = "CUDAnative", path = "C/CUDAnative" }
+be37cb57-8ba9-4d66-a8ef-a8b0d3c939ed = { name = "GraphQLite", path = "G/GraphQLite" }
 be38d6a3-8366-4a42-ad57-222272b5bbe7 = { name = "Normalization", path = "N/Normalization" }
 be429156-0856-4333-aa6d-b771e9de2f69 = { name = "CircuitModelZoo", path = "C/CircuitModelZoo" }
 be43c337-7630-5e25-892b-702745a732dd = { name = "LinearSampling_jll", path = "jll/L/LinearSampling_jll" }
