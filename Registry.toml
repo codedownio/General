@@ -1717,6 +1717,7 @@ some amount of consideration when choosing package names.
 26abab4e-b12e-45db-9809-c199ca6ddca8 = { name = "CausalELM", path = "C/CausalELM" }
 26b386a0-5622-11e9-3ee7-f1bbe84c80da = { name = "WaterFlows", path = "W/WaterFlows" }
 26b78818-2f47-47c8-af4b-89b2c3dade3f = { name = "BaytesFilters", path = "B/BaytesFilters" }
+26bbae53-793e-4dc4-8f6d-18bb7d98adf6 = { name = "ONNXLowLevel", path = "O/ONNXLowLevel" }
 26c1a390-a91f-50e6-ae38-ce2477450035 = { name = "STYRENE_jll", path = "jll/S/STYRENE_jll" }
 26cc04aa-876d-5657-8c51-4c34ba976000 = { name = "FiniteDifferences", path = "F/FiniteDifferences" }
 26cce99e-4866-4b6d-ab74-862489e035e0 = { name = "BasicInterpolators", path = "B/BasicInterpolators" }
@@ -5587,6 +5588,7 @@ some amount of consideration when choosing package names.
 7d47ec4b-9a51-4ee3-9fcc-f90243bd7361 = { name = "CanopyRadiativeTransfer", path = "C/CanopyRadiativeTransfer" }
 7d512f48-7fb1-5a58-b986-67e6dc259f01 = { name = "InternedStrings", path = "I/InternedStrings" }
 7d51a73a-1435-4ff3-83d9-f097790105c7 = { name = "ExplicitImports", path = "E/ExplicitImports" }
+7d526985-4c4e-42f3-8365-e6139167f00a = { name = "TypeDomainNaturalNumberLists", path = "T/TypeDomainNaturalNumberLists" }
 7d669430-f675-4ae7-b43e-fab78ec5a902 = { name = "P4est", path = "P/P4est" }
 7d6e2781-1c99-4c66-97ec-106669f3e96e = { name = "PlantGeomTurtle", path = "P/PlantGeomTurtle" }
 7d867975-de6c-4c05-9efa-f68ebc224697 = { name = "RecursiveTiles", path = "R/RecursiveTiles" }
@@ -5908,6 +5910,7 @@ some amount of consideration when choosing package names.
 8497c1d1-af72-4391-8d22-bdd566511a1c = { name = "NumberTheoreticTransforms", path = "N/NumberTheoreticTransforms" }
 84ad2fbc-dacc-5b40-99f5-8db9d02a0a8a = { name = "ffts_jll", path = "jll/F/ffts_jll" }
 84b136a2-8bec-4844-b63d-93659377b41a = { name = "XboxController", path = "X/XboxController" }
+84b3f4d7-d799-4a5d-b06c-25c90dcfcad7 = { name = "EnergyModelsCO2", path = "E/EnergyModelsCO2" }
 84b91ece-59cc-50c4-8800-6f827c67b7cb = { name = "CAOS", path = "C/CAOS" }
 84bf69ba-cd12-4c14-afd7-8e4ca43af7cc = { name = "PowerSeries", path = "P/PowerSeries" }
 84ca31d5-effc-45e0-bfda-5a68cd981f47 = { name = "HiddenMarkovModels", path = "H/HiddenMarkovModels" }
@@ -10601,6 +10604,7 @@ f00506e0-b84f-492a-93c2-c0a9afc4364e = { name = "PowerSystemCaseBuilder", path =
 f00a6e10-004a-11ef-3676-67ec635bc1a2 = { name = "CoralBlox", path = "C/CoralBlox" }
 f00cc363-093d-5001-bc14-bd3a87f4cb21 = { name = "Semaphores", path = "S/Semaphores" }
 f00d7deb-a70b-45c2-b896-7f55cd638e72 = { name = "Supernovae", path = "S/Supernovae" }
+f00e83c4-bd01-11e9-272c-ff1b96fb444d = { name = "NESSie", path = "N/NESSie" }
 f013a474-557c-11e9-3596-438edcad9d97 = { name = "FourierGPE", path = "F/FourierGPE" }
 f01c122e-0ea1-4f85-ad8f-907073ad7a9f = { name = "BinaryWrappers", path = "B/BinaryWrappers" }
 f0211111-1d23-4195-bb37-87ab15ed0197 = { name = "WorldTimeAPI", path = "W/WorldTimeAPI" }
