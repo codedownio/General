@@ -462,6 +462,7 @@ some amount of consideration when choosing package names.
 09e99361-2bb8-48a2-a80f-de58f0739eb4 = { name = "PropertyFunctions", path = "P/PropertyFunctions" }
 09eb9df4-c16c-45e4-b3a9-061214bcee23 = { name = "Pathnames", path = "P/Pathnames" }
 09f84164-cd44-5f33-b23f-e6b0d136a0d5 = { name = "HypothesisTests", path = "H/HypothesisTests" }
+0a077753-09e0-5213-973e-a9bab7f4efc7 = { name = "systemtap_jll", path = "jll/S/systemtap_jll" }
 0a1268e7-2270-4ee8-9901-5a5b516c7ae9 = { name = "InvariantSets", path = "I/InvariantSets" }
 0a13313b-1c00-422e-8263-562364ed9544 = { name = "SauterSchwab3D", path = "S/SauterSchwab3D" }
 0a1fb500-61f7-11e9-3c65-f5ef3456f9f0 = { name = "BlockDiagonals", path = "B/BlockDiagonals" }
@@ -1492,6 +1493,7 @@ some amount of consideration when choosing package names.
 21284ac2-4ede-594e-ad4f-4494079aca48 = { name = "IOAPI_jll", path = "jll/I/IOAPI_jll" }
 21324389-b050-441a-ba7b-9a837781bda0 = { name = "RegressionAndOtherStories", path = "R/RegressionAndOtherStories" }
 2133526b-2bfb-4018-ac12-889fb3908a75 = { name = "SodiumSeal", path = "S/SodiumSeal" }
+2133ec9d-2300-5c3e-b0d9-ae6a10eb43df = { name = "ELFIO_jll", path = "jll/E/ELFIO_jll" }
 213f2928-4d72-6f46-7461-4c705f634367 = { name = "BinaryBuilderPlatformExtensions", path = "B/BinaryBuilderPlatformExtensions" }
 21436f30-1b4a-4f08-87af-e26101bb5379 = { name = "NumaAllocators", path = "N/NumaAllocators" }
 214a0ac2-f95b-54f7-a80b-442ed9c2c9e8 = { name = "CorpusLoaders", path = "C/CorpusLoaders" }
@@ -3847,6 +3849,7 @@ some amount of consideration when choosing package names.
 56ba7af4-1aa7-4a85-af25-aa88a55212a9 = { name = "CineFiles", path = "C/CineFiles" }
 56beca70-ca20-45da-83c4-a042539b6c19 = { name = "ComputerVisionMetrics", path = "C/ComputerVisionMetrics" }
 56c11eb9-1257-4f49-abe4-0ac93e2bfd0a = { name = "BundledWebResources", path = "B/BundledWebResources" }
+56c374c5-0231-4cc5-a8a5-dfd13506b270 = { name = "CadCAD", path = "C/CadCAD" }
 56cc2822-f090-446c-a2af-a0f45c3009e4 = { name = "SpinDoctor", path = "S/SpinDoctor" }
 56ce1300-00bc-47e4-ba8c-b166ccc19f51 = { name = "PowerAnalytics", path = "P/PowerAnalytics" }
 56d4f2e9-7ea1-5844-9cf6-b9c51ca7ce8e = { name = "Gridap", path = "G/Gridap" }
@@ -5745,6 +5748,7 @@ some amount of consideration when choosing package names.
 806f51fd-16a3-4f55-bd44-f0d72f9cf926 = { name = "ProblemSet", path = "P/ProblemSet" }
 80703ced-6a7a-43a7-9240-bd692d5c00f6 = { name = "VectorizationTransformations", path = "V/VectorizationTransformations" }
 80713f31-8817-5129-9cf8-209ff8fb23e1 = { name = "ImageSegmentation", path = "I/ImageSegmentation" }
+807425ed-42ea-44d6-a357-6771516d7b2c = { name = "RecurrenceRelationships", path = "R/RecurrenceRelationships" }
 807c15e4-954b-4072-b0d2-8db75ef7308a = { name = "EasyML", path = "E/EasyML" }
 807e6dab-69e6-5de1-b50c-dbd9513c50df = { name = "SerialDependence", path = "S/SerialDependence" }
 8083989d-5216-488c-bbe7-b79abd7e3507 = { name = "PointwiseKDEs", path = "P/PointwiseKDEs" }
@@ -9130,6 +9134,7 @@ cd998857-8626-517d-b929-70ad188a48f0 = { name = "Yota", path = "Y/Yota" }
 cda752c5-6b03-55a3-9e33-132a441b0c17 = { name = "EFIT", path = "E/EFIT" }
 cdb18c6f-09f1-5f87-ba27-801070dd1989 = { name = "fastp_jll", path = "jll/F/fastp_jll" }
 cdb1efd8-3f30-48e6-a1f7-a3d77bf376b8 = { name = "DSPopt", path = "D/DSPopt" }
+cdbb3f72-2527-4dbd-9d0e-93533a5519ac = { name = "Quiver", path = "Q/Quiver" }
 cdbd8a54-2c11-4475-85dd-323d022ca3c3 = { name = "KroneckerProductKernels", path = "K/KroneckerProductKernels" }
 cdc13194-334e-4e1c-bc8d-fc3a28509c85 = { name = "ImmersedLayers", path = "I/ImmersedLayers" }
 cdc7adba-bef8-5cba-a7ee-c792dee3081e = { name = "libcleri_jll", path = "jll/L/libcleri_jll" }
