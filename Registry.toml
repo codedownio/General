@@ -560,6 +560,7 @@ some amount of consideration when choosing package names.
 0c50e747-7910-4d75-be1d-ae33d9528add = { name = "TelegramClient", path = "T/TelegramClient" }
 0c5d862f-8b57-4792-8d23-62f2024744c7 = { name = "Symbolics", path = "S/Symbolics" }
 0c614874-6106-40ed-a7c2-2f1cd0bff883 = { name = "TerminalPager", path = "T/TerminalPager" }
+0c6611b4-5dad-443c-92fe-8be93fb3df91 = { name = "TaskBasedProduction", path = "T/TaskBasedProduction" }
 0c68f7d7-f131-5f86-a1c3-88cf8149b2d7 = { name = "GPUArrays", path = "G/GPUArrays" }
 0c6c1f6c-65b6-54d6-9cff-6b64003af638 = { name = "FEMMaterials", path = "F/FEMMaterials" }
 0c6c9120-0c4d-51e7-92ed-b5d3e78608aa = { name = "NOVAS_jll", path = "jll/N/NOVAS_jll" }
@@ -3700,6 +3701,7 @@ some amount of consideration when choosing package names.
 52dcaa32-6da7-11e9-20ef-755843cf72eb = { name = "ExactDiagonalization", path = "E/ExactDiagonalization" }
 52e1d378-f018-4a11-a4be-720524705ac7 = { name = "OpenEXR", path = "O/OpenEXR" }
 52ec0b5e-ee36-11ea-211c-3d844fc5682d = { name = "PositionVelocityTime", path = "P/PositionVelocityTime" }
+52f8e75f-aed1-5264-b4c9-b8da5a6d5365 = { name = "macOSSDK_jll", path = "jll/M/macOSSDK_jll" }
 530fd2b5-bc52-54ba-93c2-82eb6468edee = { name = "NTNk", path = "N/NTNk" }
 53104703-03e8-40a5-ab01-812303a44cae = { name = "NFFT3", path = "N/NFFT3" }
 5318a24a-cfbb-471b-80de-2ec25d7c2d8b = { name = "WebAssets", path = "W/WebAssets" }
@@ -9603,6 +9605,7 @@ d833ac1a-14c4-4847-a042-dd2b1840831c = { name = "TheFix", path = "T/TheFix" }
 d83715d0-7e5f-11e9-1a59-4137b20d8363 = { name = "PlanetaryEphemeris", path = "P/PlanetaryEphemeris" }
 d8418881-c3e1-53bb-8760-2df7ec849ed5 = { name = "Intervals", path = "I/Intervals" }
 d842c3ba-07a1-494f-bbec-f5741b0a3e98 = { name = "CommonRLInterface", path = "C/CommonRLInterface" }
+d846c407-34c1-46cb-aa27-d51818cc05e2 = { name = "CryptoPRG", path = "C/CryptoPRG" }
 d848d694-35fd-11e9-1c91-9995598ac29e = { name = "OceanTurb", path = "O/OceanTurb" }
 d84f081e-b698-44a3-a477-911041168508 = { name = "TTVFaster", path = "T/TTVFaster" }
 d84fb938-a666-558e-89d9-d531edc6724f = { name = "DECAES", path = "D/DECAES" }
@@ -9766,6 +9769,7 @@ dc39d501-6ffa-4c27-9708-7dc7e3b1a5c3 = { name = "BlankLocalizationCore", path = 
 dc3f66f6-feed-11e8-2006-85573fddfdbc = { name = "SurrogateModelOptim", path = "S/SurrogateModelOptim" }
 dc46b164-d16f-48ec-a853-60448fc869fe = { name = "PerformanceTestTools", path = "P/PerformanceTestTools" }
 dc48124f-afd3-49fa-9962-2c9cdaf82bd1 = { name = "LinearSegmentation", path = "L/LinearSegmentation" }
+dc4aa359-7d89-437d-91bb-f4b330c522c1 = { name = "MaterialPointSolver", path = "M/MaterialPointSolver" }
 dc4f5ac2-75d1-4f31-931e-60435d74994b = { name = "ProximalCore", path = "P/ProximalCore" }
 dc548174-15c3-5faf-af27-7997cfbde655 = { name = "TerminalMenus", path = "T/TerminalMenus" }
 dc592094-f866-5418-b15b-f7542ad3543c = { name = "SQLCipher_jll", path = "jll/S/SQLCipher_jll" }
