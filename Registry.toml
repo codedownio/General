@@ -648,6 +648,7 @@ some amount of consideration when choosing package names.
 0e61fee8-20a4-4374-8233-5198f28d9d66 = { name = "DiffieHellman", path = "D/DiffieHellman" }
 0e66bb0f-9c4c-572f-9142-addab54c8167 = { name = "CUDNN_CUDA101_jll", path = "jll/C/CUDNN_CUDA101_jll" }
 0e69188a-a5d4-5622-b4e4-a72373136fc5 = { name = "VectorizedRoutines", path = "V/VectorizedRoutines" }
+0e6f3264-acce-4f27-82c9-0b40b85afed0 = { name = "PDEngine", path = "P/PDEngine" }
 0e6f8da7-a7fc-5c8b-a220-74e902c310f9 = { name = "NBodySimulator", path = "N/NBodySimulator" }
 0e713f60-a330-4a0f-8e30-02c28b77d9ad = { name = "BrowserMacros", path = "B/BrowserMacros" }
 0e71a2a6-2b30-4447-8742-d083a85e82d1 = { name = "SequentialSamplingModels", path = "S/SequentialSamplingModels" }
@@ -1650,6 +1651,7 @@ some amount of consideration when choosing package names.
 2502db7c-e51e-5cc5-b107-5f8e6dbfe9b6 = { name = "LAStools_jll", path = "jll/L/LAStools_jll" }
 25055022-b8af-4985-a550-c8f3f9f56f04 = { name = "DrugInteractions", path = "D/DrugInteractions" }
 251d5f9e-10c1-4699-ba24-e0ad168fa3e4 = { name = "EvalMetrics", path = "E/EvalMetrics" }
+251e6cbc-5fb1-4602-bd1f-2bec286d6307 = { name = "MultiAffine", path = "M/MultiAffine" }
 251f48c7-f5a4-5bc8-b6b6-ff4797c45649 = { name = "SMCExamples", path = "S/SMCExamples" }
 25264005-a304-4053-a338-565045d392ac = { name = "PowerModelsONM", path = "P/PowerModelsONM" }
 2527f7a4-0af4-4016-a944-036fbac19de9 = { name = "MPISphericalHarmonics", path = "M/MPISphericalHarmonics" }
@@ -3978,6 +3980,7 @@ some amount of consideration when choosing package names.
 5933d0f4-dc4a-46ce-a189-54b4465bd7a4 = { name = "ConstrainedControl", path = "C/ConstrainedControl" }
 593b3428-ca2f-500c-ae53-031589ec8ddd = { name = "CmdStan", path = "C/CmdStan" }
 593ffa3d-269e-5d81-88bc-c3b6809c35a6 = { name = "CurricularAnalytics", path = "C/CurricularAnalytics" }
+59420ebe-bdc3-4117-ac89-8393ca9fcf2c = { name = "StateMachines", path = "S/StateMachines" }
 5954c95d-ff03-4a38-b8f4-a6ed1c4752b2 = { name = "CSSMakieLayout", path = "C/CSSMakieLayout" }
 595c0a79-7f3d-439a-bc5a-b232dc3bde79 = { name = "ClimaTimeSteppers", path = "C/ClimaTimeSteppers" }
 59605e27-edc0-445a-b93d-c09a3a50b330 = { name = "BasicModelInterface", path = "B/BasicModelInterface" }
@@ -10312,6 +10315,7 @@ e7132d5a-96e2-11e9-15da-db8a129aaaf8 = { name = "Run", path = "R/Run" }
 e713c705-17e4-4cec-abe0-95bf5bf3e10c = { name = "PackageAnalyzer", path = "P/PackageAnalyzer" }
 e71b3392-1e0c-4536-b366-2bd1fce6fba0 = { name = "AcousticAnalogies", path = "A/AcousticAnalogies" }
 e7214860-93a8-4f22-b43d-bd447d1a2094 = { name = "PkgPage", path = "P/PkgPage" }
+e7241e48-3d3b-4ed3-9130-818aaeb8a636 = { name = "QuadraticOptimizer", path = "Q/QuadraticOptimizer" }
 e7412a2a-1a6e-54c0-be00-318e2571c051 = { name = "Ogg_jll", path = "jll/O/Ogg_jll" }
 e742bb3c-81eb-5c15-8577-c54658a6ac7f = { name = "JuliaKara", path = "J/JuliaKara" }
 e74b8d68-74d0-42b9-99ba-91d43d3ab0e8 = { name = "Mitosis", path = "M/Mitosis" }
@@ -10424,6 +10428,7 @@ e9c76d45-d282-4a42-92e1-2fa9292d7569 = { name = "ConvergencePlots", path = "C/Co
 e9c7d871-bed6-4650-ae23-a24e464b8b55 = { name = "TopOptMakie", path = "T/TopOptMakie" }
 e9cb6f04-5a86-57c9-b8cc-25aa5bdf9fd6 = { name = "LinearPartition_jll", path = "jll/L/LinearPartition_jll" }
 e9d8d322-4543-424a-9be4-0cc815abe26c = { name = "Metatheory", path = "M/Metatheory" }
+e9dcb185-a80b-4202-b080-ba6c07819832 = { name = "UKBMain", path = "U/UKBMain" }
 e9e359dc-d701-5aa8-82ae-09bbf812ea83 = { name = "CUDA_jll", path = "jll/C/CUDA_jll" }
 e9e3b3e0-5095-4984-97e8-7ac0126a89f0 = { name = "RatingCurves", path = "R/RatingCurves" }
 e9eb520e-30fd-490c-8483-b9cf365267e3 = { name = "PDFHighlights", path = "P/PDFHighlights" }
