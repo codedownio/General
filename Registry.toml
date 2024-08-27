@@ -1195,6 +1195,7 @@ some amount of consideration when choosing package names.
 19bbc782-a6fb-447a-8120-ff40275555e1 = { name = "FluxReconstruction", path = "F/FluxReconstruction" }
 19bfd68b-3085-5123-a7aa-2ec83b867ca4 = { name = "CORBITS", path = "C/CORBITS" }
 19ce2a37-d051-4e03-9a1e-989d2d09a817 = { name = "LazyFym", path = "L/LazyFym" }
+19cf8126-1d00-4ad8-bf17-4e76d7bc0f6d = { name = "StateSpaceDynamics", path = "S/StateSpaceDynamics" }
 19d19b8a-d445-44de-bef5-58c3ebc30fa7 = { name = "Photodynamics", path = "P/Photodynamics" }
 19d5bc74-bed4-4bd0-9587-1a66a6c9910f = { name = "MonadFunctions", path = "M/MonadFunctions" }
 19da7e43-5f78-5205-a494-8c2c52b4cca1 = { name = "PCL_jll", path = "jll/P/PCL_jll" }
@@ -6417,6 +6418,7 @@ some amount of consideration when choosing package names.
 8f75cd03-7ff8-4ecb-9b8f-daf728133b1b = { name = "oneAPI", path = "O/oneAPI" }
 8f7a8886-8f8a-428e-b78f-4cb978acfc7c = { name = "ExtractLinks", path = "E/ExtractLinks" }
 8f8cde19-4581-4697-bfbd-917306c72405 = { name = "SimpleSudoku", path = "S/SimpleSudoku" }
+8f8ec94a-26d1-428c-aa0e-4e66223094bc = { name = "BigRiverQTL", path = "B/BigRiverQTL" }
 8f9d5d0e-dd2e-4568-92d4-f8c5d34f25cf = { name = "NetSurvival", path = "N/NetSurvival" }
 8f9e8900-be71-40de-a258-603fdc860a2d = { name = "PoissonSolvers", path = "P/PoissonSolvers" }
 8fa3689e-f0b9-5420-9873-adf6ccf46f2d = { name = "PETSc_jll", path = "jll/P/PETSc_jll" }
@@ -6757,6 +6759,7 @@ some amount of consideration when choosing package names.
 984bce1d-4616-540c-a9ee-88d1112d94c9 = { name = "LambertW", path = "L/LambertW" }
 984f9c1f-46fe-5a04-8363-0cf7ea158318 = { name = "HandIsomorphism_jll", path = "jll/H/HandIsomorphism_jll" }
 9854c450-6826-470b-b7cd-d3803b32f4ba = { name = "Fermionic", path = "F/Fermionic" }
+9855a07e-8816-4d1b-ac92-859c17475477 = { name = "AtomsCalculatorsUtilities", path = "A/AtomsCalculatorsUtilities" }
 98572fba-bba0-415d-956f-fa77e587d26d = { name = "Parquet2", path = "P/Parquet2" }
 98581153-e998-4eef-8d0d-5ec2c052313d = { name = "NDTools", path = "N/NDTools" }
 9859b720-004f-4db5-b836-c34ec215a307 = { name = "LinearNoiseApproximation", path = "L/LinearNoiseApproximation" }
@@ -7148,6 +7151,7 @@ a0de0523-4880-46e2-8f2e-e01f2b1f4520 = { name = "MultipathChannel", path = "M/Mu
 a0e007bb-30f3-5a40-a04b-58baf70e7e14 = { name = "Pinchot_jll", path = "jll/P/Pinchot_jll" }
 a0ec7baa-763d-5d6b-86f7-e243a75ef8c4 = { name = "stork_jll", path = "jll/S/stork_jll" }
 a0f608ac-68d0-5108-ad9a-0cdca73324f3 = { name = "AffineInvariantMCMC", path = "A/AffineInvariantMCMC" }
+a0f9f270-aa2e-430a-aba3-8faa33662de6 = { name = "HolidayJp", path = "H/HolidayJp" }
 a100299e-89d6-11e9-0fa0-2daf497e6a05 = { name = "DataEnvelopmentAnalysis", path = "D/DataEnvelopmentAnalysis" }
 a105ee56-0da9-4c5a-a151-cc7e299d31db = { name = "Chuffed", path = "C/Chuffed" }
 a106ebf2-4182-4cba-90d4-44cd3cc36e85 = { name = "DocumenterDiagrams", path = "D/DocumenterDiagrams" }
@@ -10684,6 +10688,7 @@ f0413319-3358-4bb0-8e7c-0c83523a93bd = { name = "Tidier", path = "T/Tidier" }
 f065f642-d108-4f50-8aa5-6749150a895a = { name = "Publish", path = "P/Publish" }
 f0680fed-b2cd-5302-98f9-f4da282d86b5 = { name = "SemidefiniteOptInterface", path = "S/SemidefiniteOptInterface" }
 f06fe41e-9474-5571-8c61-5634d2b2700c = { name = "htslib_jll", path = "jll/H/htslib_jll" }
+f07625cc-80e4-4099-a362-36a3484d9bcc = { name = "PauliStrings", path = "P/PauliStrings" }
 f0789d0e-9b93-4002-b86d-d7fb1957141c = { name = "BasicDataLoaders", path = "B/BasicDataLoaders" }
 f07c2035-147c-4265-9006-0e86cca2fe32 = { name = "DOI2BibTeX", path = "D/DOI2BibTeX" }
 f07e07eb-5685-515a-97c8-3014f6152feb = { name = "cddlib_jll", path = "jll/C/cddlib_jll" }
