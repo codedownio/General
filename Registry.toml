@@ -295,6 +295,7 @@ some amount of consideration when choosing package names.
 06416c39-db7e-5258-b068-33480f0cdbbc = { name = "ChipSort", path = "C/ChipSort" }
 06456b94-f2fb-4c2e-911f-0795f0d2fb0a = { name = "TarIterators", path = "T/TarIterators" }
 06490a66-c478-4593-a275-4b14021bccc5 = { name = "BubbleBath", path = "B/BubbleBath" }
+064b21be-54cf-11ef-1646-cdfee32b588f = { name = "OptimizationNLPModels", path = "O/OptimizationNLPModels" }
 0656b61e-2033-5cc2-a64a-77c0f6c09b89 = { name = "GLFW_jll", path = "jll/G/GLFW_jll" }
 06591efd-5e2b-42e5-a742-7087027635df = { name = "CALiPPSO", path = "C/CALiPPSO" }
 065fcff2-4c6f-5d7b-b503-46c258ff608a = { name = "CUDA_JIT_jll", path = "jll/C/CUDA_JIT_jll" }
@@ -5546,6 +5547,7 @@ some amount of consideration when choosing package names.
 7b3b3b3f-8b15-4a80-a798-b383498bc2cf = { name = "Sole", path = "S/Sole" }
 7b3dffa2-a94d-4703-aaf5-57911c725dc8 = { name = "SurrealdbWS", path = "S/SurrealdbWS" }
 7b412df5-33c1-4334-b65f-95ccdd546b1c = { name = "Tryparse", path = "T/Tryparse" }
+7b41c207-ea06-4250-aacd-19be2e667afc = { name = "ComplexToys", path = "C/ComplexToys" }
 7b4b3212-f72a-4ba2-afa8-103f0bfb7cd6 = { name = "QuasinormalModes", path = "Q/QuasinormalModes" }
 7b67a8d2-c4f5-4933-b91c-0fc427024db5 = { name = "PRISMA", path = "P/PRISMA" }
 7b7b8358-b45c-48ea-a8ef-7ca328ad328f = { name = "MLJFlow", path = "M/MLJFlow" }
@@ -6146,6 +6148,7 @@ some amount of consideration when choosing package names.
 88c30151-f523-4140-98ec-337064e805aa = { name = "ArtGallery", path = "A/ArtGallery" }
 88c4633f-7fb9-5883-9312-8d9642ed46e5 = { name = "CatmullClark", path = "C/CatmullClark" }
 88cd18e8-d9cc-4ea6-8889-5259c0d15c8b = { name = "ConsoleProgressMonitor", path = "C/ConsoleProgressMonitor" }
+88ce3ed7-42dc-47a9-ab9f-164be2e94407 = { name = "TidierIteration", path = "T/TidierIteration" }
 88ce4d4d-ee2f-4b4a-abd3-cbc3580a88f7 = { name = "SafeByteCalculators", path = "S/SafeByteCalculators" }
 88db161d-10c7-51e6-aa56-e32ecf738a46 = { name = "tree_sitter_python_jll", path = "jll/T/tree_sitter_python_jll" }
 88e69f3b-d3b7-48b0-a205-c3c72d2ca7ac = { name = "PhylogeneticFactorAnalysis", path = "P/PhylogeneticFactorAnalysis" }
@@ -7457,6 +7460,7 @@ a7949054-b901-59c6-b8e3-7238c29bf7f0 = { name = "MXNet", path = "M/MXNet" }
 a79a9ddd-d50e-4d85-a979-5d85760e62a0 = { name = "SignalTemporalLogic", path = "S/SignalTemporalLogic" }
 a79dbac3-5528-457e-b637-ec38aefb197a = { name = "GOF3R", path = "G/GOF3R" }
 a79fb612-4a80-4749-a9bd-c2faab13da61 = { name = "JETTest", path = "J/JETTest" }
+a7a66f33-e7b8-47af-b618-f9b5bea05f3d = { name = "FiniteDifferenceMatrices", path = "F/FiniteDifferenceMatrices" }
 a7a6b7e4-f56f-4e7a-9983-6838d7ccc3b8 = { name = "DataWrangler", path = "D/DataWrangler" }
 a7a71e66-9295-4c47-9853-dcf21ad69f4a = { name = "ObjConsNLPModels", path = "O/ObjConsNLPModels" }
 a7aa756b-2b7f-562a-9e9d-e94076c5c8ee = { name = "OpenCL_Headers_jll", path = "jll/O/OpenCL_Headers_jll" }
@@ -7802,6 +7806,7 @@ af1dc308-cb6b-11e8-32f0-31192efa90f6 = { name = "GFF3", path = "G/GFF3" }
 af23ddc1-4c4f-4bcf-9c33-39460b30e4e2 = { name = "RipsererDataPrep", path = "R/RipsererDataPrep" }
 af2f1493-5da4-5c9a-92e4-d8b087733894 = { name = "ModularForms_jll", path = "jll/M/ModularForms_jll" }
 af321ab8-2d2e-40a6-b165-3d674595d28e = { name = "CategoricalDistributions", path = "C/CategoricalDistributions" }
+af326652-bfa1-11e9-1b34-cf9047ce1632 = { name = "FlowGeometry", path = "F/FlowGeometry" }
 af34ca7c-e544-47d5-a6fe-72495f08728e = { name = "AdalmPluto", path = "A/AdalmPluto" }
 af39948a-0e9f-11e9-2d1f-e71fbfcf41dd = { name = "YOLO", path = "Y/YOLO" }
 af3a3400-1793-11ea-1d1f-a522511abb08 = { name = "ScanDir", path = "S/ScanDir" }
@@ -8237,6 +8242,7 @@ b8d15608-0852-4141-ae38-222578e2ed7b = { name = "BulkLMM", path = "B/BulkLMM" }
 b8d24480-b8ee-42fe-a917-db159b4b1a29 = { name = "GenericInstruments", path = "G/GenericInstruments" }
 b8d349fb-717b-4aac-a9b1-e1da4219c631 = { name = "SimpleContainerGenerator", path = "S/SimpleContainerGenerator" }
 b8d669dd-3d88-55df-ae05-b65fc3f9fff9 = { name = "CornerPlot", path = "C/CornerPlot" }
+b8e8f2a5-48d3-44f1-ba0d-c71cb7726ff8 = { name = "ProteinChains", path = "P/ProteinChains" }
 b8f1d712-e88d-4f2a-8498-e66ce688ee29 = { name = "EphemerisSourcesBase", path = "E/EphemerisSourcesBase" }
 b8f27783-ece8-5eb3-8dc8-9495eed66fee = { name = "MathOptInterface", path = "M/MathOptInterface" }
 b8f752a5-abd5-43b6-a55b-e75efda20de0 = { name = "DitherPunk", path = "D/DitherPunk" }
@@ -8330,6 +8336,7 @@ bb33d45b-7691-41d6-9220-0943567d0623 = { name = "LuxCore", path = "L/LuxCore" }
 bb34ddd2-327f-4c4a-bfb0-c98fc494ece1 = { name = "TimeSpans", path = "T/TimeSpans" }
 bb354801-46f6-40b6-9c3d-d42d7a74c775 = { name = "Fetch", path = "F/Fetch" }
 bb3d3a65-b032-5cdd-a073-dfed7b606c01 = { name = "SecretSanta", path = "S/SecretSanta" }
+bb401bc5-fb22-5674-bf0e-333823e8805f = { name = "xrt_jll", path = "jll/X/xrt_jll" }
 bb4162c7-ba94-5a20-af32-d8ec4428bdd1 = { name = "BEAST", path = "B/BEAST" }
 bb4c363b-b914-514b-8517-4eb369bc008a = { name = "GridInterpolations", path = "G/GridInterpolations" }
 bb53d66c-7482-569a-820c-c7df7b381dd9 = { name = "Pikchr_jll", path = "jll/P/Pikchr_jll" }
