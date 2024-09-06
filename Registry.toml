@@ -1880,6 +1880,7 @@ some amount of consideration when choosing package names.
 29d2ae51-7246-454b-9a65-19ff7b2849a5 = { name = "QRupdate", path = "Q/QRupdate" }
 29dad682-9a27-4bc3-9c72-016788665182 = { name = "RegularizationTools", path = "R/RegularizationTools" }
 29e2bfda-5ba7-471c-9125-afac425f1f80 = { name = "BQCESubroutine", path = "B/BQCESubroutine" }
+29f11006-3202-4091-a17b-0a26282d76dd = { name = "StippleTabs", path = "S/StippleTabs" }
 2a09ff82-1be9-11e9-2ab7-19964783a84b = { name = "TextUserInterfaces", path = "T/TextUserInterfaces" }
 2a0a5ff3-012c-40a8-861a-42ef8f4dfa06 = { name = "AlwaysSeqCst", path = "A/AlwaysSeqCst" }
 2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9 = { name = "CPUSummary", path = "C/CPUSummary" }
@@ -3467,6 +3468,7 @@ some amount of consideration when choosing package names.
 4d2ab388-4915-11ec-2296-b707a6cee44b = { name = "MajoranaReps", path = "M/MajoranaReps" }
 4d2d9364-ca76-473b-964a-083ad86fcbf9 = { name = "IOStructs", path = "I/IOStructs" }
 4d2f22df-77d7-5622-8d7f-1db4ec2bcc3a = { name = "GARCH", path = "G/GARCH" }
+4d396880-2e3f-4be1-8c36-e87777010d00 = { name = "XRT", path = "X/XRT" }
 4d4711f2-db25-561a-b6b3-d35e7d4047d3 = { name = "MatrixMarket", path = "M/MatrixMarket" }
 4d49a1dd-e5d0-4271-9114-9bcba05437f0 = { name = "Suiron", path = "S/Suiron" }
 4d4e40ad-7e7d-4024-a1b1-ebf43adef3b8 = { name = "GPFlux", path = "G/GPFlux" }
@@ -4041,6 +4043,7 @@ some amount of consideration when choosing package names.
 5a766526-3cf8-5128-8c31-4f7b7ad60f0e = { name = "rocminfo_jll", path = "jll/R/rocminfo_jll" }
 5a7cd546-c751-11e8-3a71-83f58cf2d4e3 = { name = "EvaluationCF", path = "E/EvaluationCF" }
 5a7dfd8c-b3af-4c8d-a082-d3a774d75e72 = { name = "LiquidElectrolytes", path = "L/LiquidElectrolytes" }
+5a80cb59-5c4a-4b04-8570-513e0deda534 = { name = "MatrixFunctionDiff", path = "M/MatrixFunctionDiff" }
 5a832f93-9be3-4627-b47e-d2e960387a5d = { name = "STMMRunner", path = "S/STMMRunner" }
 5a98b6c4-18fa-405d-92b3-8277d93fed36 = { name = "CIndices", path = "C/CIndices" }
 5a9dfac6-5c52-46f7-8278-5e2210713be9 = { name = "PartitionedArrays", path = "P/PartitionedArrays" }
@@ -10855,6 +10858,7 @@ f42569b2-8c12-4cce-ba3b-39ee24d84962 = { name = "SubSIt", path = "S/SubSIt" }
 f42792ee-6ffc-4e2a-ae83-8ee2f22de800 = { name = "DDEProblemLibrary", path = "D/DDEProblemLibrary" }
 f42e9828-16f3-11ed-2883-9126170b272d = { name = "QRCoders", path = "Q/QRCoders" }
 f43a241f-c20a-4ad4-852c-f6b1247861c6 = { name = "Downloads", path = "D/Downloads" }
+f4439622-e757-4457-9ca0-f65a61d23f40 = { name = "DACE", path = "D/DACE" }
 f4440bb6-80da-11e9-1db0-85cc1897f664 = { name = "FeedbackParticleFilters", path = "F/FeedbackParticleFilters" }
 f446a8d3-3ce2-58d3-82fb-4f82d1c6300c = { name = "Birch_jll", path = "jll/B/Birch_jll" }
 f448d96e-cc9b-4179-976a-6795f3ef2db6 = { name = "BasicMD", path = "B/BasicMD" }
