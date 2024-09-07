@@ -1373,6 +1373,7 @@ some amount of consideration when choosing package names.
 1da6f4ae-116c-4c38-8ee9-19974ff3601d = { name = "Telegram", path = "T/Telegram" }
 1da7d4ca-ffb9-4e95-b99a-7e8e4561fc9a = { name = "TextGraphs", path = "T/TextGraphs" }
 1db0cb78-5717-11e9-0361-01e0964942ce = { name = "SurfaceTopology", path = "S/SurfaceTopology" }
+1db272ca-bb6a-4d7c-9426-e93aef723262 = { name = "PubChem", path = "P/PubChem" }
 1db4e0a5-a364-4b0c-897c-2bd5a4a3a1f2 = { name = "NeuroTreeModels", path = "N/NeuroTreeModels" }
 1db8e8ca-f8ef-4fae-b3f5-ea2940ece087 = { name = "BrazilCentralBank", path = "B/BrazilCentralBank" }
 1db9610d-79e1-487a-8d40-77f3295c7593 = { name = "CountFlops", path = "C/CountFlops" }
@@ -4626,6 +4627,7 @@ some amount of consideration when choosing package names.
 67a05f95-e8e3-406b-b1ec-9f1919b23209 = { name = "MPITestImages", path = "M/MPITestImages" }
 67afee28-ec33-4cc2-88ea-a48c87ed52f9 = { name = "MetapopulationDynamics", path = "M/MetapopulationDynamics" }
 67be3549-475c-46bf-8928-de3404d670d9 = { name = "LinearCombinations", path = "L/LinearCombinations" }
+67be77aa-8e15-4dcd-9068-de5e3adff985 = { name = "BlindingIndex", path = "B/BlindingIndex" }
 67c07d97-cdcb-5c2c-af73-a7f9c32a568b = { name = "Automa", path = "A/Automa" }
 67ccffd1-116d-535b-ad39-76a8fd0cbf71 = { name = "ModiaMath", path = "M/ModiaMath" }
 67d073f6-f659-405d-833d-5a2f6a1cf902 = { name = "QCIntegrals", path = "Q/QCIntegrals" }
@@ -8676,6 +8678,7 @@ c1c5ebd0-6772-5130-a774-d5fcae4a789d = { name = "LAME_jll", path = "jll/L/LAME_j
 c1ccfb80-616c-11e9-2032-47e8246e4458 = { name = "SpineBasedRecordLinkage", path = "S/SpineBasedRecordLinkage" }
 c1e1d063-8311-5f52-a749-c7b05e91ae37 = { name = "NodeJS_18_jll", path = "jll/N/NodeJS_18_jll" }
 c2036f84-fecd-45db-822d-61dbed506f2f = { name = "Medipix", path = "M/Medipix" }
+c205f263-c50b-522f-8355-d1dd211834e2 = { name = "yyjson_jll", path = "jll/Y/yyjson_jll" }
 c2071276-7c44-58a7-b746-946036e04d0a = { name = "P11Kit_jll", path = "jll/P/P11Kit_jll" }
 c20c605d-adbe-46e4-9db6-e2b04c3ba023 = { name = "Hyperelastics", path = "H/Hyperelastics" }
 c214720e-3c4f-4d89-8b85-b9ea3aac2a05 = { name = "EvidentialFlux", path = "E/EvidentialFlux" }
@@ -9169,6 +9172,7 @@ ccdfd77c-c9b6-493d-8c46-f34d2494ed29 = { name = "ABCDMatrixOptics", path = "A/AB
 ccf2f8ad-2431-5c83-bf29-c5338b663b6a = { name = "PlotThemes", path = "P/PlotThemes" }
 ccf6c0ac-cd45-4eaf-bc3d-e8176fb87b3b = { name = "AtomBase", path = "A/AtomBase" }
 ccf9b6e2-7ea7-596a-9d65-09863b18e8cc = { name = "ParSpMatVec", path = "P/ParSpMatVec" }
+ccff231a-7084-4552-ab5c-55556ada9b2a = { name = "TypedNamedTuples", path = "T/TypedNamedTuples" }
 ccff39cb-adf9-4117-873b-a3f804b23ebe = { name = "Fretboards", path = "F/Fretboards" }
 ccffbfc1-f56e-50fb-a33b-53d1781b2825 = { name = "EDF", path = "E/EDF" }
 cd00e070-8fe2-570d-8212-aefc8f89bd06 = { name = "BerkeleyDB_jll", path = "jll/B/BerkeleyDB_jll" }
