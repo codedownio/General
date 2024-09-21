@@ -2728,6 +2728,7 @@ some amount of consideration when choosing package names.
 3c3547ce-8d99-4f5e-a174-61eb10b00ae3 = { name = "DiskArrays", path = "D/DiskArrays" }
 3c362404-f566-11ee-1572-e11a4b42c853 = { name = "Reactant", path = "R/Reactant" }
 3c38c10f-068b-409d-8b1c-aa4375858705 = { name = "QSymbolicsOptics", path = "Q/QSymbolicsOptics" }
+3c3db7f8-440c-4375-905c-1a18b5307bed = { name = "LatticeModels", path = "L/LatticeModels" }
 3c3e07df-3689-4029-aba7-dd69ca7e6285 = { name = "NoncommutativeGraphs", path = "N/NoncommutativeGraphs" }
 3c3ff5e7-c68c-4a09-80d1-9526a1e9878a = { name = "ModuleInfo", path = "M/ModuleInfo" }
 3c40d49d-59d4-4b5d-adaa-75a7fbc8c64f = { name = "ProportionalFitting", path = "P/ProportionalFitting" }
@@ -6517,6 +6518,7 @@ some amount of consideration when choosing package names.
 90edb7a8-79d7-49b2-b6b1-9322c3fdead8 = { name = "Diffusers", path = "D/Diffusers" }
 90f18bad-8de6-4f24-a7ee-bfe158ef45c0 = { name = "SymbolicCircuit", path = "S/SymbolicCircuit" }
 90fa49ef-747e-5e6f-a989-263ba693cf1a = { name = "ErrorfreeArithmetic", path = "E/ErrorfreeArithmetic" }
+910541cc-34bb-47a1-b3fd-5231dc2195e0 = { name = "ShaneGPUCountMinSketch", path = "S/ShaneGPUCountMinSketch" }
 9109d3c5-9510-494f-be9f-db449708e717 = { name = "AutoPrettyPrinting", path = "A/AutoPrettyPrinting" }
 9113e207-2504-4b06-8eee-d78e288bee65 = { name = "StableTrees", path = "S/StableTrees" }
 911cb31e-70cd-4e9d-a353-3054e2e6a3a8 = { name = "Targets", path = "T/Targets" }
@@ -8984,6 +8986,7 @@ c7b3ebfe-d098-56ea-b529-6cf0bac1b5f3 = { name = "CancerSeqSim", path = "C/Cancer
 c7b9bcad-ccd7-4721-b0c6-1499c55cf356 = { name = "GraphBasedSystems", path = "G/GraphBasedSystems" }
 c7bec4a6-5215-51fd-b0a3-64ceaaad3a34 = { name = "patch_jll", path = "jll/P/patch_jll" }
 c7c68f13-a4a2-5b9a-b424-07d005f8d9d2 = { name = "IntervalOptimisation", path = "I/IntervalOptimisation" }
+c7ce213b-85ae-5bf1-9497-6be93055ed87 = { name = "Hjson_jll", path = "jll/H/Hjson_jll" }
 c7cfdc94-dc32-55de-ac96-5a1b8d977c5b = { name = "Xorg_libxcb_jll", path = "jll/X/Xorg_libxcb_jll" }
 c7d01213-112e-44c9-bed3-ac95fd3728c7 = { name = "ManuscriptOrthography", path = "M/ManuscriptOrthography" }
 c7d46f9d-34c3-4420-bf57-257f25aec718 = { name = "HypertextTemplates", path = "H/HypertextTemplates" }
@@ -9317,6 +9320,7 @@ cf7c7e5a-b407-4c48-9047-11a94a308626 = { name = "ClimaCorePlots", path = "C/Clim
 cf87cc76-4620-5dad-9f0a-7411b2d39d18 = { name = "DataAssim", path = "D/DataAssim" }
 cf896787-08d5-524d-9de7-132aaa0cb996 = { name = "SymbolServer", path = "S/SymbolServer" }
 cf8be1f4-309d-442e-839d-29d2a0af6cb7 = { name = "OhMyArtifacts", path = "O/OhMyArtifacts" }
+cf91e36b-bd94-493a-8848-32508a10963c = { name = "XCALibre", path = "X/XCALibre" }
 cfa96e45-7952-4214-b401-70d7ad14aa2f = { name = "FinancialModelingPrep", path = "F/FinancialModelingPrep" }
 cfc395e8-590f-11e8-1f13-43a2532b2fa8 = { name = "ExtendableGrids", path = "E/ExtendableGrids" }
 cfc5aa84-1a2a-41ab-b391-ede92ecae40c = { name = "DaggerWebDash", path = "D/DaggerWebDash" }
@@ -9517,6 +9521,7 @@ d3fd27c9-1dfb-4e67-b0c0-90d0d87a1e48 = { name = "QuantumControlTestUtils", path 
 d406e672-ae96-11e9-2f05-a59ccbfcb275 = { name = "TuringMachine", path = "T/TuringMachine" }
 d4071afc-4203-49ee-90bc-13ebeb18d604 = { name = "MultiChannelColors", path = "M/MultiChannelColors" }
 d4083892-cce6-48ab-a9ff-eaff78e11314 = { name = "Hadleyverse", path = "H/Hadleyverse" }
+d40b7edd-0ea2-426c-85ee-c5ce139337ad = { name = "Nakala", path = "N/Nakala" }
 d40f9233-56b0-491b-a728-76bda003a9e7 = { name = "Abaco", path = "A/Abaco" }
 d40fb65e-c2ee-4113-9e14-cb96ca0acb32 = { name = "RateTables", path = "R/RateTables" }
 d414da3d-4745-48bb-8d80-42e94e092884 = { name = "ClimaCore", path = "C/ClimaCore" }
@@ -9770,6 +9775,7 @@ da1fd8a2-8d9e-5ec2-8556-3022fb5608a2 = { name = "CodeTracking", path = "C/CodeTr
 da1fdf0e-e0ff-5433-a45f-9bb5ff651cb1 = { name = "FreqTables", path = "F/FreqTables" }
 da235a08-baf4-11e9-2387-6f19a530ddff = { name = "SlurmWorkloadFileGenerator", path = "S/SlurmWorkloadFileGenerator" }
 da27883c-8256-4720-924b-e7be686627bb = { name = "Tibber", path = "T/Tibber" }
+da2b9cff-9c12-43a0-ae48-6db2b0edb7d6 = { name = "Mooncake", path = "M/Mooncake" }
 da3460ee-0a2f-4d2a-8d76-316f36bde5da = { name = "SubjectiveScalesModels", path = "S/SubjectiveScalesModels" }
 da37f231-8920-5702-a09a-bdd970cb6ddc = { name = "SBC_jll", path = "jll/S/SBC_jll" }
 da404889-ca92-49ff-9e8b-0aa6b4d38dc8 = { name = "ARFFFiles", path = "A/ARFFFiles" }
