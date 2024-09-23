@@ -839,6 +839,7 @@ some amount of consideration when choosing package names.
 1222c4b2-2114-5bfd-aeef-88e4692bbb3e = { name = "julia", path = "J/julia" }
 1226e131-0b97-51f8-8a3f-c1798118cd52 = { name = "NTFk", path = "N/NTFk" }
 1226fe1d-afd4-4c2e-b99d-05aabcc62d0a = { name = "Pyrox", path = "P/Pyrox" }
+12289b5d-7c11-438f-92a0-e1442e5c6fa7 = { name = "DifferentialBases", path = "D/DifferentialBases" }
 123b5ccf-89cf-4973-9536-c0f20d353bb2 = { name = "HybridAStar", path = "H/HybridAStar" }
 123dc426-2d89-5057-bbad-38513e3affd8 = { name = "SymEngine", path = "S/SymEngine" }
 123dea01-d0aa-44c8-898b-977e0601f7b1 = { name = "OMOPCDMDatabaseConnector", path = "O/OMOPCDMDatabaseConnector" }
@@ -2221,6 +2222,7 @@ some amount of consideration when choosing package names.
 312f84d5-d503-53e6-9a69-f195a5e458d6 = { name = "DDSCAT_jll", path = "jll/D/DDSCAT_jll" }
 313cdc1a-70c2-5d6a-ae34-0150d3930a38 = { name = "Indexing", path = "I/Indexing" }
 31434429-0e9f-4d24-947a-14cd43782323 = { name = "SmoothLivePlot", path = "S/SmoothLivePlot" }
+314c63f5-3dda-4b35-95e7-4cc933f13053 = { name = "ConstraintsTranslator", path = "C/ConstraintsTranslator" }
 314ce334-5f6e-57ae-acf6-00b6e903104a = { name = "TaylorModels", path = "T/TaylorModels" }
 314d2b54-f2c3-11ea-15f2-0bcf2fc50b35 = { name = "mPulseAPI", path = "M/mPulseAPI" }
 314fac8b-c762-4aa3-9d12-851379729163 = { name = "TulipaClustering", path = "T/TulipaClustering" }
@@ -3302,6 +3304,7 @@ some amount of consideration when choosing package names.
 48ea66d6-70bf-4733-809e-20017acf6e3b = { name = "NewsLookout", path = "N/NewsLookout" }
 48feb556-9bdd-43a2-8e10-96100ec25e22 = { name = "WilliamsonTransforms", path = "W/WilliamsonTransforms" }
 48ff5a6f-d08b-4053-9585-6a9e3e078386 = { name = "AutomationLabsIdentification", path = "A/AutomationLabsIdentification" }
+49057fa9-d513-5ef6-ae80-2dc68a70a2bd = { name = "HybridStructs", path = "H/HybridStructs" }
 49080126-0e18-4c2a-b176-c102e4b3760c = { name = "ZipArchives", path = "Z/ZipArchives" }
 4908299a-382f-4474-b696-db03060d32c1 = { name = "GMTAccess", path = "G/GMTAccess" }
 490da00b-a60c-4ded-a4cf-df7cded56bfa = { name = "Thunks", path = "T/Thunks" }
@@ -5754,6 +5757,7 @@ some amount of consideration when choosing package names.
 7f0fc4bf-4ffe-4e21-ab91-7bf1358d5ab3 = { name = "MirrorUpdater", path = "M/MirrorUpdater" }
 7f126dfc-02fe-4b0a-bf44-dbfefac359c9 = { name = "BLASBenchmarksGPU", path = "B/BLASBenchmarksGPU" }
 7f19f2dd-709d-51a0-a533-ded4a1c488a6 = { name = "YAAD", path = "Y/YAAD" }
+7f2154ff-9684-4686-a457-9182f50d0f5b = { name = "AstroPropagators", path = "A/AstroPropagators" }
 7f219486-4aa7-41d6-80a7-e08ef20ceed7 = { name = "AbstractNFFTs", path = "A/AbstractNFFTs" }
 7f27c84d-2d74-42e5-be5f-94f6748267f3 = { name = "Cambrian", path = "C/Cambrian" }
 7f35509c-0cb9-11e9-0708-2928828cdbb7 = { name = "POMDPGifs", path = "P/POMDPGifs" }
