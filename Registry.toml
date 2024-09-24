@@ -908,6 +908,7 @@ some amount of consideration when choosing package names.
 1371226f-2bf8-5a91-99cc-70a4fbc99e18 = { name = "PhyML_jll", path = "jll/P/PhyML_jll" }
 13737630-5ab7-50a7-b423-42a4a7ec78b3 = { name = "VOLK_jll", path = "jll/V/VOLK_jll" }
 137488db-d2e6-4fb9-97f3-1e40a263e83c = { name = "Bcrypt", path = "B/Bcrypt" }
+1375bf9c-a47d-45a1-aad5-626dd8629d98 = { name = "DataAxesFormats", path = "D/DataAxesFormats" }
 1375f997-1772-542d-b6fa-a8ee39124556 = { name = "CompEcon", path = "C/CompEcon" }
 137af188-b1ec-11e9-0b40-31ed9142ae64 = { name = "XXhash", path = "X/XXhash" }
 137e0234-31ad-43b7-8b27-b236525e28e1 = { name = "VectorAlignments", path = "V/VectorAlignments" }
@@ -3103,6 +3104,7 @@ some amount of consideration when choosing package names.
 446846d7-b4ce-489d-bf74-72da18fe3629 = { name = "Muon", path = "M/Muon" }
 4475fa32-7023-44a0-aa70-4813b230e492 = { name = "SoleBase", path = "S/SoleBase" }
 44808c39-7784-4d8d-8dbc-3ef853c709a1 = { name = "CombinatorialMultigrid", path = "C/CombinatorialMultigrid" }
+4483d8a1-97c0-5c1a-b7ea-a115040394ce = { name = "D3_jll", path = "jll/D/D3_jll" }
 4484d908-372d-4f90-b90b-0ec97f005b8c = { name = "AndExport", path = "A/AndExport" }
 448d79b3-4b49-4e06-a5ea-00c62c0dc3db = { name = "cuTensorNet", path = "C/cuTensorNet" }
 4491297b-8966-5840-8cb9-b189d60f3398 = { name = "RealNeuralNetworks", path = "R/RealNeuralNetworks" }
@@ -3348,6 +3350,7 @@ some amount of consideration when choosing package names.
 49cd1f3c-f820-4280-87fa-ee13bfe9a539 = { name = "AsymptoticNumericalMethod", path = "A/AsymptoticNumericalMethod" }
 49d1aae2-ae6b-5d26-a063-7cf6630cf99c = { name = "ApproximateComputations", path = "A/ApproximateComputations" }
 49d1be55-416f-4ec4-9ddf-53cbbcddc063 = { name = "CRRao", path = "C/CRRao" }
+49d4d070-7366-40d9-8484-291b68b4f7aa = { name = "GumerovKanekoDuraiswamiInts2024", path = "G/GumerovKanekoDuraiswamiInts2024" }
 49d7a207-2b26-4c4c-b0e9-253fdb5aa2df = { name = "WriteTFW", path = "W/WriteTFW" }
 49dc2e85-a5d0-5ad3-a950-438e2897f1b9 = { name = "Calculus", path = "C/Calculus" }
 49dc5b4e-6806-4504-b2cc-a81764e7a38b = { name = "KernelDensitySJ", path = "K/KernelDensitySJ" }
@@ -5482,6 +5485,7 @@ some amount of consideration when choosing package names.
 79040ab4-24c8-4c92-950c-d48b5991a0f6 = { name = "BipartiteMatching", path = "B/BipartiteMatching" }
 79098fc4-a85e-5d69-aa6a-4863f24498fa = { name = "Rmath", path = "R/Rmath" }
 790bbbee-bee9-49ee-8912-a9de031322d5 = { name = "CTDirect", path = "C/CTDirect" }
+791b002b-939e-4b08-8060-ecf413fcb155 = { name = "UniversalDiffEq", path = "U/UniversalDiffEq" }
 792012fa-ebfb-4b3a-ab44-69908522effd = { name = "GalacticNLopt", path = "G/GalacticNLopt" }
 792026f5-ac9a-4a19-adcb-47b0ce2deb5d = { name = "TestFunctionRunner", path = "T/TestFunctionRunner" }
 792122b4-ca99-40de-a6bc-6742525f08b6 = { name = "EarlyStopping", path = "E/EarlyStopping" }
@@ -6179,6 +6183,7 @@ some amount of consideration when choosing package names.
 88aa254b-a4fc-49c2-a63e-728a46cd2298 = { name = "Qsosed", path = "Q/Qsosed" }
 88acaeb2-2f63-4ada-bca2-2825d9da22ed = { name = "AgentsExampleZoo", path = "A/AgentsExampleZoo" }
 88acd20c-1248-4a97-8a3e-4ab1c55a24a0 = { name = "PlutoWorkspaceExplorer", path = "P/PlutoWorkspaceExplorer" }
+88b3b2ed-56ea-4eac-b1de-e42ac45953c8 = { name = "Hephaestus", path = "H/Hephaestus" }
 88b4ec78-b192-11e8-04aa-4d367dd96a64 = { name = "Coluna", path = "C/Coluna" }
 88b9f9d1-ecd7-45aa-9934-346af437630c = { name = "Harbest", path = "H/Harbest" }
 88ba133c-8695-4d62-9a5c-bcf16b6d2e1a = { name = "TrackingTimers", path = "T/TrackingTimers" }
@@ -9816,6 +9821,7 @@ dac988ce-a3dc-42da-8c49-b1e833185731 = { name = "AutoVectors", path = "A/AutoVec
 daca4e5c-8485-4416-9301-671ef5a159db = { name = "SegmentAnything", path = "S/SegmentAnything" }
 dad2f222-ce93-54a1-a47d-0025e8a3acab = { name = "LLVMExtra_jll", path = "jll/L/LLVMExtra_jll" }
 dad468f8-6d63-5d40-b2c4-48631a3ed0cf = { name = "TopicModelsVB", path = "T/TopicModelsVB" }
+dad5a794-77f7-4556-b071-d80a9747599c = { name = "YYJSON", path = "Y/YYJSON" }
 dad72d94-522a-402a-84d3-a630e8ffd4d6 = { name = "TensorGames", path = "T/TensorGames" }
 dad7ea18-2b21-482e-81c1-e84414cc4b03 = { name = "CommonOPF", path = "C/CommonOPF" }
 dadb0ed2-e56b-40a7-b017-200304ddb474 = { name = "Surprise", path = "S/Surprise" }
