@@ -675,6 +675,7 @@ some amount of consideration when choosing package names.
 0ea325ba-5c5f-496b-acec-8be67510f465 = { name = "RealPolyhedralHomotopy", path = "R/RealPolyhedralHomotopy" }
 0ea32739-31af-43e6-82ee-ebe6dcf00a6f = { name = "LowRankOps", path = "L/LowRankOps" }
 0ea44823-1ff1-5b9a-8293-5fd55a38e746 = { name = "LCMCore", path = "L/LCMCore" }
+0eb812ee-a11f-4f5e-b8d4-bb8a44f06f50 = { name = "Gabs", path = "G/Gabs" }
 0eb8d820-af6a-4919-95ae-11206f830c31 = { name = "Pigeons", path = "P/Pigeons" }
 0eb9048c-21de-4c7a-bfac-056de1940b74 = { name = "Algoim", path = "A/Algoim" }
 0ec0bfde-29d9-4330-bf45-ac65ec309208 = { name = "MzCore", path = "M/MzCore" }
@@ -1808,6 +1809,7 @@ some amount of consideration when choosing package names.
 27ef9b34-1325-4cec-ba33-00f2f4637873 = { name = "GPLinearODEMaker", path = "G/GPLinearODEMaker" }
 27f7cb71-feaf-432a-86ca-8731dc5cf332 = { name = "Adiff", path = "A/Adiff" }
 27faeba3-bc54-5829-b163-df8cb949fe88 = { name = "RegularExpressions", path = "R/RegularExpressions" }
+27fb9038-6a9d-4e07-8d5d-d0805b53c4cb = { name = "AstroCoords", path = "A/AstroCoords" }
 2803e5a7-5153-5ecf-9a86-9b4c37f5f5ac = { name = "ImageAxes", path = "I/ImageAxes" }
 28071b0f-1505-495f-9565-3513cfd1c620 = { name = "HCGeoTherm", path = "H/HCGeoTherm" }
 2815cbbd-0d7d-431b-a8da-1940906b5714 = { name = "WrappedMultiGraphs", path = "W/WrappedMultiGraphs" }
@@ -2104,6 +2106,7 @@ some amount of consideration when choosing package names.
 2ea8233c-34d4-5acc-88b4-02f326385bcc = { name = "GFlops", path = "G/GFlops" }
 2eaff018-c6f9-5ddb-97b6-8b0d18888fbb = { name = "TensorRT_jll", path = "jll/T/TensorRT_jll" }
 2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8 = { name = "DecompUtil_jll", path = "jll/D/DecompUtil_jll" }
+2ec6ad34-3a48-58c8-92a7-b3b42157112c = { name = "Pythia8_cxxwrap_jll", path = "jll/P/Pythia8_cxxwrap_jll" }
 2ec8e600-e6c3-11e9-3904-61c7e8636276 = { name = "HDF5Utils", path = "H/HDF5Utils" }
 2ec943e9-cfe8-584d-b93d-64dcb6d567b7 = { name = "Libz", path = "L/Libz" }
 2ecab122-4940-479f-a518-03695d136e3f = { name = "BigO", path = "B/BigO" }
@@ -3865,6 +3868,7 @@ some amount of consideration when choosing package names.
 55e0a05c-753f-11e9-14bb-b7f14aae7d87 = { name = "BernsteinEllipses", path = "B/BernsteinEllipses" }
 55e21f81-8b0a-565e-b5ad-6816892a5ee7 = { name = "GoogleCloud", path = "G/GoogleCloud" }
 55e38337-5b6e-4c7c-9cfc-e00dd49102e6 = { name = "GridapODEs", path = "G/GridapODEs" }
+55e73f9c-eeeb-467f-b4cc-a633fde63d2a = { name = "NATS", path = "N/NATS" }
 55ecb840-b828-11e9-1645-43f4a9f9ace7 = { name = "ImplicitPlots", path = "I/ImplicitPlots" }
 55eddd50-7f45-4398-96cf-6a37e2b16f80 = { name = "ReliabilityOptimization", path = "R/ReliabilityOptimization" }
 55efb022-e1be-4044-9089-57a478d003fb = { name = "IterativeLearningControl", path = "I/IterativeLearningControl" }
@@ -7856,6 +7860,7 @@ af0b7596-9bb0-472a-a012-63904f2b4c55 = { name = "PointProcesses", path = "P/Poin
 af179572-5b27-49bb-a7da-7163b0e709f2 = { name = "MaxwellSALT", path = "M/MaxwellSALT" }
 af1cbc52-b994-11e9-036a-87a15c7b4bde = { name = "Harlequin", path = "H/Harlequin" }
 af1dc308-cb6b-11e8-32f0-31192efa90f6 = { name = "GFF3", path = "G/GFF3" }
+af20baa5-aa28-50c0-84ba-035a9da7272e = { name = "WhereAmI_jll", path = "jll/W/WhereAmI_jll" }
 af23ddc1-4c4f-4bcf-9c33-39460b30e4e2 = { name = "RipsererDataPrep", path = "R/RipsererDataPrep" }
 af2f1493-5da4-5c9a-92e4-d8b087733894 = { name = "ModularForms_jll", path = "jll/M/ModularForms_jll" }
 af321ab8-2d2e-40a6-b165-3d674595d28e = { name = "CategoricalDistributions", path = "C/CategoricalDistributions" }
@@ -11409,6 +11414,7 @@ ffbed154-4ef7-542d-bbb7-c09d3a79fcae = { name = "DocStringExtensions", path = "D
 ffc61752-8dc7-55ee-8c37-f3e9cdd09e70 = { name = "Mustache", path = "M/Mustache" }
 ffc816e1-ba66-5fa9-9ecc-bcc5cb19bea1 = { name = "Clang_unified_jll", path = "jll/C/Clang_unified_jll" }
 ffd25f8a-64ca-5728-b0f7-c24cf3aae800 = { name = "XZ_jll", path = "jll/X/XZ_jll" }
+ffd69456-1935-58d2-abba-ba12e8909167 = { name = "ECharts_jll", path = "jll/E/ECharts_jll" }
 ffdd34ce-459d-4fc7-82a1-202b2ab8becf = { name = "SqpSolver", path = "S/SqpSolver" }
 ffdd8e40-dc34-5919-9e87-c8f182d9ad02 = { name = "TableSchema", path = "T/TableSchema" }
 fff527a3-8410-504e-9ca3-60d5e79bb1e4 = { name = "SimpleANOVA", path = "S/SimpleANOVA" }
