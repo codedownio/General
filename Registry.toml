@@ -1000,6 +1000,7 @@ some amount of consideration when choosing package names.
 15788e68-7bd7-41f2-9680-b6e1d80350af = { name = "NoiseModels", path = "N/NoiseModels" }
 157a0f19-4d44-4de5-a0d0-07e2f0ac4dfa = { name = "SegyIO", path = "S/SegyIO" }
 15823ff3-ba11-45dc-afab-613a0ec31816 = { name = "DistributedQuery", path = "D/DistributedQuery" }
+158299e7-fc4f-4c3e-9fda-ad8bb0e07f1e = { name = "GMime", path = "G/GMime" }
 158674fc-8238-5cab-b5ba-03dfc80d1318 = { name = "ReinforcementLearning", path = "R/ReinforcementLearning" }
 158930c3-947c-4174-974b-74b39e64a28f = { name = "LibraryAugmentedSymbolicRegression", path = "L/LibraryAugmentedSymbolicRegression" }
 158d7793-e11f-4c20-a9b1-63b9418f6648 = { name = "AuraLighting", path = "A/AuraLighting" }
@@ -1475,6 +1476,7 @@ some amount of consideration when choosing package names.
 1fd36721-02e5-4f31-ac70-029fcd7253d3 = { name = "ComplexPlots", path = "C/ComplexPlots" }
 1fd47b50-473d-5c70-9696-f719f8f3bcdc = { name = "QuadGK", path = "Q/QuadGK" }
 1fd64df0-a4d2-11e9-360d-2f03868f4cf5 = { name = "Xsum", path = "X/Xsum" }
+1fd685a6-88ce-5cc9-9afc-ec285d232689 = { name = "ExtendedRtIrtModeling", path = "E/ExtendedRtIrtModeling" }
 1fd713ca-387f-5abc-8002-d8b8b1623b73 = { name = "Attr_jll", path = "jll/A/Attr_jll" }
 1fdb7cc3-d4bb-4c12-99d4-180ef071b60a = { name = "RoundAndSwap", path = "R/RoundAndSwap" }
 1fe59b3e-ae39-56b2-a121-c4c5e6ddab56 = { name = "LCIO_Julia_Wrapper_jll", path = "jll/L/LCIO_Julia_Wrapper_jll" }
@@ -6521,6 +6523,7 @@ some amount of consideration when choosing package names.
 8fa3689e-f0b9-5420-9873-adf6ccf46f2d = { name = "PETSc_jll", path = "jll/P/PETSc_jll" }
 8faeb6a4-9048-4507-b81f-6dcc9b8256f0 = { name = "LatticeAnimals", path = "L/LatticeAnimals" }
 8faf48c0-8b73-11e9-0e63-2155955bfa4d = { name = "NeuralNetDiffEq", path = "N/NeuralNetDiffEq" }
+8fb689aa-71ff-4044-8071-0cffc910b57d = { name = "FortranNamelistParser", path = "F/FortranNamelistParser" }
 8fb92a4a-34c4-45cc-956f-769d12f66c92 = { name = "Exfiltrator", path = "E/Exfiltrator" }
 8fbdd1d2-db62-5cd0-981e-905da1486e17 = { name = "ROCmCompilerSupport_jll", path = "jll/R/ROCmCompilerSupport_jll" }
 8fc22ac5-c921-52a6-82fd-178b2807b824 = { name = "FilePaths", path = "F/FilePaths" }
@@ -8224,6 +8227,7 @@ b5ca4192-6429-45e5-a2d9-87aec30a685c = { name = "AdvancedVI", path = "A/Advanced
 b5cc3c7e-6572-11e9-2517-99fb8daf2f04 = { name = "DistributedFactorGraphs", path = "D/DistributedFactorGraphs" }
 b5cf5a8d-e756-4ee3-b014-01d49d192c00 = { name = "InferenceObjects", path = "I/InferenceObjects" }
 b5d43be9-2bc4-468f-88a1-8af1fa13b6e1 = { name = "QuadraticAssignmentProblem", path = "Q/QuadraticAssignmentProblem" }
+b5ea28c8-8fde-43cb-ab2a-66614f5bd9e2 = { name = "Atomsk", path = "A/Atomsk" }
 b5ef6335-26be-4d6f-85a4-8b5df3cbaa06 = { name = "LabVIEW0", path = "L/LabVIEW0" }
 b5f81e59-6552-4d32-b1f0-c071b021bf89 = { name = "IOCapture", path = "I/IOCapture" }
 b5ffcf37-a2bd-41ab-a3da-4bd9bc8ad771 = { name = "HYPRE", path = "H/HYPRE" }
@@ -10473,6 +10477,7 @@ e713c705-17e4-4cec-abe0-95bf5bf3e10c = { name = "PackageAnalyzer", path = "P/Pac
 e71b3392-1e0c-4536-b366-2bd1fce6fba0 = { name = "AcousticAnalogies", path = "A/AcousticAnalogies" }
 e7214860-93a8-4f22-b43d-bd447d1a2094 = { name = "PkgPage", path = "P/PkgPage" }
 e7241e48-3d3b-4ed3-9130-818aaeb8a636 = { name = "QuadraticOptimizer", path = "Q/QuadraticOptimizer" }
+e73a8ff0-27fc-4bea-a65d-4cea79111efd = { name = "PolynomialModelReductionDataset", path = "P/PolynomialModelReductionDataset" }
 e7412a2a-1a6e-54c0-be00-318e2571c051 = { name = "Ogg_jll", path = "jll/O/Ogg_jll" }
 e742bb3c-81eb-5c15-8577-c54658a6ac7f = { name = "JuliaKara", path = "J/JuliaKara" }
 e74b8d68-74d0-42b9-99ba-91d43d3ab0e8 = { name = "Mitosis", path = "M/Mitosis" }
@@ -11007,6 +11012,7 @@ f469b0c9-c763-5b61-b20e-7fa8370129c5 = { name = "FLEXPART_jll", path = "jll/F/FL
 f46a0e2b-0ed0-5677-a4b9-4be52fead4dc = { name = "MFrontInterface", path = "M/MFrontInterface" }
 f47576e5-af05-5f64-9973-822c23b8e01f = { name = "FixYourWorkaround", path = "F/FixYourWorkaround" }
 f4798e02-a7e0-47f5-a571-12dd775704d3 = { name = "MRFingerprintingRecon", path = "M/MRFingerprintingRecon" }
+f47dce41-c8ad-4b69-b8b4-f2a36c7ebdf8 = { name = "BeliefPropagation", path = "B/BeliefPropagation" }
 f4800d5f-c5aa-4b4c-a966-fa01325904ff = { name = "PrivateFields", path = "P/PrivateFields" }
 f4818a02-fb31-488d-84ee-227add8f92b8 = { name = "RBMsAnnealedImportanceSampling", path = "R/RBMsAnnealedImportanceSampling" }
 f489334b-da3d-4c2e-b8f0-e476e12c162b = { name = "StyledStrings", path = "S/StyledStrings" }
