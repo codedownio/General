@@ -531,6 +531,7 @@ some amount of consideration when choosing package names.
 0b62d163-fd1d-4060-a953-4385d03545e2 = { name = "FieldAlgebra", path = "F/FieldAlgebra" }
 0b63354f-98d5-4b2f-8b91-7408084ca26b = { name = "PermGroups", path = "P/PermGroups" }
 0b67037f-a240-4a3f-af2e-8325c7d59380 = { name = "BasicBSplineFitting", path = "B/BasicBSplineFitting" }
+0b79348f-fd03-46c5-b933-bdb7f1bed3f3 = { name = "IgBLAST", path = "I/IgBLAST" }
 0b7ba130-8d10-5ba8-a3d6-c5182647fed9 = { name = "Blosc_jll", path = "jll/B/Blosc_jll" }
 0b7cd5e2-b3f3-5fae-9080-a65912ed73e3 = { name = "Mortar2D", path = "M/Mortar2D" }
 0b829d9d-522b-4e79-acc1-14feb8e2795d = { name = "BaseInterfaces", path = "B/BaseInterfaces" }
@@ -3071,6 +3072,7 @@ some amount of consideration when choosing package names.
 435c3d8c-e5f4-5f7f-83ee-d96dcc9b5a11 = { name = "GaussianMixtureTest", path = "G/GaussianMixtureTest" }
 435e633d-9c15-4973-be77-d092c40524e8 = { name = "AlgorithmicCompetition", path = "A/AlgorithmicCompetition" }
 435ee224-1b87-4f8d-89fc-f6e8a2c17c6c = { name = "SimpleQuantumCircuit", path = "S/SimpleQuantumCircuit" }
+435fd04b-d7a1-466b-a36d-8293cbb03b07 = { name = "BaryPlots", path = "B/BaryPlots" }
 436227dc-6146-11e9-240b-9df6ee45b799 = { name = "MatrixLMnet", path = "M/MatrixLMnet" }
 43668171-7344-4272-8ca6-106380bd294d = { name = "FunctionIndices", path = "F/FunctionIndices" }
 436b0209-26ab-4e65-94a9-6526d86fea76 = { name = "NaturalEarth", path = "N/NaturalEarth" }
@@ -3925,6 +3927,7 @@ some amount of consideration when choosing package names.
 56a5d6c5-c9a8-4db3-ae3d-7c3fdb50c563 = { name = "LighthouseFlux", path = "L/LighthouseFlux" }
 56af3beb-dadf-49b6-97be-f243832a24ad = { name = "ConsoleCodes", path = "C/ConsoleCodes" }
 56b0d19f-0a74-5872-92bc-f48f9c5431d4 = { name = "OdsIO", path = "O/OdsIO" }
+56b672f2-a5fe-4263-ab2d-da677488eb3a = { name = "BoundaryValueDiffEqCore", path = "B/BoundaryValueDiffEqCore" }
 56b76ac4-72ef-411e-b419-6d312ed86a6f = { name = "GenParticleFilters", path = "G/GenParticleFilters" }
 56ba7af4-1aa7-4a85-af25-aa88a55212a9 = { name = "CineFiles", path = "C/CineFiles" }
 56beca70-ca20-45da-83c4-a042539b6c19 = { name = "ComputerVisionMetrics", path = "C/ComputerVisionMetrics" }
@@ -8349,6 +8352,7 @@ b8b640a6-63d9-51e6-b784-5033db27bef2 = { name = "Mangal", path = "M/Mangal" }
 b8ba6cf2-bc19-4044-9316-f77e3c6f0f88 = { name = "PasteMyst", path = "P/PasteMyst" }
 b8c06d6b-f458-43ac-b37a-3e779b88779f = { name = "StochasticGroundMotionSimulation", path = "S/StochasticGroundMotionSimulation" }
 b8c1c048-cf81-46c6-9da0-18c1d99e41f2 = { name = "WidthLimitedIO", path = "W/WidthLimitedIO" }
+b8c81e45-bfcc-5af0-87df-fd7619bc5515 = { name = "Powsybl_jll", path = "jll/P/Powsybl_jll" }
 b8ccf107-3a88-5e0f-823b-b838c6a0f327 = { name = "Spec", path = "S/Spec" }
 b8ce4b42-e81b-4a39-a84a-67f74a9a16dd = { name = "LinearMixingModels", path = "L/LinearMixingModels" }
 b8d14031-e142-472f-b25f-bd9018bb5b90 = { name = "GeneralizedMorseWavelets", path = "G/GeneralizedMorseWavelets" }
