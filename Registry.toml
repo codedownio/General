@@ -2445,6 +2445,7 @@ some amount of consideration when choosing package names.
 3576fdfd-e245-5854-bcf7-dae6dc3117e0 = { name = "capnproto_jll", path = "jll/C/capnproto_jll" }
 357a5a63-a2bd-4f40-8c00-16b25e94246d = { name = "SimpleCTypes", path = "S/SimpleCTypes" }
 358108f5-d052-4d0a-8344-d5384e00c0e5 = { name = "JMcDM", path = "J/JMcDM" }
+3581e6f0-5a2a-4fbf-9499-336905df69aa = { name = "SIRIUS", path = "S/SIRIUS" }
 358294b1-0aab-51c3-aafe-ad5ab194a2ad = { name = "OrdinaryDiffEqStabilizedRK", path = "O/OrdinaryDiffEqStabilizedRK" }
 3587e190-3f89-42d0-90ee-14403ec27112 = { name = "InverseFunctions", path = "I/InverseFunctions" }
 358bd95d-d12c-439f-94b7-04b17e500c7f = { name = "PlantViz", path = "P/PlantViz" }
@@ -10204,6 +10205,7 @@ e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28 = { name = "Missings", path = "M/Missings" 
 e1d33f9a-7203-49d2-8e1a-e3c4f85197b8 = { name = "DLMReader", path = "D/DLMReader" }
 e1d4a2be-69cc-597c-a2ea-cc5d6f241fff = { name = "CircularList", path = "C/CircularList" }
 e1d4ad0e-dc8b-5d2d-8155-e9a55b531f08 = { name = "Clingo_jll", path = "jll/C/Clingo_jll" }
+e1d8bfa7-c465-446a-84b9-451470f6e76c = { name = "LearningToOptimize", path = "L/LearningToOptimize" }
 e1e0bead-d0c8-5de7-863f-c4b0e859faac = { name = "LogParser", path = "L/LogParser" }
 e1e0eea2-bc69-5bf6-8574-13634873a17c = { name = "BitOperations", path = "B/BitOperations" }
 e1e19928-8d36-4c46-ac11-218c50463393 = { name = "FairPortfolio", path = "F/FairPortfolio" }
@@ -11330,6 +11332,7 @@ fbb19de7-1342-5f93-8193-71ff412e753d = { name = "Wynn", path = "W/Wynn" }
 fbb218c0-5317-5bc6-957e-2ee96dd4b1f0 = { name = "BSON", path = "B/BSON" }
 fbb45041-c46e-462f-888f-7c521cafbc2c = { name = "Pickle", path = "P/Pickle" }
 fbb887af-2519-40af-8dc5-25186fd85022 = { name = "RepeatingDecimalNotations", path = "R/RepeatingDecimalNotations" }
+fbc507ec-cd81-588a-baa9-9847e80d13e9 = { name = "LLD_unified_jll", path = "jll/L/LLD_unified_jll" }
 fbca9394-dd0a-4d1c-b066-ae75f6ef1ad5 = { name = "Jchemo", path = "J/Jchemo" }
 fbcbbc08-f1bf-5204-9233-b69f5d396135 = { name = "FEMBase", path = "F/FEMBase" }
 fbce7cdf-2836-403b-b047-729f0088b997 = { name = "SlackSDK", path = "S/SlackSDK" }
