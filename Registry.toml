@@ -2625,6 +2625,7 @@ some amount of consideration when choosing package names.
 39591389-4884-462a-89e7-9edfce40b6eb = { name = "ThreadedSparseCSR", path = "T/ThreadedSparseCSR" }
 3967666a-e078-4e4b-aee9-ca7b8401761d = { name = "Grumps", path = "G/Grumps" }
 396aa475-d5af-5b65-8c11-5c82e21b2380 = { name = "MultiResolutionIterators", path = "M/MultiResolutionIterators" }
+396d5378-14f1-5ab1-981d-48acd51740ed = { name = "Uno_jll", path = "jll/U/Uno_jll" }
 39799108-5025-4d0e-9a62-95a61c8c6061 = { name = "GaussMLE", path = "G/GaussMLE" }
 397faa13-b53e-4cbf-b1cd-0b7e158e6587 = { name = "Edlib", path = "E/Edlib" }
 3986aa12-c984-439b-887a-f8545bea0e93 = { name = "SyncBarriers", path = "S/SyncBarriers" }
@@ -4460,6 +4461,7 @@ some amount of consideration when choosing package names.
 626f57eb-f6ca-464c-8f04-384fee2a352e = { name = "TraceFuns", path = "T/TraceFuns" }
 62700b34-1872-4917-b6af-4f42ae699f38 = { name = "PlotPlants", path = "P/PlotPlants" }
 62725fbc-3a66-4df3-9000-e33e85b3a198 = { name = "MITgcmTools", path = "M/MITgcmTools" }
+62755698-03fb-4fba-b479-db9468a99e5f = { name = "PseudopotentialGenerator", path = "P/PseudopotentialGenerator" }
 62783981-4cbd-42fc-bca8-16325de8dc4b = { name = "BitTwiddlingConvenienceFunctions", path = "B/BitTwiddlingConvenienceFunctions" }
 627d6b7a-bbe6-5189-83e7-98cc0a5aeadd = { name = "pocl_jll", path = "jll/P/pocl_jll" }
 628e9319-2ed5-413a-8fcb-ba6034deb837 = { name = "TaylorInterface", path = "T/TaylorInterface" }
@@ -4792,6 +4794,7 @@ some amount of consideration when choosing package names.
 6a3da44c-33b1-5374-838f-bf0fbf92c29b = { name = "Xorg_xineramaproto_jll", path = "jll/X/Xorg_xineramaproto_jll" }
 6a3e96c6-960a-42b3-a988-ca59d115acd5 = { name = "Kirei", path = "K/Kirei" }
 6a458947-61d4-43a6-b30c-4a7a83d249ad = { name = "AcousticFeatures", path = "A/AcousticFeatures" }
+6a4ca0a5-0e36-4168-a932-d9be78d558f1 = { name = "AcceleratedKernels", path = "A/AcceleratedKernels" }
 6a4e32cb-b31a-4929-85af-fb29d9a80738 = { name = "EllipticFunctions", path = "E/EllipticFunctions" }
 6a57dadc-0402-4d39-bf46-19b28e03609d = { name = "Slugify", path = "S/Slugify" }
 6a61c59e-0e35-4be2-9181-ca44005fb204 = { name = "Holidays", path = "H/Holidays" }
@@ -9523,6 +9526,7 @@ d254efa0-af53-535e-b7f1-03c1c9fbcbe7 = { name = "PkgSkeleton", path = "P/PkgSkel
 d25df0c9-e2be-5dd7-82c8-3ad0b3e990b9 = { name = "Inflate", path = "I/Inflate" }
 d262d690-7b73-43ed-8cf8-7b23904776e1 = { name = "SeriesAcceleration", path = "S/SeriesAcceleration" }
 d265eb64-f81a-44ad-a842-4247ee1503de = { name = "TypedSyntax", path = "T/TypedSyntax" }
+d26dedfb-ad13-44bd-90c7-a2710fa2c005 = { name = "RationalPolygons", path = "R/RationalPolygons" }
 d273dfef-62f2-5f88-806b-f32b81b662f1 = { name = "SuiteSparse_GPU_jll", path = "jll/S/SuiteSparse_GPU_jll" }
 d2772ebe-fee8-5277-ba6e-705bb5633645 = { name = "DeferredFutures", path = "D/DeferredFutures" }
 d277eb4b-a029-4f3f-8547-f56fb2721095 = { name = "JefimenkoModels", path = "J/JefimenkoModels" }
