@@ -114,6 +114,7 @@ some amount of consideration when choosing package names.
 020e4cdc-d87b-429d-8327-eec64f3aefd1 = { name = "Fastnet", path = "F/Fastnet" }
 02130f1c-4665-5b79-af82-ff1385104aa0 = { name = "NOMAD", path = "N/NOMAD" }
 021381c1-d00a-4861-ba2b-4d077ab1b5cd = { name = "PkgOnlineHelp", path = "P/PkgOnlineHelp" }
+022a0cfc-64d6-4a4c-8da6-19b349a396b3 = { name = "Sargassum", path = "S/Sargassum" }
 022fafc6-85a1-46a3-9dea-7935d3763744 = { name = "OpenAIReplMode", path = "O/OpenAIReplMode" }
 02310045-4665-40c9-a658-98c497d2eca9 = { name = "XCrySDenStructureFormat", path = "X/XCrySDenStructureFormat" }
 0234f1f7-429e-5d53-9886-15a909be8d59 = { name = "HDF5_jll", path = "jll/H/HDF5_jll" }
@@ -1938,6 +1939,7 @@ some amount of consideration when choosing package names.
 2a8b799e-c098-4961-872a-356c768d184c = { name = "JacobiElliptic", path = "J/JacobiElliptic" }
 2a8e4939-dab8-5edc-8f64-72a8776f13de = { name = "Mixers", path = "M/Mixers" }
 2a98de0d-ca3b-5770-8d1d-3c2c55f12676 = { name = "TakagiFactorization", path = "T/TakagiFactorization" }
+2aaeee26-74d4-4395-a8a7-2c94eb819fb5 = { name = "SplitComplexNumbers", path = "S/SplitComplexNumbers" }
 2aaf3720-2af0-4ca4-b7d9-7d970023fcad = { name = "CorrelationTrackers", path = "C/CorrelationTrackers" }
 2ab3a3ac-af41-5b50-aa03-7779005ae688 = { name = "LogExpFunctions", path = "L/LogExpFunctions" }
 2ab8e4d3-e1e9-4248-86a3-8419d2d242e9 = { name = "EasyABM", path = "E/EasyABM" }
@@ -2227,6 +2229,7 @@ some amount of consideration when choosing package names.
 30d44bb2-ff8b-57e8-b516-b10f428bad0e = { name = "HiGHSstatic_jll", path = "jll/H/HiGHSstatic_jll" }
 30ddb3f0-912f-4f34-9804-e4bb31290777 = { name = "StippleCharts", path = "S/StippleCharts" }
 30dfa513-9b2f-4fb3-9796-781eabac1617 = { name = "ManualNLPModels", path = "M/ManualNLPModels" }
+30e33e58-a96a-4fec-8c75-57692dd3ff18 = { name = "SmoQyKPMCore", path = "S/SmoQyKPMCore" }
 30e472fa-2b12-4c0b-9705-07d174b7a4e1 = { name = "PubChemCrawler", path = "P/PubChemCrawler" }
 30eb0fb0-5147-11e9-3356-d75b018717ce = { name = "Luna", path = "L/Luna" }
 30ebf9c2-a709-4272-bf69-cc6d19405279 = { name = "RbfInterpolationTools", path = "R/RbfInterpolationTools" }
@@ -3579,6 +3582,7 @@ some amount of consideration when choosing package names.
 4e90bd87-f6f8-42e4-be30-8e164e8f6f7c = { name = "DiceRolls", path = "D/DiceRolls" }
 4e9b3aee-d8a1-5a3d-ad8b-7d824db253f0 = { name = "CRlibm_jll", path = "jll/C/CRlibm_jll" }
 4eb35182-e5c8-446d-8ecc-33e714a26cef = { name = "AutoSysimages", path = "A/AutoSysimages" }
+4eb4f38b-2839-4c1d-8f96-c88b685035f5 = { name = "LMfit", path = "L/LMfit" }
 4ebad81c-a51b-5e30-a6f2-7dd7a25f3aaf = { name = "bwamem2_jll", path = "jll/B/bwamem2_jll" }
 4ec4db44-c288-11e9-3202-272e944f779a = { name = "ScenTrees", path = "S/ScenTrees" }
 4ec6fef6-ecd9-481e-97e1-75598c2ab6c2 = { name = "Bezier", path = "B/Bezier" }
@@ -5412,6 +5416,7 @@ some amount of consideration when choosing package names.
 76b0de8b-5c4b-48ef-a724-914b33ca988d = { name = "TestItemDetection", path = "T/TestItemDetection" }
 76b6901f-8821-46bb-9129-841bc9cfe677 = { name = "OSMMakie", path = "O/OSMMakie" }
 76ce3406-eb3b-58b5-9095-caeac20e920c = { name = "libcsv_jll", path = "jll/L/libcsv_jll" }
+76cf2c14-24ca-44b2-b86c-6046d3cfcf82 = { name = "FerriteInterfaceElements", path = "F/FerriteInterfaceElements" }
 76d26698-d9ba-5ca1-ae24-4ac9393d02a0 = { name = "libnode_jll", path = "jll/L/libnode_jll" }
 76d27892-9a0b-406c-98e4-7c178e9b3dff = { name = "BraketSimulator", path = "B/BraketSimulator" }
 76db0263-63f3-4d26-bb9a-5dba378db904 = { name = "KomaMRIPlots", path = "K/KomaMRIPlots" }
@@ -5676,6 +5681,7 @@ some amount of consideration when choosing package names.
 7c138fc3-9327-4ab8-b9a3-c864f3475625 = { name = "NeuralPDELogging", path = "N/NeuralPDELogging" }
 7c165e09-dada-5b64-9fdc-39b801c58527 = { name = "Pages", path = "P/Pages" }
 7c16e180-9f04-11e8-24a6-e7c7f74617b0 = { name = "FastMarching", path = "F/FastMarching" }
+7c1b654f-8326-48fd-8083-965747c58dac = { name = "TCX2Graph", path = "T/TCX2Graph" }
 7c1d4256-1411-5781-91ec-d7bc3513ac07 = { name = "DynamicPolynomials", path = "D/DynamicPolynomials" }
 7c1f5dd0-abd1-46fd-a3fe-70b5915849d6 = { name = "FITSTables", path = "F/FITSTables" }
 7c209550-9012-526c-9264-55ba7a78ba2c = { name = "polymake_jll", path = "jll/P/polymake_jll" }
