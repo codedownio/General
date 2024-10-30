@@ -489,6 +489,7 @@ some amount of consideration when choosing package names.
 0a594e34-94bc-4f62-947f-4b31ef19552b = { name = "MonteCarloMeasurementUncertainty", path = "M/MonteCarloMeasurementUncertainty" }
 0a602bbd-b08b-5d75-8d32-0de6eef44785 = { name = "HYPRE_jll", path = "jll/H/HYPRE_jll" }
 0a755509-c5b1-5d6f-9b24-59bcda3c37a3 = { name = "ProximalBase", path = "P/ProximalBase" }
+0a7c0d76-3150-4455-b428-d5f420c13001 = { name = "BiBufferedStreams", path = "B/BiBufferedStreams" }
 0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed = { name = "PRIMA", path = "P/PRIMA" }
 0a7d185b-be57-59df-ac21-86d8a1799c2e = { name = "JuliaPetra", path = "J/JuliaPetra" }
 0a7fc590-1c99-4bf9-b5a7-8c116fa99d16 = { name = "Qaintellect", path = "Q/Qaintellect" }
@@ -5141,6 +5142,7 @@ some amount of consideration when choosing package names.
 70d26913-0580-4037-ad67-7d2c365cf5c5 = { name = "AddPackage", path = "A/AddPackage" }
 70dcca16-fae7-5c11-a923-39bcb60edd10 = { name = "Neuroimaging", path = "N/Neuroimaging" }
 70df011a-6618-58d7-8e16-3cf9e384cb47 = { name = "TableReader", path = "T/TableReader" }
+70df07ce-3d50-431d-a3e7-ca6ddb60ac1e = { name = "BracketingNonlinearSolve", path = "B/BracketingNonlinearSolve" }
 70ea7731-f516-5e6d-b63f-53a67d65e1cf = { name = "COINBLAS_jll", path = "jll/C/COINBLAS_jll" }
 70eefb7d-4b42-471c-acf6-aaa17e297c50 = { name = "TensArrays", path = "T/TensArrays" }
 70f11efc-bab2-57f1-b0f3-22aad4e67c4b = { name = "aws_c_cal_jll", path = "jll/A/aws_c_cal_jll" }
@@ -7261,6 +7263,7 @@ a00367d1-88f1-52c5-9c6b-193aa5f849e1 = { name = "ERFA_jll", path = "jll/E/ERFA_j
 a0053b83-2858-41a9-bfb0-1030075bb8f6 = { name = "NEFTInterface", path = "N/NEFTInterface" }
 a00861dc-f156-4864-bf3c-e6376f28a68d = { name = "NNlibCUDA", path = "N/NNlibCUDA" }
 a00d14cb-3434-48ec-9b49-cfc2b9ce2a8f = { name = "Anthropic", path = "A/Anthropic" }
+a00ee857-659a-4bd1-adc3-7f1f48b9fe16 = { name = "Claude", path = "C/Claude" }
 a00f948b-584f-4068-8192-b9768bfe7837 = { name = "FiftyOneImageAnnotations", path = "F/FiftyOneImageAnnotations" }
 a011ac08-54e6-4ec3-ad1c-4165f16ac4ce = { name = "PlutoUIExtra", path = "P/PlutoUIExtra" }
 a018b980-0677-41c0-b9a4-7f34595c2b14 = { name = "NASAPrecipitation", path = "N/NASAPrecipitation" }
@@ -8099,6 +8102,7 @@ b1e335f6-4372-40fd-9431-5a5c4704c04b = { name = "ReSHOP_jll", path = "jll/R/ReSH
 b1eed063-bea0-4e2a-bcc5-a02b2b0a7b77 = { name = "Sensemakr", path = "S/Sensemakr" }
 b1f22607-7830-5ceb-9a8e-05ab1ac77008 = { name = "GeoEfficiency", path = "G/GeoEfficiency" }
 b1f25513-c649-51ee-8a1c-0e98d01ae897 = { name = "CausalityToolsBase", path = "C/CausalityToolsBase" }
+b1f7610d-5a93-432d-98bb-b43418e401fd = { name = "LatentClassAnalysis", path = "L/LatentClassAnalysis" }
 b1f7923c-d51d-4579-ab8a-a2c065887959 = { name = "DaprProto", path = "D/DaprProto" }
 b2097dc8-3ef6-5718-ab14-7bca60434373 = { name = "RestrictProlong", path = "R/RestrictProlong" }
 b20bd276-2c70-11ec-161a-3d1e1109a1c3 = { name = "InvertedFiles", path = "I/InvertedFiles" }
