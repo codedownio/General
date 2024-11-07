@@ -593,6 +593,7 @@ some amount of consideration when choosing package names.
 0ce4ce61-57bf-432b-a095-efac525d185e = { name = "ParametricOptInterface", path = "P/ParametricOptInterface" }
 0ce7a1f8-0645-46c2-a0bb-6c09c29d93e9 = { name = "EarthData", path = "E/EarthData" }
 0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa = { name = "ExaPF", path = "E/ExaPF" }
+0cf4c2ae-3c55-4387-8def-d33f99d13a02 = { name = "HTMLBuilder", path = "H/HTMLBuilder" }
 0cf705f9-a9e2-50d1-a699-2b372a39b750 = { name = "Redis", path = "R/Redis" }
 0d0b3e3c-8241-4271-8221-92a6a704d6fd = { name = "ElasticSearch", path = "E/ElasticSearch" }
 0d1115f3-e42e-5952-a93b-f179746a6ed7 = { name = "fakechroot_jll", path = "jll/F/fakechroot_jll" }
@@ -4497,6 +4498,7 @@ some amount of consideration when choosing package names.
 629bc702-f1f5-5709-abd5-49b8460ea067 = { name = "Qt6Declarative_jll", path = "jll/Q/Qt6Declarative_jll" }
 629e117c-1786-4222-ab4a-1acab234d923 = { name = "VirtualAcousticOcean", path = "V/VirtualAcousticOcean" }
 62b44479-cb7b-5706-934f-f13b2eb2e645 = { name = "CUDNN_jll", path = "jll/C/CUDNN_jll" }
+62bfec6d-59d7-401d-8490-b29ee721c001 = { name = "Runic", path = "R/Runic" }
 62c264cc-5bfb-59d7-84eb-c0e4dde7f66b = { name = "FMM3D_jll", path = "jll/F/FMM3D_jll" }
 62cb38b5-d8d2-4862-a48e-6a340996859f = { name = "GeoDataFrames", path = "G/GeoDataFrames" }
 62ce6dcf-afc2-4b9e-bf6a-7a1353c578d1 = { name = "NDPriorityQueues", path = "N/NDPriorityQueues" }
@@ -10034,6 +10036,7 @@ dc4f5ac2-75d1-4f31-931e-60435d74994b = { name = "ProximalCore", path = "P/Proxim
 dc548174-15c3-5faf-af27-7997cfbde655 = { name = "TerminalMenus", path = "T/TerminalMenus" }
 dc592094-f866-5418-b15b-f7542ad3543c = { name = "SQLCipher_jll", path = "jll/S/SQLCipher_jll" }
 dc5d4990-50a5-4af2-bdaa-6f78dc9b9fb2 = { name = "PhysicalTrees", path = "P/PhysicalTrees" }
+dc5d5603-8d5e-5430-85a9-2783500f9f77 = { name = "TorchCAPI_jll", path = "jll/T/TorchCAPI_jll" }
 dc5dba14-91b3-4cab-a142-028a31da12f7 = { name = "TZJData", path = "T/TZJData" }
 dc5eaf77-5719-4a86-9393-27bd7a74eb3e = { name = "DynamicLinearModels", path = "D/DynamicLinearModels" }
 dc645f23-3555-4f2f-8f6e-8cb879a663f8 = { name = "WenoNeverworld", path = "W/WenoNeverworld" }
