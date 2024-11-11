@@ -1511,6 +1511,7 @@ some amount of consideration when choosing package names.
 206a444d-62d4-4bef-89ca-f2a4a27f2209 = { name = "MuTuner", path = "M/MuTuner" }
 207801d6-6cee-43a9-ad0c-f0c64933efa0 = { name = "ModelOrderReduction", path = "M/ModelOrderReduction" }
 2079e98e-b9a5-4add-91d8-8d7b7bc8f821 = { name = "ISAtmosphere", path = "I/ISAtmosphere" }
+2083aeaf-6258-5d07-89fc-32cf5060c837 = { name = "DynamicSampling", path = "D/DynamicSampling" }
 2084e9b3-e78b-4097-9d0a-08c6d7ecda99 = { name = "DailyMed", path = "D/DailyMed" }
 208e7efd-7036-4c82-8b73-3e7ae71c2350 = { name = "ABCdeZ", path = "A/ABCdeZ" }
 2098c8a6-82c4-11e9-1f54-e72760d085ce = { name = "LibSymspg", path = "L/LibSymspg" }
@@ -5529,6 +5530,7 @@ some amount of consideration when choosing package names.
 783fc400-e4cb-4fe0-842f-3d091e33b2c9 = { name = "SparseGridQuadrature", path = "S/SparseGridQuadrature" }
 78421dfc-ac16-5d69-8300-c22153e3d0b6 = { name = "ProperOrthogonalDecomposition", path = "P/ProperOrthogonalDecomposition" }
 7843afe4-64f4-4df4-9231-049495c56661 = { name = "GeometricSolutions", path = "G/GeometricSolutions" }
+78449bcf-6750-4b78-9e82-63d4a1ccdf8c = { name = "RecurrentLayers", path = "R/RecurrentLayers" }
 78472c14-d0da-49a8-bd95-2e052d09304f = { name = "PCloud", path = "P/PCloud" }
 78485975-e4aa-407d-b3bb-ded5a4265d05 = { name = "PlantRayTracer", path = "P/PlantRayTracer" }
 784df20b-8885-49bf-9cd9-555b1fa67e21 = { name = "Twitch", path = "T/Twitch" }
@@ -6854,6 +6856,7 @@ some amount of consideration when choosing package names.
 9663349c-1c87-11ea-291d-bd81f86a413c = { name = "MathieuFunctions", path = "M/MathieuFunctions" }
 9663f319-c281-55ef-904e-227b7281b1a1 = { name = "libmicrohttpd_jll", path = "jll/L/libmicrohttpd_jll" }
 96684042-fbdc-5399-9b8e-d34e539a126c = { name = "InformationMeasures", path = "I/InformationMeasures" }
+966f3356-8dad-4c1b-950e-472e4a926962 = { name = "MinkowskiFunctionals", path = "M/MinkowskiFunctionals" }
 9672c7b4-1e72-59bd-8a11-6ac3964bc41f = { name = "SteadyStateDiffEq", path = "S/SteadyStateDiffEq" }
 9677e053-0fc1-49e6-98a8-2ad3a1525e54 = { name = "DifferentiableMetabolism", path = "D/DifferentiableMetabolism" }
 967fb449-e509-55aa-8007-234b4096b967 = { name = "Unidecode", path = "U/Unidecode" }
@@ -9002,6 +9005,7 @@ c489a379-e885-57ff-9236-bd896d33c250 = { name = "SphericalHarmonics", path = "S/
 c48e48a2-1f5e-44ff-8799-c8e168d11d1b = { name = "NonconvexUtils", path = "N/NonconvexUtils" }
 c4a57d5a-5b31-53a6-b365-19f8c011fbd6 = { name = "UnsafeArrays", path = "U/UnsafeArrays" }
 c4a8eb41-45be-4f57-9046-b06303d6bef8 = { name = "BaytesPMCMC", path = "B/BaytesPMCMC" }
+c4b0d576-2c18-480d-8459-22152dbbf5e0 = { name = "BioChemicalTreatment", path = "B/BioChemicalTreatment" }
 c4b27c1d-289f-5655-aa69-f096df7d9e2b = { name = "Dubins", path = "D/Dubins" }
 c4b4474d-016b-471b-b14f-576041b951ff = { name = "Bokeh", path = "B/Bokeh" }
 c4b69c83-5512-53e3-94e6-de98773c479f = { name = "dlfcn_win32_jll", path = "jll/D/dlfcn_win32_jll" }
@@ -10239,6 +10243,7 @@ e09e93a3-870c-4c75-9b71-3eefe58c6e5b = { name = "AlgebraPDF", path = "A/AlgebraP
 e0a37952-6f01-4236-91ff-62fdc855f67b = { name = "PALEOsediment", path = "P/PALEOsediment" }
 e0a517c1-78b8-4e0b-8db9-584d87c611c9 = { name = "EnforcedTypeSignatureCallables", path = "E/EnforcedTypeSignatureCallables" }
 e0aa4542-b1ed-4e6a-a09e-9c4627a9da65 = { name = "EquivariantOperators", path = "E/EquivariantOperators" }
+e0b4b9f6-8cc7-451e-9c86-94c5316e9f73 = { name = "ProgressTables", path = "P/ProgressTables" }
 e0b4c2ea-889f-54df-a5e0-fe74b3c892fd = { name = "uCSV", path = "U/uCSV" }
 e0b8ae26-5307-5830-91fd-398402328850 = { name = "Thrift_jll", path = "jll/T/Thrift_jll" }
 e0ba718c-02ec-11e9-384b-dd2930072415 = { name = "ExoplanetsSysSim", path = "E/ExoplanetsSysSim" }
