@@ -5806,6 +5806,7 @@ some amount of consideration when choosing package names.
 7e194583-e687-41a0-9133-1c22a29c80af = { name = "ActorInterfaces", path = "A/ActorInterfaces" }
 7e1ea31b-b9a5-4cc0-940e-7c5f7cd080d6 = { name = "JpegGlitcher", path = "J/JpegGlitcher" }
 7e2492bd-0955-4089-8696-9df2af57a479 = { name = "ConstrainedRootSolvers", path = "C/ConstrainedRootSolvers" }
+7e24f7a5-8a44-4f91-9a93-7ee03df51e54 = { name = "AtomicSymmetries", path = "A/AtomicSymmetries" }
 7e2db94e-98cb-4b2e-907e-9710ad85db91 = { name = "LibNanoVG", path = "L/LibNanoVG" }
 7e4462cd-8001-4c22-b109-db8e4e581e9c = { name = "Modulo2", path = "M/Modulo2" }
 7e49a35a-f44a-4d26-94aa-eba1b4ca6b47 = { name = "RuntimeGeneratedFunctions", path = "R/RuntimeGeneratedFunctions" }
@@ -6270,6 +6271,7 @@ some amount of consideration when choosing package names.
 880e31e2-b695-45be-a28d-96ac068cb1ee = { name = "PromClient", path = "P/PromClient" }
 88128e30-b60a-4e54-ab02-1050a5f92a36 = { name = "QuantumCircuitOpt", path = "Q/QuantumCircuitOpt" }
 881d7174-a88b-11e9-2adc-edaefd320751 = { name = "ExperimentsManager", path = "E/ExperimentsManager" }
+88291d29-22ea-41b1-bc0b-03785bffce48 = { name = "CoupledNODE", path = "C/CoupledNODE" }
 8830ad48-7ead-5d05-b3ac-3822a1a8e113 = { name = "hiredis_jll", path = "jll/H/hiredis_jll" }
 88353bc9-fd38-507d-a820-d3b43837d6b9 = { name = "ConfParser", path = "C/ConfParser" }
 8838a6a3-0006-4405-b874-385995508d5d = { name = "GridapEmbedded", path = "G/GridapEmbedded" }
@@ -6739,6 +6741,7 @@ some amount of consideration when choosing package names.
 93090adf-0e31-445f-8c8f-44d91f61d7ad = { name = "ExpressionTreeForge", path = "E/ExpressionTreeForge" }
 930fe3bc-9c6b-11ea-2d94-6184641e85e7 = { name = "DiffOpt", path = "D/DiffOpt" }
 9317242e-1230-4881-bcbc-8f9566308e0e = { name = "MakieRichText", path = "M/MakieRichText" }
+93189044-1868-42be-8af9-6027680aca9b = { name = "VectorSpaceDarkMatter", path = "V/VectorSpaceDarkMatter" }
 931e9471-e8fb-5385-a477-07ad12718aca = { name = "MechanismGeometries", path = "M/MechanismGeometries" }
 932a18dc-bb55-4cd5-bdd6-1368ec9cea29 = { name = "ImplicitBVH", path = "I/ImplicitBVH" }
 9337fcb6-6716-45db-ab69-a0212f696681 = { name = "SVGDraw", path = "S/SVGDraw" }
@@ -8066,6 +8069,7 @@ b09a1ce3-015a-45b4-89ae-f27efbd2c76d = { name = "XMLParser", path = "X/XMLParser
 b09c5755-86bc-4b69-9fb0-eea9d409a5ca = { name = "CbaOPF", path = "C/CbaOPF" }
 b0a14db8-6308-4ebc-8917-f72cd81f5094 = { name = "NewickTree", path = "N/NewickTree" }
 b0ab02a7-8576-43f7-aa76-eaa7c3897c54 = { name = "GarishPrint", path = "G/GarishPrint" }
+b0b0a731-1897-4268-b4ff-e689c85594d9 = { name = "Simplace", path = "S/Simplace" }
 b0b32849-8088-4a6a-980f-ce3b511736e4 = { name = "XDMFFileHandler", path = "X/XDMFFileHandler" }
 b0b7db55-cfe3-40fc-9ded-d10e2dbeff66 = { name = "ComponentArrays", path = "C/ComponentArrays" }
 b0b859e2-eb2e-45cd-bd98-8fc21bfdc9fa = { name = "Matte", path = "M/Matte" }
@@ -9270,6 +9274,7 @@ ca11d760-9bce-11e9-0b7e-4f72fcadb4f9 = { name = "FluxOptTools", path = "F/FluxOp
 ca278567-1944-4a35-ad5d-9f58fc68adb0 = { name = "ConstantArrays", path = "C/ConstantArrays" }
 ca34efa3-7b06-4646-a985-ce0937c3739e = { name = "OpenScienceFramework", path = "O/OpenScienceFramework" }
 ca382230-33be-11e9-0059-d981d03070e4 = { name = "PropCheck", path = "P/PropCheck" }
+ca3df947-0575-4ae6-b9a3-78df393a7451 = { name = "LevelSetMethods", path = "L/LevelSetMethods" }
 ca45b743-11fc-5578-b74a-7528860c0bda = { name = "tree_sitter_javascript_jll", path = "jll/T/tree_sitter_javascript_jll" }
 ca45d3f4-326b-53b0-9957-23b75aacb3f2 = { name = "SuiteSparse32_jll", path = "jll/S/SuiteSparse32_jll" }
 ca54fc82-bf42-49fd-94f8-048f44d9e20a = { name = "DividedDifferences", path = "D/DividedDifferences" }
