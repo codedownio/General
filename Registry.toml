@@ -78,6 +78,7 @@ some amount of consideration when choosing package names.
 01453d9d-ee7c-5054-8395-0335cb756afa = { name = "DiffEqDiffTools", path = "D/DiffEqDiffTools" }
 0147c57a-19b4-5173-b9c9-41cf4c2c7bcf = { name = "CommonHighlight", path = "C/CommonHighlight" }
 014a38d5-7acb-4e20-b6c0-4fe5c2344fd1 = { name = "QuadraticToBinary", path = "Q/QuadraticToBinary" }
+0151565a-6c01-463c-b553-c2b2e3b729c0 = { name = "RangeExtractor", path = "R/RangeExtractor" }
 01574e87-63b6-4466-925a-334cf7e21b6b = { name = "HiQGA", path = "H/HiQGA" }
 015c0d05-e682-4f19-8f0a-679ce4c54826 = { name = "ArrayInterfaceOffsetArrays", path = "A/ArrayInterfaceOffsetArrays" }
 01638602-6071-5c9b-be9d-28079212bf65 = { name = "DevIL", path = "D/DevIL" }
@@ -948,6 +949,7 @@ some amount of consideration when choosing package names.
 13e0c4e3-fd7a-51bf-9e22-ec7679f18909 = { name = "COESA", path = "C/COESA" }
 13e28ba4-7ad8-5781-acae-3021b1ed3924 = { name = "AppleAccelerate", path = "A/AppleAccelerate" }
 13e42f18-9cd8-4aec-8cff-075110cadf7e = { name = "DejaVu", path = "D/DejaVu" }
+13ead8c1-b7d1-41bb-a6d0-5b8b65ed587a = { name = "IMAS", path = "I/IMAS" }
 13eca655-d68d-5b81-8367-6d99d727ab01 = { name = "oneAPI_Level_Zero_Loader_jll", path = "jll/O/oneAPI_Level_Zero_Loader_jll" }
 13ef2956-0416-496b-acf0-802ddd2ca2dc = { name = "HealpixMPI", path = "H/HealpixMPI" }
 13f3f980-e62b-5c42-98c6-ff1f3baf88f0 = { name = "CairoMakie", path = "C/CairoMakie" }
@@ -5664,6 +5666,7 @@ some amount of consideration when choosing package names.
 7aa10a8e-8b87-4952-8d6b-aae44b8b139e = { name = "IdealGas", path = "I/IdealGas" }
 7ab2ea78-72dd-4c03-85d8-fc2b0db252af = { name = "MendelPlots", path = "M/MendelPlots" }
 7ab50ac8-3a8c-5d28-9910-0d361883217b = { name = "gitoxide_jll", path = "jll/G/gitoxide_jll" }
+7abe38c7-550a-49b0-ba99-33d1b5164ede = { name = "DynamicalCorrelators", path = "D/DynamicalCorrelators" }
 7aca2e03-f7e2-4192-9ec8-f4ca66d597fb = { name = "NodesAndModes", path = "N/NodesAndModes" }
 7acf609c-83a4-11e9-1ffb-b912bcd3b04a = { name = "LightGBM", path = "L/LightGBM" }
 7ad07ef1-bdf2-5661-9d2b-286fd4296dac = { name = "CoupledFields", path = "C/CoupledFields" }
