@@ -3530,6 +3530,7 @@ some amount of consideration when choosing package names.
 4c8bd3c9-ead9-4b5e-a625-08f1338ba0ec = { name = "Ginkgo", path = "G/Ginkgo" }
 4c8beaf5-199b-59a0-a7f2-21d17de635b6 = { name = "StaticGraphs", path = "S/StaticGraphs" }
 4c983967-3530-4695-9d8b-d2465029e2f3 = { name = "RecoverPose", path = "R/RecoverPose" }
+4ca6f12b-c8f1-4945-b50f-6bb73234c039 = { name = "CloudClusters", path = "C/CloudClusters" }
 4ca9428c-4c75-11e9-2efb-bf5cb6c1e8f8 = { name = "JuDoc", path = "J/JuDoc" }
 4cb800f8-6e34-42b5-a258-cba768800361 = { name = "RankCompV3", path = "R/RankCompV3" }
 4cc0fe96-1163-46f3-ba32-de1e65d9548f = { name = "KhepriBase", path = "K/KhepriBase" }
@@ -4139,6 +4140,7 @@ some amount of consideration when choosing package names.
 5a360db7-3336-4c46-b5a1-be4fe079ea55 = { name = "AtomGraphs", path = "A/AtomGraphs" }
 5a3ac768-beb4-554a-9c98-3342fe3377f5 = { name = "HORIZONS", path = "H/HORIZONS" }
 5a3fb44e-d90d-11e9-053b-99581e1bac63 = { name = "AES", path = "A/AES" }
+5a402ddf-f93c-42eb-975e-5582dcda653d = { name = "PiccoloQuantumObjects", path = "P/PiccoloQuantumObjects" }
 5a40c529-53c2-4483-a223-e00c1cee8134 = { name = "QuantumDynamics", path = "Q/QuantumDynamics" }
 5a4f3dfa-1789-40f8-8221-69268c29937c = { name = "AbstractFBCModels", path = "A/AbstractFBCModels" }
 5a4fb9a2-b02d-4ffe-b178-6027dc2bc1ce = { name = "AppDirs", path = "A/AppDirs" }
@@ -6306,6 +6308,7 @@ some amount of consideration when choosing package names.
 886fa1cc-5380-4008-8113-0516998d4847 = { name = "MetaDataGraphs", path = "M/MetaDataGraphs" }
 88710b8a-735b-4c46-a451-f37baff89cb3 = { name = "BraidGroup", path = "B/BraidGroup" }
 888e69b1-873b-5047-a2fc-24c07cbe9dc8 = { name = "muparser_jll", path = "jll/M/muparser_jll" }
+889a5e0f-cea4-48d1-aea6-4a3fe9168d86 = { name = "GridMaps", path = "G/GridMaps" }
 88a5189c-e7ff-4f85-ac6b-e6158070f02e = { name = "DataAugmentation", path = "D/DataAugmentation" }
 88a69b33-da0f-4502-8c8c-d680cf4d883b = { name = "ElementaryPDESolutions", path = "E/ElementaryPDESolutions" }
 88a73ca7-34a6-43ac-bc8e-badcd0d72400 = { name = "SQLCompose", path = "S/SQLCompose" }
@@ -6824,6 +6827,7 @@ some amount of consideration when choosing package names.
 94bd45ad-7a68-435f-8a71-8b2caa00d1b6 = { name = "SemiAlgebraicTypes", path = "S/SemiAlgebraicTypes" }
 94c2ca8e-d4e4-11e9-02ac-43cfcaaaed17 = { name = "Lilith", path = "L/Lilith" }
 94ce4f54-9a6c-5748-9c1c-f9c7231a4531 = { name = "Libiconv_jll", path = "jll/L/Libiconv_jll" }
+94d474ba-9a8a-4612-aaf4-76c1836fe059 = { name = "ConleyDynamics", path = "C/ConleyDynamics" }
 94d9ae2c-efc7-56f8-9a02-54c47b797961 = { name = "NativeFileDialog_jll", path = "jll/N/NativeFileDialog_jll" }
 94e1309d-ccf4-42de-905f-515f1d7b1cae = { name = "HealthBase", path = "H/HealthBase" }
 94e857df-77ce-4151-89e5-788b33177be4 = { name = "SIMDTypes", path = "S/SIMDTypes" }
@@ -8450,6 +8454,7 @@ b873ce64-0db9-51f5-a568-4457d8e49576 = { name = "ReplMaker", path = "R/ReplMaker
 b8827193-453e-47cb-8319-1562ac79a546 = { name = "Sqlite3Stats", path = "S/Sqlite3Stats" }
 b8865327-cd53-5732-bb35-84acbb429228 = { name = "UnicodePlots", path = "U/UnicodePlots" }
 b886a573-0f84-4e1e-bf4c-dbf643e19b24 = { name = "LopShelve", path = "L/LopShelve" }
+b88765aa-e0a2-5b02-b897-840ea4e6307e = { name = "gat_jll", path = "jll/G/gat_jll" }
 b887be70-99fa-47d4-b56c-69f3bb550b8c = { name = "IrrationalExpressions", path = "I/IrrationalExpressions" }
 b88861f7-1d72-59dd-91e7-a8cc876a4984 = { name = "UserNSSandbox_jll", path = "jll/U/UserNSSandbox_jll" }
 b889d2dc-af3c-4820-88a8-238fa91d3518 = { name = "RecurrenceRelationshipArrays", path = "R/RecurrenceRelationshipArrays" }
