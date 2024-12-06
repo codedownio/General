@@ -1121,6 +1121,7 @@ some amount of consideration when choosing package names.
 17bed46d-0ab5-4cd4-b792-a5c4b8547c6d = { name = "MLJSerialization", path = "M/MLJSerialization" }
 17c23775-69b5-4366-8053-0c64bad4914c = { name = "Mixtape", path = "M/Mixtape" }
 17ccb2e5-db19-44b3-b354-4fd16d92c74e = { name = "CitableImage", path = "C/CitableImage" }
+17ce1de9-5131-45e3-8a48-9723b6e2dc23 = { name = "PartitionedMPSs", path = "P/PartitionedMPSs" }
 17dff602-ea15-4a83-a4cd-e8c4e335a075 = { name = "PooksoftBase", path = "P/PooksoftBase" }
 17e71f27-613d-5023-914f-287e042b5c33 = { name = "CUDNN_CUDA90_jll", path = "jll/C/CUDNN_CUDA90_jll" }
 17eb5352-d50b-5fdc-b767-c749cd790e65 = { name = "Xorg_damageproto_jll", path = "jll/X/Xorg_damageproto_jll" }
@@ -2197,6 +2198,7 @@ some amount of consideration when choosing package names.
 2fb1d81b-e6a0-5fc5-82e6-8e06903437ab = { name = "GeoArrays", path = "G/GeoArrays" }
 2fb66cca-c1f8-4a32-85dd-1a01a9e8cd8f = { name = "EditionBuilders", path = "E/EditionBuilders" }
 2fbcfb34-fd0c-5fbb-b5d7-e826d8f5b0a9 = { name = "UniqueVectors", path = "U/UniqueVectors" }
+2fbe496a-299b-4c81-bab5-c44dfc55cf20 = { name = "DecisionFocusedLearningBenchmarks", path = "D/DecisionFocusedLearningBenchmarks" }
 2fc109c4-9d77-11e9-32ff-e5c650334c16 = { name = "LinearInterpolators", path = "L/LinearInterpolators" }
 2fc36f50-c0f6-442e-a77c-cf0acc93eef6 = { name = "BitemporalReactive", path = "B/BitemporalReactive" }
 2fc7fd02-576c-576e-a36a-6afce71715da = { name = "NOMAD_jll", path = "jll/N/NOMAD_jll" }
@@ -6816,6 +6818,7 @@ some amount of consideration when choosing package names.
 9404b2b5-64ac-5ade-85a3-77c836ef30b4 = { name = "SortedVectors", path = "S/SortedVectors" }
 940648b6-1797-4129-9403-35667d1f6004 = { name = "DiscreteEntropy", path = "D/DiscreteEntropy" }
 9406b108-c799-4c20-a955-6fb73514e56d = { name = "MortalityModels", path = "M/MortalityModels" }
+941572e2-79a6-4ec3-8380-7ad5c8caa571 = { name = "AssignTaxonomy", path = "A/AssignTaxonomy" }
 94167541-0a4e-5fbf-aeea-474b87c587e3 = { name = "LCIO", path = "L/LCIO" }
 9427e74d-4e05-59c1-8ff3-7d74b6e52ac8 = { name = "libsamplerate_jll", path = "jll/L/libsamplerate_jll" }
 94295238-5935-5bd7-bb0f-b00942e9bdd5 = { name = "libigc_jll", path = "jll/L/libigc_jll" }
@@ -7564,6 +7567,7 @@ a4d2327a-b40c-407e-b18c-dbb78b346b8e = { name = "LowRankIntegrators", path = "L/
 a4dc8951-f1cc-5499-9034-9ec1c3e64557 = { name = "ReadStat_jll", path = "jll/R/ReadStat_jll" }
 a4df4552-cc26-4903-aec0-212e50a0e84b = { name = "FastPower", path = "F/FastPower" }
 a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e = { name = "Tar", path = "T/Tar" }
+a4e6b4e8-4b97-4be9-afa4-72a10a6a8f69 = { name = "VisualDiff", path = "V/VisualDiff" }
 a4e7ca57-d8d8-4f74-9c0b-0b18081c205e = { name = "QuantumESPRESSOFormatter", path = "Q/QuantumESPRESSOFormatter" }
 a506da57-2f56-4b21-828f-08a84784c93c = { name = "IndependentComponentAnalysis", path = "I/IndependentComponentAnalysis" }
 a51aa0fd-4e3c-5386-b890-e753decda492 = { name = "Xorg_libXi_jll", path = "jll/X/Xorg_libXi_jll" }
@@ -8384,6 +8388,7 @@ b643ced8-3934-11ea-3f5f-690af0bb8ffb = { name = "Peacock", path = "P/Peacock" }
 b65d079e-ed98-51d9-b0db-edee61a5c5f8 = { name = "ConstraintProgrammingExtensions", path = "C/ConstraintProgrammingExtensions" }
 b65eaea1-64bc-41c1-8769-7d54b65f7ee7 = { name = "RobustMFit", path = "R/RobustMFit" }
 b66076ac-575f-47ff-93e2-9c43ffc8d39e = { name = "SeparableOptimization", path = "S/SeparableOptimization" }
+b66182ab-a85c-43b0-99bd-d85cc47c5e50 = { name = "LowRankLayers", path = "L/LowRankLayers" }
 b668014c-ba84-4ca4-9f65-ff5c52804072 = { name = "SQLREPL", path = "S/SQLREPL" }
 b66b7d2f-f536-51df-9f97-4dfb9d27c005 = { name = "StringAnalysis", path = "S/StringAnalysis" }
 b6717af4-2a8a-40aa-9b8e-77d45ce125cc = { name = "RadiationPatterns", path = "R/RadiationPatterns" }
@@ -10396,6 +10401,7 @@ e241e3f8-b5bc-4834-a945-877018c5ef6c = { name = "DogAPI", path = "D/DogAPI" }
 e248de7e-9197-5860-972e-353a2af44d75 = { name = "EffectSizes", path = "E/EffectSizes" }
 e24af43f-9fd5-4672-9264-a75f3ae40eb2 = { name = "Cartan", path = "C/Cartan" }
 e24b7630-0518-11e9-1346-1188d3abce50 = { name = "AtomicStructure", path = "A/AtomicStructure" }
+e24bbd13-ca2d-4e80-8582-2dcbdb03756c = { name = "SP2000ChinaData", path = "S/SP2000ChinaData" }
 e24c0720-ea99-47e8-929e-571b494574d3 = { name = "ExponentialAction", path = "E/ExponentialAction" }
 e24f45a5-4790-5a38-8b2c-33d770a4e70f = { name = "InverseLaplace", path = "I/InverseLaplace" }
 e253f47c-99a5-4462-a47e-a31f992eca7c = { name = "ImageColorThresholderApp", path = "I/ImageColorThresholderApp" }
