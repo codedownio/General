@@ -3175,6 +3175,7 @@ some amount of consideration when choosing package names.
 44808c39-7784-4d8d-8dbc-3ef853c709a1 = { name = "CombinatorialMultigrid", path = "C/CombinatorialMultigrid" }
 4483d8a1-97c0-5c1a-b7ea-a115040394ce = { name = "D3_jll", path = "jll/D/D3_jll" }
 4484d908-372d-4f90-b90b-0ec97f005b8c = { name = "AndExport", path = "A/AndExport" }
+44855f8b-b147-4985-ac18-48817d03c548 = { name = "EnergyModelsHydrogen", path = "E/EnergyModelsHydrogen" }
 448d79b3-4b49-4e06-a5ea-00c62c0dc3db = { name = "cuTensorNet", path = "C/cuTensorNet" }
 4491297b-8966-5840-8cb9-b189d60f3398 = { name = "RealNeuralNetworks", path = "R/RealNeuralNetworks" }
 4497dbff-a3fd-4ae5-909f-dd1339757ac3 = { name = "GroundwaterPlots", path = "G/GroundwaterPlots" }
@@ -6284,6 +6285,7 @@ some amount of consideration when choosing package names.
 8762d9c5-fcab-4007-8fd1-c6de73397726 = { name = "AztecDiamonds", path = "A/AztecDiamonds" }
 876525fa-7cae-420f-8fd8-59a6b63fe7c3 = { name = "DistributionVectors", path = "D/DistributionVectors" }
 87678d4f-af7b-42c4-8acc-799be3e9c2d2 = { name = "InPartSBiome", path = "I/InPartSBiome" }
+8767b432-2e83-436f-aa62-e8e2db78ab85 = { name = "StateSpaceAnalysis", path = "S/StateSpaceAnalysis" }
 877b7152-b508-43dc-81fb-72341a693988 = { name = "FullNetworkSystems", path = "F/FullNetworkSystems" }
 877fb49a-56b0-480a-9049-319c0c353852 = { name = "CompileBot", path = "C/CompileBot" }
 878138dc-5b27-11ea-1a71-cb95d38d6b29 = { name = "CellularAutomata", path = "C/CellularAutomata" }
@@ -9210,6 +9212,7 @@ c74b26e8-f247-5d24-b013-c11a2bbd97c6 = { name = "ValkyrieRobot", path = "V/Valky
 c74db56a-226d-5e98-8bb0-a6049094aeea = { name = "PolynomialBases", path = "P/PolynomialBases" }
 c751599d-da0a-543b-9d20-d0a503d91d24 = { name = "ToeplitzMatrices", path = "T/ToeplitzMatrices" }
 c75e803d-635f-53bd-ab7d-544e482d8c75 = { name = "AdaptiveRejectionSampling", path = "A/AdaptiveRejectionSampling" }
+c76e7b22-e1d2-40e8-b0f1-f659837787b8 = { name = "OptimalBranchingCore", path = "O/OptimalBranchingCore" }
 c76e7e64-dca4-11eb-0ff5-1d6d625192a2 = { name = "ReadCoverageDistributions", path = "R/ReadCoverageDistributions" }
 c771fb93-2439-5ece-a3b3-58fecce82101 = { name = "ODEInterface_jll", path = "jll/O/ODEInterface_jll" }
 c7752788-e2db-4f03-8189-845608b41f97 = { name = "NestedTests", path = "N/NestedTests" }
@@ -9362,6 +9365,7 @@ ca7ab67e-1aa0-420a-90d9-eb5aef468722 = { name = "SimSearchManifoldLearning", pat
 ca7b5df7-6146-5dcc-89ec-36256279a339 = { name = "MFCC", path = "M/MFCC" }
 ca7c0f55-ad95-5972-a3e2-8e5b4e3bed80 = { name = "oxigraph_server_jll", path = "jll/O/oxigraph_server_jll" }
 ca841f6f-225c-4bbd-a467-7a3512dfa6f6 = { name = "CliffordAlgebras", path = "C/CliffordAlgebras" }
+ca87011c-5f75-4091-8e42-d20fc4be912c = { name = "StippleMakie", path = "S/StippleMakie" }
 ca8b7239-ccd3-5cce-807f-2072f3f0d108 = { name = "ACME", path = "A/ACME" }
 ca8f4450-19af-48ec-a412-7beb1ac39672 = { name = "IonBase", path = "I/IonBase" }
 ca969041-2cf3-4b10-bc21-86f4417093eb = { name = "ProcessBasedModelling", path = "P/ProcessBasedModelling" }
