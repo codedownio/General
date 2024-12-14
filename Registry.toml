@@ -242,6 +242,7 @@ some amount of consideration when choosing package names.
 05236dd9-4125-5232-aa7c-9ec0c9b2c25a = { name = "Readline_jll", path = "jll/R/Readline_jll" }
 0525e862-1e90-11e9-3e4d-1b39d7109de1 = { name = "QuantumClifford", path = "Q/QuantumClifford" }
 052768ef-5323-5732-b1bb-66c8b64840ba = { name = "CUDA", path = "C/CUDA" }
+05348d26-1c52-11e9-35e3-9d51842d34b9 = { name = "PRAS", path = "P/PRAS" }
 053f045d-5466-53fd-b400-a066f88fe02a = { name = "SimilaritySearch", path = "S/SimilaritySearch" }
 05405587-d2ae-42af-a06c-0e4c5bc87667 = { name = "Blosc2", path = "B/Blosc2" }
 054acbdd-7fbc-53f6-b51a-0fe4f8189fb8 = { name = "gawk_jll", path = "jll/G/gawk_jll" }
@@ -1390,6 +1391,7 @@ some amount of consideration when choosing package names.
 1d30c219-805f-47bd-9cb8-33f291c94a4c = { name = "HighVoronoi", path = "H/HighVoronoi" }
 1d38b3a6-207b-531b-80e8-c83f48dafa73 = { name = "FLAC_jll", path = "jll/F/FLAC_jll" }
 1d40253f-d7d5-5bc2-be73-07f0f24a3532 = { name = "Pushover", path = "P/Pushover" }
+1d45bab8-fbcd-445a-8de2-8d643ff389c2 = { name = "OptimalBranchingMIS", path = "O/OptimalBranchingMIS" }
 1d51b185-1a84-59cf-b84e-03b0e3da30b7 = { name = "DrawSimpleGraphs", path = "D/DrawSimpleGraphs" }
 1d56a567-eebb-4d79-96f4-589d6165ccdd = { name = "ChebyshevFiltering", path = "C/ChebyshevFiltering" }
 1d56ff18-86b0-54eb-9ca6-1c12e018e922 = { name = "strace_jll", path = "jll/S/strace_jll" }
@@ -2550,6 +2552,7 @@ some amount of consideration when choosing package names.
 36b790f5-6434-4fbe-b711-1f64a1e2f6a2 = { name = "SimpleSolvers", path = "S/SimpleSolvers" }
 36b8f3f0-b776-11e8-061f-1f20094e1fc8 = { name = "MetaArrays", path = "M/MetaArrays" }
 36bce8c7-4217-4a10-b989-c910c0ce2ba6 = { name = "InfixUnions", path = "I/InfixUnions" }
+36bf25e4-cdf2-5fe1-89b6-d11c3d348c77 = { name = "flecs_jll", path = "jll/F/flecs_jll" }
 36c3bae2-c0c3-419d-b3b4-eebadd35c5e5 = { name = "RandomFeatures", path = "R/RandomFeatures" }
 36c8627f-9965-5494-a995-c6b170f724f3 = { name = "Pango_jll", path = "jll/P/Pango_jll" }
 36d08e8a-54dd-435f-8c9e-38a475050b11 = { name = "AbstractPermutations", path = "A/AbstractPermutations" }
@@ -4127,6 +4130,7 @@ some amount of consideration when choosing package names.
 59872b50-2c0f-4331-84f7-44577a892ba3 = { name = "AstroConstants", path = "A/AstroConstants" }
 5996c727-abd7-5f74-ae59-138d08b03cd1 = { name = "SharedMimeInfo_jll", path = "jll/S/SharedMimeInfo_jll" }
 599c1a8e-b958-11e9-0d14-b1e6b2ecea07 = { name = "LinearMapsAA", path = "L/LinearMapsAA" }
+599de4a1-440e-403d-8b33-ce14758023a2 = { name = "AISCSteel", path = "A/AISCSteel" }
 59abdd74-cdb7-53ea-acab-ed1c8628de13 = { name = "arm_binutils_jll", path = "jll/A/arm_binutils_jll" }
 59bbcd92-9ea0-11ea-1f68-61ee4b7b554c = { name = "Fakerjl", path = "F/Fakerjl" }
 59c22e0c-4e04-425f-9782-11a552c58a8d = { name = "StringTemplates", path = "S/StringTemplates" }
@@ -4443,6 +4447,7 @@ some amount of consideration when choosing package names.
 60658175-6863-4866-a322-ab51a11c0cfe = { name = "WarmupHMC", path = "W/WarmupHMC" }
 60694085-d904-4bfc-95dc-1e0e768e9359 = { name = "Swizzles", path = "S/Swizzles" }
 606afd24-34ae-43cb-b3df-40d2cc14ba61 = { name = "Polarisation", path = "P/Polarisation" }
+6073304d-8c11-559f-8a83-5ce24a08dcab = { name = "MLX_C_jll", path = "jll/M/MLX_C_jll" }
 6074595b-091a-495a-9b39-045a690b2c53 = { name = "Muspel", path = "M/Muspel" }
 607c11b8-770f-4df0-ace8-6eaa1ea2719e = { name = "HealthMLBase", path = "H/HealthMLBase" }
 607db5a9-722a-4af8-9a06-1810c0fe385b = { name = "DifferentialEvolutionMCMC", path = "D/DifferentialEvolutionMCMC" }
