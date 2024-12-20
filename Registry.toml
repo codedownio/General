@@ -2342,6 +2342,7 @@ some amount of consideration when choosing package names.
 323cb8eb-fbf6-51c0-afd0-f8fba70507b2 = { name = "GeoStatsBase", path = "G/GeoStatsBase" }
 323ce080-7fb5-11ea-274f-1d7ddb39cbfa = { name = "MultiStochGrad", path = "M/MultiStochGrad" }
 32427880-5a10-5048-bea3-44a26af5d02d = { name = "SCALE_MAMBA_jll", path = "jll/S/SCALE_MAMBA_jll" }
+32433216-4d85-4b2d-94ed-a614743ba12b = { name = "PartiallyObservedMarkovProcesses", path = "P/PartiallyObservedMarkovProcesses" }
 324734c7-f323-4536-9335-775d9be9d101 = { name = "BioMASS", path = "B/BioMASS" }
 32490229-d69f-4a68-9525-74935b3d7b50 = { name = "MethodOfMoments", path = "M/MethodOfMoments" }
 324d217c-45ce-50fc-942e-d289b448e8cf = { name = "ReferenceTests", path = "R/ReferenceTests" }
@@ -2351,6 +2352,7 @@ some amount of consideration when choosing package names.
 3254fc65-9028-534d-aa9d-d76d128babc6 = { name = "aws_c_http_jll", path = "jll/A/aws_c_http_jll" }
 32610584-8033-4d12-ab8e-952911879412 = { name = "OctreeBH", path = "O/OctreeBH" }
 3265bcac-820f-4b8a-8cd5-05a71ff46e33 = { name = "MatrixMerge", path = "M/MatrixMerge" }
+328aa5c7-aa14-5b23-aa57-05fb7d04b830 = { name = "openfhe_julia_int128_jll", path = "jll/O/openfhe_julia_int128_jll" }
 32925ad8-f583-44d3-8c77-a232bc7bbe09 = { name = "JUDI4Cloud", path = "J/JUDI4Cloud" }
 3293fb92-4d5f-4840-a675-6a8c3e839d01 = { name = "LongDatasetSort", path = "L/LongDatasetSort" }
 329a7628-3119-536a-a060-c6b2f8e35265 = { name = "Maracas", path = "M/Maracas" }
@@ -3383,6 +3385,7 @@ some amount of consideration when choosing package names.
 48abaad9-6585-5455-9ce3-84cd0709264b = { name = "FlangClassic_RTLib_jll", path = "jll/F/FlangClassic_RTLib_jll" }
 48ae9875-8a8b-401f-9c90-1ad5d6adef54 = { name = "SmoothNumbers", path = "S/SmoothNumbers" }
 48b6455b-4cf5-590d-a543-2d733c79e793 = { name = "FLANN_jll", path = "jll/F/FLANN_jll" }
+48bbcad9-ae6a-4618-9eec-9c3ca8e1b15b = { name = "ExchangeOperations", path = "E/ExchangeOperations" }
 48c1b23d-d9bb-4f6d-9629-79933a599311 = { name = "SpiderMonkey", path = "S/SpiderMonkey" }
 48c56d24-211d-4463-bbc0-7a701b291131 = { name = "JointEnergyModels", path = "J/JointEnergyModels" }
 48ce63ed-6f34-4d1b-af9f-4e5ab636a982 = { name = "TuplesOfNTuples", path = "T/TuplesOfNTuples" }
@@ -6386,6 +6389,7 @@ some amount of consideration when choosing package names.
 8913a72c-1f9b-4ce2-8d82-65094dcecaec = { name = "NonlinearSolve", path = "N/NonlinearSolve" }
 891a1506-143c-57d2-908e-e1f8e92e6de9 = { name = "GaussianProcesses", path = "G/GaussianProcesses" }
 891f6deb-a4f5-4bc5-a2e3-1e8f649cdd2c = { name = "OceanStateEstimation", path = "O/OceanStateEstimation" }
+89210afb-bb0f-413a-8ffa-8390a41acbf2 = { name = "ElementaryFluxModes", path = "E/ElementaryFluxModes" }
 89210da2-f0be-5ef8-ba65-10393cce509d = { name = "Poltergeist", path = "P/Poltergeist" }
 89212889-6d3f-5f97-b412-7825138f6c9c = { name = "ReverseDiffSparse", path = "R/ReverseDiffSparse" }
 8922cf73-a24a-4c59-b2b7-455e840875f0 = { name = "DynamicBoundspODEsIneq", path = "D/DynamicBoundspODEsIneq" }
@@ -8288,6 +8292,7 @@ b32b01fb-8833-5495-9754-2f5f3e3ebfd4 = { name = "MirroredArrayViews", path = "M/
 b3329135-7958-41d4-bb02-e084c5a526bf = { name = "CovarianceFunctions", path = "C/CovarianceFunctions" }
 b33eeca9-aacb-4496-a840-e75f1646a4fb = { name = "SyntaxInterface", path = "S/SyntaxInterface" }
 b33f1834-3304-4c26-96eb-60ff7015163d = { name = "PointInPoly", path = "P/PointInPoly" }
+b33f403f-199b-472b-b9d0-1cd2092892d0 = { name = "Uncertain", path = "U/Uncertain" }
 b342263e-b350-472a-b1a9-8dfd21b51589 = { name = "DateTimes64", path = "D/DateTimes64" }
 b3480ff6-a2af-506e-a6b8-61d160ca6532 = { name = "ShapesOfVariables", path = "S/ShapesOfVariables" }
 b348cf08-4407-5d37-b307-1564396f8b07 = { name = "GAP_pkg_json_jll", path = "jll/G/GAP_pkg_json_jll" }
