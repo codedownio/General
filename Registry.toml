@@ -2870,6 +2870,7 @@ some amount of consideration when choosing package names.
 3d41126b-a46a-5bdb-b7a1-7ea6cc35a8ef = { name = "XSim", path = "X/XSim" }
 3d421925-9ddb-5fba-844f-eab55ed40f51 = { name = "Sundials32_jll", path = "jll/S/Sundials32_jll" }
 3d46c559-9b3d-4aba-9ca1-48ff7627231e = { name = "Rete", path = "R/Rete" }
+3d47416f-b330-5763-8b13-e9bf7bc8d726 = { name = "spdlog_jll", path = "jll/S/spdlog_jll" }
 3d48db48-6773-11ed-1a7e-43a2532b2fa8 = { name = "StarStats", path = "S/StarStats" }
 3d549a52-7b57-4935-b05e-d5b0ee0c7825 = { name = "ILMPostProcessing", path = "I/ILMPostProcessing" }
 3d56f106-398e-55cb-9b6b-0dced46c254c = { name = "CLFFT_jll", path = "jll/C/CLFFT_jll" }
@@ -5420,6 +5421,7 @@ some amount of consideration when choosing package names.
 7424abe3-9926-5da8-9b28-863d6330819c = { name = "bsdiff_classic_jll", path = "jll/B/bsdiff_classic_jll" }
 7424e34d-94f7-41d6-98a0-85abaf1b6c91 = { name = "NFFTTools", path = "N/NFFTTools" }
 7425d11c-6b70-11e9-2bc6-9bcd3191d4b9 = { name = "PowerModelsAnalytics", path = "P/PowerModelsAnalytics" }
+7425e8e4-4cde-4e45-9b2f-a15679260f9b = { name = "SymplecticFactorizations", path = "S/SymplecticFactorizations" }
 74334e00-59ce-546d-b517-81f3b7e1d491 = { name = "DSSP_jll", path = "jll/D/DSSP_jll" }
 743831d1-0e6a-4e86-a0c4-1a098a68aca3 = { name = "MatterPower", path = "M/MatterPower" }
 743a1d0a-8ebc-4f23-814b-50d006366bc6 = { name = "DataTables", path = "D/DataTables" }
@@ -9270,6 +9272,7 @@ c6e34158-aa22-49e4-bb12-15cbcb518ce6 = { name = "FusionSyntheticDiagnostics", pa
 c6e421ba-b5f8-4792-a1c4-42948de3ed9d = { name = "LibAwsCommon", path = "L/LibAwsCommon" }
 c6e7a17c-0287-4a42-9433-7fe3bf8697c3 = { name = "SantasLittleHelpers", path = "S/SantasLittleHelpers" }
 c6f25543-311c-4c74-83dc-3ea6d1015661 = { name = "MLJDecisionTreeInterface", path = "M/MLJDecisionTreeInterface" }
+c6f261d0-14a8-4f75-8fa4-1d88e9d6eb58 = { name = "TokenCompression", path = "T/TokenCompression" }
 c6f45eda-53e9-4846-927e-3bf2d3f4e2f3 = { name = "RationalProjectivePlane", path = "R/RationalProjectivePlane" }
 c6f6ee83-58c6-5336-a19f-2c76817e1af6 = { name = "POMDPXFiles", path = "P/POMDPXFiles" }
 c7015dd7-3fb7-4a4c-827e-526313618491 = { name = "MatrixEnsembles", path = "M/MatrixEnsembles" }
@@ -11022,6 +11025,7 @@ ed6ae0be-a024-11e9-2788-05dbf8cd15d9 = { name = "JSOSuite", path = "J/JSOSuite" 
 ed6da631-2423-57d3-8e4b-223f43b45c0c = { name = "Retriever", path = "R/Retriever" }
 ed76c251-e25f-44f6-91ec-f57abd734d0d = { name = "AvrutinSearch", path = "A/AvrutinSearch" }
 ed78a1e2-7d3c-417b-a9de-456fe7bc806a = { name = "EquilibratedFlux", path = "E/EquilibratedFlux" }
+ed7a61b9-057e-49c1-98ca-3626ad8059a2 = { name = "LeastEffortBaseline", path = "L/LeastEffortBaseline" }
 ed7c10db-df7e-4efa-a7be-4f4190f7f227 = { name = "AtomsBaseTesting", path = "A/AtomsBaseTesting" }
 ed854f67-b1dc-40c1-a595-92080aa32ec0 = { name = "SPEFiles", path = "S/SPEFiles" }
 ed877a0f-8e86-4599-984a-df81107104eb = { name = "BrownDriverBriggs", path = "B/BrownDriverBriggs" }
