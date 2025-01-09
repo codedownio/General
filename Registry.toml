@@ -475,6 +475,7 @@ some amount of consideration when choosing package names.
 09eb9df4-c16c-45e4-b3a9-061214bcee23 = { name = "Pathnames", path = "P/Pathnames" }
 09f84164-cd44-5f33-b23f-e6b0d136a0d5 = { name = "HypothesisTests", path = "H/HypothesisTests" }
 0a077753-09e0-5213-973e-a9bab7f4efc7 = { name = "systemtap_jll", path = "jll/S/systemtap_jll" }
+0a079e9b-4bc2-44fe-a89b-7607e4464786 = { name = "FinSetsForCAP", path = "F/FinSetsForCAP" }
 0a1268e7-2270-4ee8-9901-5a5b516c7ae9 = { name = "InvariantSets", path = "I/InvariantSets" }
 0a13313b-1c00-422e-8263-562364ed9544 = { name = "SauterSchwab3D", path = "S/SauterSchwab3D" }
 0a1fb500-61f7-11e9-3c65-f5ef3456f9f0 = { name = "BlockDiagonals", path = "B/BlockDiagonals" }
@@ -1934,6 +1935,7 @@ some amount of consideration when choosing package names.
 29a8b8bc-eb2a-4ada-9a47-be49547c4d59 = { name = "IsopycnalSurfaces", path = "I/IsopycnalSurfaces" }
 29a986be-02c6-4525-aec4-84b980013641 = { name = "FastLapackInterface", path = "F/FastLapackInterface" }
 29b5916a-a76c-4e73-9657-3c8fd22e65e6 = { name = "ClimaAnalysis", path = "C/ClimaAnalysis" }
+29b9b1b6-efa6-450e-8188-a5a2c25df071 = { name = "MatricesForHomalg", path = "M/MatricesForHomalg" }
 29be08bc-e5fd-4da2-bbc1-72011c6ea2c9 = { name = "JlrsCore", path = "J/JlrsCore" }
 29bf0bfc-420f-4fa5-b441-811fd9e6e11d = { name = "SpaceLiDAR", path = "S/SpaceLiDAR" }
 29c08b6a-42b0-4a71-84c9-d93be35dae53 = { name = "RunBinary", path = "R/RunBinary" }
@@ -6412,6 +6414,7 @@ some amount of consideration when choosing package names.
 88fa7841-ef32-4516-bb70-c6ec135699d9 = { name = "GilbertCurves", path = "G/GilbertCurves" }
 89089acc-ee81-44d2-83aa-3aa2951b1031 = { name = "LibZip", path = "L/LibZip" }
 890bb398-7f8e-4565-ac8e-279ab2833f68 = { name = "DynamicBoundsBase", path = "D/DynamicBoundsBase" }
+8910f421-7bf2-4b64-9cf8-3e7fe6cfee70 = { name = "VectorPSFs", path = "V/VectorPSFs" }
 8913a72c-1f9b-4ce2-8d82-65094dcecaec = { name = "NonlinearSolve", path = "N/NonlinearSolve" }
 891a1506-143c-57d2-908e-e1f8e92e6de9 = { name = "GaussianProcesses", path = "G/GaussianProcesses" }
 891f6deb-a4f5-4bc5-a2e3-1e8f649cdd2c = { name = "OceanStateEstimation", path = "O/OceanStateEstimation" }
