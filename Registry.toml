@@ -1220,6 +1220,7 @@ some amount of consideration when choosing package names.
 19695d51-5812-4a2b-89b0-5195538873ee = { name = "IsingSolvers", path = "I/IsingSolvers" }
 196d93e9-2b0a-59bc-85dd-07b4a30d24dc = { name = "BayesianTools", path = "B/BayesianTools" }
 196f2941-2d58-45ba-9f13-43a2532b2fa8 = { name = "PosteriorPlots", path = "P/PosteriorPlots" }
+1971c852-c825-11ef-1d57-2185ebdca1d8 = { name = "StrassOPen", path = "S/StrassOPen" }
 19761982-0bba-11ea-3d5f-93c17441e836 = { name = "OhMyQSIM", path = "O/OhMyQSIM" }
 197b51f5-fdb5-5f35-aa9f-0a14f35f5b28 = { name = "Poptart", path = "P/Poptart" }
 197bc772-8d3f-4a3f-b50f-4eb5086fedbf = { name = "FloatingTableView", path = "F/FloatingTableView" }
@@ -4266,6 +4267,7 @@ some amount of consideration when choosing package names.
 5c0200ba-f6cc-4d9c-a80b-82aea8bba5d6 = { name = "CoverageCore", path = "C/CoverageCore" }
 5c077215-83a5-5958-bb3f-c7068ae3c6fe = { name = "LatticeSites", path = "L/LatticeSites" }
 5c0c5c38-9dd5-11e8-3ab7-453bd9ce6c97 = { name = "PredictMDFull", path = "P/PredictMDFull" }
+5c0d271c-5419-4163-b387-496237733d8b = { name = "AtomicAndPhysicalConstants", path = "A/AtomicAndPhysicalConstants" }
 5c0f8cbe-99a4-11e9-108b-216da9629524 = { name = "BlochSim", path = "B/BlochSim" }
 5c1252a2-5f33-56bf-86c9-59e7332b4326 = { name = "GeometryBasics", path = "G/GeometryBasics" }
 5c1ef01f-39c8-5834-b1a0-1a342f75f4df = { name = "Cookbook", path = "C/Cookbook" }
@@ -5791,6 +5793,7 @@ some amount of consideration when choosing package names.
 7bc98958-0e37-5d67-a6ac-a3a19030071a = { name = "Cubature_jll", path = "jll/C/Cubature_jll" }
 7bd9edc1-4fdc-40a1-a0f6-da58fb4f45eb = { name = "Snowflake", path = "S/Snowflake" }
 7bd9edc1-4fdc-40a1-a0f6-da58fb4f45ec = { name = "Snowflurry", path = "S/Snowflurry" }
+7bdcaa52-c310-4bb0-bf54-d941056ed284 = { name = "BorrowChecker", path = "B/BorrowChecker" }
 7bddbee9-b4ee-5d4f-bf0b-c84b4398bbf6 = { name = "Strs", path = "S/Strs" }
 7bed6c1d-f2db-586c-9908-488058499e34 = { name = "SoapyRTLSDR_jll", path = "jll/S/SoapyRTLSDR_jll" }
 7bef5416-8376-5e75-ab4d-144910ca2ef4 = { name = "libplist_jll", path = "jll/L/libplist_jll" }
