@@ -3640,6 +3640,7 @@ some amount of consideration when choosing package names.
 4e3cecfd-b093-5904-9786-8bbb286a6a31 = { name = "ImageShow", path = "I/ImageShow" }
 4e3eb3bd-530d-473f-987b-017f501eadde = { name = "Regions", path = "R/Regions" }
 4e41d8b6-e438-5f9c-8b78-0c738ca8d379 = { name = "RSCG", path = "R/RSCG" }
+4e4236b1-b06d-4ded-9e3d-2d170138da79 = { name = "SphericalClusterMass", path = "S/SphericalClusterMass" }
 4e51ce9a-7ecb-4b33-a20a-6d9e1a01b2b3 = { name = "Faddeyeva985", path = "F/Faddeyeva985" }
 4e54d0b0-c9f2-5505-b569-bd333cacc8c1 = { name = "CasADi_jll", path = "jll/C/CasADi_jll" }
 4e58fcc1-4405-48af-b0f2-42df636d9190 = { name = "BellScenario", path = "B/BellScenario" }
@@ -4130,6 +4131,7 @@ some amount of consideration when choosing package names.
 5903a43b-9cc3-4c30-8d17-598619ec4e9b = { name = "Infiltrator", path = "I/Infiltrator" }
 59040a2c-5e82-4c13-ac8f-a77670789620 = { name = "Taxsim", path = "T/Taxsim" }
 59046045-fb9c-4c23-964f-ff0a25704f96 = { name = "OptimalControlProblems", path = "O/OptimalControlProblems" }
+59095408-2761-4f7a-bdc2-044e78630271 = { name = "Comodo", path = "C/Comodo" }
 5909ec93-c24e-5240-9f48-bc73cd7db194 = { name = "Gloo_jll", path = "jll/G/Gloo_jll" }
 5913d0e6-5bb6-45e3-8a06-341cf4fd0203 = { name = "OperatorLearning", path = "O/OperatorLearning" }
 591468fd-1d79-403f-bb2b-3ef7f4d90130 = { name = "CFMMRouter", path = "C/CFMMRouter" }
@@ -5958,6 +5960,7 @@ some amount of consideration when choosing package names.
 7f19f2dd-709d-51a0-a533-ded4a1c488a6 = { name = "YAAD", path = "Y/YAAD" }
 7f2154ff-9684-4686-a457-9182f50d0f5b = { name = "AstroPropagators", path = "A/AstroPropagators" }
 7f219486-4aa7-41d6-80a7-e08ef20ceed7 = { name = "AbstractNFFTs", path = "A/AbstractNFFTs" }
+7f222522-6553-468a-9ae8-e55a72f59a4e = { name = "ZXCalculusForCAP", path = "Z/ZXCalculusForCAP" }
 7f27c84d-2d74-42e5-be5f-94f6748267f3 = { name = "Cambrian", path = "C/Cambrian" }
 7f35509c-0cb9-11e9-0708-2928828cdbb7 = { name = "POMDPGifs", path = "P/POMDPGifs" }
 7f36be82-ad55-44ba-a5c0-b8b5480d7aa5 = { name = "PosteriorStats", path = "P/PosteriorStats" }
@@ -8065,6 +8068,7 @@ ad9a3248-762c-4ade-a843-8f185e2c18ff = { name = "SafetySignalDetection", path = 
 ada18822-018e-50a1-bfcc-5047cda99b0e = { name = "AhoCorasickAutomatons", path = "A/AhoCorasickAutomatons" }
 ada5f36f-82d2-4979-8729-2b99ff45c2e1 = { name = "QstarzGPS", path = "Q/QstarzGPS" }
 ada6cbde-b013-4edf-aa94-f6abe8bd6e6b = { name = "Bravais", path = "B/Bravais" }
+adab0226-ee3c-44de-8f2f-393b1bf1e936 = { name = "StipplePivotTable", path = "S/StipplePivotTable" }
 adab0d11-1453-4a42-9046-4ba7b121fa95 = { name = "DashBioUtils", path = "D/DashBioUtils" }
 adaf3d07-42b2-577a-8487-f34ffa1a67e4 = { name = "Watershed", path = "W/Watershed" }
 adafc99b-e345-5852-983c-f28acb93d879 = { name = "CpuId", path = "C/CpuId" }
@@ -9604,6 +9608,7 @@ cdf36688-0c6d-42c6-a883-5d2df16e9e88 = { name = "RustRegex", path = "R/RustRegex
 cdf4abc8-5239-43db-b7bc-12a39a6062cc = { name = "MPFR_wrap", path = "M/MPFR_wrap" }
 cdf55027-1209-57fc-8789-28745714751d = { name = "SEAL_jll", path = "jll/S/SEAL_jll" }
 cdff3cb4-2c4b-5bf5-8db2-d08d991b0013 = { name = "SimpleLife", path = "S/SimpleLife" }
+ce1149fb-49fa-4541-ae6c-62019ae07d40 = { name = "Zauner", path = "Z/Zauner" }
 ce1b76f3-601c-5192-adf8-a07e935792b9 = { name = "AvailablePotentialEnergyFramework", path = "A/AvailablePotentialEnergyFramework" }
 ce1e5628-4095-449b-8858-623a1e420393 = { name = "RainMaker", path = "R/RainMaker" }
 ce21103b-dbf2-498b-b3c4-edbf725743bc = { name = "ExportPublic", path = "E/ExportPublic" }
@@ -10418,6 +10423,7 @@ e03f8fd3-a2ff-47f5-ac97-ba7f0577c430 = { name = "EnsembleInversion", path = "E/E
 e04a135d-938e-4d6d-a2bd-80fee3964557 = { name = "LinearAssignment", path = "L/LinearAssignment" }
 e0540318-69ee-4070-8777-9e2de6de23de = { name = "OrdinaryDiffEqExponentialRK", path = "O/OrdinaryDiffEqExponentialRK" }
 e0585029-f0fd-471c-997a-b805c9f71f28 = { name = "MultiPrecisionArrays", path = "M/MultiPrecisionArrays" }
+e0605d58-1a4b-427b-8ab9-d16fed775e83 = { name = "FastHartleyTransform", path = "F/FastHartleyTransform" }
 e0630bc5-6e1f-509c-a3e4-0aea24bd2b1c = { name = "JetPackTransforms", path = "J/JetPackTransforms" }
 e0774970-6faf-4e9a-8c34-3860fa82b5ca = { name = "EarthEngine", path = "E/EarthEngine" }
 e079e57c-70e8-4f61-a09b-990e8be4fed3 = { name = "CBFV", path = "C/CBFV" }
