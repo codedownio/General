@@ -4164,6 +4164,7 @@ some amount of consideration when choosing package names.
 59abdd74-cdb7-53ea-acab-ed1c8628de13 = { name = "arm_binutils_jll", path = "jll/A/arm_binutils_jll" }
 59bbcd92-9ea0-11ea-1f68-61ee4b7b554c = { name = "Fakerjl", path = "F/Fakerjl" }
 59c22e0c-4e04-425f-9782-11a552c58a8d = { name = "StringTemplates", path = "S/StringTemplates" }
+59c446ea-fb23-41e3-bcd2-697fa0a242d6 = { name = "SplineGrids", path = "S/SplineGrids" }
 59c5aa83-900c-4c4d-b6cc-c9bbbf32a260 = { name = "HMMER", path = "H/HMMER" }
 59ceddad-2dad-55ad-af66-072f48a109d0 = { name = "Khepri", path = "K/Khepri" }
 59d0093e-b1f1-4fb7-ac85-ab57e45f39d9 = { name = "FerriteViz", path = "F/FerriteViz" }
@@ -4449,6 +4450,7 @@ some amount of consideration when choosing package names.
 5fa4ca3b-1c55-51a6-87f0-d5811ecf545c = { name = "BulkSMS", path = "B/BulkSMS" }
 5fa5d4a9-0408-52e0-9638-7667eddd2fce = { name = "CUDNN_CUDA110_jll", path = "jll/C/CUDNN_CUDA110_jll" }
 5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483 = { name = "Pseudoseq", path = "P/Pseudoseq" }
+5faae8f1-f507-432f-bd56-cf2f1161ab6f = { name = "WhatsThePoint", path = "W/WhatsThePoint" }
 5fb14364-9ced-5910-84b2-373655c76a03 = { name = "OhMyREPL", path = "O/OhMyREPL" }
 5fb878b0-68d2-11e9-223c-0f99f93215f8 = { name = "Jusdl", path = "J/Jusdl" }
 5fbdd59d-4608-42a7-928b-f02c7ff8d663 = { name = "MLJNonnegativeMatrixFactorization", path = "M/MLJNonnegativeMatrixFactorization" }
@@ -5780,6 +5782,7 @@ some amount of consideration when choosing package names.
 7b3dffa2-a94d-4703-aaf5-57911c725dc8 = { name = "SurrealdbWS", path = "S/SurrealdbWS" }
 7b412df5-33c1-4334-b65f-95ccdd546b1c = { name = "Tryparse", path = "T/Tryparse" }
 7b41c207-ea06-4250-aacd-19be2e667afc = { name = "ComplexToys", path = "C/ComplexToys" }
+7b46d5ad-635f-4b66-9393-904f183e39b5 = { name = "BloodFlowTrixi", path = "B/BloodFlowTrixi" }
 7b4b3212-f72a-4ba2-afa8-103f0bfb7cd6 = { name = "QuasinormalModes", path = "Q/QuasinormalModes" }
 7b5053f5-1407-4cb9-9ce0-e1149904b77e = { name = "QuantumDynamicsCLI", path = "Q/QuantumDynamicsCLI" }
 7b67a8d2-c4f5-4933-b91c-0fc427024db5 = { name = "PRISMA", path = "P/PRISMA" }
@@ -10323,6 +10326,7 @@ ddfeb750-efa4-54db-b6b8-70458c04a6eb = { name = "libaio_jll", path = "jll/L/liba
 de004529-e20a-5d30-89d8-7739140c50e5 = { name = "PhaseSpaceIO", path = "P/PhaseSpaceIO" }
 de008ff0-c357-11e8-3329-7fe746fe836e = { name = "RockSample", path = "R/RockSample" }
 de012916-1e3f-58c2-8f29-df3ef51d412d = { name = "at_spi2_atk_jll", path = "jll/A/at_spi2_atk_jll" }
+de0a5e7d-9ed9-4b51-b397-e23faa31cb8d = { name = "MatrixFuns", path = "M/MatrixFuns" }
 de0a67f4-c691-11e8-0034-5fc6e16e22d3 = { name = "DeepQLearning", path = "D/DeepQLearning" }
 de0b34ba-74bd-4023-98f7-dda430e1ad06 = { name = "InvariantCausal", path = "I/InvariantCausal" }
 de1797fd-24c3-4035-91a2-b52aecdcfb01 = { name = "AnnuliOrthogonalPolynomials", path = "A/AnnuliOrthogonalPolynomials" }
