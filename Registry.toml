@@ -4115,6 +4115,7 @@ some amount of consideration when choosing package names.
 5846b9ac-096c-425b-b363-8d1a03210e20 = { name = "Sqids", path = "S/Sqids" }
 5847ba37-b048-5c88-b501-c62f664b1471 = { name = "libboxer_jll", path = "jll/L/libboxer_jll" }
 584ea77b-75d0-51ad-9ad6-7fb559b95557 = { name = "HelFEM_jll", path = "jll/H/HelFEM_jll" }
+585db54e-1982-41c9-ae07-9e9eb56c7d61 = { name = "Pioneer", path = "P/Pioneer" }
 58695248-dc95-54d8-8aad-a18bc9fe19aa = { name = "nPth_jll", path = "jll/N/nPth_jll" }
 586abeb4-6645-4f28-8984-da840f878f37 = { name = "DotProductGraphs", path = "D/DotProductGraphs" }
 58716550-704d-11e9-05c2-8f708e47025f = { name = "MCHammer", path = "M/MCHammer" }
@@ -4774,6 +4775,7 @@ some amount of consideration when choosing package names.
 66a33bbf-0c2b-5fc8-a008-9da813334f0a = { name = "MLLabelUtils", path = "M/MLLabelUtils" }
 66b61cbe-0446-4d5d-9090-1ff510639f9d = { name = "AlgebraicSolving", path = "A/AlgebraicSolving" }
 66b63344-7bd8-483a-a4f0-15733e6c45d1 = { name = "RangeTrees", path = "R/RangeTrees" }
+66b684e8-4fb7-5952-97a4-a506b1089b62 = { name = "ZXing_CPP_jll", path = "jll/Z/ZXing_CPP_jll" }
 66b72792-1abf-55ab-8064-6e9051317175 = { name = "NIDAQ", path = "N/NIDAQ" }
 66bcec33-4fa3-551a-b2da-ca256b6829d9 = { name = "GAP_pkg_datastructures_jll", path = "jll/G/GAP_pkg_datastructures_jll" }
 66bd3e16-1600-45cf-8f55-0b550710682b = { name = "AutoBZCore", path = "A/AutoBZCore" }
@@ -10525,6 +10527,7 @@ e170d443-b9d6-418a-9ee8-061e966341ef = { name = "Tyler", path = "T/Tyler" }
 e171ecf3-c79e-4835-a39e-60b47bc527f4 = { name = "GridapBifurcationKit", path = "G/GridapBifurcationKit" }
 e17aae4a-d237-47ef-801a-8fb45f2fda95 = { name = "CombinatorialBandits", path = "C/CombinatorialBandits" }
 e17b2a0c-0bdf-430a-bd0c-3a23cae4ff39 = { name = "UnsafePointers", path = "U/UnsafePointers" }
+e17ba711-985e-5301-87b6-b2cc5f087c5c = { name = "autossh_jll", path = "jll/A/autossh_jll" }
 e18202ca-4a7d-4de8-b056-fa6bbd7de157 = { name = "WindowAbstractions", path = "W/WindowAbstractions" }
 e1828068-15df-11e9-03e4-ef195ea46fa4 = { name = "CCBlade", path = "C/CCBlade" }
 e189563c-0753-4f5e-ad5c-be4293c83fb4 = { name = "ExternalDocstrings", path = "E/ExternalDocstrings" }
@@ -11208,6 +11211,7 @@ f013a474-557c-11e9-3596-438edcad9d97 = { name = "FourierGPE", path = "F/FourierG
 f019f137-166b-4455-b646-ee200b009b83 = { name = "Gismo", path = "G/Gismo" }
 f01c122e-0ea1-4f85-ad8f-907073ad7a9f = { name = "BinaryWrappers", path = "B/BinaryWrappers" }
 f0211111-1d23-4195-bb37-87ab15ed0197 = { name = "WorldTimeAPI", path = "W/WorldTimeAPI" }
+f036d964-b9b0-5a9b-a1cf-146c4878c1f8 = { name = "opam_jll", path = "jll/O/opam_jll" }
 f03a62fe-f8ab-5b77-a061-bb599b765229 = { name = "EcologicalNetworks", path = "E/EcologicalNetworks" }
 f03c7084-70eb-500e-bb85-e99cbc517f87 = { name = "ittapi_jll", path = "jll/I/ittapi_jll" }
 f0413319-3358-4bb0-8e7c-0c83523a93bd = { name = "Tidier", path = "T/Tidier" }
@@ -11251,6 +11255,7 @@ f162e290-f571-43a6-83d9-22ecc16da15f = { name = "ModelingToolkitNeuralNets", pat
 f1662d9f-8043-43de-a69a-05efc1cc6ff4 = { name = "Isoband", path = "I/Isoband" }
 f16790e9-24a0-57e4-93e4-a31c5f47b348 = { name = "breakpad_jll", path = "jll/B/breakpad_jll" }
 f16ad982-4edb-46b1-8125-78e5a8b5a9e6 = { name = "NaturalNeighbours", path = "N/NaturalNeighbours" }
+f16e1b62-db32-537f-94d1-ea38eaaf9298 = { name = "qpOASES_jll", path = "jll/Q/qpOASES_jll" }
 f175482f-0544-4037-b362-361efbf21c04 = { name = "OpenTelemetryExporterOtlpProtoHttp", path = "O/OpenTelemetryExporterOtlpProtoHttp" }
 f1835b91-879b-4a3f-a438-e4baacf14412 = { name = "SpeedMapping", path = "S/SpeedMapping" }
 f18afe42-61d0-402c-a0bd-58c747008192 = { name = "ReducedBasis", path = "R/ReducedBasis" }
