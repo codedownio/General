@@ -536,6 +536,7 @@ some amount of consideration when choosing package names.
 0b1bfda6-eb8a-41d2-88d8-f5af5cad476f = { name = "OneHotArrays", path = "O/OneHotArrays" }
 0b1c068e-6a84-4e66-8136-5c95cafa83ed = { name = "SwarmMakie", path = "S/SwarmMakie" }
 0b21cfa8-e591-48a4-a07b-a9d20be7c264 = { name = "Nevanlinna", path = "N/Nevanlinna" }
+0b2bc22c-b7e0-473f-8186-c840e49dfa80 = { name = "UncertainSkyCoords", path = "U/UncertainSkyCoords" }
 0b3b1443-0f03-428d-bdfb-f27f9c1191ea = { name = "MicroMamba", path = "M/MicroMamba" }
 0b43b601-686d-58a3-8a1c-6623616c7cd4 = { name = "Groebner", path = "G/Groebner" }
 0b4c9448-09b0-4e78-95ea-3eb3328be36d = { name = "Orthography", path = "O/Orthography" }
@@ -3156,6 +3157,7 @@ some amount of consideration when choosing package names.
 430257b6-7d61-4797-9a77-8ecd01b73801 = { name = "SuffixTrees", path = "S/SuffixTrees" }
 4302a76b-040a-498a-8c04-15b101fed76b = { name = "OrdinaryDiffEqDifferentiation", path = "O/OrdinaryDiffEqDifferentiation" }
 43088459-b9e4-5d54-8487-0befc54bcdc8 = { name = "ocl_icd_jll", path = "jll/O/ocl_icd_jll" }
+430d172f-66e9-4875-89c7-99d3949cb067 = { name = "DiffusionX", path = "D/DiffusionX" }
 43133aba-3931-5066-b004-a34c79b93f2e = { name = "abseil_cpp_jll", path = "jll/A/abseil_cpp_jll" }
 43182933-f65b-495a-9e05-4d939cea427d = { name = "DigitalAssetExchangeFormatIO", path = "D/DigitalAssetExchangeFormatIO" }
 432009dd-59a1-4b72-8c93-6462ce9b220f = { name = "Flux3D", path = "F/Flux3D" }
@@ -7479,6 +7481,7 @@ some amount of consideration when choosing package names.
 9f7883ad-71c0-57eb-9f7f-b5c9e6d3789c = { name = "Tracker", path = "T/Tracker" }
 9f78cca6-572e-554e-b819-917d2f1cf240 = { name = "SummationByPartsOperators", path = "S/SummationByPartsOperators" }
 9f7a259d-73a7-556d-a7a2-3eb122d3865b = { name = "EcologicalNetworksPlots", path = "E/EcologicalNetworksPlots" }
+9f7df15b-5a47-555b-9aa9-3ac811eb3b4c = { name = "OpenModelica_jll", path = "jll/O/OpenModelica_jll" }
 9f842d2f-2579-4b1d-911e-f412cf18a3f5 = { name = "SparseConnectivityTracer", path = "S/SparseConnectivityTracer" }
 9f858d72-1d43-11ec-0cbc-15b5a80c172b = { name = "ProgressTimer", path = "P/ProgressTimer" }
 9f8f4483-481e-4903-91bb-7ade42e914e0 = { name = "ModiaPlot_CairoMakie", path = "M/ModiaPlot_CairoMakie" }
@@ -8962,6 +8965,7 @@ be4d8f0f-7fa4-5f49-b795-2f01399ab2dd = { name = "Quadmath", path = "Q/Quadmath" 
 be5c70c9-e47a-4559-82a9-cba980583202 = { name = "PolyDAQP", path = "P/PolyDAQP" }
 be5e5202-b427-58d6-b196-3d129152056c = { name = "GoogleCodeSearch", path = "G/GoogleCodeSearch" }
 be5e9834-f3d9-4b7e-b5ea-d062861d4ac2 = { name = "FactorRotations", path = "F/FactorRotations" }
+be6384bf-868f-57ad-9feb-9e32886bc996 = { name = "very_nauty_jll", path = "jll/V/very_nauty_jll" }
 be6996d8-ce38-42dc-ae22-8b975ffb034a = { name = "SoilMulch", path = "S/SoilMulch" }
 be6e5d0e-34a5-4c8f-af83-e1b5389203d8 = { name = "Antique", path = "A/Antique" }
 be6f12e9-ca4f-5eb2-a339-a4f995cc0291 = { name = "ODBC", path = "O/ODBC" }
@@ -10938,6 +10942,7 @@ e86d093a-a386-599e-b7c7-df0420c8bcba = { name = "AlgebraicNumbers", path = "A/Al
 e8712464-036d-575c-85ac-952ae31322ab = { name = "ImageQuilting", path = "I/ImageQuilting" }
 e873ae9d-44a3-5462-8644-8142b0051222 = { name = "Compose_jll", path = "jll/C/Compose_jll" }
 e87855f3-d877-40b7-8600-5f1cc2d263ad = { name = "BSDESPOT", path = "B/BSDESPOT" }
+e879419d-bb0f-4252-adee-d266c51ac92d = { name = "ForwardBackward", path = "F/ForwardBackward" }
 e87aa5a2-564e-44b1-a90b-331274d9f6ee = { name = "Hashids", path = "H/Hashids" }
 e87ab966-852e-4d0b-9cf3-1c8693995dd4 = { name = "Takums", path = "T/Takums" }
 e8810a93-244e-46c5-8da3-35c5dd956001 = { name = "PointSpreadFunctions", path = "P/PointSpreadFunctions" }
