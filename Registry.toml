@@ -1461,6 +1461,7 @@ some amount of consideration when choosing package names.
 1e31e15d-4957-550d-a244-318eced754ae = { name = "DFControl", path = "D/DFControl" }
 1e332c56-9431-4126-8a34-92cbdf251ae4 = { name = "TikzCDs", path = "T/TikzCDs" }
 1e40b3f8-35eb-4cd8-8edd-3e515bb9de08 = { name = "RipQP", path = "R/RipQP" }
+1e42d1a4-ec21-5f39-ae07-c1fb720fbc4b = { name = "CCTools_jll", path = "jll/C/CCTools_jll" }
 1e56b746-2900-429a-8028-5ec1f00612ec = { name = "FlexiGroups", path = "F/FlexiGroups" }
 1e5cbd8a-c439-4026-92c2-98742b2c817b = { name = "QuadratureCuba", path = "Q/QuadratureCuba" }
 1e616198-aa4e-51ec-90a2-23f7fbd31d8d = { name = "COSMO", path = "C/COSMO" }
@@ -2045,6 +2046,7 @@ some amount of consideration when choosing package names.
 2b6d1eac-7baa-5078-8adc-e6a3e659f14f = { name = "SingleFloats", path = "S/SingleFloats" }
 2b6db37a-05bd-5fbd-94f7-97a8281041e3 = { name = "AuditoryFilters", path = "A/AuditoryFilters" }
 2b71b7a6-5a26-4a05-9b8d-679d5aa759d4 = { name = "WiSARD", path = "W/WiSARD" }
+2b723af9-f480-4e8d-a1e4-4a9f5a906122 = { name = "ChunkCodecLibBzip2", path = "C/ChunkCodecLibBzip2" }
 2b7a1792-8151-5239-925d-e2b8fdfa3201 = { name = "Circuitscape", path = "C/Circuitscape" }
 2b7f82d5-8785-4f63-971e-f18ddbeb808e = { name = "Subscripts", path = "S/Subscripts" }
 2b8046e5-a088-403d-a84e-acdf171f9a66 = { name = "NistyPQC", path = "N/NistyPQC" }
@@ -3585,6 +3587,7 @@ some amount of consideration when choosing package names.
 4c0109c6-14e9-4c88-93f0-2b974d3468f4 = { name = "QuartoNotebookRunner", path = "Q/QuartoNotebookRunner" }
 4c0387fe-3044-4118-bcfd-2d5824909cc7 = { name = "FunctionBarrier", path = "F/FunctionBarrier" }
 4c072129-1ba8-5d2f-8069-715d74d8ac68 = { name = "tree_sitter_java_jll", path = "jll/T/tree_sitter_java_jll" }
+4c0bbee4-addc-4d73-81a0-b6caacae83c8 = { name = "ChunkCodecLibZlib", path = "C/ChunkCodecLibZlib" }
 4c0ca9eb-093a-5379-98c5-f87ac0bbbf44 = { name = "Gtk", path = "G/Gtk" }
 4c1474f5-d57d-4103-b4cd-bd216d071502 = { name = "TRExMC", path = "T/TRExMC" }
 4c14ae50-faa6-54c0-b22f-5cc2de459edf = { name = "Santiago", path = "S/Santiago" }
@@ -9396,6 +9399,7 @@ c69b092c-cabd-51ee-983a-b3d58f6c0ce7 = { name = "scopehal_jll", path = "jll/S/sc
 c69e25b7-ced4-43d1-bebe-53af10824047 = { name = "SimplePolynomialRing", path = "S/SimplePolynomialRing" }
 c6a34d98-f626-4d8d-b450-a3f124eaada6 = { name = "AstroSimBase", path = "A/AstroSimBase" }
 c6a353d9-c9c1-48aa-9c23-64f4679bd07d = { name = "OctofitterRadialVelocity", path = "O/OctofitterRadialVelocity" }
+c6a955be-ab7f-4fbb-b38f-caf93db6b928 = { name = "ChunkCodecLibBlosc", path = "C/ChunkCodecLibBlosc" }
 c6aefb4f-3ac3-4095-8805-528476b02c02 = { name = "FeatureRegistries", path = "F/FeatureRegistries" }
 c6b3b713-2a2b-4e07-a35c-d57ac4f46186 = { name = "UnsupervisedClustering", path = "U/UnsupervisedClustering" }
 c6bc53e4-e6d8-51d9-af6d-d7969aa08f60 = { name = "Ccache_jll", path = "jll/C/Ccache_jll" }
@@ -10495,6 +10499,7 @@ deefbfe4-5b57-4941-9cbb-7e0220485fa4 = { name = "Recruiters", path = "R/Recruite
 def0f3ea-0521-5e8c-a7b7-92f0f4873a26 = { name = "LEAN_Community_jll", path = "jll/L/LEAN_Community_jll" }
 def46b05-8f36-4d9e-bd86-05836b3c85d9 = { name = "QuantileNN", path = "Q/QuantileNN" }
 def70c09-f69f-4396-afd1-e8507a6dddbf = { name = "CenteredRBMs", path = "C/CenteredRBMs" }
+defda0c2-6d1f-5f19-8ead-78afca958a10 = { name = "libtapi_jll", path = "jll/L/libtapi_jll" }
 df0093a1-273d-40bc-819a-796ec3476907 = { name = "SpectralIndices", path = "S/SpectralIndices" }
 df0521af-66a0-42b3-822e-f30debbfe642 = { name = "Loraine", path = "L/Loraine" }
 df125234-20bf-4c0f-9bfa-104d3353f312 = { name = "BranchAndBound", path = "B/BranchAndBound" }
