@@ -492,6 +492,7 @@ some amount of consideration when choosing package names.
 0a43fbc4-409b-44ad-9d72-655a2bd2bd12 = { name = "DisjointSets", path = "D/DisjointSets" }
 0a452357-00e2-49ec-9da5-12084d27edbc = { name = "Paraml", path = "P/Paraml" }
 0a46da34-8e4b-519e-b418-48813639ff34 = { name = "CSDP", path = "C/CSDP" }
+0a4713f2-d58f-43f2-b63b-1b5d5ee4e65a = { name = "NetworkDynamicsInspector", path = "N/NetworkDynamicsInspector" }
 0a47a8e3-ec57-451e-bddb-e0be9d22772b = { name = "AnovaGLM", path = "A/AnovaGLM" }
 0a4f8689-d25c-4efe-a92b-7142dfc1aa53 = { name = "MathTeXEngine", path = "M/MathTeXEngine" }
 0a514795-09f3-496d-8182-132a7b665d35 = { name = "SparseMatrixColorings", path = "S/SparseMatrixColorings" }
@@ -3660,6 +3661,7 @@ some amount of consideration when choosing package names.
 4d7b5844-a134-5dcd-ac86-c8f19cd51bed = { name = "pixi_jll", path = "jll/P/pixi_jll" }
 4d8266f6-2b3b-57e3-ad7a-d431eaaac945 = { name = "libpolymake_julia_jll", path = "jll/L/libpolymake_julia_jll" }
 4d827475-d3e4-43d6-abe3-9688362ede9f = { name = "KeywordCalls", path = "K/KeywordCalls" }
+4d841945-e0c2-5143-9479-18e4f0102556 = { name = "igraph_jll", path = "jll/I/igraph_jll" }
 4d8831e6-92b7-49fb-bdf8-b643e874388c = { name = "OpenSSL", path = "O/OpenSSL" }
 4d9053e4-97a6-4476-8996-fca684647641 = { name = "ISL", path = "I/ISL" }
 4d90b16f-829e-4b78-80d9-fb9bcf8c06e0 = { name = "UHDBindings", path = "U/UHDBindings" }
@@ -9069,6 +9071,7 @@ bfd98c86-782f-4b94-909f-74167f1eb613 = { name = "MonoidalCategories", path = "M/
 bfde9dd4-8f40-4a1e-be09-1475335e1c92 = { name = "MLIR", path = "M/MLIR" }
 bfe18334-aefd-11e9-1109-4bf2b15a5b91 = { name = "SDPAFamily", path = "S/SDPAFamily" }
 bfecab0d-fd4d-5014-a23f-56c5fae6447a = { name = "Rematch", path = "R/Rematch" }
+bff38aaf-160c-48a5-9daf-c138fff82437 = { name = "AvifSupport", path = "A/AvifSupport" }
 bffe22d1-cb55-4f4e-ac2c-f4dd4bf58912 = { name = "Gaius", path = "G/Gaius" }
 c0017dae-bb0d-5ae0-bc81-a2950b9c605d = { name = "startin_jll", path = "jll/S/startin_jll" }
 c0090381-4147-56d7-9ebc-da0b1113ec56 = { name = "Qt6Base_jll", path = "jll/Q/Qt6Base_jll" }
@@ -10179,6 +10182,7 @@ d7dc6e0c-a753-11e8-227e-b362679e0b17 = { name = "IPMeasures", path = "I/IPMeasur
 d7dd28d6-a5e6-559c-9131-7eb760cdacc5 = { name = "tectonic_jll", path = "jll/T/tectonic_jll" }
 d7e528f0-a631-5988-bf34-fe36492bcfd7 = { name = "FreeType2_jll", path = "jll/F/FreeType2_jll" }
 d7e5e226-e90b-4449-9968-0f923699bf6f = { name = "LazyBandedMatrices", path = "L/LazyBandedMatrices" }
+d7e755d2-3c95-4bcf-9b3c-79ab1a78647b = { name = "TGGeometry", path = "T/TGGeometry" }
 d7e7cbe0-5b96-5c0f-b173-1d76374e957e = { name = "bmon_jll", path = "jll/B/bmon_jll" }
 d7e99b2f-e7f3-4d9e-9f01-2338fc023ad3 = { name = "Yields", path = "Y/Yields" }
 d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d = { name = "MUMPS_seq_jll", path = "jll/M/MUMPS_seq_jll" }
@@ -10268,6 +10272,7 @@ d9ec5142-1e00-5aa0-9d6a-321866360f50 = { name = "NamedTupleTools", path = "N/Nam
 d9eea77d-fa5d-4a60-93a2-c9db3c2ebc67 = { name = "SimpleBio", path = "S/SimpleBio" }
 d9f16b24-f501-4c13-a1f2-28368ffc5196 = { name = "Functors", path = "F/Functors" }
 d9f7e686-cf87-4d12-8d7a-0e9b8c9fba29 = { name = "JMPReader", path = "J/JMPReader" }
+d9f899e1-303a-530d-8675-c26bf1ea3f35 = { name = "BlockmodelUtils", path = "B/BlockmodelUtils" }
 da03df04-f53b-5353-a52f-6a8b0620ced0 = { name = "gdk_pixbuf_jll", path = "jll/G/gdk_pixbuf_jll" }
 da04e1cc-30fd-572f-bb4f-1f8673147195 = { name = "MPI", path = "M/MPI" }
 da1fd8a2-8d9e-5ec2-8556-3022fb5608a2 = { name = "CodeTracking", path = "C/CodeTracking" }
@@ -11128,6 +11133,7 @@ ebcc8a00-959b-4e58-a088-282ffd8a4f25 = { name = "SpinSymmetry", path = "S/SpinSy
 ebce4138-bfdf-4619-8560-1f9aac1a682b = { name = "NetworkHawkesProcesses", path = "N/NetworkHawkesProcesses" }
 ebe7aa44-baf0-506c-a96f-8464559b3922 = { name = "OMEinsum", path = "O/OMEinsum" }
 ebefff21-3b8f-497c-a71a-d17835ab79ba = { name = "MQTT", path = "M/MQTT" }
+ebf59a4a-04ec-49d7-8cd4-c9382ceb8e85 = { name = "DeviceLayout", path = "D/DeviceLayout" }
 ebf5ac4f-3ec1-555f-9ac9-3d72ed88c471 = { name = "TexTables", path = "T/TexTables" }
 ebf956a0-ef5e-43be-9fb1-27952996e635 = { name = "MeshGrid", path = "M/MeshGrid" }
 ec016732-9331-11e9-305f-d53cb440b85a = { name = "KalmanFilterTools", path = "K/KalmanFilterTools" }
