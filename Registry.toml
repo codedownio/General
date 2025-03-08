@@ -129,6 +129,7 @@ some amount of consideration when choosing package names.
 0271e0de-59e8-44d5-83ce-0a41c44a9705 = { name = "PeriodicKdV", path = "P/PeriodicKdV" }
 02771fc1-bdb7-5db5-8d11-300768e00fbd = { name = "PulseAudio_jll", path = "jll/P/PulseAudio_jll" }
 027d52a2-76e5-4228-9bfe-bc7e0f5a8348 = { name = "KernelSpectralDensities", path = "K/KernelSpectralDensities" }
+028224b0-1fcc-4ce4-9494-c68607c3a20e = { name = "ConnectionPools", path = "C/ConnectionPools" }
 02860bad-daa6-4506-8736-4a3616c18085 = { name = "IBMQClient", path = "I/IBMQClient" }
 02898b10-1f73-11ea-317c-6393d7073e15 = { name = "Augmentor", path = "A/Augmentor" }
 028a27d2-de01-11e8-146d-d556803d83ae = { name = "BrkgaMpIpr", path = "B/BrkgaMpIpr" }
@@ -3986,6 +3987,7 @@ some amount of consideration when choosing package names.
 5470531f-076d-47a9-aacb-e15e1e7f44ac = { name = "FastFilter", path = "F/FastFilter" }
 5472d9e0-cb42-52f7-96c9-a9fd19db341f = { name = "GMAT_jll", path = "jll/G/GMAT_jll" }
 54762871-cc72-4466-b8e8-f6c8b58076cd = { name = "CTBase", path = "C/CTBase" }
+547eee1f-27c8-4193-bfd6-9e092c8e3331 = { name = "ElasticClusterManager", path = "E/ElasticClusterManager" }
 54806c32-d51a-438d-8447-e0041be2fbfb = { name = "Krang", path = "K/Krang" }
 5488f106-40b8-4660-84c5-84a168990d1b = { name = "SMLMData", path = "S/SMLMData" }
 548b5689-f04a-429b-874f-be14d81f5589 = { name = "DistributedSparseGridsPlotting", path = "D/DistributedSparseGridsPlotting" }
@@ -7125,6 +7127,7 @@ some amount of consideration when choosing package names.
 971a2a11-349f-5eb6-a4bf-bc548fa92b3a = { name = "Kissat_jll", path = "jll/K/Kissat_jll" }
 971c4b7c-2c4e-4bac-8525-e842df3cde7b = { name = "StateSpaceLearning", path = "S/StateSpaceLearning" }
 9720d140-3882-5b8d-84f3-6af565c4e518 = { name = "bitwarden_cli_jll", path = "jll/B/bitwarden_cli_jll" }
+972148b6-472c-424e-8065-54bf210c1201 = { name = "ChemistryQuantitativeAnalysisUI", path = "C/ChemistryQuantitativeAnalysisUI" }
 972d1c22-8bdd-11e9-11cf-cdcb7577b041 = { name = "FinEtoolsHeatDiff", path = "F/FinEtoolsHeatDiff" }
 972ef8a8-2335-4604-a4a0-94f299de4a83 = { name = "AxisArrayConversion", path = "A/AxisArrayConversion" }
 972fa324-5b21-11e9-38b2-934e41d705ec = { name = "PostgresCatalog", path = "P/PostgresCatalog" }
@@ -11186,6 +11189,7 @@ ed080073-db63-57db-a029-74e11ae80737 = { name = "libasyncns_jll", path = "jll/L/
 ed09eef8-17a6-5b46-8889-db040fac31e3 = { name = "ComputationalResources", path = "C/ComputationalResources" }
 ed1357da-d9e6-57e3-b342-6130e0ca2d5e = { name = "Goalign_jll", path = "jll/G/Goalign_jll" }
 ed17dc9e-20eb-4460-9701-8d0520e45e1f = { name = "MetaUtils", path = "M/MetaUtils" }
+ed1ca689-44f5-49fd-ae5c-d523230a773a = { name = "LLMRateLimiters", path = "L/LLMRateLimiters" }
 ed22c0d8-4b10-4781-a02d-2b7b373fe96c = { name = "HMMGradients", path = "H/HMMGradients" }
 ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45 = { name = "kubectl_jll", path = "jll/K/kubectl_jll" }
 ed25ef7a-b813-415f-98cd-eb06d9efe1db = { name = "ReactionSensitivity", path = "R/ReactionSensitivity" }
