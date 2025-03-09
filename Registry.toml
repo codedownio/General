@@ -1978,6 +1978,7 @@ some amount of consideration when choosing package names.
 29dad682-9a27-4bc3-9c72-016788665182 = { name = "RegularizationTools", path = "R/RegularizationTools" }
 29e2bfda-5ba7-471c-9125-afac425f1f80 = { name = "BQCESubroutine", path = "B/BQCESubroutine" }
 29f11006-3202-4091-a17b-0a26282d76dd = { name = "StippleTabs", path = "S/StippleTabs" }
+29f58b35-15e1-4d3c-99d7-eccaac145095 = { name = "CellMetabolismBase", path = "C/CellMetabolismBase" }
 2a09ff82-1be9-11e9-2ab7-19964783a84b = { name = "TextUserInterfaces", path = "T/TextUserInterfaces" }
 2a0a5ff3-012c-40a8-861a-42ef8f4dfa06 = { name = "AlwaysSeqCst", path = "A/AlwaysSeqCst" }
 2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9 = { name = "CPUSummary", path = "C/CPUSummary" }
@@ -6792,6 +6793,7 @@ some amount of consideration when choosing package names.
 8f4894fe-55b9-5d5d-ac02-aa6554b49763 = { name = "NoveltyColors", path = "N/NoveltyColors" }
 8f4cd466-d9e8-5461-9379-2aebd0b2c3e0 = { name = "KMA_jll", path = "jll/K/KMA_jll" }
 8f4d0f93-b110-5947-807f-2305c1781a2d = { name = "Conda", path = "C/Conda" }
+8f53af78-0b28-57f6-844a-4720ec1bfefc = { name = "aws_c_http_jq_jll", path = "jll/A/aws_c_http_jq_jll" }
 8f55a569-a1ee-45d2-b761-b2b316ddd8e9 = { name = "CryptoDashApp", path = "C/CryptoDashApp" }
 8f5d6c58-4d21-5cfd-889c-e3ad7ee6a615 = { name = "EzXML", path = "E/EzXML" }
 8f5ebde3-ef8e-4825-b277-c25898c0de77 = { name = "ConsensusBasedX", path = "C/ConsensusBasedX" }
@@ -7535,6 +7537,7 @@ some amount of consideration when choosing package names.
 9fefe0b7-a0d5-4e12-a8ed-3472cccdfc49 = { name = "CounterfactualRegret", path = "C/CounterfactualRegret" }
 9ff05d80-102d-5586-aa04-3a8bd1a90d20 = { name = "TickTock", path = "T/TickTock" }
 9ff941b3-d743-4c60-9dd5-2748db76006b = { name = "AlgorithmsCollection", path = "A/AlgorithmsCollection" }
+9ffe814c-0ff0-4040-8c14-ee4989563ee5 = { name = "PlasmoSchwarz", path = "P/PlasmoSchwarz" }
 a00367d1-88f1-52c5-9c6b-193aa5f849e1 = { name = "ERFA_jll", path = "jll/E/ERFA_jll" }
 a0053b83-2858-41a9-bfb0-1030075bb8f6 = { name = "NEFTInterface", path = "N/NEFTInterface" }
 a00861dc-f156-4864-bf3c-e6376f28a68d = { name = "NNlibCUDA", path = "N/NNlibCUDA" }
@@ -9044,6 +9047,7 @@ bf1d0ff0-c4a9-496b-85f0-2b0d71c4f32a = { name = "Try", path = "T/Try" }
 bf21e494-c40e-4daa-abfb-de5ec0aad010 = { name = "Shuffle", path = "S/Shuffle" }
 bf22376a-e803-4184-b2ed-56326e3bff83 = { name = "LIKWID", path = "L/LIKWID" }
 bf2c0563-65cf-5db2-a620-ceb7de82658c = { name = "RadiationDetectorSignals", path = "R/RadiationDetectorSignals" }
+bf31c7e1-2152-4d3a-bc7a-576095d562b2 = { name = "DataDrivenEnzymeRateEqs", path = "D/DataDrivenEnzymeRateEqs" }
 bf347577-a06d-49ad-a669-8c0e005493b8 = { name = "NonconvexIpopt", path = "N/NonconvexIpopt" }
 bf3818bd-b6bb-4954-8baa-32c32282e633 = { name = "MolecularGraphKernels", path = "M/MolecularGraphKernels" }
 bf3a9e68-ca66-4981-8178-9d71c4f8abaa = { name = "ToolipsServables", path = "T/ToolipsServables" }
@@ -9876,6 +9880,7 @@ d13bc2ba-d276-5c6f-8a1c-29ed04aab5d0 = { name = "Xorg_xextproto_jll", path = "jl
 d13d08e5-712c-4367-96aa-3a4dbb4385aa = { name = "ImgHdr", path = "I/ImgHdr" }
 d13d708c-e6ca-4145-9b59-cdd1b3737971 = { name = "NautyTraces", path = "N/NautyTraces" }
 d1413c6f-1a60-4f18-acd6-8d361c31e2f3 = { name = "LandDataTools", path = "L/LandDataTools" }
+d141d81c-f7c4-4296-8313-8866e6f9f78a = { name = "ImageNetDataset", path = "I/ImageNetDataset" }
 d145281a-7b66-43b1-b4e0-c06cc84e19a4 = { name = "NewsAPI", path = "N/NewsAPI" }
 d1454406-59df-5ea1-beac-c340f2130bc3 = { name = "Xorg_libXinerama_jll", path = "jll/X/Xorg_libXinerama_jll" }
 d14a8603-c872-5ed3-9ece-53e0e82e39da = { name = "MathematicalSystems", path = "M/MathematicalSystems" }
@@ -11638,6 +11643,7 @@ f74edf77-fc28-5533-a68a-cacf3c4a2f46 = { name = "GRCore_jll", path = "jll/G/GRCo
 f761d5c5-86db-4880-b97f-9680a7cccfb5 = { name = "Spglib", path = "S/Spglib" }
 f763a312-2f8b-4ea4-ad8b-371148ce3a7b = { name = "CIMOptimizer", path = "C/CIMOptimizer" }
 f768f48f-0d8a-415b-80aa-7de5ff9b8474 = { name = "InPartS", path = "I/InPartS" }
+f769160f-f39a-4920-b1de-ba699e2d8893 = { name = "OliveHighlighters", path = "O/OliveHighlighters" }
 f7704626-33a3-4ab5-a647-692f1f31d75f = { name = "BayesianNonparametricStatistics", path = "B/BayesianNonparametricStatistics" }
 f7771a9a-6e57-4e71-863b-6e4b6a2f17df = { name = "MRIBase", path = "M/MRIBase" }
 f77b161d-e03a-5d68-b365-d5306aabeaa6 = { name = "TensorPolynomialBases", path = "T/TensorPolynomialBases" }
