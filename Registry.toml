@@ -12,6 +12,7 @@ some amount of consideration when choosing package names.
 
 [packages]
 00000000-1111-2222-3333-444444444444 = { name = "REPLTreeViews", path = "R/REPLTreeViews" }
+0002e35e-4a6a-41c8-a2f5-6940c7e5949f = { name = "CombinatorialLinearOracles", path = "C/CombinatorialLinearOracles" }
 0004c1f4-53c5-4d43-a221-a1dac6cf6b74 = { name = "TuringGLM", path = "T/TuringGLM" }
 000d9b38-65fe-4c81-bdb9-69f01f102479 = { name = "BayesHistogram", path = "B/BayesHistogram" }
 000eeb74-f857-587a-a816-be5685e97e75 = { name = "KCP_jll", path = "jll/K/KCP_jll" }
@@ -10114,6 +10115,7 @@ d5e62ea6-ddf3-4d43-8e4c-ad5e6c8bfd7d = { name = "OpenAPI", path = "O/OpenAPI" }
 d5e6d34e-0946-4041-89ae-8db3fad848f3 = { name = "Wikidata", path = "W/Wikidata" }
 d5eb8130-0e6d-4b05-a476-6219b4bda902 = { name = "WatershedParcellation", path = "W/WatershedParcellation" }
 d5eda45b-7e79-5788-9687-2c6ab7b96158 = { name = "ItemGraphs", path = "I/ItemGraphs" }
+d5f06795-35bb-4323-9f0b-405ef76cfc5b = { name = "GaussianMarkovRandomFields", path = "G/GaussianMarkovRandomFields" }
 d5f540fe-1c90-5db3-b776-2e2f362d9394 = { name = "RoundingIntegers", path = "R/RoundingIntegers" }
 d5f7a247-b52f-4d20-a862-6998306c65a0 = { name = "ITerSOLvers", path = "I/ITerSOLvers" }
 d5f8441d-4651-43af-92fa-6ed80f165e74 = { name = "LovaszTheta", path = "L/LovaszTheta" }
@@ -10871,6 +10873,7 @@ e5af9688-3aeb-5ed5-8c7e-253e55323d3e = { name = "Gnuplot_jll", path = "jll/G/Gnu
 e5afb96c-f319-4582-8667-2a6c7d02249d = { name = "LazyReports", path = "L/LazyReports" }
 e5bec534-b9b5-4198-8c6c-e8157877c5d1 = { name = "Pylustrator", path = "P/Pylustrator" }
 e5c7262c-e9d2-5620-ad8e-1af14eb8a8e3 = { name = "Dolang", path = "D/Dolang" }
+e5cab26e-c5ce-48e0-bb1c-98fd263da73b = { name = "LinearBand", path = "L/LinearBand" }
 e5cc3859-2e89-4a16-aeca-5b21eb6ba5f1 = { name = "SubglobalSensitivityAnalysis", path = "S/SubglobalSensitivityAnalysis" }
 e5d154b4-4325-4737-9c37-b2b3515e42eb = { name = "SentinelExplorer", path = "S/SentinelExplorer" }
 e5d170eb-415a-4524-987b-12f1bce1ddab = { name = "MAGEMin_C", path = "M/MAGEMin_C" }
