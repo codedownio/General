@@ -9490,6 +9490,7 @@ c804724b-8c18-5caa-8579-6025a0767c70 = { name = "TimeseriesSurrogates", path = "
 c8109be6-b162-4503-8829-8b6b29b93f50 = { name = "SpatialGraphs", path = "S/SpatialGraphs" }
 c817782e-172a-44cc-b673-b171935fbb9e = { name = "ImageBase", path = "I/ImageBase" }
 c8189ad9-0349-5cbb-98f2-579781f27e5c = { name = "Pathogen", path = "P/Pathogen" }
+c823fa1f-8872-4af5-b810-2b9b72bbbf56 = { name = "DirectTrajOpt", path = "D/DirectTrajOpt" }
 c82720c6-1a4a-47b5-9380-ac867c306647 = { name = "ScriptReports", path = "S/ScriptReports" }
 c82744c2-dc08-461a-8c37-87ab04d0f9b8 = { name = "MillerExtendedHarmonic", path = "M/MillerExtendedHarmonic" }
 c82cd089-7bf7-41d7-976b-6b5d413cbe0a = { name = "SlurmClusterManager", path = "S/SlurmClusterManager" }
@@ -10423,6 +10424,7 @@ dcd651b4-b50a-5b6b-8f22-87e9f253a252 = { name = "TestReports", path = "T/TestRep
 dcd8a645-c81d-482f-af4b-568f72f3e16d = { name = "FranklinUtils", path = "F/FranklinUtils" }
 dcd9ba68-c27b-5cea-ae21-829cd07325bf = { name = "UncertainData", path = "U/UncertainData" }
 dcda4a48-b9f7-11e9-2d4a-7da573938c24 = { name = "NonlinearEquations", path = "N/NonlinearEquations" }
+dcda7c7e-49c0-481c-982d-c35bedad83cd = { name = "ReactionDiffusion", path = "R/ReactionDiffusion" }
 dcdf9ed5-39e7-592a-90de-966c054b7718 = { name = "FEMSparse", path = "F/FEMSparse" }
 dce04be8-c92d-5529-be00-80e4d2c0e197 = { name = "ArgCheck", path = "A/ArgCheck" }
 dce2f2bf-0ed4-5a0e-8af7-a90b827a9344 = { name = "libminc_jll", path = "jll/L/libminc_jll" }
@@ -11957,6 +11959,7 @@ fea25315-b951-4667-83c9-50e53efab241 = { name = "QSFit", path = "Q/QSFit" }
 fea52e5a-b371-463b-85f5-81770daa2737 = { name = "MapTiles", path = "M/MapTiles" }
 fead5d43-7759-5ac8-9dff-97135399d9eb = { name = "StaggeredGridCalculus", path = "S/StaggeredGridCalculus" }
 feb245ec-c857-584e-a66a-22324acf10c6 = { name = "LogDensityTestSuite", path = "L/LogDensityTestSuite" }
+fec014c7-73d5-5f83-866b-eea102cb7f01 = { name = "blockSQP_jll", path = "jll/B/blockSQP_jll" }
 fec76197-d59f-46dd-a0ed-76a83c21f7aa = { name = "ExTinyMD", path = "E/ExTinyMD" }
 fede57cc-428a-11e9-3e5c-c149a0a4072d = { name = "ArnoldiMethodTransformations", path = "A/ArnoldiMethodTransformations" }
 fee4b835-1841-44f8-82ea-42813857171a = { name = "PowerAnalyses", path = "P/PowerAnalyses" }
