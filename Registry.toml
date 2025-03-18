@@ -1948,6 +1948,7 @@ some amount of consideration when choosing package names.
 291d046c-3347-11e9-1e74-c3d251d406c6 = { name = "MixedSubdivisions", path = "M/MixedSubdivisions" }
 291fd964-e446-5d75-9412-e8e0eb420fa7 = { name = "PlanarMaps", path = "P/PlanarMaps" }
 292f1341-b53f-425a-80e5-3597ad0961bf = { name = "NUMA", path = "N/NUMA" }
+293282d5-3c99-4fb6-92d0-fd3280a19750 = { name = "PauliPropagation", path = "P/PauliPropagation" }
 293f545e-9dd2-11e9-1210-cf5bcdc9c322 = { name = "MolecularDynamicsIntegrators", path = "M/MolecularDynamicsIntegrators" }
 294deba0-74fa-42c9-af84-c3834b01fefc = { name = "LKH", path = "L/LKH" }
 295020cf-ac59-42c0-b9fb-a3cbe13249ef = { name = "Isaac", path = "I/Isaac" }
@@ -3125,6 +3126,7 @@ some amount of consideration when choosing package names.
 41fc9631-8896-47d9-8244-cfbf74589b0a = { name = "CESFunctions", path = "C/CESFunctions" }
 41fcc7e7-1908-4925-8240-7eafabf08a75 = { name = "RegistryCLI", path = "R/RegistryCLI" }
 41fe7b60-77ed-43a1-b4f0-825fd5a5650d = { name = "Unzip", path = "U/Unzip" }
+4201568c-2e61-4571-8a9c-4da1ec7770d0 = { name = "SymbolicQuartetNetworkCoal", path = "S/SymbolicQuartetNetworkCoal" }
 4206358c-74de-4262-b9b2-8440947a766f = { name = "ProximalMethods", path = "P/ProximalMethods" }
 42063a9e-4db3-11e9-2c9c-956b066f8181 = { name = "RDates", path = "R/RDates" }
 42071c24-d89e-48dd-8a24-8a12d9b8861f = { name = "UnitfulRecipes", path = "U/UnitfulRecipes" }
@@ -4968,6 +4970,7 @@ some amount of consideration when choosing package names.
 699cc7a2-9ea9-42f0-a823-bc8522533664 = { name = "WiNDC", path = "W/WiNDC" }
 699dc53c-77f3-421a-b787-0eea097c79c4 = { name = "TextBox", path = "T/TextBox" }
 69a5ce3b-64fb-4f22-ae69-36dd4416af2a = { name = "UnfoldMakie", path = "U/UnfoldMakie" }
+69ad847d-c018-4c53-a279-bc41134dba09 = { name = "PlantUML", path = "P/PlantUML" }
 69ae41d2-7e17-11ec-28d9-b73852c51be0 = { name = "NumericalEFT", path = "N/NumericalEFT" }
 69c13e0b-7fe7-492d-975b-4112821fd6ea = { name = "VisualGeometryOptimization", path = "V/VisualGeometryOptimization" }
 69c88b9d-9dd6-4dd3-8f65-085fa43a946d = { name = "ConsensusBasedXPlots", path = "C/ConsensusBasedXPlots" }
@@ -8300,6 +8303,7 @@ af6ede74-add8-4cfd-b1df-9a4dbb109d7a = { name = "OrdinaryDiffEqRKN", path = "O/O
 af72fe11-ff17-4ca6-9497-daf1aa55531e = { name = "FindMinimaxPolynomial", path = "F/FindMinimaxPolynomial" }
 af749cb1-4ea1-40dc-96cd-a9902a2c5721 = { name = "BeastUtils", path = "B/BeastUtils" }
 af74c99f-f0eb-54aa-aecc-a10e8fc65c17 = { name = "Cairomm_jll", path = "jll/C/Cairomm_jll" }
+af79dbb9-1a80-47ad-8928-192a4af69376 = { name = "Harbor", path = "H/Harbor" }
 af7a45b4-ac90-45dc-abec-c5da3d7f536c = { name = "ShellModel", path = "S/ShellModel" }
 af7e05b2-8ba0-474e-bf83-503ba399852e = { name = "VlasiatorMakie", path = "V/VlasiatorMakie" }
 af819820-d0b8-51fd-9b6f-e7926976c73e = { name = "libpostal_jll", path = "jll/L/libpostal_jll" }
@@ -10015,6 +10019,7 @@ d3bc4f2e-91e6-11e9-365e-cd067da536ce = { name = "BranchAndPrune", path = "B/Bran
 d3c5d4cd-a8ee-40d6-aac7-e34df5a20044 = { name = "PolarizedTypes", path = "P/PolarizedTypes" }
 d3cb9f0d-9994-4b1a-a019-873b7558f280 = { name = "ToolipsExport", path = "T/ToolipsExport" }
 d3ce8812-9567-47e9-a7b5-65a6d70a3065 = { name = "SerializedElementArrays", path = "S/SerializedElementArrays" }
+d3d30c82-a38e-471c-a45a-3d24d2f4d22d = { name = "MutableShiftedArrays", path = "M/MutableShiftedArrays" }
 d3d335b2-f152-507c-820e-958e337efb65 = { name = "RawArray", path = "R/RawArray" }
 d3d4fdd0-c191-11e8-3358-a3629b56487d = { name = "OpenStreetMapXPlot", path = "O/OpenStreetMapXPlot" }
 d3d5718d-52de-57ab-b67a-eca7fd6175a4 = { name = "Diversity", path = "D/Diversity" }
