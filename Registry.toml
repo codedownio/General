@@ -2402,6 +2402,7 @@ some amount of consideration when choosing package names.
 3251bfac-6a57-4b6d-aa61-ac1fef2975ab = { name = "GeometryOps", path = "G/GeometryOps" }
 3254fc65-9028-534d-aa9d-d76d128babc6 = { name = "aws_c_http_jll", path = "jll/A/aws_c_http_jll" }
 32610584-8033-4d12-ab8e-952911879412 = { name = "OctreeBH", path = "O/OctreeBH" }
+3263718b-31ed-49cf-8a0f-35a466e8af96 = { name = "ImplicitDiscreteSolve", path = "I/ImplicitDiscreteSolve" }
 3265bcac-820f-4b8a-8cd5-05a71ff46e33 = { name = "MatrixMerge", path = "M/MatrixMerge" }
 32681960-a1b1-40db-9bff-a1ca817385d1 = { name = "CTParser", path = "C/CTParser" }
 328aa5c7-aa14-5b23-aa57-05fb7d04b830 = { name = "openfhe_julia_int128_jll", path = "jll/O/openfhe_julia_int128_jll" }
@@ -4298,6 +4299,7 @@ some amount of consideration when choosing package names.
 5af58b90-8a55-4daf-adb4-2008a66a38cf = { name = "MRIFieldmaps", path = "M/MRIFieldmaps" }
 5affe8ad-4ea4-4a13-a3c7-a7034cd8af9a = { name = "IsoME", path = "I/IsoME" }
 5b052a42-cdd7-5a33-b9ba-fea45e46860b = { name = "nv_codec_headers_jll", path = "jll/N/nv_codec_headers_jll" }
+5b0b4ef8-f4e6-4363-b674-3f031f7b9530 = { name = "JolinPluto", path = "J/JolinPluto" }
 5b0c0c40-6f85-415d-b828-3ce01d5b51ec = { name = "HePPCAT", path = "H/HePPCAT" }
 5b169025-4f0f-56c1-ad31-633326e7abb3 = { name = "WFA2_jll", path = "jll/W/WFA2_jll" }
 5b179a51-5399-4802-8f6e-f7014fc12e6f = { name = "DMRJtensor", path = "D/DMRJtensor" }
@@ -4933,6 +4935,7 @@ some amount of consideration when choosing package names.
 68885b1f-77b5-52a7-b2e7-6a8014c56b98 = { name = "Chron", path = "C/Chron" }
 6889b67b-453b-53df-8fa8-6efd51eae556 = { name = "VPTrees", path = "V/VPTrees" }
 688b0e7a-0122-4325-8669-5ff08899a59e = { name = "ActiveInference", path = "A/ActiveInference" }
+68905d83-288d-4570-b05e-f7eb6299ad2c = { name = "PseudoAbsences", path = "P/PseudoAbsences" }
 68953c7c-a3c7-538e-83d3-73516288599e = { name = "PorousMaterials", path = "P/PorousMaterials" }
 6899632a-1081-549c-8d71-752c8a25a7ba = { name = "MLKernels", path = "M/MLKernels" }
 689e2960-4160-5310-ae7f-2d2095288874 = { name = "casacorecxx_jll", path = "jll/C/casacorecxx_jll" }
@@ -5784,6 +5787,7 @@ some amount of consideration when choosing package names.
 794fc106-2fa4-440f-961c-0d7d7b47016a = { name = "QSM", path = "Q/QSM" }
 7952bbbe-a946-4118-bea0-081a0932faa9 = { name = "CrystalNets", path = "C/CrystalNets" }
 79566f03-f7ae-471c-a05f-4700599937bd = { name = "ToyPublicKeys", path = "T/ToyPublicKeys" }
+795d4caa-f5a7-4580-b5d8-c01d53451803 = { name = "ReadOnlyDicts", path = "R/ReadOnlyDicts" }
 7961c0c6-d413-4083-9ff6-822c52aae3a3 = { name = "JSUrl", path = "J/JSUrl" }
 7963cd39-1b62-4514-9cf0-788fb5452611 = { name = "SymbolicsMathLink", path = "S/SymbolicsMathLink" }
 796511e7-1510-466f-ad0c-1823c64bcafa = { name = "FranklinParser", path = "F/FranklinParser" }
@@ -9190,6 +9194,7 @@ c1c5ebd0-6772-5130-a774-d5fcae4a789d = { name = "LAME_jll", path = "jll/L/LAME_j
 c1ccfb80-616c-11e9-2032-47e8246e4458 = { name = "SpineBasedRecordLinkage", path = "S/SpineBasedRecordLinkage" }
 c1df9deb-2e6b-43bb-8257-0a25d59f3b2a = { name = "SP2000China", path = "S/SP2000China" }
 c1e1d063-8311-5f52-a749-c7b05e91ae37 = { name = "NodeJS_18_jll", path = "jll/N/NodeJS_18_jll" }
+c1ebf4c8-f9d4-409a-8daf-7009448f4e6e = { name = "VLBIFiles", path = "V/VLBIFiles" }
 c2036f84-fecd-45db-822d-61dbed506f2f = { name = "Medipix", path = "M/Medipix" }
 c205f263-c50b-522f-8355-d1dd211834e2 = { name = "yyjson_jll", path = "jll/Y/yyjson_jll" }
 c2071276-7c44-58a7-b746-946036e04d0a = { name = "P11Kit_jll", path = "jll/P/P11Kit_jll" }
