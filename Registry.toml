@@ -3064,6 +3064,7 @@ some amount of consideration when choosing package names.
 4030f512-cedb-5907-ac7f-4ab05ad75ee7 = { name = "HeatTransfer", path = "H/HeatTransfer" }
 403ab190-7cad-4c95-848f-e576570a949d = { name = "AstroRepresentations", path = "A/AstroRepresentations" }
 40452611-1178-4e48-bdfc-3af4bebad9c9 = { name = "TestingUtilities", path = "T/TestingUtilities" }
+4047365c-aa37-44ec-b1fa-4c0d5495ccf1 = { name = "AwsIO", path = "A/AwsIO" }
 404a976e-21b5-45c7-95b2-5d74c9953ee0 = { name = "MPISort", path = "M/MPISort" }
 404e4c7d-d40a-4c57-9c40-90ee175e5491 = { name = "AddLatest", path = "A/AddLatest" }
 404e8f35-d372-56c3-89ac-e648a26fddda = { name = "DBCtoDBF_jll", path = "jll/D/DBCtoDBF_jll" }
@@ -6170,6 +6171,7 @@ some amount of consideration when choosing package names.
 80a941df-def7-4d99-bd07-d3a3a468fbfc = { name = "ModulePresentationsForCAP", path = "M/ModulePresentationsForCAP" }
 80aee790-0d4a-5951-bcd6-30e0bbfe317a = { name = "SoapyBladeRF_jll", path = "jll/S/SoapyBladeRF_jll" }
 80b912e8-4419-4152-9910-58fcfb6515ad = { name = "ChainLadder", path = "C/ChainLadder" }
+80bb5c7f-3561-4bbc-a7c3-5e29a4cab6cc = { name = "Tortuosity", path = "T/Tortuosity" }
 80c49c3a-6557-47d9-8f5b-13d0a2920315 = { name = "GalacticBBO", path = "G/GalacticBBO" }
 80c66bcf-cf80-4640-8128-20a4ffc975e3 = { name = "RunningQuantiles", path = "R/RunningQuantiles" }
 80cad256-a423-5ef2-ab87-13d34524053a = { name = "FP16_jll", path = "jll/F/FP16_jll" }
@@ -8749,6 +8751,7 @@ b8a86587-4115-5ab1-83bc-aa920d37bbce = { name = "NearestNeighbors", path = "N/Ne
 b8b3a5fb-3772-5a86-9e24-bf4afc28128a = { name = "StataDTAFiles", path = "S/StataDTAFiles" }
 b8b539d8-55b4-4e60-a505-d7876c054e58 = { name = "JupyterFormatter", path = "J/JupyterFormatter" }
 b8b640a6-63d9-51e6-b784-5033db27bef2 = { name = "Mangal", path = "M/Mangal" }
+b8b7d99a-ad42-5b72-8eb4-319614e84067 = { name = "SoapyRemote_jll", path = "jll/S/SoapyRemote_jll" }
 b8ba6cf2-bc19-4044-9316-f77e3c6f0f88 = { name = "PasteMyst", path = "P/PasteMyst" }
 b8c06d6b-f458-43ac-b37a-3e779b88779f = { name = "StochasticGroundMotionSimulation", path = "S/StochasticGroundMotionSimulation" }
 b8c1c048-cf81-46c6-9da0-18c1d99e41f2 = { name = "WidthLimitedIO", path = "W/WidthLimitedIO" }
@@ -9311,6 +9314,7 @@ c3d6fec6-66cc-479b-b3f2-8ef84979700f = { name = "ExtendedExtremes", path = "E/Ex
 c3e29f32-ab00-576f-ab3b-15208f91f29c = { name = "BVPInterface_jll", path = "jll/B/BVPInterface_jll" }
 c3e4b0f8-55cb-11ea-2926-15256bba5781 = { name = "Pluto", path = "P/Pluto" }
 c3eb98f6-eb42-520d-ab3c-506c3b64aac0 = { name = "rocm_cmake_jll", path = "jll/R/rocm_cmake_jll" }
+c3ed25c8-d0c4-52f4-bb85-3c100dfcbec7 = { name = "quickfix_jll", path = "jll/Q/quickfix_jll" }
 c3f66453-0ce3-4e3d-8601-c404262f204f = { name = "PAPI", path = "P/PAPI" }
 c3f9d41a-afcb-471e-bc58-0b8d83bd86f4 = { name = "DirectQhull", path = "D/DirectQhull" }
 c3fa2e09-48e0-5371-872a-ed3ac32dd1fc = { name = "PORTA_jll", path = "jll/P/PORTA_jll" }
@@ -9730,6 +9734,7 @@ cc8eb9ea-40c6-483d-ae01-5f60885b8dd9 = { name = "ExactReals", path = "E/ExactRea
 cc8fcbce-1519-41ac-a9d5-7b019a31028d = { name = "OptimizingIR", path = "O/OptimizingIR" }
 cc9b1b2d-f4cf-5aeb-b1c9-57f66198f3ff = { name = "ReduceAlgebra", path = "R/ReduceAlgebra" }
 cc9befaf-0110-443e-845a-60a17f3568dd = { name = "Nuclides", path = "N/Nuclides" }
+cca00f77-35de-46b7-a2e1-4a86bed9cc56 = { name = "SASLAuth", path = "S/SASLAuth" }
 ccad5352-7643-4eb2-b711-e9c298e87bf0 = { name = "GreenFlux", path = "G/GreenFlux" }
 ccbc3e58-028d-4f4c-8cd5-9ae44345cda5 = { name = "JumpProcesses", path = "J/JumpProcesses" }
 ccc2c699-b150-5417-88f2-a95a0d1581d9 = { name = "libmseed_jll", path = "jll/L/libmseed_jll" }
