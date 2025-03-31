@@ -614,6 +614,7 @@ some amount of consideration when choosing package names.
 0cda1612-498a-11e9-3c92-77fa82595a4f = { name = "SpineInterface", path = "S/SpineInterface" }
 0cdbb3b1-e653-5045-b8d5-b31a04c2a6c9 = { name = "JuliaManager", path = "J/JuliaManager" }
 0cdc39bb-36b4-4ec4-ad63-255670c92e6e = { name = "Kucoin", path = "K/Kucoin" }
+0ce0b37c-8851-4c5b-98a3-e691a5f19c53 = { name = "HAPIClient", path = "H/HAPIClient" }
 0ce4ce61-57bf-432b-a095-efac525d185e = { name = "ParametricOptInterface", path = "P/ParametricOptInterface" }
 0ce7a1f8-0645-46c2-a0bb-6c09c29d93e9 = { name = "EarthData", path = "E/EarthData" }
 0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa = { name = "ExaPF", path = "E/ExaPF" }
@@ -3136,6 +3137,7 @@ some amount of consideration when choosing package names.
 41fcc7e7-1908-4925-8240-7eafabf08a75 = { name = "RegistryCLI", path = "R/RegistryCLI" }
 41fe7b60-77ed-43a1-b4f0-825fd5a5650d = { name = "Unzip", path = "U/Unzip" }
 4201568c-2e61-4571-8a9c-4da1ec7770d0 = { name = "SymbolicQuartetNetworkCoal", path = "S/SymbolicQuartetNetworkCoal" }
+4201acb4-6ad2-4fbc-ab19-c24116385dd7 = { name = "MergedArrays", path = "M/MergedArrays" }
 4206358c-74de-4262-b9b2-8440947a766f = { name = "ProximalMethods", path = "P/ProximalMethods" }
 42063a9e-4db3-11e9-2c9c-956b066f8181 = { name = "RDates", path = "R/RDates" }
 42071c24-d89e-48dd-8a24-8a12d9b8861f = { name = "UnitfulRecipes", path = "U/UnitfulRecipes" }
@@ -4489,6 +4491,7 @@ some amount of consideration when choosing package names.
 5ea955a8-74dc-49b5-be65-6ee01fc504f7 = { name = "SeqShuffle", path = "S/SeqShuffle" }
 5ead8e6a-226e-4abd-9fac-4ba193e998ab = { name = "SimpleValidations", path = "S/SimpleValidations" }
 5eaf0fd0-dfba-4ccb-bf02-d820a40db705 = { name = "RoundingEmulator", path = "R/RoundingEmulator" }
+5eb46db9-241e-4516-b2d9-6a99246a435a = { name = "Ggplot2", path = "G/Ggplot2" }
 5eb54613-e1e4-5bb3-a6bc-ad608a6b2204 = { name = "MackeyGlass", path = "M/MackeyGlass" }
 5eb88fab-4dde-58d8-af5d-492bc9ff933e = { name = "casacorewrapper_jll", path = "jll/C/casacorewrapper_jll" }
 5ec5d1c9-c394-4ef5-850c-f245e78f4765 = { name = "Picotool", path = "P/Picotool" }
@@ -5974,6 +5977,7 @@ some amount of consideration when choosing package names.
 7ce832dc-6953-4c0f-9163-51fbd0dcbc24 = { name = "WinTypes", path = "W/WinTypes" }
 7cf1493d-886e-405c-b582-53b49fa147b6 = { name = "RayTraceHeatTransfer", path = "R/RayTraceHeatTransfer" }
 7cf40ad8-af6a-4ede-b3c6-2a9df3bce851 = { name = "DomainColoringToy", path = "D/DomainColoringToy" }
+7cff5b3a-8f09-4ceb-8bc2-fd31e9948585 = { name = "Charon", path = "C/Charon" }
 7cffe744-45fd-4178-b173-cf893948b8b7 = { name = "BetterExp", path = "B/BetterExp" }
 7d03e222-df96-4b80-bcdc-d089be88b5f2 = { name = "ReparametrizableDistributions", path = "R/ReparametrizableDistributions" }
 7d06c537-f8ff-4c22-91e1-ce4088e3cfd7 = { name = "StableLinearAlgebra", path = "S/StableLinearAlgebra" }
@@ -7329,6 +7333,7 @@ some amount of consideration when choosing package names.
 9ae34a36-e1b6-54e9-a33d-8bba9913f854 = { name = "QDLDL_jll", path = "jll/Q/QDLDL_jll" }
 9ae74011-d0f3-412c-a047-ea779e11a931 = { name = "BlueNoise", path = "B/BlueNoise" }
 9aeeebde-7c74-460c-b059-016a4aa0f713 = { name = "MultidimensionalTools", path = "M/MultidimensionalTools" }
+9aeef027-32d9-426e-907e-1f5ddbd18eab = { name = "PoGOBase", path = "P/PoGOBase" }
 9af553da-f2ee-58c4-bad9-1c5e8386f243 = { name = "LibBirch_jll", path = "jll/L/LibBirch_jll" }
 9b0ab244-28a7-517c-931e-75c4e3199a6c = { name = "MPSolve", path = "M/MPSolve" }
 9b13fd28-a010-5f03-acff-a1bbcff69959 = { name = "IndirectArrays", path = "I/IndirectArrays" }
