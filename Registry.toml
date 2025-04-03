@@ -327,6 +327,7 @@ some amount of consideration when choosing package names.
 069e79ea-d681-44e8-b935-95bdaf9e8f28 = { name = "FiniteStateProjection", path = "F/FiniteStateProjection" }
 06ae4d9b-ce5e-4813-a1b3-426e46312ec2 = { name = "CLEARSWI", path = "C/CLEARSWI" }
 06b161dc-0161-11ea-0f74-41f836f4024b = { name = "Z3", path = "Z/Z3" }
+06b1ce50-b741-4199-b118-ba5fe1a70fa7 = { name = "ChunkCodecTests", path = "C/ChunkCodecTests" }
 06bb1623-fdd5-5ca2-a01c-88eae3ea319e = { name = "PenaltyFunctions", path = "P/PenaltyFunctions" }
 06c00241-927a-4d5b-bb5e-6b5a2ada3567 = { name = "UnitfulParsableString", path = "U/UnitfulParsableString" }
 06c0f48c-727e-59bc-bc79-048e0b09db0c = { name = "ssht_jll", path = "jll/S/ssht_jll" }
@@ -1496,6 +1497,7 @@ some amount of consideration when choosing package names.
 1ecacbb8-0713-4841-9a07-eb5aa8a2d53f = { name = "ClimaDiagnostics", path = "C/ClimaDiagnostics" }
 1ecd5474-83a3-4783-bb4f-06765db800d2 = { name = "GraphMakie", path = "G/GraphMakie" }
 1ed8b502-d754-442c-8d5d-10ac956f44a1 = { name = "SciMLSensitivity", path = "S/SciMLSensitivity" }
+1ed903b1-d65e-4243-bae3-7d6e2e5f54a0 = { name = "TractableTimeTreeDistributions", path = "T/TractableTimeTreeDistributions" }
 1ef8cab2-a151-54b4-a57f-5fbb4046a4ab = { name = "rocBLAS_jll", path = "jll/R/rocBLAS_jll" }
 1f012879-3887-41d0-bd88-38cb7d73fb12 = { name = "ChairmarksExtras", path = "C/ChairmarksExtras" }
 1f073b57-2743-565b-a723-478df9911235 = { name = "TestU01_jll", path = "jll/T/TestU01_jll" }
@@ -2129,6 +2131,7 @@ some amount of consideration when choosing package names.
 2cc4d701-0ab1-5f48-b3f6-a678509d3d6f = { name = "SZ3_jll", path = "jll/S/SZ3_jll" }
 2cca1867-674a-4323-b559-fc77c0bbdb31 = { name = "RegressionTests", path = "R/RegressionTests" }
 2cd38203-e337-4286-87ff-2ce1a63ddf55 = { name = "FinEtoolsMeshing", path = "F/FinEtoolsMeshing" }
+2cd3ca5d-4cd6-4e37-88b9-1a897f702e70 = { name = "CausalSets", path = "C/CausalSets" }
 2cd47ed4-ca9b-11e9-27f2-ab636a7671f1 = { name = "InfrastructureSystems", path = "I/InfrastructureSystems" }
 2cd5bd5f-40a1-5050-9e10-fc8cdb6109f5 = { name = "ILog2", path = "I/ILog2" }
 2cd74e05-b976-4426-91fa-5f1011f8952b = { name = "LibCEED", path = "L/LibCEED" }
@@ -5354,6 +5357,7 @@ some amount of consideration when choosing package names.
 7095a2e3-0a7f-4f3b-b61c-705d32c2f8a5 = { name = "BirkhoffDecomposition", path = "B/BirkhoffDecomposition" }
 70a005b8-9d8a-11e9-0d98-c909fa2e52d2 = { name = "ReadDatastores", path = "R/ReadDatastores" }
 70b36510-7dee-11e9-28d4-77afe9445f67 = { name = "AutomaticDocstrings", path = "A/AutomaticDocstrings" }
+70bdbfc6-e9c9-457d-a859-87a2987b95b3 = { name = "OtsuThresholding", path = "O/OtsuThresholding" }
 70c3cbac-2c23-4b2d-966c-5a25c0a540fb = { name = "CameraCalibrations", path = "C/CameraCalibrations" }
 70c4c096-89a6-5ec6-8236-da8aa3bd86fd = { name = "Indicators", path = "I/Indicators" }
 70cc596b-f351-5640-b155-76ddf0ff62ca = { name = "xfoil_light_jll", path = "jll/X/xfoil_light_jll" }
