@@ -173,6 +173,15 @@
       From https://github.com/JuliaBinaryWrappers/Reactant_jll.jl
        * branch            f3a5eb7ae5158dcf9ea1e1...
     version: '"0.0.137+0"'
+- uuid: 0192cb87-2b54-54ad-80e0-3be72ad8a3c0
+  name: Reactant_jll
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/JuliaBinaryWrappers/Reactant_jll.jl.git --rev 272edbb9c0356812c3d3d228451aa26660832e20 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-xkMw3DKI/Reactant_jll.jl-272edbb/.git/
+      From https://github.com/JuliaBinaryWrappers/Reactant_jll.jl
+       * branch            272edbb9c0356812c3d3d2...
+    version: '"0.0.138+0"'
 - uuid: 02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a
   name: XML2_jll
   info:
@@ -473,6 +482,15 @@
       From https://github.com/sumiya11/Groebner.jl
        * branch            1e7fb1461cb7e828ce95d5f9a738af91c1a11ac0 ...
     version: '"0.9.1"'
+- uuid: 0b43b601-686d-58a3-8a1c-6623616c7cd4
+  name: Groebner
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/sumiya11/Groebner.jl.git --rev 72c88b1242f6f15a67c15377d08486d601d5dc11 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-hQOIb99G/Groebner.jl-72c88b1/.git/
+      From https://github.com/sumiya11/Groebner.jl
+       * branch            72c88b1242f6f15a67c15377d08486d601d5dc11 ...
+    version: '"0.9.2"'
 - uuid: 0b62d163-fd1d-4060-a953-4385d03545e2
   name: FieldAlgebra
   info:
@@ -644,6 +662,15 @@
       From https://github.com/JuliaManifolds/Manopt.jl
        * branch            e0e42bc3f09656885922638d2a81d11fee9b6fb...
     version: '"0.5.11"'
+- uuid: 0fc0a36d-df90-57f3-8f93-d78a9fc72bb5
+  name: Manopt
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/JuliaManifolds/Manopt.jl.git --rev 401e7e92d0e2ee8a59b4d89743ee999c6d5f899a (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-MqJbj75c/Manopt.jl-401e7e9/.git/
+      From https://github.com/JuliaManifolds/Manopt.jl
+       * branch            401e7e92d0e2ee8a59b4d89743ee999c6d5f899...
+    version: '"0.5.12"'
 - uuid: 10d2f5c9-08bb-4a99-a156-10b2ac3b4091
   name: IntrinsicTimescales
   info:
@@ -862,6 +889,15 @@
   name: MaxwellGuidedMode
   info:
     tag: repo_inaccessible
+- uuid: 1b61a8d9-79ed-4491-8266-ef37f39e1727
+  name: UnitDiskMapping
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/QuEraComputing/UnitDiskMapping.jl.git --rev fb542209fe705f858e6c39be77ff6604c1e8256e (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-NNtz4l4V/UnitDiskMapping.jl-fb54220/.git/
+      From https://github.com/QuEraComputing/UnitDiskMapping.jl
+       * branch            fb542209fe705f858e6c3...
+    version: '"0.5.1"'
 - uuid: 1c39547c-7794-42f7-af83-d98194f657c2
   name: CTFlows
   info:
@@ -1603,6 +1639,15 @@
   name: DataFitting
   info:
     tag: repo_inaccessible
+- uuid: 2e59a628-7bac-4d38-8059-3a73ba0928ab
+  name: Transits
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/JuliaAstro/Transits.jl.git --rev 2e96ebf96e07a975071777580ac7fac812fb28e2 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-mOoTCzSt/Transits.jl-2e96ebf/.git/
+      From https://github.com/JuliaAstro/Transits.jl
+       * branch            2e96ebf96e07a975071777580ac7fac812fb28e...
+    version: '"0.4.1"'
 - uuid: 2efcf032-c050-4f8e-a9bb-153293bab1f5
   name: SymbolicIndexingInterface
   info:
@@ -1983,6 +2028,15 @@
       From https://github.com/EnzymeAD/Reactant.jl
        * branch            d36f743ac368ee80ef806d489ce501a01ece50cb ...
     version: '"0.2.68"'
+- uuid: 3c362404-f566-11ee-1572-e11a4b42c853
+  name: Reactant
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/EnzymeAD/Reactant.jl.git --rev 6920515f9a7025c38ffb645c6ead286f4b6ce542 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-adK7xgZ4/Reactant.jl-6920515/.git/
+      From https://github.com/EnzymeAD/Reactant.jl
+       * branch            6920515f9a7025c38ffb645c6ead286f4b6ce542 ...
+    version: '"0.2.69"'
 - uuid: 3ccb93f7-bd98-4150-a201-b30c241572df
   name: MetaCommunityMetrics
   info:
@@ -2667,6 +2721,15 @@
       From https://github.com/JuliaDecisionFocusedLearning/ImplicitDifferentiation.jl
        * branch   ...
     version: '"0.7.1"'
+- uuid: 58530d00-bdec-5bcb-8e8b-bc8c1f9d555e
+  name: LZFSE_jll
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl.git --rev 6d7bab91dbb647004f679e6ebdcdf8c232070e5d (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-4iz08yHa/LZFSE_jll.jl-6d7bab9/.git/
+      From https://github.com/JuliaBinaryWrappers/LZFSE_jll.jl
+       * branch            6d7bab91dbb647004f679e6ebdcd...
+    version: '"1.0.0+0"'
 - uuid: 58716550-704d-11e9-05c2-8f708e47025f
   name: MCHammer
   info:
@@ -3181,6 +3244,15 @@
       From https://github.com/paulxshen/Jello.jl
        * branch            58e4ed8df5adfa95cf62db2020c2255301a43cfd -> FE...
     version: '"1.0.40"'
+- uuid: 6872b481-e419-48a0-81d2-be4ee5684529
+  name: Jello
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/paulxshen/Jello.jl.git --rev 520d87c5a844e3a11d5d02add87e8c6765062db6 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-33xlr6pP/Jello.jl-520d87c/.git/
+      From https://github.com/paulxshen/Jello.jl
+       * branch            520d87c5a844e3a11d5d02add87e8c6765062db6 -> FE...
+    version: '"1.0.41"'
 - uuid: 690c6d5c-626a-429f-a06b-981a1dae1c19
   name: CarboKitten
   info:
@@ -3305,6 +3377,15 @@
       From https://github.com/SciML/NonlinearSolve.jl
        * branch            bfdafcc043eb34fe21a2dae769734fd9...
     version: '"1.1.3"'
+- uuid: 70f11efc-bab2-57f1-b0f3-22aad4e67c4b
+  name: aws_c_cal_jll
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl.git --rev 18d71fcd0fb492956b2698ab3698f7dd8d4e678b (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-FSkCfTOY/aws_c_cal_jll.jl-18d71fc/.git/
+      From https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl
+       * branch            18d71fcd0fb492956b26...
+    version: '"0.9.0+0"'
 - uuid: 71058383-8132-461f-b29a-bb8012bb1004
   name: StravaAPI
   info:
@@ -3469,6 +3550,15 @@
       From https://github.com/NikoBiele/ConvolutionInterpolations.jl
        * branch            288bcf...
     version: '"0.1.1"'
+- uuid: 763a8c06-ba23-41fc-b385-b3b57b52403a
+  name: Asap
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/keithjlee/Asap.jl.git --rev c3197a35015b2afbe95af76c4de8bd24c32cf44c (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-Z9kH1FbZ/Asap.jl-c3197a3/.git/
+      From https://github.com/keithjlee/Asap.jl
+       * branch            c3197a35015b2afbe95af76c4de8bd24c32cf44c -> FETC...
+    version: '"0.2.2"'
 - uuid: 766d9fe0-8bda-4b1c-9671-3009ced25364
   name: RestApis
   info:
@@ -3539,6 +3629,15 @@
       From https://github.com/RomeoV/KSVD.jl
        * branch            c8d3554a89d3e292e9f236d2e384e984bdbfdb55 -> FETCH_H...
     version: '"1.11.2"'
+- uuid: 778123d0-3295-4563-8004-fb5c576fbcd9
+  name: KSVD
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/RomeoV/KSVD.jl.git --rev 89cee00a58c4e0e4477c73bf2485564ec6667e8d (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-C7H9TsBI/KSVD.jl-89cee00/.git/
+      From https://github.com/RomeoV/KSVD.jl
+       * branch            89cee00a58c4e0e4477c73bf2485564ec6667e8d -> FETCH_H...
+    version: '"1.12.0"'
 - uuid: 78927d98-f421-490e-8789-96b006983a5c
   name: SimulationBasedInference
   info:
@@ -3575,6 +3674,15 @@
       From https://github.com/Jack-H-Buckner/UniversalDiffEq.jl
        * branch            43a564b3d60998af873fe...
     version: '"1.1.0"'
+- uuid: 7952bbbe-a946-4118-bea0-081a0932faa9
+  name: CrystalNets
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/coudertlab/CrystalNets.jl.git --rev efb9bc357259a0572fbc8af46b7cc7925c983742 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-yKuCKlTX/CrystalNets.jl-efb9bc3/.git/
+      From https://github.com/coudertlab/CrystalNets.jl
+       * branch            efb9bc357259a0572fbc8af46b7cc7925...
+    version: '"1.0.0"'
 - uuid: 7acf609c-83a4-11e9-1ffb-b912bcd3b04a
   name: LightGBM
   info:
@@ -3629,6 +3737,15 @@
       From https://github.com/MilesCranmer/BorrowChecker.jl
        * branch            dd89e177ecb585ab7c0424bde75...
     version: '"0.1.1"'
+- uuid: 7bdcaa52-c310-4bb0-bf54-d941056ed284
+  name: BorrowChecker
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/MilesCranmer/BorrowChecker.jl.git --rev 192e1c71dd5fbbed69ab4b60ceaa208849057561 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-7prej3V2/BorrowChecker.jl-192e1c7/.git/
+      From https://github.com/MilesCranmer/BorrowChecker.jl
+       * branch            192e1c71dd5fbbed69ab4b60cea...
+    version: '"0.1.2"'
 - uuid: 7c09cfe3-afe2-5798-bcc9-d6b7fecfdca5
   name: Xorg_util_macros_jll
   info:
@@ -4089,10 +4206,28 @@
       From https://github.com/SciML/NonlinearSolve.jl
        * branch            7ae7322d658544bd8f6b24a1a0374a6b...
     version: '"4.5.1"'
+- uuid: 899c297d-f7d2-4ebf-8815-a35996def416
+  name: ProblemReductions
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/GiggleLiu/ProblemReductions.jl.git --rev 457d73aaff2ee43eb82e5da118e44de32367b203 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-ZYpUMqiH/ProblemReductions.jl-457d73a/.git/
+      From https://github.com/GiggleLiu/ProblemReductions.jl
+       * branch            457d73aaff2ee43eb82e5d...
+    version: '"0.3.3"'
 - uuid: 89d1cb86-bf84-46ce-bdfb-ab7f830013b1
   name: Psychrometrics
   info:
     tag: repo_inaccessible
+- uuid: 8ae5e7a9-bdd3-4c93-9cc3-9df4d5d947db
+  name: TidierFiles
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/TidierOrg/TidierFiles.jl.git --rev da8dd6548e702c2106c86c73350de425d57c43a1 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-c6gbko0m/TidierFiles.jl-da8dd65/.git/
+      From https://github.com/TidierOrg/TidierFiles.jl
+       * branch            da8dd6548e702c2106c86c73350de425d5...
+    version: '"0.3.1"'
 - uuid: 8c229dad-8b3a-4031-83d6-73545c88426d
   name: Vizagrams
   info:
@@ -4236,6 +4371,15 @@
       From https://github.com/JuliaPlots/Plots.jl
        * branch            41c9a70abc1ff7296873adc5d768bff33a481652 -> F...
     version: '"1.40.12"'
+- uuid: 91bb5406-6c9a-523d-811d-0644c4229550
+  name: FinEtools
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/PetrKryslUCSD/FinEtools.jl.git --rev f70c570a02e41b7386a39d481727369b05a7ff3c (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-UZGsAJ7V/FinEtools.jl-f70c570/.git/
+      From https://github.com/PetrKryslUCSD/FinEtools.jl
+       * branch            f70c570a02e41b7386a39d481727369b05...
+    version: '"8.1.1"'
 - uuid: 92933f4c-e287-5a05-a399-4b506db050ca
   name: ProgressMeter
   info:
@@ -4499,6 +4643,15 @@
       From https://github.com/domluna/JuliaFormatter.jl
        * branch            2bef640621cb5381fcf45c7fdc8bf4...
     version: '"2.1.0"'
+- uuid: 98e50ef6-434e-11e9-1051-2b60c6c9e899
+  name: JuliaFormatter
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/domluna/JuliaFormatter.jl.git --rev 63bbba4c7553b850c5a2ab8be6efada5b8a10da8 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-0DBEPTdf/JuliaFormatter.jl-63bbba4/.git/
+      From https://github.com/domluna/JuliaFormatter.jl
+       * branch            63bbba4c7553b850c5a2ab8be6efad...
+    version: '"2.1.1"'
 - uuid: 98f94333-fa9f-48a9-ad80-1c66397b2b38
   name: Tensorial
   info:
@@ -4912,6 +5065,15 @@
       From https://github.com/theogf/TestPicker.jl
        * branch            18c152e7bcc5ea86aec39e028f1a4ba66efd5af...
     version: '"0.1.6"'
+- uuid: a64165b9-4409-4de6-85cd-a4e0953bae44
+  name: TestPicker
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/theogf/TestPicker.jl.git --rev d5a7f27fdfd5521480f9068350108174659eb79f (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-WHuFhGYU/TestPicker.jl-d5a7f27/.git/
+      From https://github.com/theogf/TestPicker.jl
+       * branch            d5a7f27fdfd5521480f9068350108174659eb79...
+    version: '"0.1.7"'
 - uuid: a641f28f-8d9e-4160-8071-676a3167f41f
   name: SMDInterfacesUtils
   info:
@@ -5005,6 +5167,15 @@
       From https://github.com/AtelierArith/TerminalGat.jl
        * branch            33f36ded603a33b0752a6dc9f428766...
     version: '"0.1.6"'
+- uuid: a8ea0714-0c8b-51e5-9b11-67a2d82946d2
+  name: CloudSeis
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/ChevronETC/CloudSeis.jl.git --rev 3fb1161d56584534c498c01f6b44716b111af420 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-cWHivB6i/CloudSeis.jl-3fb1161/.git/
+      From https://github.com/ChevronETC/CloudSeis.jl
+       * branch            3fb1161d56584534c498c01f6b44716b111af...
+    version: '"1.16.0"'
 - uuid: a8f54c17-34bc-5a9d-b050-f522fe3f755f
   name: YaoBase
   info:
@@ -5142,6 +5313,15 @@
   name: QuantumCircuits
   info:
     tag: repo_inaccessible
+- uuid: ada07ce9-609d-4543-9e41-2cdc42bc1f8f
+  name: IsotopeCorrection
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/vm-vh/IsotopeCorrection.jl.git --rev 0e67e0bf811cd8b99fc8a360361e19fabde9e465 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-YrkmuWZT/IsotopeCorrection.jl-0e67e0b/.git/
+      From https://github.com/vm-vh/IsotopeCorrection.jl
+       * branch            0e67e0bf811cd8b99fc8a36036...
+    version: '"0.1.1"'
 - uuid: ae2dfa86-617c-530c-b392-ef20fdad97bb
   name: QuickTypes
   info:
@@ -5249,6 +5429,15 @@
       From https://github.com/CBienvenue/Radiant.jl
        * branch            93d0bfa661ee31c909dd66927baa6098d21928d7 ...
     version: '"1.0.52"'
+- uuid: b2723bf5-94c5-4359-89e1-3e553b39f040
+  name: BetaDecayUtils
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/mmadurga/BetaDecayUtils.jl.git --rev 34a9c7e778869a3339d76da86fb3111da9e0f4eb (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-4u8Mnkw6/BetaDecayUtils.jl-34a9c7e/.git/
+      From https://github.com/mmadurga/BetaDecayUtils.jl
+       * branch            34a9c7e778869a3339d76da86fb31...
+    version: '"1.5.2"'
 - uuid: b27dd330-f138-47c5-815b-40db9dd9b6e8
   name: GTPSA
   info:
@@ -5280,6 +5469,15 @@
   name: QuantumIterativeLearningControl
   info:
     tag: repo_inaccessible
+- uuid: b2d7f28f-acd6-4007-8b26-bc27716e5513
+  name: OteraEngine
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/MommaWatasu/OteraEngine.jl.git --rev 2fdcb07d27b5a12b040cc9c0c69469e6630b6b5d (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-5KHrTu99/OteraEngine.jl-2fdcb07/.git/
+      From https://github.com/MommaWatasu/OteraEngine.jl
+       * branch            2fdcb07d27b5a12b040cc9c0c69469e6...
+    version: '"1.1.2"'
 - uuid: b32b01fb-8833-5495-9754-2f5f3e3ebfd4
   name: MirroredArrayViews
   info:
@@ -5772,6 +5970,15 @@
   name: GraphicsMath
   info:
     tag: repo_inaccessible
+- uuid: c7cfdc94-dc32-55de-ac96-5a1b8d977c5b
+  name: Xorg_libxcb_jll
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/JuliaBinaryWrappers/Xorg_libxcb_jll.jl.git --rev bfcaf7ec088eaba362093393fe11aa141fa15422 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-gDusz7da/Xorg_libxcb_jll.jl-bfcaf7e/.git/
+      From https://github.com/JuliaBinaryWrappers/Xorg_libxcb_jll.jl
+       * branch            bfcaf7ec088eaba3...
+    version: '"1.17.1+0"'
 - uuid: c823fa1f-8872-4af5-b810-2b9b72bbbf56
   name: DirectTrajOpt
   info:
@@ -6139,6 +6346,15 @@
       From https://github.com/JuliaBinaryWrappers/nghttp3_jll.jl
        * branch            0dbf56d8ad7bb6cb8b6d7aad...
     version: '"1.8.0+0"'
+- uuid: deac9b47-8bc7-5906-a0fe-35ac56dc84c0
+  name: LibCURL_jll
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/JuliaBinaryWrappers/LibCURL_jll.jl.git --rev 5cef6959fd0fba35525f4ae12fbf04423fc71b2b (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-h88e7W2m/LibCURL_jll.jl-5cef695/.git/
+      From https://github.com/JuliaBinaryWrappers/LibCURL_jll.jl
+       * branch            5cef6959fd0fba35525f4ae1...
+    version: '"8.13.0+0"'
 - uuid: deefbfe4-5b57-4941-9cbb-7e0220485fa4
   name: Recruiters
   info:
@@ -6380,6 +6596,15 @@
       From https://github.com/Albatross-Kite-Transport/VortexStepMethod.jl
        * branch            e4814c36c...
     version: '"1.2.1"'
+- uuid: ed3cd733-9f0f-46a9-93e0-89b8d4998dd9
+  name: VortexStepMethod
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/Albatross-Kite-Transport/VortexStepMethod.jl.git --rev 2e79bca0af1782e5ccd29a9ac60ff1f2fdbe2901 (exited with 127). Stdout: . Stderr: Initialized empty Git repository in /tmp/git-checkout-tmp-l8mr8tzN/VortexStepMethod.jl-2e79bca/.git/
+      From https://github.com/Albatross-Kite-Transport/VortexStepMethod.jl
+       * branch            2e79bca0a...
+    version: '"1.2.2"'
 - uuid: ed5fc19a-51e0-403b-bf3b-cfeba61ff831
   name: MoM_AllinOne
   info:
