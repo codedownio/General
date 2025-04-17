@@ -845,6 +845,7 @@ some amount of consideration when choosing package names.
 114ffcdd-22b5-45a4-9385-909661964ad8 = { name = "RandomWalkBVP", path = "R/RandomWalkBVP" }
 115008b9-7a42-4cba-af26-8bebb992e909 = { name = "Workflows", path = "W/Workflows" }
 1154507a-7ac2-44fe-9f15-34617bca9db5 = { name = "Mjolnir", path = "M/Mjolnir" }
+1158f75c-a779-4b85-8bfb-8fcf6bf02ced = { name = "HarmonicSteadyState", path = "H/HarmonicSteadyState" }
 115d0255-0791-41d2-b533-80bc4cbe6c10 = { name = "Invariants", path = "I/Invariants" }
 115de871-c282-4823-a74f-b03678acf966 = { name = "PhyNEST", path = "P/PhyNEST" }
 11738ef7-5d34-4561-8fd5-55b6644beee9 = { name = "ContinuedFractions", path = "C/ContinuedFractions" }
@@ -2943,6 +2944,7 @@ some amount of consideration when choosing package names.
 3d38dfc6-4f17-513e-996d-152e5e70789c = { name = "ScanImageTiffReader", path = "S/ScanImageTiffReader" }
 3d39929c-b583-45fa-b331-3f50b693a38a = { name = "MatrixProductBP", path = "M/MatrixProductBP" }
 3d39a06a-b57e-5769-b499-4d62b23c243f = { name = "EnhancedGJK", path = "E/EnhancedGJK" }
+3d410ee0-b2cd-4e54-aa06-374a4e0e0b7f = { name = "CodingTheoryUtils", path = "C/CodingTheoryUtils" }
 3d41126b-a46a-5bdb-b7a1-7ea6cc35a8ef = { name = "XSim", path = "X/XSim" }
 3d421925-9ddb-5fba-844f-eab55ed40f51 = { name = "Sundials32_jll", path = "jll/S/Sundials32_jll" }
 3d46c559-9b3d-4aba-9ca1-48ff7627231e = { name = "Rete", path = "R/Rete" }
@@ -5138,6 +5140,7 @@ some amount of consideration when choosing package names.
 6bef4a77-805f-5404-b838-981e48d6e429 = { name = "Shaderc_jll", path = "jll/S/Shaderc_jll" }
 6bf0c929-756b-4df7-ab0b-d621f7ebeba1 = { name = "Cclib", path = "C/Cclib" }
 6bf22d12-b2e3-4e51-8f6d-9d050a32c5d5 = { name = "ExpressBase", path = "E/ExpressBase" }
+6bf4ee07-1766-4a3a-9e7e-3ffe73513617 = { name = "LogisticROC", path = "L/LogisticROC" }
 6bf848c2-a04c-470f-9a4d-5a21d02c3e16 = { name = "Neo4jBolt", path = "N/Neo4jBolt" }
 6bfa5940-3c60-11ee-1a7e-43a2532b2fa8 = { name = "NaiveDESPOT", path = "N/NaiveDESPOT" }
 6c004e30-2d62-4b0c-a9dc-5f2a1b1306a8 = { name = "ActinFriction", path = "A/ActinFriction" }
@@ -7493,6 +7496,7 @@ some amount of consideration when choosing package names.
 9d710cfd-26d5-4b84-a0a4-2b62d6e9d5fb = { name = "ExactConversions", path = "E/ExactConversions" }
 9d7617aa-e122-4445-bdd0-98866dcb605d = { name = "DirectSearch", path = "D/DirectSearch" }
 9d766032-97e2-11e9-15bd-efb533ad7bdc = { name = "BitcoinPrimitives", path = "B/BitcoinPrimitives" }
+9d82fc85-3a26-5878-8296-eaade0189704 = { name = "code_server_jll", path = "jll/C/code_server_jll" }
 9d84c17e-11f2-50ef-8cc9-e9701362097f = { name = "xrootdgo_jll", path = "jll/X/xrootdgo_jll" }
 9d8b7fda-1049-58bc-9481-071a9f369938 = { name = "SpikingNeuralNetworks", path = "S/SpikingNeuralNetworks" }
 9d95972d-f1c8-5527-a6e0-b4b365fa01f6 = { name = "TupleTools", path = "T/TupleTools" }
