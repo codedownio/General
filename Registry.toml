@@ -2693,6 +2693,7 @@ some amount of consideration when choosing package names.
 37e8709b-1ed2-53db-b26a-3571262b3cb4 = { name = "EffectiveWaves", path = "E/EffectiveWaves" }
 37e990fb-a500-53d7-846b-4c8aba66999e = { name = "FolderStorage", path = "F/FolderStorage" }
 37ec17de-8561-4b6b-83ee-0529988fea82 = { name = "EnergyModelsRecedingHorizon", path = "E/EnergyModelsRecedingHorizon" }
+37ee4594-8306-40da-a4c2-d7ed95560e0b = { name = "BolometricCorrections", path = "B/BolometricCorrections" }
 37f0c46e-897f-50ef-b453-b26c3eed3d6c = { name = "TimeToLive", path = "T/TimeToLive" }
 37f2b0bf-0c13-4883-8808-e75eb56597e7 = { name = "ShipMMG", path = "S/ShipMMG" }
 37f3a7ca-22fe-4915-8a8b-6f135989f045 = { name = "Turtles", path = "T/Turtles" }
@@ -3154,6 +3155,7 @@ some amount of consideration when choosing package names.
 41b62e7d-e9d1-4e23-942c-79a97adf954b = { name = "TensorKitTensors", path = "T/TensorKitTensors" }
 41ba435c-a500-5816-a783-a9707c6f5f3a = { name = "Deconvolution", path = "D/Deconvolution" }
 41be38da-c9ad-4b24-9b1b-21c83f144a15 = { name = "MissingPatterns", path = "M/MissingPatterns" }
+41be5fce-5647-450b-ae37-a6739b881a1c = { name = "PeriodicOrbits", path = "P/PeriodicOrbits" }
 41bf760c-e81c-5289-8e54-58b1f1f8abe2 = { name = "DiffEqSensitivity", path = "D/DiffEqSensitivity" }
 41c3f962-d225-4afd-879a-c18106b4395d = { name = "FHIRClientJSON", path = "F/FHIRClientJSON" }
 41ceaf6f-1696-4a54-9b49-2e7a9ec3782e = { name = "NestedSamplers", path = "N/NestedSamplers" }
@@ -6144,6 +6146,7 @@ some amount of consideration when choosing package names.
 7f0a2ee1-9b43-5740-ae82-b54233cf7071 = { name = "libosmium_jll", path = "jll/L/libosmium_jll" }
 7f0fc4bf-4ffe-4e21-ab91-7bf1358d5ab3 = { name = "MirrorUpdater", path = "M/MirrorUpdater" }
 7f126dfc-02fe-4b0a-bf44-dbfefac359c9 = { name = "BLASBenchmarksGPU", path = "B/BLASBenchmarksGPU" }
+7f16798b-0e18-40de-98af-932948254698 = { name = "Hedgehog", path = "H/Hedgehog" }
 7f19f2dd-709d-51a0-a533-ded4a1c488a6 = { name = "YAAD", path = "Y/YAAD" }
 7f2154ff-9684-4686-a457-9182f50d0f5b = { name = "AstroPropagators", path = "A/AstroPropagators" }
 7f219486-4aa7-41d6-80a7-e08ef20ceed7 = { name = "AbstractNFFTs", path = "A/AbstractNFFTs" }
@@ -7078,6 +7081,7 @@ some amount of consideration when choosing package names.
 9307e30f-c43e-9ca7-d17c-c2dc59df670d = { name = "Sandbox", path = "S/Sandbox" }
 93090adf-0e31-445f-8c8f-44d91f61d7ad = { name = "ExpressionTreeForge", path = "E/ExpressionTreeForge" }
 930fe3bc-9c6b-11ea-2d94-6184641e85e7 = { name = "DiffOpt", path = "D/DiffOpt" }
+9311f4a3-d431-4665-b35d-8d2edcf6b88a = { name = "MuSink", path = "M/MuSink" }
 9317242e-1230-4881-bcbc-8f9566308e0e = { name = "MakieRichText", path = "M/MakieRichText" }
 93189044-1868-42be-8af9-6027680aca9b = { name = "VectorSpaceDarkMatter", path = "V/VectorSpaceDarkMatter" }
 931e9471-e8fb-5385-a477-07ad12718aca = { name = "MechanismGeometries", path = "M/MechanismGeometries" }
@@ -7246,6 +7250,7 @@ some amount of consideration when choosing package names.
 9748e082-7d24-4353-af53-8a6c8ccbfb0c = { name = "SignalTemps", path = "S/SignalTemps" }
 974fe673-6e6b-4833-bfec-235320a1a9d9 = { name = "IUCNRedList", path = "I/IUCNRedList" }
 975044d2-76e6-5fbe-bf08-97ce7c6574c7 = { name = "Xorg_xcb_util_keysyms_jll", path = "jll/X/Xorg_xcb_util_keysyms_jll" }
+975b03d1-ab45-5730-8389-540698ac00dc = { name = "OnlinePCA", path = "O/OnlinePCA" }
 9769ca81-ed10-4016-bab9-e66dc61d4d60 = { name = "QuanEstimationBase", path = "Q/QuanEstimationBase" }
 97725368-735e-11e9-0dd7-6bf34c3b13a8 = { name = "EncodedArrays", path = "E/EncodedArrays" }
 97740bd8-9665-555f-bcf8-31e31065c979 = { name = "ReSHOP", path = "R/ReSHOP" }
