@@ -25,7 +25,7 @@ jobs:
       run: |
         nix profile install nixpkgs#nix-prefetch-git
 
-    - uses: haskell/actions/setup@v2
+    - uses: haskell-actions/setup@v2
       with:
         ghc-version: "9.2.8"
         stack-version: "latest"
@@ -106,6 +106,5 @@ jobs:
       with:
         repository: codedownio/General
         directory: JuliaRegistriesGeneral
-        # github_token: ${{ secrets.CODEDOWN_GENERAL_PAT }}
-        github_access_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref_name }}
