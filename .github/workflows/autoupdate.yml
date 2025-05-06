@@ -101,11 +101,6 @@ jobs:
         echo "------------------"
         git diff HEAD~1 HEAD --shortstat
 
-    # - name: Push the changes
-    #   run: |
-    #     cd JuliaRegistriesGeneral
-    #     git push https://codedownio:${{secrets.CODEDOWN_GENERAL_PAT}}@github.com/codedownio/General.git HEAD:master
-
     - name: Push the changes
       uses: ad-m/github-push-action@master
       with:
@@ -113,4 +108,4 @@ jobs:
         directory: JuliaRegistriesGeneral
         # github_token: ${{ secrets.CODEDOWN_GENERAL_PAT }}
         github_access_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master
+        branch: ${{ github.ref_name }}
