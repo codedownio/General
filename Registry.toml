@@ -4629,6 +4629,7 @@ some amount of consideration when choosing package names.
 6073304d-8c11-559f-8a83-5ce24a08dcab = { name = "MLX_C_jll", path = "jll/M/MLX_C_jll" }
 6074595b-091a-495a-9b39-045a690b2c53 = { name = "Muspel", path = "M/Muspel" }
 607c11b8-770f-4df0-ace8-6eaa1ea2719e = { name = "HealthMLBase", path = "H/HealthMLBase" }
+607ca3ad-272e-43c8-bcbe-fc71b56c935c = { name = "LowRankOpt", path = "L/LowRankOpt" }
 607db5a9-722a-4af8-9a06-1810c0fe385b = { name = "DifferentialEvolutionMCMC", path = "D/DifferentialEvolutionMCMC" }
 60874f82-5ada-4c70-bd1c-fa6be7711c8a = { name = "AbstractNeuralNetworks", path = "A/AbstractNeuralNetworks" }
 608a59af-f2a3-5ad4-90b4-758bdf3122a7 = { name = "ChaosTools", path = "C/ChaosTools" }
@@ -5612,6 +5613,7 @@ some amount of consideration when choosing package names.
 741b9549-f6ed-4911-9fbf-4a1c0c97f0cd = { name = "Legolas", path = "L/Legolas" }
 7424abe3-9926-5da8-9b28-863d6330819c = { name = "bsdiff_classic_jll", path = "jll/B/bsdiff_classic_jll" }
 7424e34d-94f7-41d6-98a0-85abaf1b6c91 = { name = "NFFTTools", path = "N/NFFTTools" }
+742586e2-2ccd-48a5-bc1c-31de6daa8fd7 = { name = "EntroPlots", path = "E/EntroPlots" }
 7425d11c-6b70-11e9-2bc6-9bcd3191d4b9 = { name = "PowerModelsAnalytics", path = "P/PowerModelsAnalytics" }
 7425e8e4-4cde-4e45-9b2f-a15679260f9b = { name = "SymplecticFactorizations", path = "S/SymplecticFactorizations" }
 74334e00-59ce-546d-b517-81f3b7e1d491 = { name = "DSSP_jll", path = "jll/D/DSSP_jll" }
@@ -8799,6 +8801,7 @@ b732b382-80b5-46a8-aa9c-7d077ae04823 = { name = "JunctionTrees", path = "J/Junct
 b7351bd1-99d9-5c5d-8786-f205a815c4d7 = { name = "NonNegLeastSquares", path = "N/NonNegLeastSquares" }
 b73cfdca-4c14-50a3-9408-5dcda5b8fad2 = { name = "GAP_pkg_float_jll", path = "jll/G/GAP_pkg_float_jll" }
 b73d36f2-ba1b-519d-99df-fa501440d401 = { name = "TulipIndicators_jll", path = "jll/T/TulipIndicators_jll" }
+b742139f-8771-480b-a9b2-33222b45d29b = { name = "Zenoh", path = "Z/Zenoh" }
 b7455f7a-83c6-4046-bd2b-dfe6091272a6 = { name = "SmoothedParticles", path = "S/SmoothedParticles" }
 b749d01f-fee9-4313-9f11-89ddf7ea9d58 = { name = "MultiplesOfPi", path = "M/MultiplesOfPi" }
 b75408ef-6fdf-5d74-b65a-7df000ad18e6 = { name = "cuQuantum_jll", path = "jll/C/cuQuantum_jll" }
@@ -10096,6 +10099,7 @@ d25df0c9-e2be-5dd7-82c8-3ad0b3e990b9 = { name = "Inflate", path = "I/Inflate" }
 d262d690-7b73-43ed-8cf8-7b23904776e1 = { name = "SeriesAcceleration", path = "S/SeriesAcceleration" }
 d265eb64-f81a-44ad-a842-4247ee1503de = { name = "TypedSyntax", path = "T/TypedSyntax" }
 d26dedfb-ad13-44bd-90c7-a2710fa2c005 = { name = "RationalPolygons", path = "R/RationalPolygons" }
+d26ff896-aba2-4e70-a0a6-448627456efe = { name = "PlasmaFormulary", path = "P/PlasmaFormulary" }
 d273dfef-62f2-5f88-806b-f32b81b662f1 = { name = "SuiteSparse_GPU_jll", path = "jll/S/SuiteSparse_GPU_jll" }
 d2772ebe-fee8-5277-ba6e-705bb5633645 = { name = "DeferredFutures", path = "D/DeferredFutures" }
 d277eb4b-a029-4f3f-8547-f56fb2721095 = { name = "JefimenkoModels", path = "J/JefimenkoModels" }
@@ -10931,6 +10935,7 @@ e3ba5bb7-5aef-5326-9a13-9617383dcacb = { name = "AMGCL_C_jll", path = "jll/A/AMG
 e3bbf2a3-a30c-4959-806c-295e8e13e4d8 = { name = "SQLCipher", path = "S/SQLCipher" }
 e3c3008a-8869-4d53-9f34-c96f99c8a2b6 = { name = "AMLPipelineBase", path = "A/AMLPipelineBase" }
 e3c6736c-93d9-479d-93f3-96ff5e8836d5 = { name = "SimulationLogs", path = "S/SimulationLogs" }
+e3ce28c8-8bfb-4704-8add-e3e7f14b55c9 = { name = "Einops", path = "E/Einops" }
 e3d30ef0-22f3-5ccc-b703-2e063d8d1f30 = { name = "libidn2_jll", path = "jll/L/libidn2_jll" }
 e3d38e7e-66c0-4598-81c1-d1e9bcf43bf0 = { name = "CamiFITS", path = "C/CamiFITS" }
 e3db82ae-3192-41ba-a352-7248a1c4d2ed = { name = "Nucleotide_Essentials", path = "N/Nucleotide_Essentials" }
