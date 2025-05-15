@@ -882,6 +882,19 @@
        * [new branch]          ap/petsc_debug              -> origin/ap/petsc_debug
        * [new bran...
     version: '"1.12.4"'
+- uuid: 727e6d20-b764-4bd8-a329-72de5adea6c7
+  name: SimpleNonlinearSolve
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/SciML/NonlinearSolve.jl.git --rev 19987527cf5b78c97637e1384c47e52ca5023c82 (exited with 1). Stdout: . Stderr: Initialized empty Git repository in /home/runner/work/_temp/git-checkout-tmp-SIpsPskY/NonlinearSolve.jl-1998752/.git/
+      fatal: remote error: upload-pack: not our ref 19987527cf5b78c97637e1384c47e52ca5023c82
+      From https://github.com/SciML/NonlinearSolve.jl
+       * [new branch]          ap/enlsip                   -> origin/ap/enlsip
+       * [new branch]          ap/multistep-methods        -> origin/ap/multistep-methods
+       * [new branch]          ap/petsc_debug              -> origin/ap/petsc_debug
+       * [new bran...
+    version: '"1.12.5"'
 - uuid: 73b108b0-3f95-4bd2-8c7c-23af2537d260
   name: AuthGG
   info:
