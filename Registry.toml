@@ -583,6 +583,7 @@ some amount of consideration when choosing package names.
 0be6dd02-ae9e-43eb-b318-c6e81d6890d8 = { name = "RelevancePropagation", path = "R/RelevancePropagation" }
 0befed6a-bd73-11e8-1e41-a1190947c2f5 = { name = "GroupRings", path = "G/GroupRings" }
 0bf025f6-8a23-43ed-a0f8-ad988f0a8cd8 = { name = "Photon", path = "P/Photon" }
+0bf0ee65-3559-4d1e-a282-1b0e88839781 = { name = "AutoHist", path = "A/AutoHist" }
 0bf3e898-7c79-4b38-9ca6-2d9cc6573905 = { name = "BundleAdjustmentModels", path = "B/BundleAdjustmentModels" }
 0bf59076-c3b1-5ca4-86bd-e02cd72cde3d = { name = "AdvancedHMC", path = "A/AdvancedHMC" }
 0bf644f3-9992-48f5-8d6e-b7168dcf6b06 = { name = "DianoiaML", path = "D/DianoiaML" }
@@ -6920,6 +6921,7 @@ some amount of consideration when choosing package names.
 8f0b679f-44a1-4a38-8011-253e3a78fd39 = { name = "TidierText", path = "T/TidierText" }
 8f0d3306-d70b-5309-b898-24bb6ab47850 = { name = "DocumentationGenerator", path = "D/DocumentationGenerator" }
 8f1571ae-b3a1-52af-8ab1-32258739efdb = { name = "StanMCMCChain", path = "S/StanMCMCChain" }
+8f16cebd-c0b4-44a3-857f-c101f083256c = { name = "AquaCrop", path = "A/AquaCrop" }
 8f1865be-045e-5c20-9c9f-bfbfb0764568 = { name = "ZeroMQ_jll", path = "jll/Z/ZeroMQ_jll" }
 8f257efb-743c-4ebc-8197-d291a1f743b4 = { name = "OpenPolicyAgent", path = "O/OpenPolicyAgent" }
 8f25b07e-6077-4668-9c5e-9c6bcc4ef962 = { name = "DividedRectangles", path = "D/DividedRectangles" }
@@ -9757,6 +9759,7 @@ c9d4266f-a5cb-439d-837c-c97b191379f5 = { name = "ArrayAllocators", path = "A/Arr
 c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8 = { name = "WhereTraits", path = "W/WhereTraits" }
 c9fbf690-8ea2-11e9-1d56-e5e266ebe695 = { name = "FinEtoolsDeforNonlinear", path = "F/FinEtoolsDeforNonlinear" }
 c9fd44ac-77b5-486c-9482-9798bd063cc6 = { name = "BetterFileWatching", path = "B/BetterFileWatching" }
+ca0eaa81-961d-4b24-843c-8575ada746de = { name = "CNNSeq2exp", path = "C/CNNSeq2exp" }
 ca11d760-9bce-11e9-0b7e-4f72fcadb4f9 = { name = "FluxOptTools", path = "F/FluxOptTools" }
 ca278567-1944-4a35-ad5d-9f58fc68adb0 = { name = "ConstantArrays", path = "C/ConstantArrays" }
 ca34efa3-7b06-4646-a985-ce0937c3739e = { name = "OpenScienceFramework", path = "O/OpenScienceFramework" }
@@ -10117,6 +10120,7 @@ d240946c-85f5-49b8-b3a9-994f826016ae = { name = "ParameterEstimateScatterPlots",
 d2514e9c-36c4-5b8e-97e2-51e7675c221c = { name = "StructC14N", path = "S/StructC14N" }
 d254efa0-af53-535e-b7f1-03c1c9fbcbe7 = { name = "PkgSkeleton", path = "P/PkgSkeleton" }
 d25df0c9-e2be-5dd7-82c8-3ad0b3e990b9 = { name = "Inflate", path = "I/Inflate" }
+d26121ab-931e-479e-b928-38e5e8d76109 = { name = "MDSh5", path = "M/MDSh5" }
 d262d690-7b73-43ed-8cf8-7b23904776e1 = { name = "SeriesAcceleration", path = "S/SeriesAcceleration" }
 d265eb64-f81a-44ad-a842-4247ee1503de = { name = "TypedSyntax", path = "T/TypedSyntax" }
 d26dedfb-ad13-44bd-90c7-a2710fa2c005 = { name = "RationalPolygons", path = "R/RationalPolygons" }
@@ -10546,6 +10550,7 @@ db551b72-c8d0-4930-8019-443d434af198 = { name = "QuestDBClient", path = "Q/Quest
 db5f7d96-a200-5343-9fc6-a259b42289b2 = { name = "TeaSeis", path = "T/TeaSeis" }
 db654dba-670c-566a-9226-64313b881ded = { name = "HierarchicalTemporalMemory", path = "H/HierarchicalTemporalMemory" }
 db6bb4f6-9d2a-4386-a383-884870da1331 = { name = "SimpleBoids", path = "S/SimpleBoids" }
+db6bf46e-010a-586f-bcfc-62bf40116dcb = { name = "libcircle_jll", path = "jll/L/libcircle_jll" }
 db76afe2-0dac-4a3c-a8c7-f541811e5437 = { name = "FastGradientProjection", path = "F/FastGradientProjection" }
 db8ca866-b61f-4bd1-a9b9-75c107d645d4 = { name = "EasyJobsBase", path = "E/EasyJobsBase" }
 db96dd59-cc3e-5205-9518-9f32d21f88e9 = { name = "tree_sitter_cpp_jll", path = "jll/T/tree_sitter_cpp_jll" }
