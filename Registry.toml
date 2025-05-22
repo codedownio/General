@@ -3168,6 +3168,7 @@ some amount of consideration when choosing package names.
 41ab1584-1d38-5bbf-9106-f11c6c58b48f = { name = "InvertedIndices", path = "I/InvertedIndices" }
 41b232b1-0de0-4a65-aab4-126884588aaf = { name = "PrintTypesTersely", path = "P/PrintTypesTersely" }
 41b62e7d-e9d1-4e23-942c-79a97adf954b = { name = "TensorKitTensors", path = "T/TensorKitTensors" }
+41b83a75-29e0-460a-8ec7-27bd549dfa6e = { name = "ExchangeRates", path = "E/ExchangeRates" }
 41ba435c-a500-5816-a783-a9707c6f5f3a = { name = "Deconvolution", path = "D/Deconvolution" }
 41be38da-c9ad-4b24-9b1b-21c83f144a15 = { name = "MissingPatterns", path = "M/MissingPatterns" }
 41be5fce-5647-450b-ae37-a6739b881a1c = { name = "PeriodicOrbits", path = "P/PeriodicOrbits" }
@@ -5931,6 +5932,7 @@ some amount of consideration when choosing package names.
 79e6a3ab-5dfb-504d-930d-738a2a938a0e = { name = "Adapt", path = "A/Adapt" }
 79e6b149-e254-49fe-a721-3c4960de1574 = { name = "BioCCP", path = "B/BioCCP" }
 79ee0514-adf7-4479-8807-6f72ea8967e8 = { name = "RadialBasisFunctions", path = "R/RadialBasisFunctions" }
+79f7b27e-1e7f-49b0-a183-48c80ed555cb = { name = "SagbiHomotopy", path = "S/SagbiHomotopy" }
 79fc8b2a-9fec-41f5-a0c4-660a4203283a = { name = "SuperLUBase", path = "S/SuperLUBase" }
 7a052949-c101-4ca3-9a7e-43a2532b2fa8 = { name = "KRPC", path = "K/KRPC" }
 7a06699c-c960-11e9-3c98-9f78548b5f0f = { name = "YaoExtensions", path = "Y/YaoExtensions" }
@@ -6911,6 +6913,7 @@ some amount of consideration when choosing package names.
 8e989ff0-3d88-8e9f-f020-2b208a939ff0 = { name = "PlutoPlotly", path = "P/PlutoPlotly" }
 8e9d28ce-e483-4ef7-bfd9-45b8fef6369c = { name = "SPICEKernels", path = "S/SPICEKernels" }
 8e9d5576-ec03-11e9-187e-e534548435ab = { name = "CryptoMiniSat", path = "C/CryptoMiniSat" }
+8e9d65e3-b2b8-5a9c-baa2-617b4576f0b9 = { name = "libflame_jll", path = "jll/L/libflame_jll" }
 8ea1fca8-c5ef-4a55-8b96-4e9afe9c9a3c = { name = "TermInterface", path = "T/TermInterface" }
 8ea2701e-a7f2-4ad3-bde6-f1a1a263bda4 = { name = "IdealGasLib", path = "I/IdealGasLib" }
 8eadcf17-c760-4497-b196-5192eed4b985 = { name = "AdaptiveSampling", path = "A/AdaptiveSampling" }
@@ -11936,6 +11939,7 @@ f8c5305c-6a45-4f66-b1f2-5751ba853d4a = { name = "CachedCalls", path = "C/CachedC
 f8c6e375-362e-5223-8a59-34ff63f689eb = { name = "Git_jll", path = "jll/G/Git_jll" }
 f8c78b77-5d66-5574-88fe-980e6170bf40 = { name = "NIRX", path = "N/NIRX" }
 f8d1b8c8-e2db-43c1-b085-b5de5ced18ed = { name = "WindowFunctions", path = "W/WindowFunctions" }
+f8d6750e-133d-4ddb-bd4e-1effe2381a20 = { name = "JacobiEigen", path = "J/JacobiEigen" }
 f8dd4131-4bab-4a89-9326-aead9c214d0d = { name = "ALFA", path = "A/ALFA" }
 f8e8dcbf-c8af-4c89-b3d0-30e7f728b8cf = { name = "PanelDataTools", path = "P/PanelDataTools" }
 f8ebbe35-cbfb-4060-bf7f-b10e4670cf57 = { name = "SemiseparableMatrices", path = "S/SemiseparableMatrices" }
