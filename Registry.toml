@@ -1181,6 +1181,7 @@ some amount of consideration when choosing package names.
 17fc61dc-9d6f-534d-91bb-5213c1b476d9 = { name = "rapidjson_jll", path = "jll/R/rapidjson_jll" }
 180207a7-b08e-5162-af94-7d62a04fe081 = { name = "libsharp2_jll", path = "jll/L/libsharp2_jll" }
 18031d04-943d-420a-99da-58315a5a21aa = { name = "OpenFST", path = "O/OpenFST" }
+18035c97-8b76-4bd8-9b58-2d1c7240eddc = { name = "SpectralUnmixing", path = "S/SpectralUnmixing" }
 18056a9e-ed0c-4ef3-9ad7-376a7fb08032 = { name = "MultiThreadedCaches", path = "M/MultiThreadedCaches" }
 181bd894-5b11-491a-bec3-9b1779d96000 = { name = "OndaBatches", path = "O/OndaBatches" }
 181c99d8-e21b-4ff3-b70b-c233eddec679 = { name = "Unfold", path = "U/Unfold" }
@@ -3139,6 +3140,7 @@ some amount of consideration when choosing package names.
 40e3b903-d033-50b4-a0cc-940c62c95e31 = { name = "Clang", path = "C/Clang" }
 40e66cde-538c-5869-a4ad-c39174c6795b = { name = "LDLFactorizations", path = "L/LDLFactorizations" }
 40eb83ae-c93a-480c-8f39-f018b568f472 = { name = "AppBundler", path = "A/AppBundler" }
+40f541ec-ef23-43f7-b2aa-6425eeeec50a = { name = "CopernicusData", path = "C/CopernicusData" }
 410a4b4d-49e4-4fbc-ab6d-cb71b17b3775 = { name = "Tricks", path = "T/Tricks" }
 4110d2ad-ee24-4968-96bf-19205974a08d = { name = "InPartSObstacles", path = "I/InPartSObstacles" }
 411431e0-e8b7-467b-b5e0-f676ba4f2910 = { name = "Extents", path = "E/Extents" }
@@ -7624,6 +7626,7 @@ some amount of consideration when choosing package names.
 9e6fccbf-6142-406a-aa4c-75c1ae647f53 = { name = "DataToolkitCommon", path = "D/DataToolkitCommon" }
 9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054 = { name = "Xpress", path = "X/Xpress" }
 9e73f4c4-d7e8-4c78-8a11-cd2430746631 = { name = "EnvironmentalTransport", path = "E/EnvironmentalTransport" }
+9e74470a-8ab1-4f32-b878-f32ebd236ea2 = { name = "WinchControllers", path = "W/WinchControllers" }
 9e7568c4-705a-47cd-b25f-0976344ae296 = { name = "Basinhopping", path = "B/Basinhopping" }
 9e7e054f-393b-40f5-81e8-49c2b2540836 = { name = "PowerMonitor", path = "P/PowerMonitor" }
 9e812ceb-42a3-473a-b295-b8bb2099a8ce = { name = "MaximumIndependentSet", path = "M/MaximumIndependentSet" }
