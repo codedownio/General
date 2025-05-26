@@ -895,6 +895,7 @@ some amount of consideration when choosing package names.
 11f5bf75-d780-529b-b59b-a3a04c974070 = { name = "diffutils_jll", path = "jll/D/diffutils_jll" }
 11f6c8cf-44ee-44b9-b993-a23edf0823ea = { name = "PFFRGSolver", path = "P/PFFRGSolver" }
 11fa318c-39cb-4a83-b1ed-cdc7ba1e3684 = { name = "TensorKitManifolds", path = "T/TensorKitManifolds" }
+1207f3c9-c989-46bd-b274-f7b835830eca = { name = "Gecko", path = "G/Gecko" }
 1214b007-556e-4c4e-8d39-042f176f8b35 = { name = "FractalIntegrals", path = "F/FractalIntegrals" }
 1222c4b2-2114-5bfd-aeef-88e4692bbb3e = { name = "julia", path = "J/julia" }
 1226e131-0b97-51f8-8a3f-c1798118cd52 = { name = "NTFk", path = "N/NTFk" }
@@ -1643,6 +1644,7 @@ some amount of consideration when choosing package names.
 21ade233-9772-486b-8b4a-1a75b0845905 = { name = "MOTIFs", path = "M/MOTIFs" }
 21c1a3e3-8543-4069-a1c4-5ed3e2bf6e2f = { name = "FiberNlse", path = "F/FiberNlse" }
 21c4ae29-9918-4bcb-9542-b100d366d64c = { name = "StrategicGames", path = "S/StrategicGames" }
+21c6bb45-b5e4-54df-a79f-e074cc52b729 = { name = "satsuma_jll", path = "jll/S/satsuma_jll" }
 21ca0261-441d-5938-ace7-c90938fde4d4 = { name = "Transformers", path = "T/Transformers" }
 21d0a5ee-021b-4147-8d5c-120bff51c915 = { name = "DynamicScope", path = "D/DynamicScope" }
 21d151f5-1f6d-55ec-8524-1c9aee35b0a4 = { name = "LassoPlot", path = "L/LassoPlot" }
@@ -4685,6 +4687,7 @@ some amount of consideration when choosing package names.
 612083be-0b0f-5412-89c1-4e7c75506a58 = { name = "Queryverse", path = "Q/Queryverse" }
 61220d1e-4cdb-4fc3-9e6c-02bd7f830b85 = { name = "ReactionNetworkEvolution", path = "R/ReactionNetworkEvolution" }
 61246389-3d51-4c70-b82d-266223a1b313 = { name = "PenPlots", path = "P/PenPlots" }
+61252e1c-87f0-426a-93a7-3cdb1ed5a867 = { name = "NeuralLyapunov", path = "N/NeuralLyapunov" }
 612c44de-1021-4a21-84fb-7261cf5eb2d4 = { name = "QuizQuestions", path = "Q/QuizQuestions" }
 6133562b-a8e8-5ea3-954b-37642b766dad = { name = "Kriging", path = "K/Kriging" }
 6136c539-28a5-5bf0-87cc-b183200dce32 = { name = "blis_jll", path = "jll/B/blis_jll" }
@@ -6404,6 +6407,7 @@ some amount of consideration when choosing package names.
 834bac62-a31c-4194-8633-73b1b5df927e = { name = "TrainSpikingNet", path = "T/TrainSpikingNet" }
 835c131e-675f-4498-8e2c-c054c75556e1 = { name = "PointBasedValueIteration", path = "P/PointBasedValueIteration" }
 8365b1bb-bd83-58ee-a267-f2965fc81c73 = { name = "SubstitutionModels", path = "S/SubstitutionModels" }
+83723521-ca9c-4edc-8e64-505178d150fe = { name = "NeuralLyapunovProblemLibrary", path = "N/NeuralLyapunovProblemLibrary" }
 8372b9c3-1e34-5cc3-bfab-1a98e101de11 = { name = "LASzip_jll", path = "jll/L/LASzip_jll" }
 83775a58-1f1d-513f-b197-d71354ab007a = { name = "Zlib_jll", path = "jll/Z/Zlib_jll" }
 83792f5e-c6a1-11e8-2e0a-93511f02ae5f = { name = "GeometricTools", path = "G/GeometricTools" }
@@ -7596,6 +7600,7 @@ some amount of consideration when choosing package names.
 9dbc1c15-08f7-42e2-915c-53d8f7c4cd8b = { name = "InteractiveGeospatial", path = "I/InteractiveGeospatial" }
 9dbca590-e19a-5566-89a8-3997bfd21c58 = { name = "XPA_jll", path = "jll/X/XPA_jll" }
 9dc342f4-d0cc-4e90-9103-06b4474f2d96 = { name = "GreekBetaCode", path = "G/GreekBetaCode" }
+9dcaa3cb-039d-4ff3-a259-b3f540374f0c = { name = "Ether", path = "E/Ether" }
 9dccce8e-a116-406d-9fcc-a88ed4f510c8 = { name = "LazyBroadcast", path = "L/LazyBroadcast" }
 9dd28c12-4719-4e7d-b634-e7b733a6d046 = { name = "SphericalHarmonicArrays", path = "S/SphericalHarmonicArrays" }
 9dd7a2f8-ab8d-577c-ac83-a3992ff7c30e = { name = "SeriesAccelerators", path = "S/SeriesAccelerators" }
