@@ -1881,6 +1881,7 @@ some amount of consideration when choosing package names.
 2714ae6b-e930-5b4e-9c21-d0bacf577842 = { name = "DSDP", path = "D/DSDP" }
 271df9f8-4390-4196-9d4f-bdd0b67035b3 = { name = "FuzzyLogic", path = "F/FuzzyLogic" }
 2725b469-bb7f-4d1a-ba58-ced332a70bc7 = { name = "MTKHelpers", path = "M/MTKHelpers" }
+272a2dff-45f1-435c-8a77-925e0295a038 = { name = "PersistentCache", path = "P/PersistentCache" }
 272a6111-cf0e-4c1b-a056-8d658cb314ee = { name = "KalmanFilters", path = "K/KalmanFilters" }
 272bfe72-f66c-432f-a94d-600f29493792 = { name = "Monomials", path = "M/Monomials" }
 272ec1bc-a4ae-432f-97b3-2d7012153326 = { name = "Tardigrade", path = "T/Tardigrade" }
@@ -4875,6 +4876,7 @@ some amount of consideration when choosing package names.
 6511778d-1a85-47c0-a398-81d74574b378 = { name = "QuadraticFormsMGHyp", path = "Q/QuadraticFormsMGHyp" }
 6511b2a3-0bb8-4def-a118-560a7e125e34 = { name = "CodonMolecularEvolution", path = "C/CodonMolecularEvolution" }
 65164825-a06a-491c-beb8-9961b1a95625 = { name = "UnzipLoops", path = "U/UnzipLoops" }
+651d1c28-5f8d-4b26-91d9-468bf8b4a262 = { name = "ClusterUtils", path = "C/ClusterUtils" }
 6524598b-69a8-53ae-b017-622bece5ca95 = { name = "Liburing_jll", path = "jll/L/Liburing_jll" }
 65254759-4cff-5aa5-8326-61ce017a8c70 = { name = "StatsMakie", path = "S/StatsMakie" }
 65257c39-d410-5151-9873-9b3e5be5013e = { name = "ShaderAbstractions", path = "S/ShaderAbstractions" }
@@ -9246,6 +9248,7 @@ bf21e494-c40e-4daa-abfb-de5ec0aad010 = { name = "Shuffle", path = "S/Shuffle" }
 bf22376a-e803-4184-b2ed-56326e3bff83 = { name = "LIKWID", path = "L/LIKWID" }
 bf2c0563-65cf-5db2-a620-ceb7de82658c = { name = "RadiationDetectorSignals", path = "R/RadiationDetectorSignals" }
 bf31c7e1-2152-4d3a-bc7a-576095d562b2 = { name = "DataDrivenEnzymeRateEqs", path = "D/DataDrivenEnzymeRateEqs" }
+bf339e5b-51e6-4b7b-82b3-758165633231 = { name = "OptimalGIV", path = "O/OptimalGIV" }
 bf347577-a06d-49ad-a669-8c0e005493b8 = { name = "NonconvexIpopt", path = "N/NonconvexIpopt" }
 bf3818bd-b6bb-4954-8baa-32c32282e633 = { name = "MolecularGraphKernels", path = "M/MolecularGraphKernels" }
 bf3a9e68-ca66-4981-8178-9d71c4f8abaa = { name = "ToolipsServables", path = "T/ToolipsServables" }
@@ -10373,6 +10376,7 @@ d6cb37aa-0f65-5fd6-8d86-c55d2c9ef130 = { name = "psurface_jll", path = "jll/P/ps
 d6ce5c67-b3b1-4855-8eb4-4ca27575037e = { name = "DbgMacro", path = "D/DbgMacro" }
 d6ceb477-1fb8-47dc-9268-a5d33dbc737e = { name = "SparseSensors", path = "S/SparseSensors" }
 d6d074c3-1acf-5d4c-9a43-ef38773959a2 = { name = "VideoIO", path = "V/VideoIO" }
+d6d9bf1d-14ee-42c9-93f7-cccc2a9ff2c2 = { name = "BazerData", path = "B/BazerData" }
 d6dd79e4-993b-11e9-1366-0de1c9fe1122 = { name = "UnionArrays", path = "U/UnionArrays" }
 d6dedbf8-78c7-4e81-bd5f-fe48695b798a = { name = "SortFilters", path = "S/SortFilters" }
 d6dfd36b-42f3-4a9f-a1cb-6f1a052fed42 = { name = "ComoniconTargetExpr", path = "C/ComoniconTargetExpr" }
@@ -10618,6 +10622,7 @@ dc3f66f6-feed-11e8-2006-85573fddfdbc = { name = "SurrogateModelOptim", path = "S
 dc46b164-d16f-48ec-a853-60448fc869fe = { name = "PerformanceTestTools", path = "P/PerformanceTestTools" }
 dc48124f-afd3-49fa-9962-2c9cdaf82bd1 = { name = "LinearSegmentation", path = "L/LinearSegmentation" }
 dc4aa359-7d89-437d-91bb-f4b330c522c1 = { name = "MaterialPointSolver", path = "M/MaterialPointSolver" }
+dc4c4521-5b7f-5177-bcb8-53f895501e5d = { name = "exprtk_jll", path = "jll/E/exprtk_jll" }
 dc4f5ac2-75d1-4f31-931e-60435d74994b = { name = "ProximalCore", path = "P/ProximalCore" }
 dc548174-15c3-5faf-af27-7997cfbde655 = { name = "TerminalMenus", path = "T/TerminalMenus" }
 dc592094-f866-5418-b15b-f7542ad3543c = { name = "SQLCipher_jll", path = "jll/S/SQLCipher_jll" }
