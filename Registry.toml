@@ -958,6 +958,7 @@ some amount of consideration when choosing package names.
 1322d9e5-2885-5d14-b40b-5d6c7dfe9ea1 = { name = "seatd_jll", path = "jll/S/seatd_jll" }
 13235c25-d339-4138-a8bf-65c4e89d8d0a = { name = "GeneralizedPhase", path = "G/GeneralizedPhase" }
 1323c716-dab9-4207-0457-9cc5295a221b = { name = "SankeyMakie", path = "S/SankeyMakie" }
+1325ac01-0a49-589f-8355-43321054aaab = { name = "BQPD_jll", path = "jll/B/BQPD_jll" }
 132c30aa-f267-4189-9183-c8a63c7e05e6 = { name = "ProfileSVG", path = "P/ProfileSVG" }
 133052f7-5177-44e4-ab05-826656cf3c53 = { name = "AirfoilDatabase", path = "A/AirfoilDatabase" }
 133c4774-c510-5f25-b650-129312f89f69 = { name = "Jackknife", path = "J/Jackknife" }
@@ -2335,6 +2336,7 @@ some amount of consideration when choosing package names.
 304cb2e1-bfe1-4bb6-af58-8b73a9a6b3c1 = { name = "BracketAlgebras", path = "B/BracketAlgebras" }
 304da4c3-06e5-42c8-b67d-e82ababee5fb = { name = "SixDOF", path = "S/SixDOF" }
 304e07c4-4ffc-4adf-87bc-5a9afdf39ded = { name = "StippleTypedArrays", path = "S/StippleTypedArrays" }
+304e70ee-b558-420e-aed5-de4d05b6ca2b = { name = "TensorTrainNumerics", path = "T/TensorTrainNumerics" }
 30578b45-9adc-5946-b283-645ec420af67 = { name = "URIParser", path = "U/URIParser" }
 3064a664-84fe-4d92-92c7-ed492f3d8fae = { name = "FIGlet", path = "F/FIGlet" }
 306e248c-d22f-4909-81db-ed3c44a8c0e1 = { name = "SpmImageTycoonInstaller", path = "S/SpmImageTycoonInstaller" }
@@ -6147,6 +6149,7 @@ some amount of consideration when choosing package names.
 7e0f99ac-a6fe-4198-8809-f35fd52d95a1 = { name = "Aurora", path = "A/Aurora" }
 7e11003c-6902-4de6-b30c-de11577d87f1 = { name = "NetDecOPF", path = "N/NetDecOPF" }
 7e11e036-0ca3-4a2d-a287-b6bec19ddff0 = { name = "GHCNData", path = "G/GHCNData" }
+7e166fd4-1274-4fbf-8c8d-3f6046b124b3 = { name = "QuadraticOutputSystems", path = "Q/QuadraticOutputSystems" }
 7e194583-e687-41a0-9133-1c22a29c80af = { name = "ActorInterfaces", path = "A/ActorInterfaces" }
 7e1ea31b-b9a5-4cc0-940e-7c5f7cd080d6 = { name = "JpegGlitcher", path = "J/JpegGlitcher" }
 7e2492bd-0955-4089-8696-9df2af57a479 = { name = "ConstrainedRootSolvers", path = "C/ConstrainedRootSolvers" }
@@ -7545,6 +7548,7 @@ some amount of consideration when choosing package names.
 9c54a951-505b-4f1b-abf9-646e3f50e8ce = { name = "QuadraticAberrationCorrector", path = "Q/QuadraticAberrationCorrector" }
 9c68100b-dfe1-47cf-94c8-95104e173443 = { name = "FoldsThreads", path = "F/FoldsThreads" }
 9c690861-8ade-587a-897e-15364bc6f718 = { name = "TensorToolbox", path = "T/TensorToolbox" }
+9c717bbe-74a8-4a1b-8702-c9261a6bba1a = { name = "LocalAncestry", path = "L/LocalAncestry" }
 9c724b78-6801-4402-8a63-53f028696012 = { name = "ExpFamilyPCA", path = "E/ExpFamilyPCA" }
 9c72e466-2585-4cd6-b2fc-9c3ab070dc04 = { name = "ParGOGraphs", path = "P/ParGOGraphs" }
 9c784101-8907-5a6d-9be6-98f00873c89b = { name = "CubicSplines", path = "C/CubicSplines" }
@@ -8507,6 +8511,7 @@ af984530-d72f-4904-8b81-b992bbbeaf3f = { name = "MultilayerGraphs", path = "M/Mu
 afa4bbe9-32d2-4464-8373-bc4db7eb00b8 = { name = "GSOpt", path = "G/GSOpt" }
 afa5cc60-bf5a-45b9-aa6c-27158a106b2a = { name = "SimSpread", path = "S/SimSpread" }
 afadef72-ae1a-11e9-3795-e55b3621c13e = { name = "PhysicalCommunications", path = "P/PhysicalCommunications" }
+afb3ad05-8577-40d5-8767-20c5aa8ee3cd = { name = "MultivariateSingularIntegrals", path = "M/MultivariateSingularIntegrals" }
 afb48802-0cf5-5a61-b18d-a3da2e9c5fb6 = { name = "OBOParse", path = "O/OBOParse" }
 afbbf031-7a57-5f58-a1b9-b774a0fad08d = { name = "TypedPolynomials", path = "T/TypedPolynomials" }
 afbf81f7-602f-5a4a-9a77-738a1b1188fe = { name = "ReusableFunctions", path = "R/ReusableFunctions" }
