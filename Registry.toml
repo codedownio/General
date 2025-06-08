@@ -1097,6 +1097,7 @@ some amount of consideration when choosing package names.
 16124dda-d9fe-413b-a880-e3f4df3aa341 = { name = "CannotWaitForTheseOptimisers", path = "C/CannotWaitForTheseOptimisers" }
 16167f82-ea26-5cba-b1de-ed6fd5e30a10 = { name = "XCB", path = "X/XCB" }
 16167f82-ea26-5cba-b1de-ed6fd5e30a11 = { name = "VulkanCore", path = "V/VulkanCore" }
+1616d667-7f4b-50a1-9dcc-173d58025fb3 = { name = "TDEP_jll", path = "jll/T/TDEP_jll" }
 1618359f-28d0-421c-9c3d-0705aaf8cc0d = { name = "SeisMakie", path = "S/SeisMakie" }
 161f4978-d3bb-4696-90f4-058341551711 = { name = "NeutronTransport", path = "N/NeutronTransport" }
 1621ace8-c1f0-5e32-a05d-ca786afa56c2 = { name = "GALAHAD_jll", path = "jll/G/GALAHAD_jll" }
@@ -2729,6 +2730,7 @@ some amount of consideration when choosing package names.
 3812390e-129a-5d25-9b88-6fc12c151a30 = { name = "DebianGlibc_jll", path = "jll/D/DebianGlibc_jll" }
 38191a5c-9707-409e-a5e4-8d538fd01011 = { name = "UserConfig", path = "U/UserConfig" }
 381ff186-7949-5def-80e3-c2e748080dc1 = { name = "flux_core_jll", path = "jll/F/flux_core_jll" }
+3821ddf9-e5b5-40d5-8e25-6813ab96b5e2 = { name = "FixedSizeArrays", path = "F/FixedSizeArrays" }
 38244590-38c0-4f85-8105-e5c469effcd5 = { name = "PlotSVG", path = "P/PlotSVG" }
 382cd787-c1b6-5bf2-a167-d5b971a19bda = { name = "TableTraitsUtils", path = "T/TableTraitsUtils" }
 3830e938-1dd0-5f3e-8b8e-b3ee43226782 = { name = "Cgl_jll", path = "jll/C/Cgl_jll" }
@@ -8535,6 +8537,7 @@ b017c6bb-e7c7-4437-8ee6-a27b72ea26ab = { name = "GeneMatrix", path = "G/GeneMatr
 b01af851-7cff-425c-b4a4-ed45d3481e5c = { name = "CarnotCycles", path = "C/CarnotCycles" }
 b01ca8d2-7fff-4612-bd8c-d9d20281f780 = { name = "UsingMerge", path = "U/UsingMerge" }
 b0275aa7-013b-42ad-9e10-dc5d6db0accb = { name = "QuadraticModelsGurobi", path = "Q/QuadraticModelsGurobi" }
+b035d78d-16e8-4eee-b57b-0bcdd92a70b5 = { name = "VanVleckRecursion", path = "V/VanVleckRecursion" }
 b03ef683-e087-4e84-9649-40693305c655 = { name = "Clines", path = "C/Clines" }
 b04048ba-5ccd-5610-b3f6-85129a548705 = { name = "eccodes_jll", path = "jll/E/eccodes_jll" }
 b049733a-a71d-5ed3-8eba-7d323ac00b36 = { name = "oneAPI_Support_jll", path = "jll/O/oneAPI_Support_jll" }
@@ -11942,6 +11945,7 @@ f79d145f-20fd-5c1a-ae67-8074679d1f1f = { name = "TauDEM_jll", path = "jll/T/TauD
 f7a38f07-e5d6-4eec-ba19-7d8f01225f45 = { name = "Superfacility", path = "S/Superfacility" }
 f7a61acb-f482-4505-b2eb-e9cadd76b6b4 = { name = "BcubeVTK", path = "B/BcubeVTK" }
 f7a9608b-7678-5329-8a05-97541ebc462c = { name = "SDPNAL", path = "S/SDPNAL" }
+f7aa4685-e143-4cb6-a7f3-073579757907 = { name = "SecondQuantizedAlgebra", path = "S/SecondQuantizedAlgebra" }
 f7b14807-3d4d-461a-888a-05dd4bca8bc3 = { name = "Bonobo", path = "B/Bonobo" }
 f7b4726d-4195-44ab-b39c-37bbdadae004 = { name = "MeshGraphNets", path = "M/MeshGraphNets" }
 f7b99bbd-2e5d-508a-a6d9-3364a7ade44d = { name = "TtH_jll", path = "jll/T/TtH_jll" }
