@@ -5326,6 +5326,7 @@ some amount of consideration when choosing package names.
 6db54171-f50f-4661-a74f-bc514ef16cee = { name = "ImageClipboard", path = "I/ImageClipboard" }
 6db8a038-4f45-54dc-ba78-3bf46db9883d = { name = "BernoulliFactory", path = "B/BernoulliFactory" }
 6dbe6948-1a74-428b-a0c7-b6033448b207 = { name = "StackEnvs", path = "S/StackEnvs" }
+6dc365b9-5e99-58d6-8812-efce7277b6ef = { name = "Qt6Quick3D_jll", path = "jll/Q/Qt6Quick3D_jll" }
 6dc62d09-f8eb-43fd-9672-074e490a997f = { name = "ReferenceFiniteElements", path = "R/ReferenceFiniteElements" }
 6dc8777d-2b0c-4de5-9e3c-426c1820f6f9 = { name = "GroebnerWalk", path = "G/GroebnerWalk" }
 6dcfc07b-8fa8-55f0-94e3-d46e2fec2cdb = { name = "NMEA", path = "N/NMEA" }
@@ -8094,6 +8095,7 @@ a7891802-63bf-5f83-a64c-1e6309098446 = { name = "RE2_jll", path = "jll/R/RE2_jll
 a78ebace-d296-4f52-9067-75f12fe9a0bd = { name = "DICEModel", path = "D/DICEModel" }
 a791c907-b98b-4e44-8f4d-e4c2362c6b2f = { name = "MemoryViews", path = "M/MemoryViews" }
 a7949054-b901-59c6-b8e3-7238c29bf7f0 = { name = "MXNet", path = "M/MXNet" }
+a796ede8-0982-4285-a2cf-116db6b737e1 = { name = "NeuralFoil", path = "N/NeuralFoil" }
 a79a9ddd-d50e-4d85-a979-5d85760e62a0 = { name = "SignalTemporalLogic", path = "S/SignalTemporalLogic" }
 a79dbac3-5528-457e-b637-ec38aefb197a = { name = "GOF3R", path = "G/GOF3R" }
 a79fb612-4a80-4749-a9bd-c2faab13da61 = { name = "JETTest", path = "J/JETTest" }
@@ -8256,6 +8258,7 @@ aa8e78f4-663f-4ce1-b829-204476f23beb = { name = "BSONify", path = "B/BSONify" }
 aa959544-2f3b-44d5-8079-5ba914f22dbb = { name = "SAMaDB", path = "S/SAMaDB" }
 aa99b8ca-138a-5374-9557-0d35fbf901d4 = { name = "DataEcon_jll", path = "jll/D/DataEcon_jll" }
 aa9b60e7-6b1c-4c29-a6e5-e43521412437 = { name = "ConstantRNGs", path = "C/ConstantRNGs" }
+aaa24d55-1a42-52ef-a112-65a2da50b610 = { name = "Qt6QuickTimeline_jll", path = "jll/Q/Qt6QuickTimeline_jll" }
 aaaa29a8-35af-508c-8bc3-b662a17a0fe5 = { name = "Clustering", path = "C/Clustering" }
 aaaaaaaa-4a10-5553-b683-e707b00e83ce = { name = "DynamicAxisWarping", path = "D/DynamicAxisWarping" }
 aaaaaaaa-a6ca-5380-bf3e-84a91bcd477e = { name = "ControlSystemsBase", path = "C/ControlSystemsBase" }
@@ -8304,6 +8307,7 @@ ab63da0c-63b4-40fa-a3b7-d2cba5be6419 = { name = "ParallelParticleSwarms", path =
 ab7059c2-a49a-4c6e-9904-a72a0109a3ff = { name = "Qaintmodels", path = "Q/Qaintmodels" }
 ab78ad86-d995-11e9-19c2-2d9731c36d75 = { name = "Blades", path = "B/Blades" }
 ab7e12ee-d331-41bc-abbc-f7535c4414c7 = { name = "EISAnalysis", path = "E/EISAnalysis" }
+ab7f0314-681e-439b-b2a8-1689834ece97 = { name = "Pgvector", path = "P/Pgvector" }
 ab825dc5-c88e-5901-9575-1e5e20358fcf = { name = "SDL2_jll", path = "jll/S/SDL2_jll" }
 ab853011-1780-437f-b4b5-5de6f4777246 = { name = "EvoLinear", path = "E/EvoLinear" }
 ab8c0f59-4072-4e0d-8f91-a91e1495eb26 = { name = "BenchmarkPlots", path = "B/BenchmarkPlots" }
@@ -8484,6 +8488,7 @@ af3a3400-1793-11ea-1d1f-a522511abb08 = { name = "ScanDir", path = "S/ScanDir" }
 af3f74f6-a62a-4aa2-b188-7ea1105ee18f = { name = "GenieAuthorisation", path = "G/GenieAuthorisation" }
 af41be9f-6c08-5eeb-b278-7a4b044e283f = { name = "tree_sitter_c_jll", path = "jll/T/tree_sitter_c_jll" }
 af455024-efd4-48e8-b4ac-752b8c56ff1f = { name = "FunWrap", path = "F/FunWrap" }
+af4736ee-1570-4274-b14c-898d17d80b75 = { name = "Touchstone", path = "T/Touchstone" }
 af517c2e-c243-48fa-aab8-efac3db270f5 = { name = "SQLStrings", path = "S/SQLStrings" }
 af524d12-c74b-11e9-22a8-3b091653023f = { name = "PopGen", path = "P/PopGen" }
 af5da776-676b-467e-8baf-acd8249e4f0f = { name = "GlobalSensitivity", path = "G/GlobalSensitivity" }
