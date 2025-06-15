@@ -175,6 +175,7 @@ some amount of consideration when choosing package names.
 0376cc21-f8a9-5fcf-8891-fde1415a4fd3 = { name = "Reinforce", path = "R/Reinforce" }
 037e6697-03b9-52b7-b841-7aee0d773eb5 = { name = "libudfread_jll", path = "jll/L/libudfread_jll" }
 038f9fe3-14bd-47ca-b081-2e00e8c46dfa = { name = "OnlinePortfolioSelection", path = "O/OnlinePortfolioSelection" }
+038fdbe3-3777-5af9-9568-3738956aeb97 = { name = "juliaup_jll", path = "jll/J/juliaup_jll" }
 03970b2e-30c4-11ea-3135-d1576263f10f = { name = "MLJTuning", path = "M/MLJTuning" }
 03a91e81-4c3e-53e1-a0a4-9c0c8f19dd66 = { name = "SplitApplyCombine", path = "S/SplitApplyCombine" }
 03ba8f0e-aaaa-4626-a19b-56297996781b = { name = "SemanticCaches", path = "S/SemanticCaches" }
@@ -7064,6 +7065,7 @@ some amount of consideration when choosing package names.
 9109d3c5-9510-494f-be9f-db449708e717 = { name = "AutoPrettyPrinting", path = "A/AutoPrettyPrinting" }
 9113e207-2504-4b06-8eee-d78e288bee65 = { name = "StableTrees", path = "S/StableTrees" }
 911cb31e-70cd-4e9d-a353-3054e2e6a3a8 = { name = "Targets", path = "T/Targets" }
+91245b94-7320-4a9d-ac3a-8d3b3e6674af = { name = "AlgebraFrames", path = "A/AlgebraFrames" }
 91294a36-8144-4a6b-bcde-0166c034afe3 = { name = "AnalyticalStructureFactors", path = "A/AnalyticalStructureFactors" }
 9136182c-28ba-11e9-034c-db9fb085ebd5 = { name = "ITensors", path = "I/ITensors" }
 91393fb9-e38b-4a31-9409-aa579b4163ad = { name = "UniformIsingModels", path = "U/UniformIsingModels" }
@@ -11352,6 +11354,7 @@ e9ad47b2-a301-5fb7-a0bd-6eece649b37c = { name = "libcgal_julia_jll", path = "jll
 e9b0fb4c-9cb7-4f61-9c14-701a41c684d7 = { name = "Bernstein", path = "B/Bernstein" }
 e9b4b195-f5cd-427c-8076-5358c553c37f = { name = "Fenrir", path = "F/Fenrir" }
 e9b70463-8ccb-4e30-a2e2-0d1ec8db6536 = { name = "Open62541", path = "O/Open62541" }
+e9bc4a15-d3b7-45db-a26a-813125f6ff30 = { name = "ZMQLoggers", path = "Z/ZMQLoggers" }
 e9bf6461-d004-4b32-878f-fe25c44bfa3e = { name = "Earth2014", path = "E/Earth2014" }
 e9bfd9a4-9025-4baf-81dc-99e507987dd3 = { name = "GeneralizedMonteCarlo", path = "G/GeneralizedMonteCarlo" }
 e9c4abe8-3893-4664-acb8-58f49d1e9fc0 = { name = "FFTInterpolations", path = "F/FFTInterpolations" }
