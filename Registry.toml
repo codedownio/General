@@ -211,6 +211,7 @@ some amount of consideration when choosing package names.
 04294c92-b9b2-5258-861c-e23397c8ec5d = { name = "VSL", path = "V/VSL" }
 042b324c-54b6-5061-9eb0-54e31a36d6ad = { name = "CSFML_jll", path = "jll/C/CSFML_jll" }
 0438fec6-b81c-52d9-9651-d286848f50a8 = { name = "EquationsOfState", path = "E/EquationsOfState" }
+043911e8-1ed4-411e-9b5a-2156b49e87ad = { name = "DeepSeek", path = "D/DeepSeek" }
 043b967d-4e64-47a6-97d4-0007e6b4905c = { name = "PoGO", path = "P/PoGO" }
 043bf095-3f01-458a-9f1c-8cf4448fe908 = { name = "SelectedInversion", path = "S/SelectedInversion" }
 0448d7d9-159c-5637-8537-fd72090fea46 = { name = "RandomizedLinAlg", path = "R/RandomizedLinAlg" }
@@ -321,6 +322,7 @@ some amount of consideration when choosing package names.
 06718956-e3b8-45c5-a167-688b8218b63e = { name = "ObjectDetectionStats", path = "O/ObjectDetectionStats" }
 0672f53d-ad77-409a-bbb3-4bc94f101f4b = { name = "Hygese", path = "H/Hygese" }
 06784e46-84fc-5582-b8de-0e984192b79e = { name = "PlmDCA", path = "P/PlmDCA" }
+067cb88e-f685-5f7b-ae80-0aaea8472f72 = { name = "procps_jll", path = "jll/P/procps_jll" }
 067cfa3b-fa88-53b2-a873-5b23b3a16e31 = { name = "NonlinearEigenproblems", path = "N/NonlinearEigenproblems" }
 0682c367-51f6-4d82-8bfe-b4722079e034 = { name = "Relationals", path = "R/Relationals" }
 06905c2e-4b4a-4765-8bb9-c6b6b2b99b1d = { name = "ParametricBodies", path = "P/ParametricBodies" }
@@ -1701,6 +1703,7 @@ some amount of consideration when choosing package names.
 22e17884-8c1a-4ea8-8b39-5974e24a9d31 = { name = "PermutationSymmetricTensors", path = "P/PermutationSymmetricTensors" }
 22e9dc34-2a0d-11e9-0de0-8588d035468b = { name = "NetworkDynamics", path = "N/NetworkDynamics" }
 22fd7b30-a8c0-5bf2-aabe-97783860d07c = { name = "DirectSum", path = "D/DirectSum" }
+23042ae9-e41c-4e47-ad99-03128c974ced = { name = "BumplessPipeDreams", path = "B/BumplessPipeDreams" }
 230433e9-56bc-4951-b27a-551e36a437d8 = { name = "GeneralizedSVD", path = "G/GeneralizedSVD" }
 2304d612-645f-44c0-913c-a25a709b015d = { name = "GenLinearAlgebra", path = "G/GenLinearAlgebra" }
 2311f341-5e6d-4941-9e3e-3ce0ae0d9ed6 = { name = "HallThruster", path = "H/HallThruster" }
@@ -6319,6 +6322,7 @@ some amount of consideration when choosing package names.
 80da258d-c172-4540-9646-64f172512520 = { name = "PDENLPModels", path = "P/PDENLPModels" }
 80dd9cbb-8b87-5171-a280-372cc418f402 = { name = "PPL_jll", path = "jll/P/PPL_jll" }
 80e77ffc-c35e-544b-8e57-5accc6d0de25 = { name = "StanDataFrames", path = "S/StanDataFrames" }
+80e8a3d7-96cb-5b92-b346-c3bbc7c9cf8e = { name = "less_jll", path = "jll/L/less_jll" }
 80ea8bcb-4634-5cb3-8ee8-a132660d1d2d = { name = "PortAudio", path = "P/PortAudio" }
 80efc11e-3694-4407-a4bf-24e5955cde3d = { name = "FastIsostasy", path = "F/FastIsostasy" }
 80f14c24-f653-4e6a-9b94-39d6b0f70001 = { name = "AbstractMCMC", path = "A/AbstractMCMC" }
