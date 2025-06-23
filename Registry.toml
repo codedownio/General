@@ -3472,6 +3472,7 @@ some amount of consideration when choosing package names.
 4728c690-e668-4265-bc0d-51a8c0f93067 = { name = "SpelledOut", path = "S/SpelledOut" }
 472a48ec-b7f1-4628-bb5d-b49bc9312f54 = { name = "ReadLIBSVM", path = "R/ReadLIBSVM" }
 472ebc20-7c99-4d4b-9470-8fde4e9faa0f = { name = "StartUpDG", path = "S/StartUpDG" }
+472ee5c9-fceb-493a-8c64-09683b8345c2 = { name = "MissingLinks", path = "M/MissingLinks" }
 472f376f-f1cf-461b-9ac1-d103423be9b7 = { name = "LoadFlint", path = "L/LoadFlint" }
 47358f48-d834-4249-91f5-f6185eb3d540 = { name = "SPDX", path = "S/SPDX" }
 474136ad-924f-47fa-9297-876420b5dc85 = { name = "PlutoMapPicker", path = "P/PlutoMapPicker" }
@@ -3537,6 +3538,7 @@ some amount of consideration when choosing package names.
 4873b48c-7fd1-4fb6-93c5-649b25bdde2e = { name = "PeriodicHiddenMarkovModels", path = "P/PeriodicHiddenMarkovModels" }
 48790e7e-73b2-491a-afa5-62818081adcb = { name = "RadialBasisFunctionModels", path = "R/RadialBasisFunctionModels" }
 4886b29c-78c9-11e9-0a6e-41e1f4161f7b = { name = "MonteCarloIntegration", path = "M/MonteCarloIntegration" }
+4888ff1c-74b1-49c5-b7ba-2d54c6dc65c5 = { name = "CompAir", path = "C/CompAir" }
 4889d778-9329-5762-9fec-0578a5d30366 = { name = "CUDSS_jll", path = "jll/C/CUDSS_jll" }
 488c2830-172b-11e9-1591-253b8a7df96d = { name = "BSplines", path = "B/BSplines" }
 4892898e-25d7-46ce-b5c3-dea2164303ac = { name = "LifeInsuranceDataModel", path = "L/LifeInsuranceDataModel" }
@@ -4108,6 +4110,7 @@ some amount of consideration when choosing package names.
 54ca160b-1b9f-5127-a996-1867f4bc2a2c = { name = "ODEInterface", path = "O/ODEInterface" }
 54ca2031-c8dd-5cab-9ed4-295edde1660f = { name = "Gdbm_jll", path = "jll/G/Gdbm_jll" }
 54d51984-71c9-52bd-8df9-6718e63e4153 = { name = "HeaderREPLs", path = "H/HeaderREPLs" }
+54d963ed-1681-434b-92d2-200df9375a55 = { name = "ThermovisorImages", path = "T/ThermovisorImages" }
 54dcf436-342f-53ea-8005-3708a1ae6c8c = { name = "SIFDecode_jll", path = "jll/S/SIFDecode_jll" }
 54e16d92-306c-5ea0-a30b-337be88ac337 = { name = "PrettyPrinting", path = "P/PrettyPrinting" }
 54e234d5-9986-40d8-815f-a5e42de435f6 = { name = "MakieExtra", path = "M/MakieExtra" }
@@ -4862,6 +4865,7 @@ some amount of consideration when choosing package names.
 64452400-c6f4-4a1d-a4f6-ad403655768a = { name = "QuasiNewtonMethods", path = "Q/QuasiNewtonMethods" }
 64499a7a-5c06-52f2-abe2-ccb03c286192 = { name = "WriteVTK", path = "W/WriteVTK" }
 644c2d91-53c3-4334-b351-920c96c0b266 = { name = "ManiFactor", path = "M/ManiFactor" }
+644c6a88-f588-41ff-bb6a-8a2790f1d811 = { name = "Reflexicons", path = "R/Reflexicons" }
 644dedec-337d-45c6-9a86-27a5fed2b77d = { name = "LaTeXDatax", path = "L/LaTeXDatax" }
 64580eba-dac5-4344-8efb-4882f76a30da = { name = "RvLineList", path = "R/RvLineList" }
 645ca80c-8b79-4109-87ea-e1f58159d116 = { name = "Neighborhood", path = "N/Neighborhood" }
@@ -10068,6 +10072,7 @@ cecf6091-0e4e-54ba-8cba-f0e96a51f282 = { name = "MicroLogging", path = "M/MicroL
 cecfa166-9fdc-475c-9ab0-5678dea9d294 = { name = "Denumpyfy", path = "D/Denumpyfy" }
 ced4e74d-a319-5a8a-b0ac-84af2272839c = { name = "DistributionsAD", path = "D/DistributionsAD" }
 cedb2ae3-6529-478c-a04f-d9256ac5d41f = { name = "SnapTests", path = "S/SnapTests" }
+cee0a5fb-9790-4c4c-b8b7-e40ecbebeb72 = { name = "ReefGuide", path = "R/ReefGuide" }
 ceedd18c-cbe2-4568-b16d-0e09f1cb20d1 = { name = "GasphaseReactions", path = "G/GasphaseReactions" }
 cef16ca0-16a8-11ef-389e-9fbcf1974e83 = { name = "MicroMagnetic", path = "M/MicroMagnetic" }
 cef322dc-4d82-11ea-04a7-113231db804d = { name = "BioProfiling", path = "B/BioProfiling" }
@@ -12145,6 +12150,7 @@ fb486d5c-30a0-4a8a-8415-a8b4ace5a6f7 = { name = "RungeKutta", path = "R/RungeKut
 fb487ce6-0906-4f0c-b439-418ac6d167e8 = { name = "Baobzi", path = "B/Baobzi" }
 fb4d412d-6eee-574d-9565-ede6634db7b0 = { name = "FixedPointDecimals", path = "F/FixedPointDecimals" }
 fb55a5e3-47f6-5155-863f-85a2a13cd9d0 = { name = "GANAK_jll", path = "jll/G/GANAK_jll" }
+fb58ae67-a5c0-4a90-8078-890ae2c2e65e = { name = "FLOWFoil", path = "F/FLOWFoil" }
 fb58f9c3-ae58-4847-ba51-3b3c84151ac7 = { name = "CitrusAPI", path = "C/CitrusAPI" }
 fb59780d-f43e-4e99-95bf-76de9f0a287a = { name = "Osnaps", path = "O/Osnaps" }
 fb686558-2515-59ef-acaa-46db3789a887 = { name = "RandomExtensions", path = "R/RandomExtensions" }
