@@ -306,6 +306,7 @@ some amount of consideration when choosing package names.
 060dd47b-79ec-5ba1-a7b2-f4f2f7dcdd0f = { name = "Xorg_kbproto_jll", path = "jll/X/Xorg_kbproto_jll" }
 0615dd2b-a071-4e12-9695-47a059c2d365 = { name = "ToolipsInterpolator", path = "T/ToolipsInterpolator" }
 0625e100-946b-11ec-09cd-6328dd093154 = { name = "ValSplit", path = "V/ValSplit" }
+06265d1e-e248-4aa0-9c0a-73a2b8992637 = { name = "OasisTools", path = "O/OasisTools" }
 062a3e2c-34b1-4659-9cae-7af421e0d832 = { name = "StackPointers", path = "S/StackPointers" }
 062a9fb7-5fc8-4fbd-8cf8-781465e7dec7 = { name = "GeometricTheoremProver", path = "G/GeometricTheoremProver" }
 062e04e5-c3d3-5549-ab66-579a72a7bc1b = { name = "PAPI_jll", path = "jll/P/PAPI_jll" }
@@ -2798,6 +2799,7 @@ some amount of consideration when choosing package names.
 3934435e-e6e6-4fea-a5c0-3a716143d619 = { name = "SQLCollections", path = "S/SQLCollections" }
 3934549d-b4b9-4a85-8fa6-9c281fbf1a3e = { name = "DecomposingGroupRepresentations", path = "D/DecomposingGroupRepresentations" }
 393490a8-41a6-5dea-8ab1-81a396b80891 = { name = "libLLVM_assert_jll", path = "jll/L/libLLVM_assert_jll" }
+39356fd2-1f9e-4efe-8abf-5745c7d9f608 = { name = "GastonRecipes", path = "G/GastonRecipes" }
 39357346-8f20-4302-be7b-c20dcd116b7a = { name = "OceanColorData", path = "O/OceanColorData" }
 3938faea-3bfa-4bc3-8092-0c6746ff9af1 = { name = "EntropyHub", path = "E/EntropyHub" }
 393d5197-c0a3-4293-bd2f-5829bf091ab1 = { name = "NonConvexPenalizedRegression", path = "N/NonConvexPenalizedRegression" }
@@ -3572,6 +3574,7 @@ some amount of consideration when choosing package names.
 491db154-c145-5abe-9c32-446728d60cce = { name = "Check_jll", path = "jll/C/Check_jll" }
 491f1417-53b2-48aa-b9da-44cdd6c031b7 = { name = "PlasmoBenders", path = "P/PlasmoBenders" }
 492392ba-fc20-5d72-afbd-f61f3c69e3d5 = { name = "LinearFold_jll", path = "jll/L/LinearFold_jll" }
+492d890c-d9c4-11ef-b95f-3722e36032c2 = { name = "ROOTprefs", path = "R/ROOTprefs" }
 492f22fc-54e6-4f0f-bb9b-bacd199f5046 = { name = "LifeInsuranceProduct", path = "L/LifeInsuranceProduct" }
 493365b4-7e18-460b-8b90-ec3e7f80d3eb = { name = "ROS2", path = "R/ROS2" }
 4937893a-a78f-43c0-9d0a-2f4d4786e0cf = { name = "Polyomino", path = "P/Polyomino" }
@@ -3864,6 +3867,7 @@ some amount of consideration when choosing package names.
 4f75ad7f-53e1-4703-a57b-ee35418d6f20 = { name = "RandomSplit", path = "R/RandomSplit" }
 4f76b812-4ba5-496d-b042-d70715554288 = { name = "AMGCLWrap", path = "A/AMGCLWrap" }
 4f7c0122-5260-4c96-aca3-bf9f51513501 = { name = "DistributedStwdLDA", path = "D/DistributedStwdLDA" }
+4f7db680-92c2-5241-a1f0-57b96f62fa1d = { name = "ROOT_julia_jll", path = "jll/R/ROOT_julia_jll" }
 4f7db8a5-8d22-4d9a-baad-9979a979c0ae = { name = "PseudostableRecurrences", path = "P/PseudostableRecurrences" }
 4f82f1eb-248c-5f56-a42e-99106d144614 = { name = "CUDA_full_jll", path = "jll/C/CUDA_full_jll" }
 4f8305f1-6461-5f12-b534-9c962894ae19 = { name = "asdf_cxx_jll", path = "jll/A/asdf_cxx_jll" }
@@ -6171,6 +6175,7 @@ some amount of consideration when choosing package names.
 7decf2fc-1b41-4df3-8d24-d8c3407cdb84 = { name = "FastOPInterpolation", path = "F/FastOPInterpolation" }
 7df13313-679e-414d-9f6c-66fa593437bc = { name = "SensitivityAnalysis", path = "S/SensitivityAnalysis" }
 7df18d33-496e-4cfd-8564-72cba2c0b329 = { name = "AoGExtensions", path = "A/AoGExtensions" }
+7dfc3ef0-df9b-475f-b8e2-b91f34f5d84d = { name = "TNRKit", path = "T/TNRKit" }
 7e02d93a-ae51-4f58-b602-d97af76e3b33 = { name = "OptimalTransport", path = "O/OptimalTransport" }
 7e08b658-56d3-11e9-2997-919d5b31e4ea = { name = "GeometricFlux", path = "G/GeometricFlux" }
 7e097bd5-a775-4bc1-90b6-ad92bd7220c1 = { name = "LibTrixi", path = "L/LibTrixi" }
@@ -7422,6 +7427,7 @@ some amount of consideration when choosing package names.
 98d24dd4-01ad-11ea-1b02-c9a08f80db04 = { name = "TestSetExtensions", path = "T/TestSetExtensions" }
 98dea707-09b6-5a61-a46f-43b0fb0fb92b = { name = "vOptSpecific", path = "V/vOptSpecific" }
 98e085c8-1edc-4d9d-bf3b-8d7a8502c19d = { name = "StructuredPrinting", path = "S/StructuredPrinting" }
+98e33af6-2ee5-5afd-9e75-cbc738b765c9 = { name = "ReactiveECS", path = "R/ReactiveECS" }
 98e33af6-2ee5-5afd-9e75-cbc738b767c4 = { name = "SimpleDirectMediaLayer", path = "S/SimpleDirectMediaLayer" }
 98e50ef6-434e-11e9-1051-2b60c6c9e899 = { name = "JuliaFormatter", path = "J/JuliaFormatter" }
 98f080ec-61e2-11eb-1c7b-31ea1097256f = { name = "ParetoSmoothedImportanceSampling", path = "P/ParetoSmoothedImportanceSampling" }
