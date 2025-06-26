@@ -577,6 +577,7 @@ some amount of consideration when choosing package names.
 0b91fe84-8a4c-11e9-3e1d-67c38462b6d6 = { name = "DisplayAs", path = "D/DisplayAs" }
 0b99cc74-af0a-4786-be99-594ac14242a4 = { name = "Galley", path = "G/Galley" }
 0ba03b52-44ea-4ae8-ae76-4c95056a1ba8 = { name = "PixelArt", path = "P/PixelArt" }
+0ba2ffe9-29ae-4dc1-9466-6a4b513121e6 = { name = "BroadLineRegions", path = "B/BroadLineRegions" }
 0bb1b1ac-0216-11e9-361b-bb110c659ce1 = { name = "AngularMomentumAlgebra", path = "A/AngularMomentumAlgebra" }
 0bb624de-12df-571d-ad84-47aef8b93290 = { name = "Elly", path = "E/Elly" }
 0bbb1fad-0f24-45fe-94a4-415852c5cc3b = { name = "EmpiricalDistributions", path = "E/EmpiricalDistributions" }
@@ -4828,6 +4829,7 @@ some amount of consideration when choosing package names.
 6348297c-a006-11e8-3a05-9bbf8830fd7b = { name = "AlphaVantage", path = "A/AlphaVantage" }
 634c7f73-3e90-4749-a1bd-001b8efc642d = { name = "QuanticsGrids", path = "Q/QuanticsGrids" }
 634d3b9d-ee7a-5ddf-bec9-22491ea816e1 = { name = "DrWatson", path = "D/DrWatson" }
+634dcf3f-6aa7-47ba-9e85-1fb329c9ebfe = { name = "Networks", path = "N/Networks" }
 63556450-714a-11e9-08e1-e368b701e279 = { name = "DroneSurveillance", path = "D/DroneSurveillance" }
 6356fb03-8c35-4dfb-8dca-145006c345e7 = { name = "TrajectoryBundles", path = "T/TrajectoryBundles" }
 636a865e-7cf4-491e-846c-de09b730eb36 = { name = "NearestNeighborModels", path = "N/NearestNeighborModels" }
@@ -10210,6 +10212,7 @@ d1d4a3ce-64b1-5f1a-9ba4-7e7e69966f35 = { name = "BitFlags", path = "B/BitFlags" 
 d1d5beed-0862-5c4e-adcd-9d7a31bb6a79 = { name = "racket_jll", path = "jll/R/racket_jll" }
 d1dcc2e6-806e-11e9-2897-3f99785db2ae = { name = "Reproject", path = "R/Reproject" }
 d1dd7d07-e5c2-418a-8652-e20add45d312 = { name = "SurvivalAnalysis", path = "S/SurvivalAnalysis" }
+d1e2174e-dfdc-576e-b43e-73b79eb1aca8 = { name = "CUDA_Compiler_jll", path = "jll/C/CUDA_Compiler_jll" }
 d1eb7eb1-105f-429d-abf5-b0f65cb9e2c4 = { name = "RegistryTools", path = "R/RegistryTools" }
 d1ed7681-0bdc-4b3e-a64e-a9a059b3ebfe = { name = "AppleHealthParser", path = "A/AppleHealthParser" }
 d1efa939-5518-4425-949f-ab857e148477 = { name = "TableIOInterface", path = "T/TableIOInterface" }
@@ -11192,6 +11195,7 @@ e5add9ea-9f03-521a-be84-f8c1bde3cbe9 = { name = "LevelDB_jll", path = "jll/L/Lev
 e5aedecb-f6c0-4c91-b6ff-fbae4296f459 = { name = "PeriodicSchurDecompositions", path = "P/PeriodicSchurDecompositions" }
 e5af9688-3aeb-5ed5-8c7e-253e55323d3e = { name = "Gnuplot_jll", path = "jll/G/Gnuplot_jll" }
 e5afb96c-f319-4582-8667-2a6c7d02249d = { name = "LazyReports", path = "L/LazyReports" }
+e5b51f81-6ffd-4e20-bbec-f118e37ea906 = { name = "CIGARStrings", path = "C/CIGARStrings" }
 e5bec534-b9b5-4198-8c6c-e8157877c5d1 = { name = "Pylustrator", path = "P/Pylustrator" }
 e5c7262c-e9d2-5620-ad8e-1af14eb8a8e3 = { name = "Dolang", path = "D/Dolang" }
 e5cab26e-c5ce-48e0-bb1c-98fd263da73b = { name = "LinearBand", path = "L/LinearBand" }
