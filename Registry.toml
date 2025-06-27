@@ -1471,6 +1471,7 @@ some amount of consideration when choosing package names.
 1d6e2fc3-29aa-4bd6-bf55-212bcb8e2840 = { name = "FinEtoolsFlexBeams", path = "F/FinEtoolsFlexBeams" }
 1d72914e-1fed-50e5-8d1f-642a1f6dcbc8 = { name = "ReinforcementLearningEnvironmentAtari", path = "R/ReinforcementLearningEnvironmentAtari" }
 1d781980-c74a-44d0-9ec2-b658ff5df7eb = { name = "DiBitVectors", path = "D/DiBitVectors" }
+1d8199c2-2c11-4f8e-a265-f9a0ffcc17be = { name = "SunlightHNC", path = "S/SunlightHNC" }
 1d861738-f48e-4029-b1d3-81ce6bc7f5ab = { name = "ThinPlateSplines", path = "T/ThinPlateSplines" }
 1d8dad79-2f3d-554c-bf22-543753cb6ff4 = { name = "TMscore_jll", path = "jll/T/TMscore_jll" }
 1d939cba-ab73-4bc0-975c-87d4c856e1f9 = { name = "MHDFlows", path = "M/MHDFlows" }
@@ -3520,6 +3521,7 @@ some amount of consideration when choosing package names.
 48187f9f-78ff-4060-b31e-d855612fbaec = { name = "LatinSyntax", path = "L/LatinSyntax" }
 481e76ae-c2a1-11e9-35e0-4d409117bccf = { name = "Microwaves", path = "M/Microwaves" }
 4822a80a-c2d5-4bbd-b1da-f89b711347c8 = { name = "FlashAttentionWrapper", path = "F/FlashAttentionWrapper" }
+4827a3aa-8a82-4c61-8bd0-3c7d3e464ee5 = { name = "NonlinearSolveSciPy", path = "N/NonlinearSolveSciPy" }
 48308a23-c29e-446c-b4c0-d9446a767439 = { name = "Kezdi", path = "K/Kezdi" }
 4832667a-bab9-40a8-88f6-be9efce3ea89 = { name = "QuantumAnnealing", path = "Q/QuantumAnnealing" }
 483824fe-0d37-42f7-bb97-b8abf41a4f6a = { name = "BlockBootstrap", path = "B/BlockBootstrap" }
@@ -4529,6 +4531,7 @@ some amount of consideration when choosing package names.
 5d58af2d-7d6a-4ad4-9195-74ef913580e2 = { name = "RPkg", path = "R/RPkg" }
 5d661840-88be-4b78-9825-7b6c04c1bd9a = { name = "Diderot", path = "D/Diderot" }
 5d6e2f64-5c87-46b6-9ff4-cf810e78676d = { name = "PackedReadWrite", path = "P/PackedReadWrite" }
+5d6ea378-73b9-5197-9d8d-619035741a26 = { name = "quickfixc_jll", path = "jll/Q/quickfixc_jll" }
 5d6f8c34-7f74-4dab-a49b-48b3414fbfce = { name = "GeneticBitArrays", path = "G/GeneticBitArrays" }
 5d742f6a-9f54-50ce-8119-2520741973ca = { name = "CSVFiles", path = "C/CSVFiles" }
 5d785b6c-b76f-510e-a07c-3070796c7e87 = { name = "CImGui", path = "C/CImGui" }
@@ -9094,6 +9097,7 @@ bb1577d6-fed0-5ffd-8131-5296c7c3c7ad = { name = "Simplicial", path = "S/Simplici
 bb1859e0-6c46-48fc-af17-5b269a75ae2f = { name = "DefaultArrays", path = "D/DefaultArrays" }
 bb1b64e9-0ccc-445c-80cb-5313b9f7dfe1 = { name = "SymSpellChecker", path = "S/SymSpellChecker" }
 bb1c41ca-d63c-52ed-829e-0820dda26502 = { name = "MPSKit", path = "M/MPSKit" }
+bb1c57f4-4a50-4dfd-96bc-51bda4983b9c = { name = "BackwardDifferenceFormula", path = "B/BackwardDifferenceFormula" }
 bb1fba1d-cf9b-41b3-874e-4b81465537b9 = { name = "QuantumElectrodynamics", path = "Q/QuantumElectrodynamics" }
 bb20392f-64fb-4001-92e8-14b3aedd5a9e = { name = "LaplacianOpt", path = "L/LaplacianOpt" }
 bb331ad6-a1cf-11e9-23da-9bcb53c69f6f = { name = "JOLI", path = "J/JOLI" }
@@ -9994,6 +9998,7 @@ ccc2c699-b150-5417-88f2-a95a0d1581d9 = { name = "libmseed_jll", path = "jll/L/li
 cccf0e64-bc08-11e9-3692-c1021c9b9532 = { name = "MatrixOptim", path = "M/MatrixOptim" }
 ccdf130a-3c88-4595-a023-a7e7f78b9dd5 = { name = "AtomicGraphNets", path = "A/AtomicGraphNets" }
 ccdfd77c-c9b6-493d-8c46-f34d2494ed29 = { name = "ABCDMatrixOptics", path = "A/ABCDMatrixOptics" }
+cce07bd8-c79b-4b00-aee8-8db9cce22837 = { name = "OptimizationSciPy", path = "O/OptimizationSciPy" }
 ccf2f8ad-2431-5c83-bf29-c5338b663b6a = { name = "PlotThemes", path = "P/PlotThemes" }
 ccf6c0ac-cd45-4eaf-bc3d-e8176fb87b3b = { name = "AtomBase", path = "A/AtomBase" }
 ccf9b6e2-7ea7-596a-9d65-09863b18e8cc = { name = "ParSpMatVec", path = "P/ParSpMatVec" }
@@ -12145,6 +12150,7 @@ fafdf525-54c7-48ec-ae29-528bd4cccfab = { name = "SwissVAMyKnife", path = "S/Swis
 fb03b324-f2a4-578c-aba7-71fab90f4c9b = { name = "Figures", path = "F/Figures" }
 fb0408be-4331-42cc-8584-db8fa022598a = { name = "StartupCustomizer", path = "S/StartupCustomizer" }
 fb06ee43-ff84-401b-b5ac-2522e63f9402 = { name = "AirfoilMeshers", path = "A/AirfoilMeshers" }
+fb0822aa-1fe5-41d8-99a6-e7bf6c238d3b = { name = "OptimizationPyCMA", path = "O/OptimizationPyCMA" }
 fb0a3009-a0ba-48c7-b828-2efdeaae8962 = { name = "InboundsArrays", path = "I/InboundsArrays" }
 fb1137e3-90a6-46ce-a672-6e1e53d120f2 = { name = "MRIOperators", path = "M/MRIOperators" }
 fb13fc95-9a72-5e81-90ef-432a29d7f4c2 = { name = "StanDiagnose", path = "S/StanDiagnose" }
