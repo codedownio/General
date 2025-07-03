@@ -1533,6 +1533,7 @@ some amount of consideration when choosing package names.
 1ecd5474-83a3-4783-bb4f-06765db800d2 = { name = "GraphMakie", path = "G/GraphMakie" }
 1ed8b502-d754-442c-8d5d-10ac956f44a1 = { name = "SciMLSensitivity", path = "S/SciMLSensitivity" }
 1ed903b1-d65e-4243-bae3-7d6e2e5f54a0 = { name = "TractableTimeTreeDistributions", path = "T/TractableTimeTreeDistributions" }
+1ef78180-cc57-4e70-b6ec-c3e471307147 = { name = "BlockSparseMatrices", path = "B/BlockSparseMatrices" }
 1ef8cab2-a151-54b4-a57f-5fbb4046a4ab = { name = "rocBLAS_jll", path = "jll/R/rocBLAS_jll" }
 1f012879-3887-41d0-bd88-38cb7d73fb12 = { name = "ChairmarksExtras", path = "C/ChairmarksExtras" }
 1f073b57-2743-565b-a723-478df9911235 = { name = "TestU01_jll", path = "jll/T/TestU01_jll" }
@@ -5376,6 +5377,7 @@ some amount of consideration when choosing package names.
 6dfc96c8-e1b7-449c-9871-5de18f44e5a6 = { name = "ToggleMenus", path = "T/ToggleMenus" }
 6e0295d3-a2ae-4d9e-ab31-7b55fc0f4333 = { name = "MicroFloatingPoints", path = "M/MicroFloatingPoints" }
 6e0679c1-51ea-5a7c-ac74-d61b76210b0c = { name = "QuantumOptics", path = "Q/QuantumOptics" }
+6e093c14-372f-5516-b4d7-a6ce14f1038b = { name = "legate_jl_wrapper_jll", path = "jll/L/legate_jl_wrapper_jll" }
 6e0fd8a8-0703-4e38-9954-b94da054c472 = { name = "PQEcolaPoint", path = "P/PQEcolaPoint" }
 6e11effc-327b-571d-98e3-e12b1d1e7421 = { name = "GAP_pkg_ace_jll", path = "jll/G/GAP_pkg_ace_jll" }
 6e1301d5-4f4d-4fb5-9679-7191e22f0e0e = { name = "AutoDiffOperators", path = "A/AutoDiffOperators" }
@@ -7670,6 +7672,7 @@ some amount of consideration when choosing package names.
 9d9a57f5-5434-4194-99f6-8bfcf011f0e1 = { name = "BenchmarkingEconomicEfficiency", path = "B/BenchmarkingEconomicEfficiency" }
 9da27670-f782-11e9-1da1-f53579315bfe = { name = "GameZero", path = "G/GameZero" }
 9da8a3cd-07a3-59c0-a743-3fdc52c30d11 = { name = "JLSO", path = "J/JLSO" }
+9db26ae3-82ff-4374-85e9-9ed87405fd16 = { name = "H2Trees", path = "H/H2Trees" }
 9db2cae5-386f-4011-9d63-a5602296539b = { name = "Gtk4", path = "G/Gtk4" }
 9dbaeea7-558f-4e29-ba60-30a5dee37710 = { name = "SIIP2Marmot", path = "S/SIIP2Marmot" }
 9dbc1c15-08f7-42e2-915c-53d8f7c4cd8b = { name = "InteractiveGeospatial", path = "I/InteractiveGeospatial" }
