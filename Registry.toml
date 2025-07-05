@@ -524,6 +524,7 @@ some amount of consideration when choosing package names.
 0a7c0d76-3150-4455-b428-d5f420c13001 = { name = "BiBufferedStreams", path = "B/BiBufferedStreams" }
 0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed = { name = "PRIMA", path = "P/PRIMA" }
 0a7d185b-be57-59df-ac21-86d8a1799c2e = { name = "JuliaPetra", path = "J/JuliaPetra" }
+0a7f2b4d-d03c-5694-960e-196e69ee64e2 = { name = "libde265_jll", path = "jll/L/libde265_jll" }
 0a7fc590-1c99-4bf9-b5a7-8c116fa99d16 = { name = "Qaintellect", path = "Q/Qaintellect" }
 0a809e47-b8eb-4578-b4e8-4c2c5f9f833c = { name = "CompressedBeliefMDPs", path = "C/CompressedBeliefMDPs" }
 0a870b86-ede5-5f68-8916-0c4c2008bb27 = { name = "stb_jll", path = "jll/S/stb_jll" }
@@ -1036,6 +1037,7 @@ some amount of consideration when choosing package names.
 14a3606d-f60d-562e-9121-12d972cd8159 = { name = "MozillaCACerts_jll", path = "jll/M/MozillaCACerts_jll" }
 14a86994-10a4-4a7d-b9ad-ef6f3b1fac6a = { name = "PPTX", path = "P/PPTX" }
 14b02da0-8be6-40d8-a4f8-a7d73caed26e = { name = "Pinot", path = "P/Pinot" }
+14b1564f-c77f-4800-9e89-efd961faef7c = { name = "LEMONGraphs", path = "L/LEMONGraphs" }
 14b8622a-036d-4d33-8a6e-103eec319ccf = { name = "MoziFESection", path = "M/MoziFESection" }
 14b8a8f1-9102-5b29-a752-f990bacb7fe1 = { name = "PkgTemplates", path = "P/PkgTemplates" }
 14bae519-eb20-449c-a949-9c58ed33163e = { name = "ACEbase", path = "A/ACEbase" }
@@ -3724,6 +3726,7 @@ some amount of consideration when choosing package names.
 4c24c29e-1bf7-59e2-a6c7-e500a6482ce4 = { name = "BoxCoxTrans", path = "B/BoxCoxTrans" }
 4c24e94e-21a7-4591-8ee4-d226b67258b2 = { name = "CALIPSO", path = "C/CALIPSO" }
 4c2ee4bc-ae8c-4f43-b820-7df96744ebfe = { name = "SolarGeometry", path = "S/SolarGeometry" }
+4c2fb5cd-5fa8-4952-858b-935ef2e5e854 = { name = "SmallCombinatorics", path = "S/SmallCombinatorics" }
 4c411929-775e-4429-ac3f-feb95d997042 = { name = "SGCRNAs", path = "S/SGCRNAs" }
 4c422213-1242-4325-9ff2-ab065d5354a7 = { name = "YAActL", path = "Y/YAActL" }
 4c4340ea-7f9e-46b4-8512-61f1f6c41a11 = { name = "Sainsc", path = "S/Sainsc" }
@@ -4514,6 +4517,7 @@ some amount of consideration when choosing package names.
 5cd12e4b-1487-4eb2-a245-40f3146b84a8 = { name = "QuantumNPA", path = "Q/QuantumNPA" }
 5cd7a574-2c56-5be2-91dc-c8bc375b9ddf = { name = "GAP_jll", path = "jll/G/GAP_jll" }
 5cda3ad9-a1fd-4c59-8c0c-bd6100725b84 = { name = "Telescope", path = "T/Telescope" }
+5cdc1628-db7d-4f1a-9a42-d0831b0d3a5e = { name = "CensusACS", path = "C/CensusACS" }
 5ce1102a-d779-57d8-a38a-c227ece604ed = { name = "flashrom_jll", path = "jll/F/flashrom_jll" }
 5ce5e58b-649a-467a-bfd0-ccefe064e451 = { name = "FindSteadyStates", path = "F/FindSteadyStates" }
 5ced341a-0733-55b8-9ab6-a4889d929147 = { name = "Lz4_jll", path = "jll/L/Lz4_jll" }
@@ -6468,6 +6472,7 @@ some amount of consideration when choosing package names.
 831fc53b-0fa6-4fbb-adc4-fa1e0b19763e = { name = "MoM_Kernels", path = "M/MoM_Kernels" }
 83200819-b45f-4027-aa6a-8223b29c73a7 = { name = "KinematicDriver", path = "K/KinematicDriver" }
 833476c3-a8c0-4073-9b64-6473509843fe = { name = "DAQPBase", path = "D/DAQPBase" }
+83401093-d8e7-49c8-a98d-2b177fad4d3a = { name = "SAShE", path = "S/SAShE" }
 8341a549-d843-5d3b-924f-10e41641b3ea = { name = "AuditoryStimuli", path = "A/AuditoryStimuli" }
 8341d8ab-e5ae-4f11-aa21-e11c5cc71259 = { name = "StatisticalGraphics", path = "S/StatisticalGraphics" }
 83423d85-b0ee-5818-9007-b63ccbeb887a = { name = "Cairo_jll", path = "jll/C/Cairo_jll" }
@@ -7853,6 +7858,7 @@ a1251efa-393a-423f-9d7b-faaecba535dc = { name = "GraphLaplacians", path = "G/Gra
 a12c78df-351d-47be-9a81-17a33aab13b1 = { name = "EnergyModelsCompliance", path = "E/EnergyModelsCompliance" }
 a134a8b2-14d6-55f6-9291-3336d3ab0209 = { name = "BlackBoxOptim", path = "B/BlackBoxOptim" }
 a13615ec-4c6a-5020-9bdf-9d9993bbd1cf = { name = "ONNXRuntime_CUDA_jll", path = "jll/O/ONNXRuntime_CUDA_jll" }
+a13778fd-9a17-58b4-b5a0-4b4a242815a9 = { name = "libheif_jll", path = "jll/L/libheif_jll" }
 a139f0b0-aff0-474c-bd1d-9cc0765dd9cf = { name = "XInput", path = "X/XInput" }
 a13fabe6-5ee6-5635-9a74-e87bffe1fafd = { name = "Xorg_scrnsaverproto_jll", path = "jll/X/Xorg_scrnsaverproto_jll" }
 a14a6c0f-317a-4379-b4a0-4ba4e1e9b5ed = { name = "ImageSmooth", path = "I/ImageSmooth" }
