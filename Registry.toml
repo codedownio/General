@@ -3596,6 +3596,7 @@ some amount of consideration when choosing package names.
 49441bc9-da82-574f-b07c-a0d10dd4ac13 = { name = "MetadataArrays", path = "M/MetadataArrays" }
 494afd89-becb-516b-aafa-70d2670c0337 = { name = "JavaCall", path = "J/JavaCall" }
 494b1f74-06dd-4437-8477-4a86f2a8d703 = { name = "WGPUCompute", path = "W/WGPUCompute" }
+494b707d-6180-4d60-8018-fdbee1ff8085 = { name = "Mongoose", path = "M/Mongoose" }
 494e3ecb-4870-42f9-9c5b-ad6e224b11d8 = { name = "StochasticProcesses", path = "S/StochasticProcesses" }
 49523d62-8978-4391-abdd-b8467d4505ae = { name = "CliMADatasets", path = "C/CliMADatasets" }
 4956fa17-11d8-4a0b-a900-0a865cb13992 = { name = "VoxelModel", path = "V/VoxelModel" }
@@ -7089,6 +7090,7 @@ some amount of consideration when choosing package names.
 908a5197-780b-4ffb-a736-f299f747b567 = { name = "Graficos", path = "G/Graficos" }
 908d4cf6-a6c0-449c-92e4-852c8f288332 = { name = "WaveSpec", path = "W/WaveSpec" }
 908f55d8-4145-4867-9c14-5dad1a479e4d = { name = "ClimaCoreMakie", path = "C/ClimaCoreMakie" }
+908fb252-195b-4b84-b39a-97779d176e66 = { name = "StagGrids", path = "S/StagGrids" }
 90902b46-5383-4c97-8f8a-bddf608a7bc6 = { name = "ROCCurves", path = "R/ROCCurves" }
 90978a9a-af5e-4113-9033-e3aa0a1ac968 = { name = "SeaPearlExtras", path = "S/SeaPearlExtras" }
 90980105-b163-44e5-ba9f-8b1c83bb0533 = { name = "KiteUtils", path = "K/KiteUtils" }
@@ -7201,6 +7203,7 @@ some amount of consideration when choosing package names.
 92e7c7cf-2c17-5ab8-9563-5ab5b2fcee8a = { name = "Makemsix_jll", path = "jll/M/Makemsix_jll" }
 92ef3814-971d-54d3-b0c1-59b1d13fee15 = { name = "Ripemd", path = "R/Ripemd" }
 92ef5d18-3a1f-4c68-9409-006e7edfe355 = { name = "SimGBS", path = "S/SimGBS" }
+92f09047-6d16-4473-addc-838620b4de14 = { name = "TextGrids", path = "T/TextGrids" }
 92f7fd98-d22e-4c0d-85a8-6ade11b672fb = { name = "cuStateVec", path = "C/cuStateVec" }
 92f832ab-a3ce-4d7c-a08d-a5d13ab1bbba = { name = "BioExplorer", path = "B/BioExplorer" }
 92fd0282-be9c-47fb-a489-f0d0a91db595 = { name = "PSID", path = "P/PSID" }
@@ -8193,6 +8196,7 @@ a80a7044-09a6-4a0a-a486-eb806178b9ba = { name = "Radiomics", path = "R/Radiomics
 a80b9123-70ca-4bc0-993e-6e3bcb318db6 = { name = "CommonMark", path = "C/CommonMark" }
 a81958ac-9ec9-4086-814d-3ae87249a5e8 = { name = "Multitaper", path = "M/Multitaper" }
 a8197b14-d70b-5660-b10f-8b1ebb62825c = { name = "PDAL_jll", path = "jll/P/PDAL_jll" }
+a81b9388-333d-4b63-81f2-910b060b544c = { name = "EnergyModelsFlex", path = "E/EnergyModelsFlex" }
 a81c6b42-2e10-5240-aca2-a61377ecd94b = { name = "Compose", path = "C/Compose" }
 a81df072-f4bb-11e8-03d3-cfaeda626d18 = { name = "MCAnalyzer", path = "M/MCAnalyzer" }
 a81e2ce2-54d1-11eb-2c75-db236b00f339 = { name = "DescriptorSystems", path = "D/DescriptorSystems" }
@@ -9393,6 +9397,7 @@ bfca5e61-7ca9-4d61-a82b-6df663fb0d3c = { name = "JuliaCon", path = "J/JuliaCon" 
 bfcb1084-f727-4b17-bfff-b14f4012e832 = { name = "ParquetS3", path = "P/ParquetS3" }
 bfcbc1eb-9170-5dc4-a833-47b2e27cecb4 = { name = "ReduceLinAlg", path = "R/ReduceLinAlg" }
 bfcf449f-4a4c-42e3-91d7-977e7d435437 = { name = "LambertsProblem", path = "L/LambertsProblem" }
+bfd54a76-f566-4979-8478-f7e03b9d19fb = { name = "NCTSSoS", path = "N/NCTSSoS" }
 bfd8ad24-ccb0-5e6a-9bd1-fc4bec713fae = { name = "DropboxSDK", path = "D/DropboxSDK" }
 bfd98c86-782f-4b94-909f-74167f1eb613 = { name = "MonoidalCategories", path = "M/MonoidalCategories" }
 bfde9dd4-8f40-4a1e-be09-1475335e1c92 = { name = "MLIR", path = "M/MLIR" }
@@ -10298,6 +10303,7 @@ d310a076-6a08-52b6-ab78-79baa254182b = { name = "XPA", path = "X/XPA" }
 d31cee86-d6f0-47a3-813b-bb8537950420 = { name = "Boids", path = "B/Boids" }
 d31eeb2a-31cb-4547-bb55-7986690be42f = { name = "Bitly", path = "B/Bitly" }
 d3268586-e29f-49f6-96a4-1d4e5b7023cc = { name = "Configs", path = "C/Configs" }
+d326a031-5c5a-546d-81a5-e59c87734a6a = { name = "HelloWorldOCaml_jll", path = "jll/H/HelloWorldOCaml_jll" }
 d330b81b-6aea-500a-939a-2ce795aea3ee = { name = "PyPlot", path = "P/PyPlot" }
 d335c211-7587-445e-a753-f0b1fb7e445f = { name = "FastSphericalHarmonics", path = "F/FastSphericalHarmonics" }
 d3391a6e-3825-4561-b7f8-2cd130659cb1 = { name = "StipplePlotlyExport", path = "S/StipplePlotlyExport" }
