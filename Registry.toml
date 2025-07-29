@@ -1705,6 +1705,7 @@ some amount of consideration when choosing package names.
 227ca074-f042-4221-a2ff-40f0acdddd34 = { name = "VersionVigilante", path = "V/VersionVigilante" }
 227ef7b5-1206-438b-ac65-934d6da304b8 = { name = "ACSets", path = "A/ACSets" }
 228000da-037f-5747-90a9-8195ccbf91a5 = { name = "XMLDict", path = "X/XMLDict" }
+228235be-7709-4868-9089-276e3dee9f94 = { name = "TraitInterfaces", path = "T/TraitInterfaces" }
 228fe19c-1b83-5282-a626-13744502a320 = { name = "bitshuffle_jll", path = "jll/B/bitshuffle_jll" }
 229d1e32-5c67-4c9a-a884-d6a3a7f23cfa = { name = "PowerPlots", path = "P/PowerPlots" }
 22a32d6d-8ff7-41da-a9cb-095a6e0fb6ae = { name = "SquashFS", path = "S/SquashFS" }
@@ -6255,6 +6256,7 @@ some amount of consideration when choosing package names.
 7e4462cd-8001-4c22-b109-db8e4e581e9c = { name = "Modulo2", path = "M/Modulo2" }
 7e49a35a-f44a-4d26-94aa-eba1b4ca6b47 = { name = "RuntimeGeneratedFunctions", path = "R/RuntimeGeneratedFunctions" }
 7e49bc5d-d907-5fdd-93a4-11f1b4f8bb51 = { name = "BayesianNonparametrics", path = "B/BayesianNonparametrics" }
+7e4b4f32-fbf9-4b74-9510-4d15222ac973 = { name = "StaticThings", path = "S/StaticThings" }
 7e4c8b08-07ea-4d35-9260-462b5bfff2a0 = { name = "DZOptimization", path = "D/DZOptimization" }
 7e4e0a2a-738e-4919-8f64-2391d105e660 = { name = "LibAwsS3", path = "L/LibAwsS3" }
 7e506255-f358-4e82-b7e4-beb19740aa63 = { name = "ScopedValues", path = "S/ScopedValues" }
@@ -7389,6 +7391,7 @@ some amount of consideration when choosing package names.
 9663349c-1c87-11ea-291d-bd81f86a413c = { name = "MathieuFunctions", path = "M/MathieuFunctions" }
 9663f319-c281-55ef-904e-227b7281b1a1 = { name = "libmicrohttpd_jll", path = "jll/L/libmicrohttpd_jll" }
 96684042-fbdc-5399-9b8e-d34e539a126c = { name = "InformationMeasures", path = "I/InformationMeasures" }
+966baf2c-d1f1-5710-8d7e-4d538f29c110 = { name = "Agama_jll", path = "jll/A/Agama_jll" }
 966f3356-8dad-4c1b-950e-472e4a926962 = { name = "MinkowskiFunctionals", path = "M/MinkowskiFunctionals" }
 9672c7b4-1e72-59bd-8a11-6ac3964bc41f = { name = "SteadyStateDiffEq", path = "S/SteadyStateDiffEq" }
 96740c97-20d1-419e-bd96-765ff0b5546a = { name = "ExtremePlots", path = "E/ExtremePlots" }
@@ -11351,6 +11354,7 @@ e655511c-e992-5001-b8e2-2048e6aa15e9 = { name = "DiracNotation", path = "D/Dirac
 e6563dab-9ca1-5843-bde3-2ccf38d63843 = { name = "ThreeBodyDecays", path = "T/ThreeBodyDecays" }
 e65ccdef-c354-471a-8090-89bec1c20ec3 = { name = "LowRankMatrices", path = "L/LowRankMatrices" }
 e6614011-adc0-4f34-baa6-5a168cd5013f = { name = "DistributedWorkflows", path = "D/DistributedWorkflows" }
+e668aba2-5e82-554e-99b5-a9684458d166 = { name = "Eiscor_jll", path = "jll/E/Eiscor_jll" }
 e66e0078-7015-5450-92f7-15fbd957f2ae = { name = "CompilerSupportLibraries_jll", path = "jll/C/CompilerSupportLibraries_jll" }
 e670a858-c023-4621-870e-30d0f49b8322 = { name = "PopGenSims", path = "P/PopGenSims" }
 e6723b4c-ebff-59f1-b4b7-d97aa5274f73 = { name = "Meshing", path = "M/Meshing" }
