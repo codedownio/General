@@ -342,9 +342,6 @@ Variography = "0.16"
 GeoStatsBase = "0.32"
 GeoStatsSolvers = "0.4"
 
-["0.42 - 0"]
-CategoricalArrays = "0.10"
-
 ["0.42 - 0.43"]
 GeoClustering = "0.4"
 KrigingEstimators = "0.11"
@@ -360,6 +357,9 @@ LossFunctions = "0.11"
 
 ["0.42 - 0.80.0"]
 julia = "1.9.0-1"
+
+["0.42 - 0.81.3"]
+CategoricalArrays = "0.10"
 
 ["0.42.2 - 0.80.0"]
 Tables = "1.10.0-1"
@@ -514,7 +514,7 @@ GeoStatsProcesses = "0.5"
 ["0.51.1 - 0.56"]
 GeoStatsFunctions = "0.2"
 
-["0.51.2 - 0"]
+["0.51.2 - 0.81.4"]
 Chain = "0.6"
 
 ["0.52 - 0.53"]
@@ -800,6 +800,15 @@ GeoStatsModels = "0.12"
 
 ["0.81.1 - 0"]
 Meshes = "0.54"
+
+["0.81.3 - 0"]
+Colors = "0.13"
+
+["0.81.4 - 0"]
+CategoricalArrays = "1"
+
+["0.81.5 - 0"]
+Chain = "1"
 
 ["0.9.0"]
 GeoStatsBase = "0.4.3-0.5"
