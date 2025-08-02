@@ -617,6 +617,7 @@ some amount of consideration when choosing package names.
 0c4b0c42-68ec-11ea-3bc9-e7fb6e00ea0f = { name = "SyslogLogging", path = "S/SyslogLogging" }
 0c50e747-7910-4d75-be1d-ae33d9528add = { name = "TelegramClient", path = "T/TelegramClient" }
 0c5d862f-8b57-4792-8d23-62f2024744c7 = { name = "Symbolics", path = "S/Symbolics" }
+0c603acf-41d5-40bf-a378-7dbbea0dae82 = { name = "Davidson", path = "D/Davidson" }
 0c614874-6106-40ed-a7c2-2f1cd0bff883 = { name = "TerminalPager", path = "T/TerminalPager" }
 0c6611b4-5dad-443c-92fe-8be93fb3df91 = { name = "TaskBasedProduction", path = "T/TaskBasedProduction" }
 0c68f7d7-f131-5f86-a1c3-88cf8149b2d7 = { name = "GPUArrays", path = "G/GPUArrays" }
@@ -1614,6 +1615,7 @@ some amount of consideration when choosing package names.
 2061d889-07fc-48e0-ab41-7cc4d945d6d4 = { name = "Coconots", path = "C/Coconots" }
 206a444d-62d4-4bef-89ca-f2a4a27f2209 = { name = "MuTuner", path = "M/MuTuner" }
 206caa4e-a773-11ef-0a96-55713be7837f = { name = "Posits", path = "P/Posits" }
+2073ee19-d2a6-424f-ac95-ea3ed30aeccf = { name = "BigRiverMakie", path = "B/BigRiverMakie" }
 20759599-9703-4078-b9af-37a489742e5c = { name = "AuditorySignalUtils", path = "A/AuditorySignalUtils" }
 207801d6-6cee-43a9-ad0c-f0c64933efa0 = { name = "ModelOrderReduction", path = "M/ModelOrderReduction" }
 2079e98e-b9a5-4add-91d8-8d7b7bc8f821 = { name = "ISAtmosphere", path = "I/ISAtmosphere" }
@@ -8820,6 +8822,7 @@ b2d36aa5-a2b1-5d23-8bd9-f353e61de00d = { name = "PowerDynSolve", path = "P/Power
 b2d6dd58-be48-4100-8375-7f7d22241ed8 = { name = "AlgebraicCurveOrthogonalPolynomials", path = "A/AlgebraicCurveOrthogonalPolynomials" }
 b2d7f28f-acd6-4007-8b26-bc27716e5513 = { name = "OteraEngine", path = "O/OteraEngine" }
 b2ecaf23-c471-4976-bbc3-22be69e1f6bb = { name = "L1TrendFiltering", path = "L/L1TrendFiltering" }
+b2eeebe4-5992-4301-9193-7ebc9f62c855 = { name = "CensoredDistributions", path = "C/CensoredDistributions" }
 b2f2f022-7a59-54f4-945e-e9b78c3fd545 = { name = "MKL_Headers_jll", path = "jll/M/MKL_Headers_jll" }
 b2f8801f-5e08-46db-8da3-bbbe1795f4c5 = { name = "ComputableGeneralEquilibriumHelpers", path = "C/ComputableGeneralEquilibriumHelpers" }
 b2f9963d-2794-4afd-bb03-e604c489c349 = { name = "PostForecasts", path = "P/PostForecasts" }
