@@ -1489,6 +1489,7 @@ some amount of consideration when choosing package names.
 1d72914e-1fed-50e5-8d1f-642a1f6dcbc8 = { name = "ReinforcementLearningEnvironmentAtari", path = "R/ReinforcementLearningEnvironmentAtari" }
 1d781980-c74a-44d0-9ec2-b658ff5df7eb = { name = "DiBitVectors", path = "D/DiBitVectors" }
 1d8199c2-2c11-4f8e-a265-f9a0ffcc17be = { name = "SunlightHNC", path = "S/SunlightHNC" }
+1d859bbf-6282-4c80-a370-34c59bf7ec11 = { name = "ChunkCodecBitshuffle", path = "C/ChunkCodecBitshuffle" }
 1d861738-f48e-4029-b1d3-81ce6bc7f5ab = { name = "ThinPlateSplines", path = "T/ThinPlateSplines" }
 1d8dad79-2f3d-554c-bf22-543753cb6ff4 = { name = "TMscore_jll", path = "jll/T/TMscore_jll" }
 1d939cba-ab73-4bc0-975c-87d4c856e1f9 = { name = "MHDFlows", path = "M/MHDFlows" }
@@ -4834,6 +4835,7 @@ some amount of consideration when choosing package names.
 621fb831-fdad-4fff-93ac-1af7b7ed19e3 = { name = "CountDownLatches", path = "C/CountDownLatches" }
 6226b997-59fe-41cb-ba3d-177c22dd73bb = { name = "HJSON", path = "H/HJSON" }
 62286e6e-1779-56f1-888a-1c0056788ce0 = { name = "MinCostFlows", path = "M/MinCostFlows" }
+622b4643-1e26-4658-857c-37e2e088d33f = { name = "LongPort", path = "L/LongPort" }
 62312e5e-252a-4322-ace9-a5f4bf9b357b = { name = "ExponentialFamily", path = "E/ExponentialFamily" }
 6232a4dd-6c48-4603-a2a7-0046d401e3d1 = { name = "CVRPLIB", path = "C/CVRPLIB" }
 62371590-58c0-453a-97c0-b8b10383e1ee = { name = "LearningHorse", path = "L/LearningHorse" }
@@ -8275,6 +8277,7 @@ a7e57fc7-3548-4021-90c3-ac0e175068b1 = { name = "PlotlyExtensionsHelper", path =
 a7e9380e-af78-4e01-8a55-c3c07e4c7344 = { name = "MemoizedSerialization", path = "M/MemoizedSerialization" }
 a7ef59f1-ab8a-5612-8cbe-0c3d3c126043 = { name = "LiterateOrg", path = "L/LiterateOrg" }
 a7f1ee26-1774-49b1-8366-f1abc58fbfcb = { name = "Trixi", path = "T/Trixi" }
+a7f2c31c-968a-41f8-b289-3742aa14d81d = { name = "OctaveH5Reader", path = "O/OctaveH5Reader" }
 a7f392d2-6c35-496e-b8cc-0974fbfcbf91 = { name = "MiniZinc", path = "M/MiniZinc" }
 a7f614a8-145f-11e9-1d2a-a57a1082229d = { name = "MLJBase", path = "M/MLJBase" }
 a804653f-5eb8-4562-8be1-42891ba957af = { name = "DownstreamTester", path = "D/DownstreamTester" }
