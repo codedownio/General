@@ -2053,6 +2053,7 @@ some amount of consideration when choosing package names.
 299745a8-1dd2-5813-967e-1153b019bdef = { name = "StrFs", path = "S/StrFs" }
 29a0d76e-afc8-11e9-03a4-eda52ae4b960 = { name = "StochasticDelayDiffEq", path = "S/StochasticDelayDiffEq" }
 29a6e085-ba6d-5f35-a997-948ac2efa89a = { name = "Wavelets", path = "W/Wavelets" }
+29a73d17-8276-40b7-9ffb-d89e58023643 = { name = "cuOpt", path = "C/cuOpt" }
 29a8b8bc-eb2a-4ada-9a47-be49547c4d59 = { name = "IsopycnalSurfaces", path = "I/IsopycnalSurfaces" }
 29a986be-02c6-4525-aec4-84b980013641 = { name = "FastLapackInterface", path = "F/FastLapackInterface" }
 29b5916a-a76c-4e73-9657-3c8fd22e65e6 = { name = "ClimaAnalysis", path = "C/ClimaAnalysis" }
@@ -6036,6 +6037,7 @@ some amount of consideration when choosing package names.
 792026f5-ac9a-4a19-adcb-47b0ce2deb5d = { name = "TestFunctionRunner", path = "T/TestFunctionRunner" }
 792122b4-ca99-40de-a6bc-6742525f08b6 = { name = "EarlyStopping", path = "E/EarlyStopping" }
 792afdf1-32c1-5681-94e0-d7bf7a5df49e = { name = "NLPModelsJuMP", path = "N/NLPModelsJuMP" }
+792d114c-f8c3-4b81-9580-cc03468a5b58 = { name = "Diplodocus", path = "D/Diplodocus" }
 792e603a-1588-414c-b272-614011baa40e = { name = "SBMLToolkitTestSuite", path = "S/SBMLToolkitTestSuite" }
 79305c5b-9889-52e9-bdbd-56f883c71fe0 = { name = "RiemannHilbert", path = "R/RiemannHilbert" }
 793d2195-304b-438e-bbb1-bc33c872ac39 = { name = "PartialWaveFunctions", path = "P/PartialWaveFunctions" }
@@ -12063,6 +12065,7 @@ f4bc562b-d309-54f8-9efb-476e56f0410d = { name = "oneAPI_Level_Zero_Headers_jll",
 f4bef1b4-b92c-4d5f-a4ba-6d6989c7744d = { name = "TensorRules", path = "T/TensorRules" }
 f4c16678-4a16-415b-82ef-ed337c5d6c7c = { name = "DLFP8Types", path = "D/DLFP8Types" }
 f4cd0703-4c39-5e89-823d-694fbb07b12c = { name = "RayTraceEllipsoid", path = "R/RayTraceEllipsoid" }
+f4ce45ae-2b88-40b3-ad81-d2d70f7eb3a1 = { name = "KeemenaPreprocessing", path = "K/KeemenaPreprocessing" }
 f4d74008-4565-11e9-04bd-4fe404e6a92a = { name = "MeshAdaptiveDirectSearch", path = "M/MeshAdaptiveDirectSearch" }
 f4de928d-7c93-4858-9dcf-40bc6948a1da = { name = "QuantumAnnealingAnalytics", path = "Q/QuantumAnnealingAnalytics" }
 f4e2401c-25df-400c-adc7-b7787aea0cc3 = { name = "PlotlySave", path = "P/PlotlySave" }
