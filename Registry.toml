@@ -4659,6 +4659,7 @@ some amount of consideration when choosing package names.
 5e3497f2-6421-5a2b-b76c-5131171094e1 = { name = "datamash_jll", path = "jll/D/datamash_jll" }
 5e3a6505-df5b-52db-bcdc-6b03808ffcbb = { name = "PhotoOrganizer", path = "P/PhotoOrganizer" }
 5e3ba9c4-dd81-444d-b69a-0e7bd7bf60a4 = { name = "GalerkinToolkit", path = "G/GalerkinToolkit" }
+5e3e9a77-7bbf-480c-931c-0802e2453f5a = { name = "TimeseriesMakie", path = "T/TimeseriesMakie" }
 5e45e72d-22b8-4dd0-9c8b-f96714864bcd = { name = "DormandPrince", path = "D/DormandPrince" }
 5e47fb64-e119-507b-a336-dd2b206d9990 = { name = "TestImages", path = "T/TestImages" }
 5e49fdec-d473-4d14-b295-7bff2fcf1925 = { name = "Mango", path = "M/Mango" }
@@ -7898,6 +7899,7 @@ some amount of consideration when choosing package names.
 9fc3f58a-c2cc-5bff-9419-6a294fefdca9 = { name = "ForneyLab", path = "F/ForneyLab" }
 9fc549ba-b5d7-49a2-b268-8171e5fb6e89 = { name = "SatelliteToolboxGeomagneticField", path = "S/SatelliteToolboxGeomagneticField" }
 9fc9b8dd-f768-5d0d-bb0b-e65961e00eb6 = { name = "Tcl_jll", path = "jll/T/Tcl_jll" }
+9fcb4f73-e569-4ec8-8885-6d676206011b = { name = "ArtificialLandscapes", path = "A/ArtificialLandscapes" }
 9fcbc62e-52a0-44e9-a616-1359a0008194 = { name = "FMIImport", path = "F/FMIImport" }
 9fd38b11-e9ac-4299-9d3c-c25c1a5084b5 = { name = "RelevanceVectorMachine", path = "R/RelevanceVectorMachine" }
 9fdde737-9c7f-55bf-ade8-46b3f136cc48 = { name = "DiffEqOperators", path = "D/DiffEqOperators" }
@@ -8395,6 +8397,7 @@ a98d1166-8d3f-4eaf-b2a4-26e52ad22d9c = { name = "GenericDecMats", path = "G/Gene
 a98d9a8b-a2ab-59e6-89dd-64a1c18fca59 = { name = "Interpolations", path = "I/Interpolations" }
 a99a7680-1b0c-57dd-b59a-79ab8f52c9a4 = { name = "tree_sitter_highlight_jll", path = "jll/T/tree_sitter_highlight_jll" }
 a99b485a-c5c8-540e-ab00-7a7265134077 = { name = "ECC", path = "E/ECC" }
+a9a0a982-c603-4485-bf80-6b61b825abb4 = { name = "NonCommutativeProducts", path = "N/NonCommutativeProducts" }
 a9a2f26c-b040-4a74-98fd-7b69a57a6ccd = { name = "ResourceBundles", path = "R/ResourceBundles" }
 a9a3c162-d163-4c15-8926-b8794fbefed2 = { name = "SparseArrayKit", path = "S/SparseArrayKit" }
 a9ab73d0-e05c-5df1-8fde-d6a4645b8d8e = { name = "BatchedRoutines", path = "B/BatchedRoutines" }
@@ -10756,6 +10759,7 @@ d92e12fc-aea5-418c-9372-8108a4db1700 = { name = "NPFinancial", path = "N/NPFinan
 d92ed5c0-d2da-11e9-1f26-3721184dea2b = { name = "MathematicalPredicates", path = "M/MathematicalPredicates" }
 d932fbc0-74b0-44ca-9a64-41f37a8ecec9 = { name = "UkrainianLatin", path = "U/UkrainianLatin" }
 d934ef94-cdd4-4710-83d6-720549644b70 = { name = "ClimaCoreTempestRemap", path = "C/ClimaCoreTempestRemap" }
+d939df8b-32bd-4754-9006-1ae460420eb6 = { name = "ForecastBaselines", path = "F/ForecastBaselines" }
 d93e73c3-c101-4c3f-b101-f812c3e47675 = { name = "MCPTrajectoryGameSolver", path = "M/MCPTrajectoryGameSolver" }
 d9401462-0832-4dc7-b246-e799faa72617 = { name = "LCOrbits", path = "L/LCOrbits" }
 d946a17c-3691-5024-b95a-d2711e7138e5 = { name = "alive2_jll", path = "jll/A/alive2_jll" }
@@ -12396,6 +12400,7 @@ fbb19de7-1342-5f93-8193-71ff412e753d = { name = "Wynn", path = "W/Wynn" }
 fbb218c0-5317-5bc6-957e-2ee96dd4b1f0 = { name = "BSON", path = "B/BSON" }
 fbb45041-c46e-462f-888f-7c521cafbc2c = { name = "Pickle", path = "P/Pickle" }
 fbb887af-2519-40af-8dc5-25186fd85022 = { name = "RepeatingDecimalNotations", path = "R/RepeatingDecimalNotations" }
+fbbb2451-6dde-4807-9c10-ea24ace8c95b = { name = "CoordinateBisection", path = "C/CoordinateBisection" }
 fbc507ec-cd81-588a-baa9-9847e80d13e9 = { name = "LLD_unified_jll", path = "jll/L/LLD_unified_jll" }
 fbca9394-dd0a-4d1c-b066-ae75f6ef1ad5 = { name = "Jchemo", path = "J/Jchemo" }
 fbcbbc08-f1bf-5204-9233-b69f5d396135 = { name = "FEMBase", path = "F/FEMBase" }
