@@ -5896,6 +5896,7 @@ some amount of consideration when choosing package names.
 76cf2c14-24ca-44b2-b86c-6046d3cfcf82 = { name = "FerriteInterfaceElements", path = "F/FerriteInterfaceElements" }
 76d26698-d9ba-5ca1-ae24-4ac9393d02a0 = { name = "libnode_jll", path = "jll/L/libnode_jll" }
 76d27892-9a0b-406c-98e4-7c178e9b3dff = { name = "BraketSimulator", path = "B/BraketSimulator" }
+76d43509-2e9a-4ef2-8ba2-502f21f4bec7 = { name = "DataScout", path = "D/DataScout" }
 76db0263-63f3-4d26-bb9a-5dba378db904 = { name = "KomaMRIPlots", path = "K/KomaMRIPlots" }
 76e01b6b-c995-4ce6-8559-91e72a3d4e95 = { name = "FlexUnits", path = "F/FlexUnits" }
 76eceee3-57b5-4d4a-8e66-0e911cebbf60 = { name = "WorkerUtilities", path = "W/WorkerUtilities" }
@@ -9635,6 +9636,7 @@ c20c605d-adbe-46e4-9db6-e2b04c3ba023 = { name = "Hyperelastics", path = "H/Hyper
 c214720e-3c4f-4d89-8b85-b9ea3aac2a05 = { name = "EvidentialFlux", path = "E/EvidentialFlux" }
 c21b50f5-aa40-41ea-b809-c0f5e47bfa5c = { name = "YAXArrays", path = "Y/YAXArrays" }
 c21dee59-005f-55b6-acfd-94526b082a96 = { name = "Lattices", path = "L/Lattices" }
+c22758e7-e854-5bdb-8df2-7602c47a9d98 = { name = "TethysChlorisCore", path = "T/TethysChlorisCore" }
 c2297ded-f4af-51ae-bb23-16f91089e4e1 = { name = "ZMQ", path = "Z/ZMQ" }
 c2297e78-99bd-40ad-871d-f50e56b81012 = { name = "TensorInference", path = "T/TensorInference" }
 c22f9ab0-d5fe-5066-847c-f4bb1cd4e361 = { name = "Xorg_xcb_util_wm_jll", path = "jll/X/Xorg_xcb_util_wm_jll" }
@@ -9663,6 +9665,7 @@ c2997458-08a2-5152-82e8-5e3e3871749a = { name = "QRupdate_ng_jll", path = "jll/Q
 c29ec348-61ec-40c8-8164-b8c60e9d9f3d = { name = "AbstractDifferentiation", path = "A/AbstractDifferentiation" }
 c2a8506f-1b35-5b08-8aa1-bb4a7b47a05e = { name = "BigArrays", path = "B/BigArrays" }
 c2a93995-efaf-4fb2-b3df-3b08479f64e0 = { name = "RamseySpectroscopyCore", path = "R/RamseySpectroscopyCore" }
+c2aba7f5-82a4-4c45-a741-402bb41ee238 = { name = "TimeseriesBase", path = "T/TimeseriesBase" }
 c2ae6250-d0a1-11ea-0991-234599ce5244 = { name = "MarkovModels", path = "M/MarkovModels" }
 c2b21f84-4a8e-4c96-99a2-2b79df568f75 = { name = "SymArrays", path = "S/SymArrays" }
 c2b282c3-c9c2-431d-80f7-a1a0561ebe55 = { name = "CuTropicalGEMM", path = "C/CuTropicalGEMM" }
@@ -10125,6 +10128,7 @@ cbdad009-89f1-4e05-85a0-06b07b50707d = { name = "DocExtensions", path = "D/DocEx
 cbdf2221-f076-402e-a563-3d30da359d67 = { name = "AlgebraOfGraphics", path = "A/AlgebraOfGraphics" }
 cbe49d4c-5af1-5b60-bb70-0a60aa018e1b = { name = "RemoteFiles", path = "R/RemoteFiles" }
 cbea4545-8c96-4583-ad3a-44078d60d369 = { name = "MLJOpenML", path = "M/MLJOpenML" }
+cbea7a94-ea03-4af3-b52f-24efa70d1a55 = { name = "OneTimePasswords", path = "O/OneTimePasswords" }
 cbee9254-2197-4c11-8b22-effda389bb24 = { name = "ComparatorNetworks", path = "C/ComparatorNetworks" }
 cbf7bb22-a1a6-46cb-8b24-174e3bc5fc04 = { name = "LandSea", path = "L/LandSea" }
 cbf82f24-4841-4ec9-b0f8-e22c06a1387c = { name = "MoM_Visualizing", path = "M/MoM_Visualizing" }
