@@ -398,6 +398,7 @@ some amount of consideration when choosing package names.
 07d1fe3e-3e46-537d-9eac-e9e13d0d4cec = { name = "TensorKit", path = "T/TensorKit" }
 07d77754-e150-4737-8c94-cd238a1fb45b = { name = "Tapir", path = "T/Tapir" }
 07db6e9f-91ad-4fbd-9fd8-5722e51e9a72 = { name = "ProtocolDataUnits", path = "P/ProtocolDataUnits" }
+07dc4704-23df-41f7-aa80-c1ad3d8f3e52 = { name = "VariogramAnalysis", path = "V/VariogramAnalysis" }
 07e3d4f1-5dc2-5a3a-9c19-e1965b76eff9 = { name = "SortingNetworks", path = "S/SortingNetworks" }
 07e4ff7f-07bb-45cd-9e58-8fac98767c00 = { name = "OpenInterfaces", path = "O/OpenInterfaces" }
 07e67fc4-eb77-11eb-38c2-1307cbb1fbf4 = { name = "OVERT", path = "O/OVERT" }
@@ -1560,6 +1561,7 @@ some amount of consideration when choosing package names.
 1ef8cab2-a151-54b4-a57f-5fbb4046a4ab = { name = "rocBLAS_jll", path = "jll/R/rocBLAS_jll" }
 1f012879-3887-41d0-bd88-38cb7d73fb12 = { name = "ChairmarksExtras", path = "C/ChairmarksExtras" }
 1f073b57-2743-565b-a723-478df9911235 = { name = "TestU01_jll", path = "jll/T/TestU01_jll" }
+1f080b7b-ff6a-46b3-9ade-986f655adc86 = { name = "LinearClosuresForCAP", path = "L/LinearClosuresForCAP" }
 1f0d46c9-1630-4f7c-9a63-ed825740f08c = { name = "GridPotentialFlow", path = "G/GridPotentialFlow" }
 1f15a43c-97ca-5a2a-ae31-89f07a497df4 = { name = "CxxWrap", path = "C/CxxWrap" }
 1f212c10-5119-456f-85ee-3680502e4796 = { name = "RobustMeans", path = "R/RobustMeans" }
@@ -2905,6 +2907,7 @@ some amount of consideration when choosing package names.
 3a41ca7c-167c-5dd3-b068-80165705c037 = { name = "Equations", path = "E/Equations" }
 3a47ddbd-112b-4cc1-b00e-3746ec434ee5 = { name = "FastRunningMedian", path = "F/FastRunningMedian" }
 3a4d1b5c-c61d-41fd-a00a-5873ba7a1b0d = { name = "ClimaComms", path = "C/ClimaComms" }
+3a59bceb-d31e-474c-9627-7222755a1e48 = { name = "Slint", path = "S/Slint" }
 3a5a026c-ea78-4100-92bd-8470dea0b587 = { name = "Events", path = "E/Events" }
 3a62192b-5e76-5fff-8887-7dbaab5f1e7e = { name = "wxWidgets_jll", path = "jll/W/wxWidgets_jll" }
 3a778109-d974-46c8-ac54-09f30d605bdf = { name = "ContinuumMechanicsBase", path = "C/ContinuumMechanicsBase" }
