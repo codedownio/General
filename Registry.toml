@@ -1591,6 +1591,7 @@ some amount of consideration when choosing package names.
 1fb136ff-715c-473e-9ae1-0caef0ff09b1 = { name = "BplusCore", path = "B/BplusCore" }
 1fb6a985-f65d-4707-9052-04af0f7ae9ca = { name = "Firestore", path = "F/Firestore" }
 1fb851c3-be98-478b-9657-166436d5cfc1 = { name = "CharFuncPricing", path = "C/CharFuncPricing" }
+1fbc523b-fa59-4a4c-89bb-0e3fcf7c697f = { name = "InteroperableCSV", path = "I/InteroperableCSV" }
 1fbeeb36-5f17-413c-809b-666fb144f157 = { name = "CommonDataModel", path = "C/CommonDataModel" }
 1fbf2c77-44e2-4d5d-8131-0fa618a5c278 = { name = "Salsa", path = "S/Salsa" }
 1fcaf345-95e3-5b8b-91d6-2145eb844b9d = { name = "GasPowerModels", path = "G/GasPowerModels" }
@@ -4471,6 +4472,7 @@ some amount of consideration when choosing package names.
 5a6518a2-e6ab-4020-97b8-110ebf16b849 = { name = "ComradeAdaptMCMC", path = "C/ComradeAdaptMCMC" }
 5a653867-b65e-5b16-a095-b1e26d522bbf = { name = "Counters", path = "C/Counters" }
 5a6f062f-bf45-497d-b654-ad17aae2a530 = { name = "MRIFiles", path = "M/MRIFiles" }
+5a74c7d3-1edb-47ee-a7ac-bdb4b3eeab9d = { name = "MinimumVarianceAnalysis", path = "M/MinimumVarianceAnalysis" }
 5a7615ae-274c-51d1-b5a8-ff30401c2c7e = { name = "osslsigncode_jll", path = "jll/O/osslsigncode_jll" }
 5a766526-3cf8-5128-8c31-4f7b7ad60f0e = { name = "rocminfo_jll", path = "jll/R/rocminfo_jll" }
 5a7cd546-c751-11e8-3a71-83f58cf2d4e3 = { name = "EvaluationCF", path = "E/EvaluationCF" }
@@ -10044,6 +10046,7 @@ c94a8726-515c-4ee5-9c02-6a0d0dc456e9 = { name = "PointerArithmetic", path = "P/P
 c94c279d-25a6-4763-9509-64d165bea63e = { name = "Proj", path = "P/Proj" }
 c9556dd2-1aed-4cfe-8560-1557cf593001 = { name = "ForwardDiffChainRules", path = "F/ForwardDiffChainRules" }
 c959553c-f8cc-46e9-a814-0006f6d26ee1 = { name = "GEEBRA", path = "G/GEEBRA" }
+c95d6c40-0c10-4161-80ab-e9b71483fbc7 = { name = "KIMNeighborList", path = "K/KIMNeighborList" }
 c95f448f-dc0f-43b0-8158-a2e23540fc0b = { name = "ExtremeLearning", path = "E/ExtremeLearning" }
 c9633620-f88e-4e67-b3af-074911471b78 = { name = "CompressedSparseBlocks", path = "C/CompressedSparseBlocks" }
 c963dde9-0319-47f5-bf0c-b07d3c80ffa6 = { name = "AMGX", path = "A/AMGX" }
@@ -10324,6 +10327,7 @@ cfa96e45-7952-4214-b401-70d7ad14aa2f = { name = "FinancialModelingPrep", path = 
 cfc395e8-590f-11e8-1f13-43a2532b2fa8 = { name = "ExtendableGrids", path = "E/ExtendableGrids" }
 cfc5aa84-1a2a-41ab-b391-ede92ecae40c = { name = "DaggerWebDash", path = "D/DaggerWebDash" }
 cfd3f2ab-0fb0-4d51-9553-03e53d33f144 = { name = "Raven", path = "R/Raven" }
+cfd60579-01bf-4b47-9b3b-7c8dc91a23e2 = { name = "TenSolver", path = "T/TenSolver" }
 cfdabe9e-7cc8-40e3-9725-d80209c3e763 = { name = "FiniteVolumeMethod1D", path = "F/FiniteVolumeMethod1D" }
 cfe838f4-859f-11e9-2ea1-df7d4e7c3537 = { name = "OceanGrids", path = "O/OceanGrids" }
 cffab07f-9bc2-4db1-8861-388f63bf7694 = { name = "GraphNeuralNetworks", path = "G/GraphNeuralNetworks" }
@@ -12468,6 +12472,7 @@ fc669557-7ec9-5e45-bca9-462afbc28879 = { name = "PkgLicenses", path = "P/PkgLice
 fc66bc1b-447b-53fc-8f09-bc9cfb0b0c10 = { name = "SNAPDatasets", path = "S/SNAPDatasets" }
 fc6ee7eb-129a-416f-804b-d7271ece6a3a = { name = "ConstitutiveModels", path = "C/ConstitutiveModels" }
 fc7263ad-bce8-5229-97b1-c6ddabda41b1 = { name = "Exodus_jll", path = "jll/E/Exodus_jll" }
+fc770985-7669-4833-bc54-a38444eb6027 = { name = "FLORIDyn", path = "F/FLORIDyn" }
 fc773c40-3585-4d5f-b720-30d077ff5466 = { name = "GastonDSP", path = "G/GastonDSP" }
 fc7e833f-a3b9-439d-ae82-c6ad11a3e54b = { name = "ArDCA", path = "A/ArDCA" }
 fc805444-c5ec-4e06-bf74-6216be16ab28 = { name = "DrelTools", path = "D/DrelTools" }
