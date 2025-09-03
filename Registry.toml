@@ -672,6 +672,7 @@ some amount of consideration when choosing package names.
 0d552887-2f53-4f11-9665-485c167a9a55 = { name = "ExactConvolution", path = "E/ExactConvolution" }
 0d57b887-6120-40e6-8b8c-29d3116bc0c1 = { name = "CameraModels", path = "C/CameraModels" }
 0d5d47ad-f746-49e0-b7ca-67b1cd51b473 = { name = "CBSOData3", path = "C/CBSOData3" }
+0d65d39a-c591-5c20-a0df-10e8381fd541 = { name = "cJSON_jll", path = "jll/C/cJSON_jll" }
 0d6c9454-f81a-4f72-b66a-3a4362bb1520 = { name = "Pastebin", path = "P/Pastebin" }
 0d71be07-595a-4f89-9529-4065a4ab43a6 = { name = "NullBroadcasts", path = "N/NullBroadcasts" }
 0d73aaa9-994a-4556-95d0-da67cb772a03 = { name = "UNet", path = "U/UNet" }
@@ -5653,6 +5654,7 @@ some amount of consideration when choosing package names.
 71a25704-ed10-46ea-9c76-1c441b891988 = { name = "Ludwig", path = "L/Ludwig" }
 71a409db-0c41-4225-8938-aaf295661ce5 = { name = "ParetoRecipes", path = "P/ParetoRecipes" }
 71a99df6-f52c-4da1-bd2a-69d6f37f3252 = { name = "ImagePhantoms", path = "I/ImagePhantoms" }
+71b12eb5-90c3-4985-b1e7-1ec075583b1e = { name = "MTGeophysics", path = "M/MTGeophysics" }
 71b753c1-733f-4418-b8b2-c1bb484780f7 = { name = "YahooFinance", path = "Y/YahooFinance" }
 71c4a2d3-ecf8-5cd9-ab6a-09a504837b4f = { name = "SpinMonteCarlo", path = "S/SpinMonteCarlo" }
 71cc7b0d-25ae-54b3-b08b-36363cca7c2f = { name = "VMEC_jll", path = "jll/V/VMEC_jll" }
@@ -11245,6 +11247,7 @@ e2554f3b-3117-50c0-817c-e040a3ddf72d = { name = "Clp", path = "C/Clp" }
 e25cca7e-83ef-51fa-be6c-dfe2a3123128 = { name = "FDM", path = "F/FDM" }
 e2608387-6d34-4676-ab1d-f98b51cb1878 = { name = "DynamicPipe", path = "D/DynamicPipe" }
 e26130ba-f664-4e1e-a986-1cbf7dd5bec7 = { name = "LIBSVMdata", path = "L/LIBSVMdata" }
+e2630f5e-de23-4bea-bc0a-959d40375e7e = { name = "LensFactory", path = "L/LensFactory" }
 e265ac49-cc4b-4270-b3a8-e67d55197967 = { name = "FermiDiracIntegrals", path = "F/FermiDiracIntegrals" }
 e2685f51-7e38-5353-a97d-a921fd2c8199 = { name = "ECOS", path = "E/ECOS" }
 e2752cbe-bcf4-5895-8727-84ebc14a76bd = { name = "MATLABDiffEq", path = "M/MATLABDiffEq" }
