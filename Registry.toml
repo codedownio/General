@@ -3758,6 +3758,7 @@ some amount of consideration when choosing package names.
 4b34888f-f399-49d4-9bb3-47ed5cae4e65 = { name = "QOI", path = "Q/QOI" }
 4b3c9753-2685-44e9-8a29-365b96c023ed = { name = "MinHash", path = "M/MinHash" }
 4b496c86-8d00-441d-b504-079c710e0aa7 = { name = "SiennaPRASInterface", path = "S/SiennaPRASInterface" }
+4b627f85-a485-4383-967f-8f50175dea55 = { name = "StructuredGaussianMixtures", path = "S/StructuredGaussianMixtures" }
 4b67e4b5-442d-4ef5-b760-3f5df3a57537 = { name = "CompositionalNetworks", path = "C/CompositionalNetworks" }
 4b684d98-c3ff-425e-b462-3ad63461a205 = { name = "DiffRaster2D", path = "D/DiffRaster2D" }
 4b6948d5-498c-54b5-b082-cdb1540453e9 = { name = "RemoteBMI", path = "R/RemoteBMI" }
@@ -9078,6 +9079,7 @@ b66b7d2f-f536-51df-9f97-4dfb9d27c005 = { name = "StringAnalysis", path = "S/Stri
 b6717af4-2a8a-40aa-9b8e-77d45ce125cc = { name = "RadiationPatterns", path = "R/RadiationPatterns" }
 b6719975-6fcd-4453-92fa-4206f52c3839 = { name = "ADCMEKit", path = "A/ADCMEKit" }
 b675d258-116a-5741-b937-b79f054b0542 = { name = "FeatherFiles", path = "F/FeatherFiles" }
+b67d9115-b479-4391-b710-1f027b87ba2b = { name = "DoubleBetaDecayGenerators", path = "D/DoubleBetaDecayGenerators" }
 b67e1e5a-d13e-5892-ad81-fb75f5903773 = { name = "FlexLinearAlgebra", path = "F/FlexLinearAlgebra" }
 b6847444-3cfa-4637-857f-9c8c615f8351 = { name = "LRMoE", path = "L/LRMoE" }
 b6871879-622e-446c-84f2-629b119ba541 = { name = "CellLists", path = "C/CellLists" }
@@ -10561,6 +10563,7 @@ d40b7edd-0ea2-426c-85ee-c5ce139337ad = { name = "Nakala", path = "N/Nakala" }
 d40f9233-56b0-491b-a728-76bda003a9e7 = { name = "Abaco", path = "A/Abaco" }
 d40fb65e-c2ee-4113-9e14-cb96ca0acb32 = { name = "RateTables", path = "R/RateTables" }
 d414da3d-4745-48bb-8d80-42e94e092884 = { name = "ClimaCore", path = "C/ClimaCore" }
+d41a5a93-b765-542c-87e0-8b980b4b1221 = { name = "fplll_jll", path = "jll/F/fplll_jll" }
 d41bc354-129a-5804-8e4c-c37616107c6c = { name = "NLSolversBase", path = "N/NLSolversBase" }
 d41fe92e-7e57-414e-90fb-fae81d34872f = { name = "PhysicalFFT", path = "P/PhysicalFFT" }
 d423b6e5-1c84-4ae2-8d2d-b903aee15ac7 = { name = "SmallZarrGroups", path = "S/SmallZarrGroups" }
