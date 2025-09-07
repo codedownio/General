@@ -152,6 +152,7 @@ some amount of consideration when choosing package names.
 02dc6022-739e-4478-acf8-ef45d2bc67b8 = { name = "AlpacaMarkets", path = "A/AlpacaMarkets" }
 02e612b2-dee0-47c3-933b-ef05e3915492 = { name = "MPIMapReduce", path = "M/MPIMapReduce" }
 02ec7d09-9c23-427e-9147-b12e6bb36e7e = { name = "Ueauty", path = "U/Ueauty" }
+02edb123-fbf3-4025-abe6-bed5b7376cdf = { name = "WeightVectors", path = "W/WeightVectors" }
 02f56413-64a8-464d-a8fa-8dfc28b55f81 = { name = "WGPUgfx", path = "W/WGPUgfx" }
 02f895e8-fdb1-4346-8fe6-c721699f5126 = { name = "Mera", path = "M/Mera" }
 02f9a84d-9555-5f1a-8c3c-42027521038d = { name = "Libbpf_jll", path = "jll/L/Libbpf_jll" }
@@ -3246,6 +3247,7 @@ some amount of consideration when choosing package names.
 415736d3-e371-4b8a-9ed5-2a314a4b3aac = { name = "Sabermetrics", path = "S/Sabermetrics" }
 41595b7c-9afa-5287-863f-896d3380052a = { name = "Xorg_glproto_jll", path = "jll/X/Xorg_glproto_jll" }
 41602cae-99cf-4169-ad6c-01f6ab844ef7 = { name = "BinStatistics", path = "B/BinStatistics" }
+4160a140-ed77-4dbe-8316-dcd1d4ea2f4e = { name = "SawyerEliassenSolver", path = "S/SawyerEliassenSolver" }
 4161f7c7-f4e7-47ff-bbcb-bc0b24702626 = { name = "BatchIterators", path = "B/BatchIterators" }
 4175e07e-e5b7-423e-8796-3ea7f6d48281 = { name = "Stuffing", path = "S/Stuffing" }
 41889b7c-c35c-4f16-abd7-94b299d9fd29 = { name = "Agate", path = "A/Agate" }
@@ -6065,6 +6067,7 @@ some amount of consideration when choosing package names.
 792012fa-ebfb-4b3a-ab44-69908522effd = { name = "GalacticNLopt", path = "G/GalacticNLopt" }
 792026f5-ac9a-4a19-adcb-47b0ce2deb5d = { name = "TestFunctionRunner", path = "T/TestFunctionRunner" }
 792122b4-ca99-40de-a6bc-6742525f08b6 = { name = "EarlyStopping", path = "E/EarlyStopping" }
+79264595-ebef-4885-9da8-6ac76f78a2e5 = { name = "Ecosons", path = "E/Ecosons" }
 792afdf1-32c1-5681-94e0-d7bf7a5df49e = { name = "NLPModelsJuMP", path = "N/NLPModelsJuMP" }
 792d114c-f8c3-4b81-9580-cc03468a5b58 = { name = "Diplodocus", path = "D/Diplodocus" }
 792e603a-1588-414c-b272-614011baa40e = { name = "SBMLToolkitTestSuite", path = "S/SBMLToolkitTestSuite" }
@@ -6072,6 +6075,7 @@ some amount of consideration when choosing package names.
 793d2195-304b-438e-bbb1-bc33c872ac39 = { name = "PartialWaveFunctions", path = "P/PartialWaveFunctions" }
 793e0360-0e47-4c52-9513-43d75d53c7d0 = { name = "SymmetricTightBinding", path = "S/SymmetricTightBinding" }
 7943bfb0-7437-5acd-a008-22777931c7aa = { name = "librdkafka_jll", path = "jll/L/librdkafka_jll" }
+79462ac6-003b-4e37-94c5-db11fbae63d8 = { name = "Skelia", path = "S/Skelia" }
 794fc106-2fa4-440f-961c-0d7d7b47016a = { name = "QSM", path = "Q/QSM" }
 7952bbbe-a946-4118-bea0-081a0932faa9 = { name = "CrystalNets", path = "C/CrystalNets" }
 79566f03-f7ae-471c-a05f-4700599937bd = { name = "ToyPublicKeys", path = "T/ToyPublicKeys" }
@@ -6791,6 +6795,7 @@ some amount of consideration when choosing package names.
 87678d4f-af7b-42c4-8acc-799be3e9c2d2 = { name = "InPartSBiome", path = "I/InPartSBiome" }
 8767b432-2e83-436f-aa62-e8e2db78ab85 = { name = "StateSpaceAnalysis", path = "S/StateSpaceAnalysis" }
 876e2209-f438-4469-a9ec-3c471b9a3293 = { name = "FRACDemand", path = "F/FRACDemand" }
+8771e72f-1726-44cc-8528-8e528679e212 = { name = "Odrpack", path = "O/Odrpack" }
 877b7152-b508-43dc-81fb-72341a693988 = { name = "FullNetworkSystems", path = "F/FullNetworkSystems" }
 877fb49a-56b0-480a-9049-319c0c353852 = { name = "CompileBot", path = "C/CompileBot" }
 878138dc-5b27-11ea-1a71-cb95d38d6b29 = { name = "CellularAutomata", path = "C/CellularAutomata" }
@@ -7605,6 +7610,7 @@ some amount of consideration when choosing package names.
 99331840-cbe1-42a1-a01e-7fb3c709a0a8 = { name = "ApproximateRelations", path = "A/ApproximateRelations" }
 99342f36-827c-5390-97c9-d7f9ee765c78 = { name = "StateSpaceModels", path = "S/StateSpaceModels" }
 994df76e-a4c1-5e1f-bd5c-23b9b5303d4f = { name = "ForwardDiff2", path = "F/ForwardDiff2" }
+994f66c3-d2c7-4ba6-88fb-4a10f50800ba = { name = "Capse", path = "C/Capse" }
 995b91a9-d308-5afd-9ec6-746e21dbc043 = { name = "PlotUtils", path = "P/PlotUtils" }
 995e1dad-72e3-4b97-b122-7deaeb8b44f9 = { name = "QXTns", path = "Q/QXTns" }
 995f5adf-d221-5ddc-a873-ce518b8081c9 = { name = "GAP_pkg_anupq_jll", path = "jll/G/GAP_pkg_anupq_jll" }
@@ -10368,6 +10374,7 @@ d05aeea4-b7d4-55ac-b691-9e7fabb07ba2 = { name = "LuxurySparse", path = "L/Luxury
 d061fddc-c47a-4172-865e-fdb23de1c5fa = { name = "MarkovGames", path = "M/MarkovGames" }
 d066d2d9-0d34-5c4c-ae28-f0a7a1fd9f53 = { name = "Icestorm_jll", path = "jll/I/Icestorm_jll" }
 d0713e65-ce0c-4a8e-a1da-2ed737d217c5 = { name = "PowerModelsDistributionStateEstimation", path = "P/PowerModelsDistributionStateEstimation" }
+d075ac83-78d4-45fb-ba34-599d2b1f585f = { name = "StellaGmsh", path = "S/StellaGmsh" }
 d076d87d-d1f9-4ea3-a44b-64b4cdd1e470 = { name = "SolverParameters", path = "S/SolverParameters" }
 d07eab47-f98b-4620-8fe1-ee63e153d4ef = { name = "SymplecticMatrices", path = "S/SymplecticMatrices" }
 d08262e4-672f-4e7f-a976-f2cea5767631 = { name = "FiniteElementContainers", path = "F/FiniteElementContainers" }
