@@ -2979,6 +2979,7 @@ some amount of consideration when choosing package names.
 3b853605-1c98-4422-8364-4bd93ee0529e = { name = "VectorizedStatistics", path = "V/VectorizedStatistics" }
 3b8c1752-506b-11e9-3f9b-8db86abc7c68 = { name = "TCX", path = "T/TCX" }
 3b8dc6f2-bddc-4c88-9cf9-9f37a0c17a29 = { name = "PrimitiveCollisions", path = "P/PrimitiveCollisions" }
+3b8edd7d-1770-4db3-baf1-86f62e581bb4 = { name = "OneTwoFive", path = "O/OneTwoFive" }
 3b95acbd-20d2-4f07-8ac8-8df51737bf8b = { name = "ModelOrderReductionToolkit", path = "M/ModelOrderReductionToolkit" }
 3b969827-a86c-476c-9527-bb6f1a8fbad5 = { name = "MathOptSetDistances", path = "M/MathOptSetDistances" }
 3b98bdbd-c5fb-40e4-a3b9-3b59ff234f62 = { name = "oneAPIKernels", path = "O/oneAPIKernels" }
@@ -4621,6 +4622,7 @@ some amount of consideration when choosing package names.
 5d3f8266-9186-4afd-be5f-84c55396a2a7 = { name = "HomogeneousVectors", path = "H/HomogeneousVectors" }
 5d3fc3e8-a677-5550-826f-6cfd58f208da = { name = "SCALAPACK_jll", path = "jll/S/SCALAPACK_jll" }
 5d41aeb0-57df-5a94-a3c4-60ba49600646 = { name = "StructDualDynProg", path = "S/StructDualDynProg" }
+5d4dba4b-0609-5411-86b8-155d70b59700 = { name = "libcbor_jll", path = "jll/L/libcbor_jll" }
 5d54f141-216f-4d16-867d-ae7ad4aba2dd = { name = "FluxKAN", path = "F/FluxKAN" }
 5d56408f-8135-48b9-8e3b-17d984397714 = { name = "LindoAPI", path = "L/LindoAPI" }
 5d58af2d-7d6a-4ad4-9195-74ef913580e2 = { name = "RPkg", path = "R/RPkg" }
@@ -9528,6 +9530,7 @@ beead57b-6593-4141-bbb8-edf896229b7f = { name = "DeviceDefinitions", path = "D/D
 beecb120-e197-59fa-b79c-0316d51c9920 = { name = "tree_sitter_go_jll", path = "jll/T/tree_sitter_go_jll" }
 befc5f09-81d5-499c-a4b2-d0464ba9f9c8 = { name = "RigidBodyTools", path = "R/RigidBodyTools" }
 bf05d729-34b2-4f1f-a2f1-2452bece7ebc = { name = "SwagUI", path = "S/SwagUI" }
+bf13095a-df47-5f5c-aa1a-d897479947cc = { name = "XGBoost_GPU_jll", path = "jll/X/XGBoost_GPU_jll" }
 bf13de61-383b-4610-8d2c-e75fac0df62b = { name = "GraphDatasets", path = "G/GraphDatasets" }
 bf1adee6-87fe-4679-8d23-51fe99940a25 = { name = "RedClust", path = "R/RedClust" }
 bf1c2c22-5e42-4e78-8b6b-92e6c673eeb0 = { name = "TaijaParallel", path = "T/TaijaParallel" }
@@ -9580,6 +9583,7 @@ bfde9dd4-8f40-4a1e-be09-1475335e1c92 = { name = "MLIR", path = "M/MLIR" }
 bfe18334-aefd-11e9-1109-4bf2b15a5b91 = { name = "SDPAFamily", path = "S/SDPAFamily" }
 bfecab0d-fd4d-5014-a23f-56c5fae6447a = { name = "Rematch", path = "R/Rematch" }
 bff38aaf-160c-48a5-9daf-c138fff82437 = { name = "AvifSupport", path = "A/AvifSupport" }
+bffc1db9-6142-4b2c-b5cf-b017e7edc3de = { name = "CANBus", path = "C/CANBus" }
 bffe22d1-cb55-4f4e-ac2c-f4dd4bf58912 = { name = "Gaius", path = "G/Gaius" }
 c0017dae-bb0d-5ae0-bc81-a2950b9c605d = { name = "startin_jll", path = "jll/S/startin_jll" }
 c0090381-4147-56d7-9ebc-da0b1113ec56 = { name = "Qt6Base_jll", path = "jll/Q/Qt6Base_jll" }
@@ -10427,6 +10431,7 @@ d155caf3-1b17-4a40-bb30-7fbeaeeea502 = { name = "LeafOptics", path = "L/LeafOpti
 d16e510f-c236-4b74-8eb3-5d2ec9a3ec6e = { name = "ParameterisedModule", path = "P/ParameterisedModule" }
 d1712120-4320-4bd5-bb6f-c06e5f298789 = { name = "Smartphores", path = "S/Smartphores" }
 d175e27a-564a-485c-86b6-52e0284acaa2 = { name = "DRSOM", path = "D/DRSOM" }
+d1845624-ad4f-453b-8ff4-a8db365bf3a7 = { name = "RingGrids", path = "R/RingGrids" }
 d1891b89-3aa8-469e-a5ac-90bba77ac8f3 = { name = "StaticLists", path = "S/StaticLists" }
 d191faf8-5603-4116-bb4f-9585dee8559b = { name = "RollingWindowArrays", path = "R/RollingWindowArrays" }
 d1922b25-af4e-4ba3-84af-fe9bea896051 = { name = "LightOSM", path = "L/LightOSM" }
