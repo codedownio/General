@@ -168,6 +168,7 @@ some amount of consideration when choosing package names.
 034523a5-eae8-49f5-9052-0ea364535333 = { name = "AstroNbodySim", path = "A/AstroNbodySim" }
 034a18dc-0e7b-49fe-982a-6cb6859f61a6 = { name = "SoftmaxRegression", path = "S/SoftmaxRegression" }
 035190e5-69f1-488f-aaab-becca2889735 = { name = "NonconvexCore", path = "N/NonconvexCore" }
+035518d0-5ae3-5af5-93bb-592bb84664f0 = { name = "Sundials_GPU_jll", path = "jll/S/Sundials_GPU_jll" }
 03576162-b2ff-4022-a931-e67b9900fd45 = { name = "TracedRandom", path = "T/TracedRandom" }
 03645d51-6a26-4d1e-b9a1-035dc79d88e7 = { name = "ITensorMPOCompression", path = "I/ITensorMPOCompression" }
 0366c28c-dc25-47c7-912f-d29916230b20 = { name = "MergedIterators", path = "M/MergedIterators" }
@@ -2515,6 +2516,7 @@ some amount of consideration when choosing package names.
 324e1790-ee0a-4954-b7e4-a383d36b0fd7 = { name = "TwinCopulas", path = "T/TwinCopulas" }
 3251bfac-6a57-4b6d-aa61-ac1fef2975ab = { name = "GeometryOps", path = "G/GeometryOps" }
 3254fc65-9028-534d-aa9d-d76d128babc6 = { name = "aws_c_http_jll", path = "jll/A/aws_c_http_jll" }
+325db55a-9c6c-5b90-b1a2-ec87e7a38c44 = { name = "WrappedUnions", path = "W/WrappedUnions" }
 32610584-8033-4d12-ab8e-952911879412 = { name = "OctreeBH", path = "O/OctreeBH" }
 3263718b-31ed-49cf-8a0f-35a466e8af96 = { name = "ImplicitDiscreteSolve", path = "I/ImplicitDiscreteSolve" }
 3265bcac-820f-4b8a-8cd5-05a71ff46e33 = { name = "MatrixMerge", path = "M/MatrixMerge" }
@@ -2869,6 +2871,7 @@ some amount of consideration when choosing package names.
 39424ebd-4cf3-5550-a685-96706a953f40 = { name = "TreeView", path = "T/TreeView" }
 3943505e-88e3-5b18-a3d9-e2be89fdab48 = { name = "KongYiji", path = "K/KongYiji" }
 394991d0-d7c6-11e9-19af-cd33f6408fef = { name = "EfficientGlobalOptimization", path = "E/EfficientGlobalOptimization" }
+3951c326-33a3-4e32-9c78-203120422c33 = { name = "MCBench", path = "M/MCBench" }
 3955a311-db13-416c-9275-1d80ed98e5e9 = { name = "GridLayoutBase", path = "G/GridLayoutBase" }
 39591389-4884-462a-89e7-9edfce40b6eb = { name = "ThreadedSparseCSR", path = "T/ThreadedSparseCSR" }
 39612bbb-57ff-4bee-a8f8-6b0371679005 = { name = "Cortex", path = "C/Cortex" }
@@ -5760,6 +5763,7 @@ some amount of consideration when choosing package names.
 7332bcdc-bd2a-5999-b4fe-680b85f40771 = { name = "tree_sitter_bash_jll", path = "jll/T/tree_sitter_bash_jll" }
 733f0b2a-2dd6-45a4-80ec-bf2267f2a32d = { name = "MosaikAPIv3", path = "M/MosaikAPIv3" }
 734052d1-fea3-4ffe-af92-b9cc64c3051c = { name = "BranchTests", path = "B/BranchTests" }
+73480bc8-48a2-41cc-880f-208b490ccf65 = { name = "RationalFunctionFields", path = "R/RationalFunctionFields" }
 734901b1-590a-5f47-85e0-724a0ec3af09 = { name = "DynamicBounds", path = "D/DynamicBounds" }
 734bcdfa-9b77-4718-b76e-d5faf726ad42 = { name = "ODEHybrid", path = "O/ODEHybrid" }
 73536572-7074-4e69-5270-206c4c6a2061 = { name = "JLLGenerator", path = "J/JLLGenerator" }
@@ -11033,6 +11037,7 @@ dd5226c6-a4d4-4bc7-8575-46859f9c95b9 = { name = "ArrayInterfaceStaticArraysCore"
 dd57e2ab-7dae-448b-a136-57ab9eca4234 = { name = "FewBodyPhysics", path = "F/FewBodyPhysics" }
 dd59ff1a-a01a-568d-8b29-0669330f116a = { name = "hsa_rocr_jll", path = "jll/H/hsa_rocr_jll" }
 dd61e66b-39ce-57b0-8813-509f78be4b4d = { name = "MDBM", path = "M/MDBM" }
+dd6a91e4-736f-4540-ac85-13822ca7b545 = { name = "LatticeMatrices", path = "L/LatticeMatrices" }
 dd720b4e-75c8-5196-993d-eac563881c8e = { name = "Qt5Charts_jll", path = "jll/Q/Qt5Charts_jll" }
 dd78c5bf-19c4-4e9c-96ce-c3ec745c7812 = { name = "Replay", path = "R/Replay" }
 dd7facba-cbc5-45d8-adb5-1f8b832104f1 = { name = "SquidGame", path = "S/SquidGame" }
