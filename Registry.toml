@@ -2022,6 +2022,7 @@ some amount of consideration when choosing package names.
 28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71 = { name = "GR", path = "G/GR" }
 28c40a4d-cd08-48a0-9e99-cc2df8099be4 = { name = "FewBodyToolkit", path = "F/FewBodyToolkit" }
 28c4a263-0105-5ca0-9a8c-f4f6b89a1dd4 = { name = "Xorg_libXt_jll", path = "jll/X/Xorg_libXt_jll" }
+28c78530-8bb7-4fc0-9b88-04e8b391d412 = { name = "Mica", path = "M/Mica" }
 28cec04b-85b5-4b92-beb9-e8851fc733f1 = { name = "CitrusBuilder", path = "C/CitrusBuilder" }
 28d57a85-8fef-5791-bfe6-a80928e7c999 = { name = "Transducers", path = "T/Transducers" }
 28d598bf-9b8f-59f1-b38c-5a06b4a0f5e6 = { name = "BGZFStreams", path = "B/BGZFStreams" }
@@ -2282,6 +2283,7 @@ some amount of consideration when choosing package names.
 2dfb63ee-cc39-5dd5-95bd-886bf059d720 = { name = "PooledArrays", path = "P/PooledArrays" }
 2e05858d-61bb-58c4-9d37-747e7cb565b8 = { name = "ReinforcementLearningEnvironmentClassicControl", path = "R/ReinforcementLearningEnvironmentClassicControl" }
 2e05b275-071e-4a72-a6f9-4f599bc7944c = { name = "LockandKeyLookups", path = "L/LockandKeyLookups" }
+2e0b0046-e7a1-486f-88de-807ee8ffabe5 = { name = "XESMF", path = "X/XESMF" }
 2e0d8c30-fd72-45bd-a04c-a052d00f6fe4 = { name = "ACAFact", path = "A/ACAFact" }
 2e0df379-9877-4907-ab94-cd881f8d985b = { name = "AutoStructs", path = "A/AutoStructs" }
 2e0e35c7-a2e4-4343-998d-7ef72827ed2d = { name = "Moshi", path = "M/Moshi" }
@@ -4092,6 +4094,7 @@ some amount of consideration when choosing package names.
 51d429d1-9683-4c89-86d7-889f440454ef = { name = "LokiLogger", path = "L/LokiLogger" }
 51dfaa90-333b-4553-a411-bc8026e4957c = { name = "Jokes", path = "J/Jokes" }
 51dff5e5-a8c6-52cb-a59b-f025f1971e2b = { name = "libclc_jll", path = "jll/L/libclc_jll" }
+51e283bb-8733-4f53-8900-5afe7e33f1ed = { name = "MoleculeView", path = "M/MoleculeView" }
 51f2fc5f-9d5c-580b-98f8-9638c2091362 = { name = "libposit_jll", path = "jll/L/libposit_jll" }
 51f55a63-7ec5-4b6d-a5a9-9bbf03ec1f62 = { name = "TriangularShapedCloudInterpolation", path = "T/TriangularShapedCloudInterpolation" }
 51fcb6bd-ecd8-522c-95bc-4099d1d03463 = { name = "NamedColors", path = "N/NamedColors" }
@@ -8463,6 +8466,7 @@ a963bdd2-2df7-4f54-a1ee-49d51e6be12a = { name = "AtomsBase", path = "A/AtomsBase
 a9676066-08b1-4647-a3cf-89b449beb4d6 = { name = "FlipPA", path = "F/FlipPA" }
 a9693cdc-2bc8-5703-a9cd-1da358117377 = { name = "CondaBinDeps", path = "C/CondaBinDeps" }
 a9718f02-dbee-5ae5-ad0e-dfbd07fa387b = { name = "ChemometricsTools", path = "C/ChemometricsTools" }
+a9737db6-c05c-4e48-868b-6bc41491d9d9 = { name = "CommonDataFormat", path = "C/CommonDataFormat" }
 a975b10e-0019-58db-a62f-e48ff68538c9 = { name = "Mux", path = "M/Mux" }
 a9872f58-4f48-11ef-0c06-ff7f93bd3947 = { name = "SpinSim", path = "S/SpinSim" }
 a98d1166-8d3f-4eaf-b2a4-26e52ad22d9c = { name = "GenericDecMats", path = "G/GenericDecMats" }
@@ -8689,6 +8693,7 @@ adeb47b7-70bf-415a-bb24-c358563e873a = { name = "BlockTriangularForm", path = "B
 ae029012-a4dd-5104-9daa-d747884805df = { name = "Requires", path = "R/Requires" }
 ae04f764-fc8b-5ee0-af1c-aa760b5c9409 = { name = "ConditionalJuMP", path = "C/ConditionalJuMP" }
 ae056753-435e-4d6b-8005-e923ff6e8938 = { name = "ZBar", path = "Z/ZBar" }
+ae12ab41-8e94-49b1-b3b7-5c73acb71980 = { name = "ScopedStreams", path = "S/ScopedStreams" }
 ae1513eb-aba2-415b-9b88-80f66c7c7c76 = { name = "AeroMDAO", path = "A/AeroMDAO" }
 ae1f9aa5-51e1-43df-aa72-b1a458b33a1f = { name = "BayesianTomography", path = "B/BayesianTomography" }
 ae24ea40-bf11-4146-8ed5-41e60b83d222 = { name = "Earth", path = "E/Earth" }
@@ -10998,6 +11003,7 @@ dc30da40-fce8-4b3c-960e-234cbed6f4a5 = { name = "SystemImageLoader", path = "S/S
 dc339a6f-2fa1-401a-9066-9c0d413e71da = { name = "VisualizeMotifs", path = "V/VisualizeMotifs" }
 dc39d501-6ffa-4c27-9708-7dc7e3b1a5c3 = { name = "BlankLocalizationCore", path = "B/BlankLocalizationCore" }
 dc3f66f6-feed-11e8-2006-85573fddfdbc = { name = "SurrogateModelOptim", path = "S/SurrogateModelOptim" }
+dc40bd75-440c-4f41-8fab-869df1870d2c = { name = "ValueFunctionIterations", path = "V/ValueFunctionIterations" }
 dc46b164-d16f-48ec-a853-60448fc869fe = { name = "PerformanceTestTools", path = "P/PerformanceTestTools" }
 dc48124f-afd3-49fa-9962-2c9cdaf82bd1 = { name = "LinearSegmentation", path = "L/LinearSegmentation" }
 dc4aa359-7d89-437d-91bb-f4b330c522c1 = { name = "MaterialPointSolver", path = "M/MaterialPointSolver" }
