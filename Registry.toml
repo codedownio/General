@@ -5932,6 +5932,7 @@ some amount of consideration when choosing package names.
 763a8c06-ba23-41fc-b385-b3b57b52403a = { name = "Asap", path = "A/Asap" }
 763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4 = { name = "MAGEMin_jll", path = "jll/M/MAGEMin_jll" }
 764a87c0-6b3e-53db-9096-fe964310641d = { name = "BoundaryValueDiffEq", path = "B/BoundaryValueDiffEq" }
+764f5799-4fa8-443f-b488-b719b6ff37e3 = { name = "BnGStructs", path = "B/BnGStructs" }
 7653e0a5-60b0-4f1f-8cf0-e76f3cfe9cb0 = { name = "CollatzConjecture", path = "C/CollatzConjecture" }
 7656fb31-40ed-4019-8ece-32bdcc5fce69 = { name = "NonstationaryProcesses", path = "N/NonstationaryProcesses" }
 7659f2e7-3eba-428e-a299-bc867dd8ac42 = { name = "CallendarVanDusen", path = "C/CallendarVanDusen" }
@@ -7072,7 +7073,6 @@ some amount of consideration when choosing package names.
 8c8b3700-392b-4630-b974-b8b78831232a = { name = "BcubeGmsh", path = "B/BcubeGmsh" }
 8c8f4381-2cdd-507c-846c-be2bcff6f45f = { name = "TravelingSalesmanHeuristics", path = "T/TravelingSalesmanHeuristics" }
 8c9296c2-eef7-5c5a-b7f9-196cb7be2712 = { name = "HelloWorldGo_jll", path = "jll/H/HelloWorldGo_jll" }
-8c985f62-e6ed-46b2-9e87-fb745dbb52c6 = { name = "POMLUtils", path = "P/POMLUtils" }
 8c98e03e-8755-48b1-a5ef-1e2e7812a7c9 = { name = "ElectronGas", path = "E/ElectronGas" }
 8c9e00cc-ccf1-11e8-3de6-5b028f480d9e = { name = "XLSXasJSON", path = "X/XLSXasJSON" }
 8c9f9fde-75ea-5170-83a2-66d24179d9fc = { name = "libportaudio_ringbuffer_jll", path = "jll/L/libportaudio_ringbuffer_jll" }
@@ -9421,6 +9421,7 @@ bc8888f7-b21e-4b7c-a06a-5d9c9496438c = { name = "SymPyPythonCall", path = "S/Sym
 bc8ceb21-a8fe-4071-b36a-0b0ea65b9c09 = { name = "Turmeric", path = "T/Turmeric" }
 bc997328-bedd-407e-bcd3-5758e064a52d = { name = "CryptoGroups", path = "C/CryptoGroups" }
 bc9c4d6b-10c7-430a-9b0c-cd343efcf359 = { name = "FigCLIGen", path = "F/FigCLIGen" }
+bca5daad-f4d3-5101-ae12-8b63679c982c = { name = "cuPDLPx_jll", path = "jll/C/cuPDLPx_jll" }
 bca83a33-5cc9-4baa-983d-23429ab6bcbb = { name = "OptimizationBase", path = "O/OptimizationBase" }
 bcad6099-3893-4a89-b8e7-2c92a19b03be = { name = "UnitJuMP", path = "U/UnitJuMP" }
 bcb6b82e-7479-5933-8c8e-2e0b909ee6a3 = { name = "IterativeRefinement", path = "I/IterativeRefinement" }
@@ -11905,6 +11906,7 @@ ed8fcbec-b94c-44b6-89df-898894ad9591 = { name = "Entropies", path = "E/Entropies
 eda30fb7-e799-4e1d-8790-5b2716643197 = { name = "HasseDiagrams", path = "H/HasseDiagrams" }
 edad4870-8a01-11e9-2d75-8f02e448fc59 = { name = "Leibniz", path = "L/Leibniz" }
 edaeb83b-eb46-4343-a784-f8799e8c45af = { name = "FileExplorer", path = "F/FileExplorer" }
+edb0eac7-a3aa-4158-b16d-3faaf99b23a9 = { name = "SymbolicApproximators", path = "S/SymbolicApproximators" }
 edb9ae08-98fc-4535-bc7b-43b5fa0191ff = { name = "FuzzyClusteringSimilarity", path = "F/FuzzyClusteringSimilarity" }
 edc0d1de-cbb6-43e5-80c3-282b59182d08 = { name = "PlasmoDataPlots", path = "P/PlasmoDataPlots" }
 edc76f5a-727d-11e9-15f5-7184c9a7c95d = { name = "Taarruz", path = "T/Taarruz" }
