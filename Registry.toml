@@ -930,6 +930,7 @@ some amount of consideration when choosing package names.
 1226e131-0b97-51f8-8a3f-c1798118cd52 = { name = "NTFk", path = "N/NTFk" }
 1226fe1d-afd4-4c2e-b99d-05aabcc62d0a = { name = "Pyrox", path = "P/Pyrox" }
 12289b5d-7c11-438f-92a0-e1442e5c6fa7 = { name = "DifferentialBases", path = "D/DifferentialBases" }
+12345678-1234-1234-1234-123456789012 = { name = "MoleculeScreen", path = "M/MoleculeScreen" }
 12345678-1234-1234-1234-123456789abc = { name = "MoleculeDatasets", path = "M/MoleculeDatasets" }
 123b5ccf-89cf-4973-9536-c0f20d353bb2 = { name = "HybridAStar", path = "H/HybridAStar" }
 123dc426-2d89-5057-bbad-38513e3affd8 = { name = "SymEngine", path = "S/SymEngine" }
@@ -8654,6 +8655,7 @@ ace601d6-714c-11e9-04e5-89b7fad23838 = { name = "AIBECS", path = "A/AIBECS" }
 ace8185b-fa20-42f5-912d-1e850dbe6a09 = { name = "RadiativeTransfer", path = "R/RadiativeTransfer" }
 ace8a2d7-7779-48a6-a8a4-cf6831a7e55b = { name = "EpithelialDynamics1D", path = "E/EpithelialDynamics1D" }
 acebfb02-3096-4040-86f5-d41b0f19d497 = { name = "TestLandscapes", path = "T/TestLandscapes" }
+acedd4c2-ced6-4a15-accc-2607eb759ba2 = { name = "JuliaC", path = "J/JuliaC" }
 acefaad2-17a4-5d8b-aa08-e18ef75dd0cf = { name = "BeaData", path = "B/BeaData" }
 acf642fa-ee0e-513a-b9d5-bcd150f7ec3b = { name = "FluxMPI", path = "F/FluxMPI" }
 acf6eb54-70d9-11e9-0013-234b7a5f5337 = { name = "DFTK", path = "D/DFTK" }
@@ -11192,6 +11194,7 @@ df8efd69-f2b9-468d-a38a-0046f1138390 = { name = "CasCommonChemistry", path = "C/
 df8f2f22-cfef-5733-af3f-96770d497d85 = { name = "SASLib", path = "S/SASLib" }
 df971d30-c9d6-4b37-b8ff-e965b2cb3a40 = { name = "Rocket", path = "R/Rocket" }
 df9a0d86-3283-4920-82dc-4555fc0d1d8b = { name = "Oxygen", path = "O/Oxygen" }
+df9aafbb-e545-4464-854d-5d08b36f846c = { name = "Tractography", path = "T/Tractography" }
 dfa09964-7899-4f24-b5ee-10dc563fda7c = { name = "HumanReadableSExpressions", path = "H/HumanReadableSExpressions" }
 dfa6e8bd-ffa5-4347-817a-aa08eb84b250 = { name = "BatchedBLAS", path = "B/BatchedBLAS" }
 dfa73e59-e644-4d8a-bf84-188d7ecb34e4 = { name = "OptimizationODE", path = "O/OptimizationODE" }
@@ -11881,6 +11884,7 @@ ed23c2a5-89c4-5d52-b0ca-9d53aadf8c45 = { name = "kubectl_jll", path = "jll/K/kub
 ed25ef7a-b813-415f-98cd-eb06d9efe1db = { name = "ReactionSensitivity", path = "R/ReactionSensitivity" }
 ed268df6-2d29-4139-a3e0-ddeb8be80dc7 = { name = "CachedFunctions", path = "C/CachedFunctions" }
 ed2dc23b-ada4-5fdb-a26f-56368a14ad8f = { name = "EcoSISTEM", path = "E/EcoSISTEM" }
+ed38bb8a-6120-4024-8d1e-8789784f251b = { name = "GraphsColoring", path = "G/GraphsColoring" }
 ed3cd733-9f0f-46a9-93e0-89b8d4998dd9 = { name = "VortexStepMethod", path = "V/VortexStepMethod" }
 ed3f0a38-8ad9-4cf8-877e-929e8d190fe9 = { name = "IESopt", path = "I/IESopt" }
 ed3f9b50-51cd-11e9-3ece-75fc8af922bb = { name = "Kwant", path = "K/Kwant" }
@@ -12686,6 +12690,7 @@ ff13af16-2f41-468a-a2e1-aff5c43aabf7 = { name = "TimeDataFrames", path = "T/Time
 ff1fe538-7f12-4e61-92e8-8b99bd5f2913 = { name = "LicenseGrabber", path = "L/LicenseGrabber" }
 ff2beb65-d7cd-5ff1-a187-74671133a339 = { name = "PicoSAT", path = "P/PicoSAT" }
 ff33fe5b-d8e3-4cbd-8bd9-3d2408ff8cab = { name = "SimpleLooper", path = "S/SimpleLooper" }
+ff366017-094f-4144-bd70-a828a0d67152 = { name = "BufferIO", path = "B/BufferIO" }
 ff3fa34c-8d8f-519c-b5bc-31760c52507a = { name = "TrajectoryGamesExamples", path = "T/TrajectoryGamesExamples" }
 ff45984e-d068-5f4c-9e32-c4133509d236 = { name = "PowerModelsACDC", path = "P/PowerModelsACDC" }
 ff4d7338-4cf1-434d-91df-b86cb86fb843 = { name = "SolverCore", path = "S/SolverCore" }
