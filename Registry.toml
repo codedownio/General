@@ -1446,6 +1446,7 @@ some amount of consideration when choosing package names.
 1c101251-5e0f-4746-b44c-0728d433b68a = { name = "MuJoCo", path = "M/MuJoCo" }
 1c15b2bf-cfaa-4a64-9ed6-b84bdd745e5c = { name = "DiffinDiffs", path = "D/DiffinDiffs" }
 1c23619d-4212-4747-83aa-717207fae70f = { name = "MyterialColors", path = "M/MyterialColors" }
+1c32f1f8-fc12-41ee-a188-d96e58f04b51 = { name = "GeneralizedGrossPitaevskii", path = "G/GeneralizedGrossPitaevskii" }
 1c39547c-7794-42f7-af83-d98194f657c2 = { name = "CTFlows", path = "C/CTFlows" }
 1c3ea84b-a956-4dfe-a2f4-485757f48f1d = { name = "AlgebraicRelations", path = "A/AlgebraicRelations" }
 1c432d04-d176-4d08-9035-b8e23c05df60 = { name = "Determinism", path = "D/Determinism" }
@@ -1525,6 +1526,7 @@ some amount of consideration when choosing package names.
 1dbb190e-59ad-542b-b90b-8ef67c206511 = { name = "telnet_jll", path = "jll/T/telnet_jll" }
 1dbf0e27-43cd-4e03-8ecf-3f7be9d12b15 = { name = "DiscretizeDistributions", path = "D/DiscretizeDistributions" }
 1dc0ca97-c5ce-4e77-ac6d-c576ac9d7f27 = { name = "ArrayTools", path = "A/ArrayTools" }
+1dc53738-a592-4c0c-95ab-f92b84dc4c89 = { name = "ShoelaceWidgets", path = "S/ShoelaceWidgets" }
 1dcdc7e9-a8b1-4892-8a0a-cdab5a60ee98 = { name = "McmcHermes", path = "M/McmcHermes" }
 1dea7af3-3e70-54e6-95c3-0bf5283fa5ed = { name = "OrdinaryDiffEq", path = "O/OrdinaryDiffEq" }
 1df27592-1edd-4a6d-9e16-9f1b005f54b8 = { name = "Rewriters", path = "R/Rewriters" }
@@ -7457,6 +7459,7 @@ some amount of consideration when choosing package names.
 94fada2c-fd9a-4e89-8d82-81405f5cb4f6 = { name = "PowerFlows", path = "P/PowerFlows" }
 94fc9360-1a5e-4d84-93be-ddbadb32b3a7 = { name = "AlignedBinaryFormat", path = "A/AlignedBinaryFormat" }
 94fda9bc-e29e-424a-aa2b-1addfed2164c = { name = "CheckMate", path = "C/CheckMate" }
+950ff2a9-823f-469c-91a7-754a5d85edca = { name = "CDAWeb", path = "C/CDAWeb" }
 951137b1-a5aa-4c03-8412-295bfee9a204 = { name = "ModiaPlot", path = "M/ModiaPlot" }
 9514c204-b736-47c9-8157-11c3e9e5ab30 = { name = "TrajGWAS", path = "T/TrajGWAS" }
 95167b0c-186a-594b-a231-52369c6de044 = { name = "LinearAlgebraicRepresentation", path = "L/LinearAlgebraicRepresentation" }
@@ -9342,6 +9345,7 @@ babe9734-f0f2-4b58-baca-5f6951677a1e = { name = "SSHAgentSetup", path = "S/SSHAg
 bac558e1-5e72-5ebc-8fee-abe8a469f55d = { name = "OrderedCollections", path = "O/OrderedCollections" }
 bac81e26-86e4-4b48-8696-7d0406d5dbc1 = { name = "SEAL", path = "S/SEAL" }
 baca2653-9c88-49d2-a488-12dbf25fc4fb = { name = "Quickhull", path = "Q/Quickhull" }
+bad89516-e02f-43f9-a1d3-8f2ce98dd1a2 = { name = "DistributedResourceOptimization", path = "D/DistributedResourceOptimization" }
 bad9efff-1a8e-41fb-9e7d-5d6f530fb0a3 = { name = "EBayes", path = "E/EBayes" }
 bada3277-1da5-58a9-94c6-da212cd39369 = { name = "czmq_jll", path = "jll/C/czmq_jll" }
 bae27b42-c72a-5733-8f2d-201965195bfc = { name = "LoadTensorDecompositions", path = "L/LoadTensorDecompositions" }
@@ -9554,6 +9558,7 @@ be6e5d0e-34a5-4c8f-af83-e1b5389203d8 = { name = "Antique", path = "A/Antique" }
 be6f12e9-ca4f-5eb2-a339-a4f995cc0291 = { name = "ODBC", path = "O/ODBC" }
 be6fae49-30d2-4092-b236-0bef8b98bcec = { name = "TimeParallel", path = "T/TimeParallel" }
 be7923c8-3e70-447d-8860-ce9fd1d8f58a = { name = "RBiQuaternions", path = "R/RBiQuaternions" }
+be7bd464-f152-51b7-b3a2-8e7b69765627 = { name = "MPICH_CUDA_jll", path = "jll/M/MPICH_CUDA_jll" }
 be7e520c-a8fa-4f26-8f65-6d6d1049182e = { name = "DiffFusion", path = "D/DiffFusion" }
 be8d7a73-1782-5ce7-96ff-8fff21e5e970 = { name = "lexbor_jll", path = "jll/L/lexbor_jll" }
 be8e1072-a1b2-4b4a-a8a2-7a0da38e4604 = { name = "YaoQX", path = "Y/YaoQX" }
@@ -10791,6 +10796,7 @@ d7252348-293e-4f11-8d42-c8418dda4315 = { name = "JustSayIt", path = "J/JustSayIt
 d72a61cc-809d-412f-99be-fd81f4b8a598 = { name = "MadNLPGPU", path = "M/MadNLPGPU" }
 d730a6b3-54e8-5a61-8821-996059275344 = { name = "protobuf_c_jll", path = "jll/P/protobuf_c_jll" }
 d7326954-f021-11ed-2a08-d10e464848f1 = { name = "CalculustCore", path = "C/CalculustCore" }
+d7387f09-800a-4cc8-8a20-0e66764c1296 = { name = "MDFZero", path = "M/MDFZero" }
 d739bc73-037a-4484-8212-e0e00e9ea6bf = { name = "DefaultKeywordArguments", path = "D/DefaultKeywordArguments" }
 d73ad930-938d-4709-8eff-50e740f82fcd = { name = "TrendDecomposition", path = "T/TrendDecomposition" }
 d73ed964-a3ff-4a3d-ad09-d195fe0d0b35 = { name = "MimiSSPs", path = "M/MimiSSPs" }
