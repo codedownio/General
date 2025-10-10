@@ -2330,6 +2330,7 @@ some amount of consideration when choosing package names.
 2e9fe063-9687-4d41-bf41-4f062739391f = { name = "LightBenders", path = "L/LightBenders" }
 2ea8233c-34d4-5acc-88b4-02f326385bcc = { name = "GFlops", path = "G/GFlops" }
 2ea93f80-9333-43a1-a68d-1f53b957a421 = { name = "OptimizationAuglag", path = "O/OptimizationAuglag" }
+2eacc985-a635-41e1-b67f-45fa7ceb5b4d = { name = "OrbisChessEngine", path = "O/OrbisChessEngine" }
 2eaff018-c6f9-5ddb-97b6-8b0d18888fbb = { name = "TensorRT_jll", path = "jll/T/TensorRT_jll" }
 2ebad9b3-2ef2-5978-ad98-6cd1c30fc6b8 = { name = "DecompUtil_jll", path = "jll/D/DecompUtil_jll" }
 2ec6ad34-3a48-58c8-92a7-b3b42157112c = { name = "Pythia8_cxxwrap_jll", path = "jll/P/Pythia8_cxxwrap_jll" }
@@ -3199,6 +3200,7 @@ some amount of consideration when choosing package names.
 3f4e10e2-61f2-5801-8945-23b9d642d0e6 = { name = "CMake_jll", path = "jll/C/CMake_jll" }
 3f54b04b-17fc-5cd4-9758-90c048d965e3 = { name = "LorentzVectors", path = "L/LorentzVectors" }
 3f56377e-4191-4d51-b9b6-988a50b9b843 = { name = "Undefs", path = "U/Undefs" }
+3f6ec708-df3b-46b4-8b70-ec9fa53b9f7d = { name = "ComponentLogging", path = "C/ComponentLogging" }
 3f718f31-6db8-4f43-a433-67cb5c73363e = { name = "ITensorGLMakie", path = "I/ITensorGLMakie" }
 3f775d88-a4da-46c4-a2cc-aa9f16db6708 = { name = "EnergyModelsGeography", path = "E/EnergyModelsGeography" }
 3f797b09-34e4-41d7-acf6-3302ae3248a5 = { name = "FittedItemBanks", path = "F/FittedItemBanks" }
@@ -3260,6 +3262,7 @@ some amount of consideration when choosing package names.
 40e66cde-538c-5869-a4ad-c39174c6795b = { name = "LDLFactorizations", path = "L/LDLFactorizations" }
 40eb83ae-c93a-480c-8f39-f018b568f472 = { name = "AppBundler", path = "A/AppBundler" }
 40f541ec-ef23-43f7-b2aa-6425eeeec50a = { name = "CopernicusData", path = "C/CopernicusData" }
+41098d5d-486a-5be3-bd44-b646bda58606 = { name = "Qt6Tools_jll", path = "jll/Q/Qt6Tools_jll" }
 410a4b4d-49e4-4fbc-ab6d-cb71b17b3775 = { name = "Tricks", path = "T/Tricks" }
 4110d2ad-ee24-4968-96bf-19205974a08d = { name = "InPartSObstacles", path = "I/InPartSObstacles" }
 411431e0-e8b7-467b-b5e0-f676ba4f2910 = { name = "Extents", path = "E/Extents" }
@@ -10924,6 +10927,7 @@ d985ece1-97de-4d33-914c-38fb84042e15 = { name = "FlatGeobuf", path = "F/FlatGeob
 d9960996-1013-53c9-9ba4-74a4155039c3 = { name = "Arb_jll", path = "jll/A/Arb_jll" }
 d997a800-832a-4a4c-b340-7dddf3c1ad50 = { name = "Implicit3DPlotting", path = "I/Implicit3DPlotting" }
 d9a01c3f-67ce-4d8c-9b55-35f6e4050bb1 = { name = "Underscores", path = "U/Underscores" }
+d9a74643-86e8-547a-9e66-b074b7ecbd4d = { name = "ClangExtract_jll", path = "jll/C/ClangExtract_jll" }
 d9acca20-95e5-11e9-3d4c-3b57da6f4e87 = { name = "GeneDrive", path = "G/GeneDrive" }
 d9ae4b7f-d04c-4b7f-92f7-4d9c2e17e1a4 = { name = "Buffers", path = "B/Buffers" }
 d9b9e9a0-1569-11e9-2cb5-bbca914b0e89 = { name = "ImageComponentAnalysis", path = "I/ImageComponentAnalysis" }
@@ -11238,6 +11242,7 @@ dfe2c37b-9b3c-58e6-b43e-8bff6111200d = { name = "lovoalign_jll", path = "jll/L/l
 dfeb4ede-c75e-11e9-050d-41ab7a730e9e = { name = "PlanktonIndividuals", path = "P/PlanktonIndividuals" }
 dff2f42d-5506-450f-a8d7-e8287f476a07 = { name = "HnswAnn", path = "H/HnswAnn" }
 dffbff30-506a-45ba-b474-e78cc8ad254e = { name = "EngThermBase", path = "E/EngThermBase" }
+e0036ec9-05e5-505d-a6a9-07af41c94861 = { name = "PortfolioOptimisers", path = "P/PortfolioOptimisers" }
 e003fe91-ef5c-401b-a5d0-df7fea4e158d = { name = "FuzzyCognitiveMaps", path = "F/FuzzyCognitiveMaps" }
 e00cd5f1-6337-4131-8b37-28b2fe4cd6cb = { name = "IntegralsCuba", path = "I/IntegralsCuba" }
 e00e7eca-deca-4415-9dc4-9b3efe792c16 = { name = "AssociatedTests", path = "A/AssociatedTests" }
