@@ -136,6 +136,7 @@ some amount of consideration when choosing package names.
 027d52a2-76e5-4228-9bfe-bc7e0f5a8348 = { name = "KernelSpectralDensities", path = "K/KernelSpectralDensities" }
 028224b0-1fcc-4ce4-9494-c68607c3a20e = { name = "ConnectionPools", path = "C/ConnectionPools" }
 02860bad-daa6-4506-8736-4a3616c18085 = { name = "IBMQClient", path = "I/IBMQClient" }
+0286bae6-9fa4-574c-a97d-dd326ec6ac87 = { name = "sba_jll", path = "jll/S/sba_jll" }
 02898b10-1f73-11ea-317c-6393d7073e15 = { name = "Augmentor", path = "A/Augmentor" }
 028a27d2-de01-11e8-146d-d556803d83ae = { name = "BrkgaMpIpr", path = "B/BrkgaMpIpr" }
 028f657a-7ace-5159-a694-8cfd97933b0c = { name = "TotalLeastSquares", path = "T/TotalLeastSquares" }
@@ -967,6 +968,7 @@ some amount of consideration when choosing package names.
 12abe42c-b2e7-4a68-9e37-c6d51b9b2893 = { name = "E4STUtil", path = "E/E4STUtil" }
 12afc1b8-fad6-47e1-9132-84abc478905f = { name = "NeuralAttentionlib", path = "N/NeuralAttentionlib" }
 12b1f071-75ca-5403-9634-55c067809894 = { name = "FractionalGaussianFields", path = "F/FractionalGaussianFields" }
+12b47476-e81a-4b1e-bd5d-7199c2c66cc7 = { name = "Gears", path = "G/Gears" }
 12bfb5b4-b11b-482e-a53a-61106a071c3c = { name = "GWInference", path = "G/GWInference" }
 12c09fd5-fe6a-4e79-8f42-b31f49215243 = { name = "Kerchunk", path = "K/Kerchunk" }
 12c3852d-bf95-4e7b-be60-68937c3c927b = { name = "ProxAL", path = "P/ProxAL" }
@@ -3445,6 +3447,7 @@ some amount of consideration when choosing package names.
 4447db07-3941-47e2-90a2-965b7cb1b6ce = { name = "Wakame", path = "W/Wakame" }
 445028e4-d31f-4f27-89ad-17affd83fc22 = { name = "Kmers", path = "K/Kmers" }
 44505bb3-94ea-493c-a20c-f0ca548ab76b = { name = "HeatTransferFluids", path = "H/HeatTransferFluids" }
+4450f29b-7b71-45c6-8742-e7520a479938 = { name = "RepliBuild", path = "R/RepliBuild" }
 44557152-fe0a-4de1-8405-416d90313ce6 = { name = "DateFormats", path = "D/DateFormats" }
 4455ec5f-b558-4ef1-b6d8-c3694046c382 = { name = "Readability", path = "R/Readability" }
 4456351a-5be3-4067-ade9-541926a41e04 = { name = "SimpleTensorNetworks", path = "S/SimpleTensorNetworks" }
@@ -7639,6 +7642,7 @@ some amount of consideration when choosing package names.
 988b38a3-91fc-5605-94a2-ee2116b3bd83 = { name = "ReadOnlyArrays", path = "R/ReadOnlyArrays" }
 988d40dc-a58a-4803-bd2c-6d7438fe27fe = { name = "GPMaxlik", path = "G/GPMaxlik" }
 988db7c6-b368-4d8d-9ee1-ae26d5771fb3 = { name = "Qwind", path = "Q/Qwind" }
+9895cdd9-2e9e-4374-a2b7-90eb9a5a3bcd = { name = "AutoComputationalGraphTuning", path = "A/AutoComputationalGraphTuning" }
 9896bf05-9493-4e5b-be64-41b6a423b7e2 = { name = "RFImpairmentsModels", path = "R/RFImpairmentsModels" }
 98999733-62a0-5dba-8ad6-4caa993b519a = { name = "Netpbm_jll", path = "jll/N/Netpbm_jll" }
 989f9ba8-86ac-4138-b458-047055bae907 = { name = "MetaStrategist", path = "M/MetaStrategist" }
@@ -10884,6 +10888,7 @@ d84f081e-b698-44a3-a477-911041168508 = { name = "TTVFaster", path = "T/TTVFaster
 d84fb938-a666-558e-89d9-d531edc6724f = { name = "DECAES", path = "D/DECAES" }
 d850fbd6-035d-5a70-a269-1ca2e636ac6c = { name = "JWTs", path = "J/JWTs" }
 d853e229-7c7c-56e9-b6be-9a1acc5f13d9 = { name = "GroupSlices", path = "G/GroupSlices" }
+d8559f7b-85bf-40b2-8b45-fabe493c1faa = { name = "AssetCrates", path = "A/AssetCrates" }
 d8605af1-a39a-40e5-82f3-4793871169cd = { name = "ContingencyTables", path = "C/ContingencyTables" }
 d8677c85-7479-426e-842e-70dedf0c4b34 = { name = "CHMMAIRRa", path = "C/CHMMAIRRa" }
 d86c1dc8-ba26-4c98-b330-3a8efc174d20 = { name = "ActiveSetPursuit", path = "A/ActiveSetPursuit" }
@@ -11933,6 +11938,7 @@ ed3f9b50-51cd-11e9-3ece-75fc8af922bb = { name = "Kwant", path = "K/Kwant" }
 ed46c112-542a-4e7e-ab0f-e39321fab6f0 = { name = "Napari", path = "N/Napari" }
 ed4db957-447d-4319-bfb6-7fa9ae7ecf34 = { name = "TaskLocalValues", path = "T/TaskLocalValues" }
 ed54f85f-91e3-4912-9e4a-a43af611f8a9 = { name = "ReAnimation", path = "R/ReAnimation" }
+ed54f85f-91e8-4912-9e4a-a43af611f8a9 = { name = "GDMathLib", path = "G/GDMathLib" }
 ed55bfe0-3725-4db6-871e-a1dc9f42a757 = { name = "BoundaryValueDiffEqShooting", path = "B/BoundaryValueDiffEqShooting" }
 ed573fae-7fee-4d61-b037-fdc8e83b28d4 = { name = "SimpleNorm", path = "S/SimpleNorm" }
 ed5aba05-e74d-5cf7-8b09-107ba3463b8e = { name = "acl_jll", path = "jll/A/acl_jll" }
