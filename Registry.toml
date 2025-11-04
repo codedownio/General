@@ -1175,6 +1175,7 @@ some amount of consideration when choosing package names.
 16e4e860-d6b8-5056-a518-93e88b6392ae = { name = "UCX_jll", path = "jll/U/UCX_jll" }
 16ed6a40-d4c3-11e9-1e10-59384530c1b4 = { name = "AnyMOD", path = "A/AnyMOD" }
 16f11440-1623-44c9-850c-358a6c72f3c9 = { name = "MQLib", path = "M/MQLib" }
+16f38fd6-0379-4569-89bb-2d3d56e50de8 = { name = "Landfire", path = "L/Landfire" }
 16f6c422-f222-508b-b0da-15025777bca7 = { name = "RobustShortestPath", path = "R/RobustShortestPath" }
 16fef848-5104-11e9-1b77-fb7a48bbb589 = { name = "LiveServer", path = "L/LiveServer" }
 17051e67-205e-509e-8301-03b320b998e6 = { name = "GeometryPrimitives", path = "G/GeometryPrimitives" }
@@ -1855,6 +1856,7 @@ some amount of consideration when choosing package names.
 251d5f9e-10c1-4699-ba24-e0ad168fa3e4 = { name = "EvalMetrics", path = "E/EvalMetrics" }
 251e6cbc-5fb1-4602-bd1f-2bec286d6307 = { name = "MultiAffine", path = "M/MultiAffine" }
 251f48c7-f5a4-5bc8-b6b6-ff4797c45649 = { name = "SMCExamples", path = "S/SMCExamples" }
+251f600b-d60c-4092-b1b9-465b74160c73 = { name = "ParallelKDE", path = "P/ParallelKDE" }
 25264005-a304-4053-a338-565045d392ac = { name = "PowerModelsONM", path = "P/PowerModelsONM" }
 2527f7a4-0af4-4016-a944-036fbac19de9 = { name = "MPISphericalHarmonics", path = "M/MPISphericalHarmonics" }
 2530d2c0-90ae-4e22-bd10-17e782bf2dab = { name = "ForSyDeIO", path = "F/ForSyDeIO" }
@@ -2643,6 +2645,7 @@ some amount of consideration when choosing package names.
 343a40d9-ed99-5d34-8b56-649aaa4ecee6 = { name = "soapysdr_jll", path = "jll/S/soapysdr_jll" }
 343a5541-a696-4ae7-8102-bc61c09e1896 = { name = "FileCmp", path = "F/FileCmp" }
 343dbc49-a00e-4db9-80e1-8930f4861f86 = { name = "SeqBounds", path = "S/SeqBounds" }
+343eba5b-4fb9-46a4-8530-c5c9f738ed2c = { name = "NimbusSDK", path = "N/NimbusSDK" }
 34418575-392d-4e26-8c6d-96b0910afa06 = { name = "JustRelax", path = "J/JustRelax" }
 34489162-d270-4603-8b96-37b04f830d73 = { name = "SpeedyWeatherInternals", path = "S/SpeedyWeatherInternals" }
 3448aec0-5570-4d68-9f4a-848140e12c29 = { name = "NeuroFormats", path = "N/NeuroFormats" }
@@ -3251,6 +3254,7 @@ some amount of consideration when choosing package names.
 40266717-b07e-50ee-a1c6-5956cbf905d9 = { name = "simdjson_jll", path = "jll/S/simdjson_jll" }
 4028143c-eef9-4a3a-9d23-34f3d8ed2047 = { name = "LlamaCpp", path = "L/LlamaCpp" }
 4028151b-0928-560d-8573-53f5e508f174 = { name = "MrBayes_jll", path = "jll/M/MrBayes_jll" }
+402d8ed9-92af-47cb-aae4-ae215e44b74b = { name = "ZoneProfilers", path = "Z/ZoneProfilers" }
 4030f512-cedb-5907-ac7f-4ab05ad75ee7 = { name = "HeatTransfer", path = "H/HeatTransfer" }
 403ab190-7cad-4c95-848f-e576570a949d = { name = "AstroRepresentations", path = "A/AstroRepresentations" }
 40452611-1178-4e48-bdfc-3af4bebad9c9 = { name = "TestingUtilities", path = "T/TestingUtilities" }
@@ -3650,6 +3654,7 @@ some amount of consideration when choosing package names.
 481e76ae-c2a1-11e9-35e0-4d409117bccf = { name = "Microwaves", path = "M/Microwaves" }
 4822a80a-c2d5-4bbd-b1da-f89b711347c8 = { name = "FlashAttentionWrapper", path = "F/FlashAttentionWrapper" }
 4827a3aa-8a82-4c61-8bd0-3c7d3e464ee5 = { name = "NonlinearSolveSciPy", path = "N/NonlinearSolveSciPy" }
+482c37c2-cde1-4201-a412-83b81535d120 = { name = "PhotometricFilters", path = "P/PhotometricFilters" }
 48308a23-c29e-446c-b4c0-d9446a767439 = { name = "Kezdi", path = "K/Kezdi" }
 4832667a-bab9-40a8-88f6-be9efce3ea89 = { name = "QuantumAnnealing", path = "Q/QuantumAnnealing" }
 483824fe-0d37-42f7-bb97-b8abf41a4f6a = { name = "BlockBootstrap", path = "B/BlockBootstrap" }
@@ -11461,6 +11466,7 @@ e29189f1-7114-4dbd-93d0-c5673a921a58 = { name = "PDBTools", path = "P/PDBTools" 
 e29349eb-b3c8-4189-b6e7-6b7aca9b1830 = { name = "QuasiTriangular", path = "Q/QuasiTriangular" }
 e296ed71-da82-5faf-88ab-0034a9761098 = { name = "MakieThemes", path = "M/MakieThemes" }
 e2970b7e-a80f-4839-9fc1-2a0f2f4c4333 = { name = "UniversalFeynRulesOutput", path = "U/UniversalFeynRulesOutput" }
+e298cd2a-bb8b-47e7-b9a6-e75b86eaa6ce = { name = "GreenWriter", path = "G/GreenWriter" }
 e2a73505-cb16-4f72-bfa1-862ae24a0184 = { name = "QuasiGLM", path = "Q/QuasiGLM" }
 e2ae9153-b66f-47c5-85f1-c6d65380123f = { name = "Bigleaf", path = "B/Bigleaf" }
 e2b06280-edec-413c-a3a2-1b4e389db7bf = { name = "Smesh", path = "S/Smesh" }
