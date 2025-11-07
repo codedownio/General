@@ -1856,6 +1856,7 @@ some amount of consideration when choosing package names.
 25055022-b8af-4985-a550-c8f3f9f56f04 = { name = "DrugInteractions", path = "D/DrugInteractions" }
 251d5f9e-10c1-4699-ba24-e0ad168fa3e4 = { name = "EvalMetrics", path = "E/EvalMetrics" }
 251e6cbc-5fb1-4602-bd1f-2bec286d6307 = { name = "MultiAffine", path = "M/MultiAffine" }
+251e6cd3-3112-48a5-99dd-66efcfd18334 = { name = "CriticalTransitions", path = "C/CriticalTransitions" }
 251f48c7-f5a4-5bc8-b6b6-ff4797c45649 = { name = "SMCExamples", path = "S/SMCExamples" }
 251f600b-d60c-4092-b1b9-465b74160c73 = { name = "ParallelKDE", path = "P/ParallelKDE" }
 25264005-a304-4053-a338-565045d392ac = { name = "PowerModelsONM", path = "P/PowerModelsONM" }
@@ -8230,6 +8231,7 @@ a30e1a9a-10b8-4bba-9e65-ab6e41f71348 = { name = "PortHamiltonianBenchmarkSystems
 a311efd2-96b4-40e8-a1fa-502ca2bf329b = { name = "NonlinearCrystals", path = "N/NonlinearCrystals" }
 a318411f-452f-5433-884b-1f6a35676cea = { name = "OpenLSTO_jll", path = "jll/O/OpenLSTO_jll" }
 a3219271-55cc-59b6-9a1f-6f3111928ce1 = { name = "MultiDimEquations", path = "M/MultiDimEquations" }
+a32c89ae-d023-4659-8493-2353e71a7a82 = { name = "PartonShower", path = "P/PartonShower" }
 a3311ec8-5e00-46d5-b541-4f83e724a433 = { name = "ReactantCore", path = "R/ReactantCore" }
 a3315474-fad9-5060-8696-cee5f38a87b7 = { name = "EconPDEs", path = "E/EconPDEs" }
 a33af91c-f02d-484b-be07-31d278c5ca2b = { name = "CompositionsBase", path = "C/CompositionsBase" }
@@ -11416,6 +11418,7 @@ e17ba711-985e-5301-87b6-b2cc5f087c5c = { name = "autossh_jll", path = "jll/A/aut
 e18202ca-4a7d-4de8-b056-fa6bbd7de157 = { name = "WindowAbstractions", path = "W/WindowAbstractions" }
 e1828068-15df-11e9-03e4-ef195ea46fa4 = { name = "CCBlade", path = "C/CCBlade" }
 e189563c-0753-4f5e-ad5c-be4293c83fb4 = { name = "ExternalDocstrings", path = "E/ExternalDocstrings" }
+e1916cde-5bbf-401f-b637-13ab0c87f0f0 = { name = "ZoneProfilerTracy", path = "Z/ZoneProfilerTracy" }
 e1a20e90-c40e-46c0-93e3-c2da05da97e3 = { name = "PhysicalOceanography", path = "P/PhysicalOceanography" }
 e1a513d0-d9d9-49ff-a6dd-9d2e9db473da = { name = "StatisticalRethinkingPlots", path = "S/StatisticalRethinkingPlots" }
 e1a66ace-d94f-4d56-9cba-db43e0ec34d1 = { name = "AssemblyView", path = "A/AssemblyView" }
