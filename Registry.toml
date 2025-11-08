@@ -2911,6 +2911,7 @@ some amount of consideration when choosing package names.
 393ea2fe-0f32-4be5-aea1-784d503a6c04 = { name = "AxisTables", path = "A/AxisTables" }
 39424ebd-4cf3-5550-a685-96706a953f40 = { name = "TreeView", path = "T/TreeView" }
 3943505e-88e3-5b18-a3d9-e2be89fdab48 = { name = "KongYiji", path = "K/KongYiji" }
+3945cd23-d97e-4db0-9df2-35342dbd287d = { name = "OperatorCore", path = "O/OperatorCore" }
 394991d0-d7c6-11e9-19af-cd33f6408fef = { name = "EfficientGlobalOptimization", path = "E/EfficientGlobalOptimization" }
 3951c326-33a3-4e32-9c78-203120422c33 = { name = "MCBench", path = "M/MCBench" }
 3955a311-db13-416c-9275-1d80ed98e5e9 = { name = "GridLayoutBase", path = "G/GridLayoutBase" }
@@ -8142,6 +8143,7 @@ a14a6c0f-317a-4379-b4a0-4ba4e1e9b5ed = { name = "ImageSmooth", path = "I/ImageSm
 a14bc488-3040-4b00-9dc1-f6467924858a = { name = "ArtifactWrappers", path = "A/ArtifactWrappers" }
 a14fa8ac-7845-53f2-854f-e9bba4c623ff = { name = "DataDepsGenerators", path = "D/DataDepsGenerators" }
 a14fdeb2-c00a-556b-ab4f-03d750735e9e = { name = "Btop_jll", path = "jll/B/Btop_jll" }
+a1529afc-395a-556b-957c-713caec82e13 = { name = "tree_sitter_toml_jll", path = "jll/T/tree_sitter_toml_jll" }
 a15396b6-48d5-5d58-9928-6d29437db91e = { name = "OnlineStats", path = "O/OnlineStats" }
 a159c9be-0176-11ea-0d64-b53c1d07f8ae = { name = "Kahuna", path = "K/Kahuna" }
 a1669a0d-1a4b-4995-a903-dbadec85cda1 = { name = "BarnsleyFern", path = "B/BarnsleyFern" }
@@ -8191,6 +8193,7 @@ a2598c62-e771-4eb8-9887-959a94ab00ef = { name = "StochasticGene", path = "S/Stoc
 a25bc8ac-9d24-42b2-8edd-3d267ec19fc5 = { name = "ComoniconOptions", path = "C/ComoniconOptions" }
 a25cea48-d430-424a-8ee7-0d3ad3742e9e = { name = "SpecialPolynomials", path = "S/SpecialPolynomials" }
 a25e2219-d8cc-47b2-bc88-9b0dc7d4b2a3 = { name = "ComplexPaths", path = "C/ComplexPaths" }
+a25fa8c1-e8fe-40fb-8be2-d139e369b1d5 = { name = "MatrixSign", path = "M/MatrixSign" }
 a2619673-1d62-4ca3-9815-ccab58eb1c5a = { name = "FAME", path = "F/FAME" }
 a262596c-dd27-4d54-b019-3619024addbd = { name = "RemoveLFS", path = "R/RemoveLFS" }
 a262fb0b-5671-4fb4-9d61-972db9a18944 = { name = "KiteSimulators", path = "K/KiteSimulators" }
@@ -12852,5 +12855,6 @@ ffd25f8a-64ca-5728-b0f7-c24cf3aae800 = { name = "XZ_jll", path = "jll/X/XZ_jll" 
 ffd69456-1935-58d2-abba-ba12e8909167 = { name = "ECharts_jll", path = "jll/E/ECharts_jll" }
 ffdd34ce-459d-4fc7-82a1-202b2ab8becf = { name = "SqpSolver", path = "S/SqpSolver" }
 ffdd8e40-dc34-5919-9e87-c8f182d9ad02 = { name = "TableSchema", path = "T/TableSchema" }
+ffdf776e-a381-4021-b00a-97884d4c0dcd = { name = "InfiniteExaModels", path = "I/InfiniteExaModels" }
 fff527a3-8410-504e-9ca3-60d5e79bb1e4 = { name = "SimpleANOVA", path = "S/SimpleANOVA" }
 ffff4089-a68e-5e40-8b55-c7b9cd3999ca = { name = "QPALM_jll", path = "jll/Q/QPALM_jll" }
