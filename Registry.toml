@@ -1596,6 +1596,7 @@ some amount of consideration when choosing package names.
 1f49bdf2-22a7-4bc4-978b-948dc219fbbc = { name = "LuxorGraphPlot", path = "L/LuxorGraphPlot" }
 1f4a9958-6928-474c-bcb2-b5c430b26db6 = { name = "Equate", path = "E/Equate" }
 1f4b2aca-d2d9-44b6-965c-5a88febb3dc6 = { name = "Ising2D", path = "I/Ising2D" }
+1f4dac17-e489-46a5-8247-1c82af6382b6 = { name = "TensorTimeSteps", path = "T/TensorTimeSteps" }
 1f53f557-16c0-5f8f-980f-fb7167e19889 = { name = "SpectralGaussianSimulation", path = "S/SpectralGaussianSimulation" }
 1f554e9c-ddc6-5d78-a4ef-ff7defcf835d = { name = "NCEI", path = "N/NCEI" }
 1f5aa91a-953b-4f4c-bed6-d21f3af349fa = { name = "MultiAgentPathFinding", path = "M/MultiAgentPathFinding" }
@@ -2220,6 +2221,7 @@ some amount of consideration when choosing package names.
 2c1a90cd-bec4-4415-ae35-245016909a8f = { name = "BPGates", path = "B/BPGates" }
 2c1df2f5-4ab6-47a9-8339-2c9d55c0a52c = { name = "EulerCharacteristic", path = "E/EulerCharacteristic" }
 2c1f4335-9aeb-47fb-ad11-94d99429346c = { name = "OmicsProfiles", path = "O/OmicsProfiles" }
+2c2e6bdd-50a7-494a-93d8-6f138df00727 = { name = "MomentumED", path = "M/MomentumED" }
 2c364e2c-59fb-59c3-96f3-194112e690e0 = { name = "HSARuntime", path = "H/HSARuntime" }
 2c3d953e-07eb-42f7-9900-e75950e41d88 = { name = "GraphOptInterface", path = "G/GraphOptInterface" }
 2c470bb0-bcc8-11e8-3dad-c9649493f05e = { name = "Kronecker", path = "K/Kronecker" }
@@ -10781,6 +10783,7 @@ d496a93d-167e-4197-9f49-d3af4ff8fe40 = { name = "SeawaterPolynomials", path = "S
 d4999880-6331-4276-8b7d-7ee1f305cff8 = { name = "QRDecoders", path = "Q/QRDecoders" }
 d49c3b98-12bb-537a-8c40-37c13654c7f4 = { name = "StanRun", path = "S/StanRun" }
 d49dbf32-c5c2-4618-8acc-27bb2598ef2d = { name = "WeightInitializers", path = "W/WeightInitializers" }
+d4a7d00b-0e68-4c54-830d-611b26b28009 = { name = "MultifractalTools", path = "M/MultifractalTools" }
 d4b2941c-f37a-4ec9-8241-9a5e52a0f7fd = { name = "TRSFiles", path = "T/TRSFiles" }
 d4b606b2-00e0-534d-b821-fa459008cf27 = { name = "odrpack_jll", path = "jll/O/odrpack_jll" }
 d4bbf60b-102b-5ffb-8f97-a7ea5817e69f = { name = "Acquisition", path = "A/Acquisition" }
@@ -12829,6 +12832,7 @@ ff45984e-d068-5f4c-9e32-c4133509d236 = { name = "PowerModelsACDC", path = "P/Pow
 ff4d7338-4cf1-434d-91df-b86cb86fb843 = { name = "SolverCore", path = "S/SolverCore" }
 ff5396d8-130b-441a-8382-fec03de644a8 = { name = "AdjustCRC", path = "A/AdjustCRC" }
 ff580fc6-ede1-5b7e-942f-684e38381daf = { name = "SHTOOLS_jll", path = "jll/S/SHTOOLS_jll" }
+ff5a1669-b1f2-423e-bbd7-b7fa0f7e0224 = { name = "FieldViews", path = "F/FieldViews" }
 ff5ff224-83ac-11e9-2c32-7d811a837d73 = { name = "SRCWA", path = "S/SRCWA" }
 ff63dad9-3335-55d8-95ec-f8139d39e468 = { name = "StreamSampling", path = "S/StreamSampling" }
 ff64e54f-29a3-40c0-a3ca-0c9552343258 = { name = "Mehrotra", path = "M/Mehrotra" }
