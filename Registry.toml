@@ -148,6 +148,7 @@ some amount of consideration when choosing package names.
 02a35734-3e3a-4c9f-8994-84c0fbc3ad2f = { name = "MonolithicFEMVLFS", path = "M/MonolithicFEMVLFS" }
 02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd = { name = "cuDNN", path = "C/cuDNN" }
 02ac4b2c-022a-44aa-84a5-ea45a5754bcc = { name = "ControllerFormats", path = "C/ControllerFormats" }
+02c85723-9d49-4e80-ba06-d2f5c9d5147a = { name = "SpheroidalWaveFunctions", path = "S/SpheroidalWaveFunctions" }
 02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a = { name = "XML2_jll", path = "jll/X/XML2_jll" }
 02cc1f66-ff46-4bd7-a247-ac068822e639 = { name = "MimiFAIRv1_6_2", path = "M/MimiFAIRv1_6_2" }
 02d47bb6-7ce6-556a-be16-bb1710789e2b = { name = "TensorCast", path = "T/TensorCast" }
@@ -1329,6 +1330,7 @@ some amount of consideration when choosing package names.
 19761982-0bba-11ea-3d5f-93c17441e836 = { name = "OhMyQSIM", path = "O/OhMyQSIM" }
 197b51f5-fdb5-5f35-aa9f-0a14f35f5b28 = { name = "Poptart", path = "P/Poptart" }
 197bc772-8d3f-4a3f-b50f-4eb5086fedbf = { name = "FloatingTableView", path = "F/FloatingTableView" }
+197e6993-98e3-4984-a077-c769f1bc4b7b = { name = "OliveCollaborate", path = "O/OliveCollaborate" }
 1983ef0c-217d-4026-99b0-9163e7750d85 = { name = "ChebParticleMesh", path = "C/ChebParticleMesh" }
 1986cc42-f94f-5a68-af5c-568840ba703d = { name = "Unitful", path = "U/Unitful" }
 198dc43e-9e51-5cd7-9d40-d9794d335912 = { name = "TSML", path = "T/TSML" }
@@ -4515,6 +4517,7 @@ some amount of consideration when choosing package names.
 593b3428-ca2f-500c-ae53-031589ec8ddd = { name = "CmdStan", path = "C/CmdStan" }
 593ffa3d-269e-5d81-88bc-c3b6809c35a6 = { name = "CurricularAnalytics", path = "C/CurricularAnalytics" }
 59420ebe-bdc3-4117-ac89-8393ca9fcf2c = { name = "StateMachines", path = "S/StateMachines" }
+594ea493-0a2f-4496-9340-85da5d8e0ddf = { name = "MultiGridBarrier3d", path = "M/MultiGridBarrier3d" }
 594eec9e-a086-4631-8fc7-61104af37930 = { name = "GenomicDiversity", path = "G/GenomicDiversity" }
 5954c95d-ff03-4a38-b8f4-a6ed1c4752b2 = { name = "CSSMakieLayout", path = "C/CSSMakieLayout" }
 5959db7a-ea39-4486-b5fe-2dd0bf03d60d = { name = "NonlinearSolveFirstOrder", path = "N/NonlinearSolveFirstOrder" }
@@ -9683,6 +9686,7 @@ be5e9834-f3d9-4b7e-b5ea-d062861d4ac2 = { name = "FactorRotations", path = "F/Fac
 be6384bf-868f-57ad-9feb-9e32886bc996 = { name = "very_nauty_jll", path = "jll/V/very_nauty_jll" }
 be6996d8-ce38-42dc-ae22-8b975ffb034a = { name = "SoilMulch", path = "S/SoilMulch" }
 be6e5d0e-34a5-4c8f-af83-e1b5389203d8 = { name = "Antique", path = "A/Antique" }
+be6e8a61-07d1-4c53-9ea3-a8f885d7be3a = { name = "SpringRank", path = "S/SpringRank" }
 be6f12e9-ca4f-5eb2-a339-a4f995cc0291 = { name = "ODBC", path = "O/ODBC" }
 be6fae49-30d2-4092-b236-0bef8b98bcec = { name = "TimeParallel", path = "T/TimeParallel" }
 be7923c8-3e70-447d-8860-ce9fd1d8f58a = { name = "RBiQuaternions", path = "R/RBiQuaternions" }
@@ -9960,6 +9964,7 @@ c377c86e-bf6b-4a25-91bb-5ed2a0abdac5 = { name = "SamplingRB", path = "S/Sampling
 c380f8b6-65b3-4789-a31b-7d6b5dc6d4c5 = { name = "CyclotomicNumbers", path = "C/CyclotomicNumbers" }
 c387492b-ffec-4e51-9a46-bd230226031c = { name = "BeamletOptics", path = "B/BeamletOptics" }
 c389a1a6-a4ad-11e9-3760-17d115de83c0 = { name = "DotTestSets", path = "D/DotTestSets" }
+c3a3e59a-dbc1-4859-929f-11754879f5bd = { name = "OliveProfiler", path = "O/OliveProfiler" }
 c3a54625-cd67-489e-a8e7-0a5a0ff4e31b = { name = "JET", path = "J/JET" }
 c3abd6fe-9069-5508-9372-c239bf6209ff = { name = "OCaml_jll", path = "jll/O/OCaml_jll" }
 c3af3a8c-b79e-4b01-bf44-c718d7e0e0d6 = { name = "GraphsMatching", path = "G/GraphsMatching" }
