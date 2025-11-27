@@ -727,6 +727,7 @@ some amount of consideration when choosing package names.
 0e21426a-da0a-11e8-1f13-43a2532b2fa8 = { name = "PhaseSpaceTools", path = "P/PhaseSpaceTools" }
 0e223106-8bb8-5e65-a62c-37bba9531d36 = { name = "libad9361_iio_jll", path = "jll/L/libad9361_iio_jll" }
 0e22d245-d796-46d0-bd67-132aa2ceb697 = { name = "ComradeDynesty", path = "C/ComradeDynesty" }
+0e2365da-becf-4b4f-af1d-8bfff9db196c = { name = "AstroProp", path = "A/AstroProp" }
 0e25da23-48ae-47a7-b185-c5bd5c070cab = { name = "Blueprints", path = "B/Blueprints" }
 0e288569-e4b5-43fd-9baa-cb516e1232f8 = { name = "HeroIcons", path = "H/HeroIcons" }
 0e386048-9400-53f3-9e91-0210ee04dc3b = { name = "avrdude_jll", path = "jll/A/avrdude_jll" }
@@ -3865,6 +3866,7 @@ some amount of consideration when choosing package names.
 4bc7fa8b-4ef2-4643-8c8b-cef036f85839 = { name = "XKCD", path = "X/XKCD" }
 4bd09668-9077-4be7-adc9-6307a490e6df = { name = "ConstraintLearning", path = "C/ConstraintLearning" }
 4bd444d9-eedc-4582-9e81-098846183c20 = { name = "NoteMate", path = "N/NoteMate" }
+4bd44dca-1e45-43d2-b940-3f88da59ea6f = { name = "AstroUniverse", path = "A/AstroUniverse" }
 4bfef8eb-d10e-4c1e-a6a0-b774b262ad28 = { name = "EmailScraper", path = "E/EmailScraper" }
 4bff0fe4-4ead-499c-9e50-e12c47db005b = { name = "OktaJWTVerifier", path = "O/OktaJWTVerifier" }
 4c0109c6-14e9-4c88-93f0-2b974d3468f4 = { name = "QuartoNotebookRunner", path = "Q/QuartoNotebookRunner" }
@@ -3985,6 +3987,7 @@ some amount of consideration when choosing package names.
 4e599b9b-5231-4225-b353-2dfd54e54db8 = { name = "ReversibleJumpMCMC", path = "R/ReversibleJumpMCMC" }
 4e5d9629-6565-4102-a9ff-45c707eb060e = { name = "GenieDevTools", path = "G/GenieDevTools" }
 4e6207fc-2eac-4e87-a4c7-54305e430502 = { name = "ShortcutClient", path = "S/ShortcutClient" }
+4e6d50a3-795a-40f7-bdce-bebb06c496f9 = { name = "AstroCallbacks", path = "A/AstroCallbacks" }
 4e6fcdb7-1186-4e1f-a706-475e75c168bb = { name = "OptimizationNLopt", path = "O/OptimizationNLopt" }
 4e7460e3-fd1b-4f88-90fa-49c1b80b3e77 = { name = "CudaRBMs", path = "C/CudaRBMs" }
 4e780e97-f5bf-4111-9dc4-b70aaf691b06 = { name = "SnpArrays", path = "S/SnpArrays" }
@@ -6029,6 +6032,7 @@ some amount of consideration when choosing package names.
 7685536e-2581-4f83-bef1-2ba363c9cb91 = { name = "FunctionIntegrator", path = "F/FunctionIntegrator" }
 7685c673-c356-4b9b-8b22-c9f5550fdd46 = { name = "ImarisWriter", path = "I/ImarisWriter" }
 7693890a-d069-55fe-a829-b4a6d304f0ee = { name = "HTML_Entities", path = "H/HTML_Entities" }
+7696fc14-2f3a-46f6-b942-ece41ce8abed = { name = "AstroManeuvers", path = "A/AstroManeuvers" }
 769ccd65-a659-4118-b5e3-8f57c631b3e0 = { name = "BasicBSplineExporter", path = "B/BasicBSplineExporter" }
 76a33514-0aea-4d2f-abaf-6a43b94fc20c = { name = "CEDICT", path = "C/CEDICT" }
 76a68121-5bb9-42aa-bb53-85bca5455360 = { name = "ImportKeysightBin", path = "I/ImportKeysightBin" }
@@ -6290,6 +6294,7 @@ some amount of consideration when choosing package names.
 7af52d38-510f-42b9-ba0a-b0cde7e92322 = { name = "Coalescent", path = "C/Coalescent" }
 7af7f183-cd03-4039-bf6b-67ea3eb1648d = { name = "DAMMmodel", path = "D/DAMMmodel" }
 7b0aa2c9-049f-5cec-894a-2b6b781bb25e = { name = "BibTeX", path = "B/BibTeX" }
+7b16edaa-6936-47b4-b191-819abb0f77bd = { name = "AstroFrames", path = "A/AstroFrames" }
 7b188ff4-8bb6-4dee-bbe1-9b6fdde2c7c5 = { name = "BSDiff", path = "B/BSDiff" }
 7b1bdcfb-ac25-445c-8368-46c9637457c8 = { name = "ODSFiles", path = "O/ODSFiles" }
 7b1d0a8f-ece6-4bf3-a419-6aae1f10a90f = { name = "SCRAM", path = "S/SCRAM" }
@@ -8744,6 +8749,7 @@ ac3a6c97-e859-4b9f-96bb-63d2a216042c = { name = "QEDfields", path = "Q/QEDfields
 ac3cf774-1c31-5ab1-b91e-e77d3fbc835d = { name = "aws_c_iot_jll", path = "jll/A/aws_c_iot_jll" }
 ac42e6ba-c0bf-4fcf-827d-deea44b16255 = { name = "GModelFit", path = "G/GModelFit" }
 ac4a9f1e-bdb2-5204-990c-47c8b2f70d4e = { name = "spglib_jll", path = "jll/S/spglib_jll" }
+ac4cc047-8a77-4e9e-bb46-f1584e9a10ee = { name = "AstroModels", path = "A/AstroModels" }
 ac509c8a-358f-4e3e-a88a-d19fed7814aa = { name = "ContentHashes", path = "C/ContentHashes" }
 ac60b53e-8d92-4c83-b960-e78698fa1916 = { name = "Dojo", path = "D/Dojo" }
 ac637c84-cc71-43bf-9c33-c1b4316be3d4 = { name = "AbbreviatedStackTraces", path = "A/AbbreviatedStackTraces" }
