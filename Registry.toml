@@ -3370,6 +3370,7 @@ some amount of consideration when choosing package names.
 421443cc-9b00-11ea-1646-3bac74f84b0c = { name = "ZeroOrigin", path = "Z/ZeroOrigin" }
 42171d58-473b-503a-8d5f-782019eb09ec = { name = "PlyIO", path = "P/PlyIO" }
 4225ea8a-3324-57e7-9ddc-5798a2cb9eab = { name = "Tk", path = "T/Tk" }
+42265baf-9f38-5b3a-a647-0201f872c1d9 = { name = "peppi_jlrs_jll", path = "jll/P/peppi_jlrs_jll" }
 422b30a1-cc69-4d85-abe7-cc07b540c444 = { name = "QRMumps", path = "Q/QRMumps" }
 4239201d-c60e-5e0a-9702-85d713665ba7 = { name = "ThreadSafeDicts", path = "T/ThreadSafeDicts" }
 42433972-eea5-42bb-ab72-392315b4e8df = { name = "Langevin", path = "L/Langevin" }
@@ -4016,6 +4017,7 @@ some amount of consideration when choosing package names.
 4ef67f76-e0de-5105-ac01-03b6482fb4f8 = { name = "FLANN", path = "F/FLANN" }
 4ef9287f-f14a-4b13-b4c1-9bb5ae54399a = { name = "Kneedle", path = "K/Kneedle" }
 4ef9e186-2fe5-4b24-8de7-9f7291f24af7 = { name = "HerbGrammar", path = "H/HerbGrammar" }
+4efb4129-5e83-47d2-926d-947c0e6cb76d = { name = "ChenSignatures", path = "C/ChenSignatures" }
 4efdbe67-70aa-4c87-84c0-bc59a9addc1a = { name = "HITRAN", path = "H/HITRAN" }
 4f01c588-2833-446a-9dbd-6331d80acb41 = { name = "OscarDevTools", path = "O/OscarDevTools" }
 4f105e01-9b18-47b8-92a3-3fae8366c3d5 = { name = "MuttsInterface", path = "M/MuttsInterface" }
@@ -4108,6 +4110,7 @@ some amount of consideration when choosing package names.
 508c9074-7a14-5c94-9582-3d4bc1871065 = { name = "bliss_jll", path = "jll/B/bliss_jll" }
 5091b313-875f-492b-8fe1-0f0d7d725ad8 = { name = "DotNET", path = "D/DotNET" }
 509f810d-e932-4a50-86c7-f8dcaa7e0150 = { name = "Stardates", path = "S/Stardates" }
+50a7bfbf-5fc4-52b4-b7f8-52e7f829027e = { name = "libimagequant_jll", path = "jll/L/libimagequant_jll" }
 50acdc01-ce88-4ca7-bd87-6916c254362e = { name = "SafePETSc", path = "S/SafePETSc" }
 50b5cf9e-bf7a-4e29-8981-4280cbba70cb = { name = "NLLSsolver", path = "N/NLLSsolver" }
 50ba71b6-fa0f-514d-ae9a-0916efc90dcf = { name = "BitBasis", path = "B/BitBasis" }
@@ -5184,6 +5187,7 @@ some amount of consideration when choosing package names.
 665f56ad-f4f7-4f50-adde-d55c796959f8 = { name = "KryburyCompress", path = "K/KryburyCompress" }
 665f6718-e944-491c-97a0-bc01f3ed948a = { name = "OptimShortestPaths", path = "O/OptimShortestPaths" }
 66620973-d34b-445b-a614-4040704cad69 = { name = "OutlierDetectionTest", path = "O/OutlierDetectionTest" }
+66629163-d46e-44ca-9a00-7025b1e168e6 = { name = "TikhonovFenichelReductions", path = "T/TikhonovFenichelReductions" }
 66699cd8-9c01-4e9d-a059-b96c86d16b3a = { name = "TrixiParticles", path = "T/TrixiParticles" }
 666c268a-d78f-417b-b45a-09e10b365109 = { name = "Tries", path = "T/Tries" }
 666f501e-685d-4e36-ab44-ece85df6022b = { name = "ITensorNumericalAnalysis", path = "I/ITensorNumericalAnalysis" }
@@ -9018,6 +9022,7 @@ b11687fd-3a1c-4c41-97d0-998ab401d50e = { name = "QuanticsTCI", path = "Q/Quantic
 b1168b60-8710-48c1-88d2-5c53ae207dd0 = { name = "ScatterNNlib", path = "S/ScatterNNlib" }
 b11753cd-0d5a-47ad-8b8f-99db3fa4a09b = { name = "CooccurrenceRegression", path = "C/CooccurrenceRegression" }
 b11e30b1-63be-5002-9df0-88ee0fe906ff = { name = "PGPLOT_jll", path = "jll/P/PGPLOT_jll" }
+b1229eab-bc7b-489c-92b5-04baf87d8d0b = { name = "OpenRouter", path = "O/OpenRouter" }
 b129c591-c9d9-59ef-8959-ff59aa278493 = { name = "msgpack_cxx_jll", path = "jll/M/msgpack_cxx_jll" }
 b12ae82c-6730-437f-aff9-d2c38332a376 = { name = "MixedModelsMakie", path = "M/MixedModelsMakie" }
 b12ccfe2-7326-416f-9f4f-cd3183bd9fe8 = { name = "PyCallChainRules", path = "P/PyCallChainRules" }
