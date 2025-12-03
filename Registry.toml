@@ -2987,6 +2987,7 @@ some amount of consideration when choosing package names.
 3a5a026c-ea78-4100-92bd-8470dea0b587 = { name = "Events", path = "E/Events" }
 3a62192b-5e76-5fff-8887-7dbaab5f1e7e = { name = "wxWidgets_jll", path = "jll/W/wxWidgets_jll" }
 3a778109-d974-46c8-ac54-09f30d605bdf = { name = "ContinuumMechanicsBase", path = "C/ContinuumMechanicsBase" }
+3a78539b-9dce-42c5-be8d-f3fa4153f7a3 = { name = "SubsurfaceCore", path = "S/SubsurfaceCore" }
 3a858bc7-ae0d-44ab-8a92-ee3192d2dedf = { name = "CJKFrequencies", path = "C/CJKFrequencies" }
 3a865a2d-5b23-5a0f-bc46-62713ec82fae = { name = "CuArrays", path = "C/CuArrays" }
 3a884ed6-31ef-47d7-9d2a-63182c4928ed = { name = "UnPack", path = "U/UnPack" }
@@ -4645,6 +4646,7 @@ some amount of consideration when choosing package names.
 5b8de370-2f65-449b-a80a-5b10b09533c5 = { name = "ElasticFDSG", path = "E/ElasticFDSG" }
 5b98d230-66e3-4a60-a8a7-ae961925db22 = { name = "CayleyMengerDeterminant", path = "C/CayleyMengerDeterminant" }
 5b99f244-f0f2-4726-ae95-e2da6d7785de = { name = "GradientMethods", path = "G/GradientMethods" }
+5b9d1343-a731-5a90-8730-7bf8d89bf3eb = { name = "SolarPosition", path = "S/SolarPosition" }
 5ba14d91-d028-496b-b148-c0fbc366f709 = { name = "Jabalizer", path = "J/Jabalizer" }
 5ba52731-8f18-5e0d-9241-30f10d1ec561 = { name = "CodecLz4", path = "C/CodecLz4" }
 5bab7191-041a-5c2e-a744-024b9c3a5062 = { name = "SPICE", path = "S/SPICE" }
@@ -5178,6 +5180,7 @@ some amount of consideration when choosing package names.
 65e68595-3a03-5ff5-a6a2-f05fa774f32e = { name = "SchumakerSpline", path = "S/SchumakerSpline" }
 65e78d25-6039-50a4-9445-38022e3d2eb3 = { name = "ProxSDP", path = "P/ProxSDP" }
 65eab244-f18a-4d75-9a26-c968e2ddff3d = { name = "Synthesizer", path = "S/Synthesizer" }
+65eadcc4-e045-440a-9e0d-07418b613f72 = { name = "LibImageQuant", path = "L/LibImageQuant" }
 65edcd7e-b178-4558-a546-bf867610404b = { name = "ADSeismic", path = "A/ADSeismic" }
 65edd895-dc1e-518e-896c-dc343a3c7f2e = { name = "librealsense_jll", path = "jll/L/librealsense_jll" }
 65edfddc-f399-4499-8369-a1bd38eee2ea = { name = "SixelTerm", path = "S/SixelTerm" }
@@ -5247,6 +5250,7 @@ some amount of consideration when choosing package names.
 67456a42-1dca-4109-a031-0a68de7e3ad5 = { name = "OhMyThreads", path = "O/OhMyThreads" }
 6748aba7-0e9b-415e-a410-ae3cc0ecb334 = { name = "DeepEquilibriumNetworks", path = "D/DeepEquilibriumNetworks" }
 67491407-f73d-577b-9b50-8179a7c68029 = { name = "Polyhedra", path = "P/Polyhedra" }
+67499a12-87ae-5367-9f08-9b6e5d7d8b47 = { name = "tree_sitter_matlab_jll", path = "jll/T/tree_sitter_matlab_jll" }
 674b2976-56af-439b-a2b1-837be4a3d087 = { name = "UnixMmap", path = "U/UnixMmap" }
 67581813-1eb2-5518-8b74-202629104514 = { name = "isa_l_jll", path = "jll/I/isa_l_jll" }
 675b6b9c-7c2f-11e9-3bf3-dfd4d61640f7 = { name = "KeldyshED", path = "K/KeldyshED" }
@@ -12368,6 +12372,7 @@ f34749e5-bf11-50ef-9bf7-447477e32da8 = { name = "Matio_jll", path = "jll/M/Matio
 f34a0dec-cdff-52ca-a698-8a683c311173 = { name = "ClustForOpt", path = "C/ClustForOpt" }
 f34bc7f3-9d04-4ef8-b7a3-feb87ce2ba93 = { name = "HydroModelLibrary", path = "H/HydroModelLibrary" }
 f34fe3fd-af96-4859-b26f-d1ad3ec20571 = { name = "Walker2020Sampling", path = "W/Walker2020Sampling" }
+f370be48-5072-5a80-a2be-a91280f1992d = { name = "tree_sitter_fortran_jll", path = "jll/T/tree_sitter_fortran_jll" }
 f37634dd-fc60-56ab-95b9-a67e66fd33fe = { name = "jd_jll", path = "jll/J/jd_jll" }
 f37aa7dd-fb3b-4c75-b722-300831487a5c = { name = "BioSimplex", path = "B/BioSimplex" }
 f37d3882-d878-4a7b-89a5-2d9832311052 = { name = "TrueSkill", path = "T/TrueSkill" }
