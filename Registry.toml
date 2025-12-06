@@ -1797,6 +1797,7 @@ some amount of consideration when choosing package names.
 23470ee3-d0df-4052-8b1a-8cbd6363e7f0 = { name = "Brillouin", path = "B/Brillouin" }
 234d2aa0-2291-45f7-9047-6fa6f316b0a8 = { name = "MicroCanonicalHMC", path = "M/MicroCanonicalHMC" }
 234f2d50-f964-585e-b1c8-17cd4567e563 = { name = "OpenLDAPClient_jll", path = "jll/O/OpenLDAPClient_jll" }
+23524693-fba5-5b56-a3e3-2a280dc54396 = { name = "ONNX_static_jll", path = "jll/O/ONNX_static_jll" }
 235f3f79-a89d-4d04-8acc-8e76a70bca42 = { name = "PCquery", path = "P/PCquery" }
 236017c9-faef-5401-ab52-d2664edfb5d0 = { name = "Wigxjpf_jll", path = "jll/W/Wigxjpf_jll" }
 2377441b-c98c-4b62-8dd7-ad61dfe8e447 = { name = "StandaloneIpopt", path = "S/StandaloneIpopt" }
@@ -2485,6 +2486,7 @@ some amount of consideration when choosing package names.
 30cfb417-a18a-4984-907c-c461bfb07c95 = { name = "GridDensities", path = "G/GridDensities" }
 30d33687-f7ed-5b0d-8b26-3dc9b7abd572 = { name = "MCVI", path = "M/MCVI" }
 30d44bb2-ff8b-57e8-b516-b10f428bad0e = { name = "HiGHSstatic_jll", path = "jll/H/HiGHSstatic_jll" }
+30d8e1a9-d5cd-4a57-ad5f-8276e63f4ed5 = { name = "IndexedDataFrames", path = "I/IndexedDataFrames" }
 30ddb3f0-912f-4f34-9804-e4bb31290777 = { name = "StippleCharts", path = "S/StippleCharts" }
 30dfa513-9b2f-4fb3-9796-781eabac1617 = { name = "ManualNLPModels", path = "M/ManualNLPModels" }
 30e33e58-a96a-4fec-8c75-57692dd3ff18 = { name = "SmoQyKPMCore", path = "S/SmoQyKPMCore" }
@@ -3706,6 +3708,7 @@ some amount of consideration when choosing package names.
 4860efcf-db82-4443-af70-6b708dedc2d2 = { name = "SparkSQL", path = "S/SparkSQL" }
 4867d790-6146-11e9-2b04-0dd79efdd1cc = { name = "GeneticScreens", path = "G/GeneticScreens" }
 4869f98a-92d2-4a27-bbf6-5599fe134177 = { name = "TimeSeriesClassification", path = "T/TimeSeriesClassification" }
+486de887-2d28-4133-b065-860be2a859fb = { name = "PolyOCP", path = "P/PolyOCP" }
 4870c19d-3b63-4bfc-b854-f41d47798bf9 = { name = "Guards", path = "G/Guards" }
 4873b48c-7fd1-4fb6-93c5-649b25bdde2e = { name = "PeriodicHiddenMarkovModels", path = "P/PeriodicHiddenMarkovModels" }
 48790e7e-73b2-491a-afa5-62818081adcb = { name = "RadialBasisFunctionModels", path = "R/RadialBasisFunctionModels" }
@@ -4907,6 +4910,7 @@ some amount of consideration when choosing package names.
 6073304d-8c11-559f-8a83-5ce24a08dcab = { name = "MLX_C_jll", path = "jll/M/MLX_C_jll" }
 6074595b-091a-495a-9b39-045a690b2c53 = { name = "Muspel", path = "M/Muspel" }
 607c11b8-770f-4df0-ace8-6eaa1ea2719e = { name = "HealthMLBase", path = "H/HealthMLBase" }
+607c1b85-d155-426e-91c9-9defd76aa9e1 = { name = "FpLinearCategories", path = "F/FpLinearCategories" }
 607ca3ad-272e-43c8-bcbe-fc71b56c935c = { name = "LowRankOpt", path = "L/LowRankOpt" }
 607db5a9-722a-4af8-9a06-1810c0fe385b = { name = "DifferentialEvolutionMCMC", path = "D/DifferentialEvolutionMCMC" }
 60874f82-5ada-4c70-bd1c-fa6be7711c8a = { name = "AbstractNeuralNetworks", path = "A/AbstractNeuralNetworks" }
@@ -5113,6 +5117,7 @@ some amount of consideration when choosing package names.
 6484683b-de53-5689-b9d2-2f18b83297fe = { name = "DrakeLCMTypes", path = "D/DrakeLCMTypes" }
 6486599b-a3cd-4e92-a99a-2cea90cc8c3c = { name = "ReinforcementLearningTrajectories", path = "R/ReinforcementLearningTrajectories" }
 648f5313-62c6-43ee-8010-c7c816bb980d = { name = "MangoEnergyEnvironments", path = "M/MangoEnergyEnvironments" }
+64909d44-ed92-46a8-bbd9-f047dfbdc84b = { name = "StateSelection", path = "S/StateSelection" }
 6490f8d2-1475-45bb-865d-edb65413071d = { name = "CheckedCalls", path = "C/CheckedCalls" }
 64931d76-8770-46b0-8423-0a5d3a7d2d72 = { name = "ParameterSpacePartitions", path = "P/ParameterSpacePartitions" }
 649716ba-0eb1-4560-ace2-251185f55281 = { name = "OverflowContexts", path = "O/OverflowContexts" }
