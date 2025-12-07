@@ -350,6 +350,7 @@ some amount of consideration when choosing package names.
 06ae4d9b-ce5e-4813-a1b3-426e46312ec2 = { name = "CLEARSWI", path = "C/CLEARSWI" }
 06b161dc-0161-11ea-0f74-41f836f4024b = { name = "Z3", path = "Z/Z3" }
 06b1ce50-b741-4199-b118-ba5fe1a70fa7 = { name = "ChunkCodecTests", path = "C/ChunkCodecTests" }
+06b494a0-c8e0-40cc-ad32-d99506a00a6c = { name = "HyperHessians", path = "H/HyperHessians" }
 06bb1623-fdd5-5ca2-a01c-88eae3ea319e = { name = "PenaltyFunctions", path = "P/PenaltyFunctions" }
 06c00241-927a-4d5b-bb5e-6b5a2ada3567 = { name = "UnitfulParsableString", path = "U/UnitfulParsableString" }
 06c0f48c-727e-59bc-bc79-048e0b09db0c = { name = "ssht_jll", path = "jll/S/ssht_jll" }
@@ -2027,6 +2028,7 @@ some amount of consideration when choosing package names.
 27af9300-c9da-50fb-ba64-a6b0776a3078 = { name = "GAP_pkg_deepthought_jll", path = "jll/G/GAP_pkg_deepthought_jll" }
 27c01619-3163-4fe3-a204-36d38c32eb7d = { name = "ShareAdd", path = "S/ShareAdd" }
 27c6c700-beb4-11e9-0d5d-570238037c5a = { name = "Reddit", path = "R/Reddit" }
+27cdad02-83ed-4657-a9f5-b5f94b1c509a = { name = "GregoryLoredo", path = "G/GregoryLoredo" }
 27cf6249-c7ba-466c-943c-2006590103b7 = { name = "PlutoLiveExport", path = "P/PlutoLiveExport" }
 27dd0110-1916-4fd6-8b4b-1bc109db1170 = { name = "GridapTopOpt", path = "G/GridapTopOpt" }
 27e0793c-dcf3-4b51-9682-e1c9838db8f8 = { name = "ItuRPropagations", path = "I/ItuRPropagations" }
@@ -2761,6 +2763,7 @@ some amount of consideration when choosing package names.
 35d66a44-7359-11ea-387b-f94ed747d8e0 = { name = "Fresa", path = "F/Fresa" }
 35d6a980-a343-548e-a6ea-1d62b119f2f4 = { name = "ColorSchemes", path = "C/ColorSchemes" }
 35d9aba7-3991-5541-aec2-52abade7e365 = { name = "Qt6WebSockets_jll", path = "jll/Q/Qt6WebSockets_jll" }
+35db7a65-4993-4cb4-8bbd-c48e232b3666 = { name = "Porosity", path = "P/Porosity" }
 35dc0263-cb5f-4c33-a114-1d7f54ab753e = { name = "QEDcore", path = "Q/QEDcore" }
 35e5bd01-9722-4017-9deb-64a5d32478ff = { name = "MultiComponentFlash", path = "M/MultiComponentFlash" }
 35e999c2-fdc2-5bcf-ab83-8b034bf9a5d1 = { name = "LHAPDF_jll", path = "jll/L/LHAPDF_jll" }
@@ -8092,6 +8095,7 @@ some amount of consideration when choosing package names.
 9f03c2a6-2865-5578-ae11-af8a29163b66 = { name = "libconfuse_jll", path = "jll/L/libconfuse_jll" }
 9f05be0d-5fa0-5d85-a018-f41a39aa9d88 = { name = "Usrsctp_jll", path = "jll/U/Usrsctp_jll" }
 9f0aa9f4-9415-4e6a-8795-331ebf40aa04 = { name = "TCIITensorConversion", path = "T/TCIITensorConversion" }
+9f11263e-cf0d-4932-bae6-807953dbea74 = { name = "AppEnv", path = "A/AppEnv" }
 9f146e92-7042-481a-8b41-8d9bb9ade538 = { name = "McCabeThiele", path = "M/McCabeThiele" }
 9f14b124-c50e-4008-a7d4-969b3a6cd68a = { name = "Vulkan", path = "V/Vulkan" }
 9f18896c-49a9-43cc-8eef-c455a8a119c6 = { name = "LazyInverses", path = "L/LazyInverses" }
@@ -8827,6 +8831,7 @@ ad102508-34d1-48cc-9d5a-825d0c17f2b5 = { name = "GeneticProgramming", path = "G/
 ad1b8b27-e232-4da9-b498-bea9c19a30d7 = { name = "EnergyModelsHeat", path = "E/EnergyModelsHeat" }
 ad2082ca-a69e-11e9-38fa-e96309a31fe4 = { name = "ExportAll", path = "E/ExportAll" }
 ad26291b-5ad9-4b61-8cdb-f4ecfd1c1fc8 = { name = "GeoDataPicker", path = "G/GeoDataPicker" }
+ad31a8ef-59f5-4a01-b543-a85c2f73e95c = { name = "ACEfit", path = "A/ACEfit" }
 ad36b3a9-85b5-4b8d-a935-e72ac6d2d37a = { name = "WolfRiverPlots", path = "W/WolfRiverPlots" }
 ad3d3fd0-b5f2-51ee-b274-8cdbe62317e2 = { name = "SOFA", path = "S/SOFA" }
 ad42c870-428c-46ff-ae37-01b7349146a9 = { name = "AdversarialPrediction", path = "A/AdversarialPrediction" }
@@ -11187,6 +11192,7 @@ db12335b-fddc-5e1b-b0ee-42071d21ae50 = { name = "StringBuilders", path = "S/Stri
 db1dffaa-5ed3-4583-9a66-b5881c82ef11 = { name = "CTBenchmarks", path = "C/CTBenchmarks" }
 db1e321a-d383-57b4-a664-0144fd54e973 = { name = "Callbacks", path = "C/Callbacks" }
 db222a54-9a4e-11e9-2a63-0f03ae0fd449 = { name = "DynamicGridsGtk", path = "D/DynamicGridsGtk" }
+db2670d1-d57e-49e7-a9fb-f22487c808fe = { name = "EnhancedCSV", path = "E/EnhancedCSV" }
 db2c278d-83f0-4638-b51a-78d51d6a70fe = { name = "DyadicKDE", path = "D/DyadicKDE" }
 db317de6-444b-4dfa-9d0e-fbf3d8dd78ea = { name = "Mosquitto", path = "M/Mosquitto" }
 db38d531-b084-4210-bfec-cee5c3c1a709 = { name = "FewBodyDB", path = "F/FewBodyDB" }
