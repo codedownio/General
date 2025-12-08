@@ -2672,6 +2672,7 @@ some amount of consideration when choosing package names.
 3428059b-622b-5399-b16f-d347a77089a4 = { name = "SymEngine_jll", path = "jll/S/SymEngine_jll" }
 343a40d9-ed99-5d34-8b56-649aaa4ecee6 = { name = "soapysdr_jll", path = "jll/S/soapysdr_jll" }
 343a5541-a696-4ae7-8102-bc61c09e1896 = { name = "FileCmp", path = "F/FileCmp" }
+343d6138-6384-4525-8bee-38906309ab36 = { name = "PeriodicArrays", path = "P/PeriodicArrays" }
 343dbc49-a00e-4db9-80e1-8930f4861f86 = { name = "SeqBounds", path = "S/SeqBounds" }
 343eba5b-4fb9-46a4-8530-c5c9f738ed2c = { name = "NimbusSDK", path = "N/NimbusSDK" }
 34418575-392d-4e26-8c6d-96b0910afa06 = { name = "JustRelax", path = "J/JustRelax" }
@@ -9404,6 +9405,7 @@ b8464e9a-ae38-46a4-977b-86f00930f698 = { name = "HealthSampleData", path = "H/He
 b84f0741-978f-4a85-8cef-ff508e5bc0b0 = { name = "CVaRRiskParity", path = "C/CVaRRiskParity" }
 b85c3e40-22db-5268-bacb-02bd65cb4e01 = { name = "HepMC3_jll", path = "jll/H/HepMC3_jll" }
 b85f4697-e234-5449-a836-ec8e2f98b302 = { name = "SoftGlobalScope", path = "S/SoftGlobalScope" }
+b86bd9b6-aa64-492d-a0e2-e61a004d8aed = { name = "BGZFLib", path = "B/BGZFLib" }
 b86e32d1-1d4d-4472-88d2-1980e9d19c92 = { name = "DerivableFunctions", path = "D/DerivableFunctions" }
 b86e33f2-c0db-4aa1-a6e0-ab43e668529e = { name = "FFTA", path = "F/FFTA" }
 b87178c0-1e03-5bfb-8a01-b03b192b63a7 = { name = "libbensolve_jll", path = "jll/L/libbensolve_jll" }
@@ -9939,6 +9941,7 @@ c24f3079-adb7-4533-8329-9f66732e5e85 = { name = "DomainColoring", path = "D/Doma
 c24f5779-9d3b-4059-90d7-a34104ea6889 = { name = "ToolipsUDP", path = "T/ToolipsUDP" }
 c2542da2-1f7d-11e9-2506-87691095ebb2 = { name = "PulseInputDDM", path = "P/PulseInputDDM" }
 c257ce95-4918-4279-a47c-50fdbcb74a04 = { name = "ConstrainedSystems", path = "C/ConstrainedSystems" }
+c25815d6-e493-5bf7-82d0-186ffe9bd2e7 = { name = "TCLAP_jll", path = "jll/T/TCLAP_jll" }
 c2604015-7b3d-4a30-8a26-9074551ec60a = { name = "KnuthBendix", path = "K/KnuthBendix" }
 c268e415-724e-5440-8745-890f0ae6d2bf = { name = "KelvinletsImage", path = "K/KelvinletsImage" }
 c27321d9-0574-5035-807b-f59d2c89b15c = { name = "Glob", path = "G/Glob" }
@@ -12625,6 +12628,7 @@ f7e6163d-2fa5-5f23-b69c-1db539e41963 = { name = "Kaleido_jll", path = "jll/K/Kal
 f7e6ffb2-c36d-4f8f-a77e-16e897189344 = { name = "Triangulate", path = "T/Triangulate" }
 f7ee28b6-bfbf-11e9-3e31-8961b86f052c = { name = "DistMesh", path = "D/DistMesh" }
 f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98 = { name = "GLFW", path = "G/GLFW" }
+f7f8d0a1-fd34-491e-a7ac-a4cf52f91fe5 = { name = "MathOptBenchmarkInstances", path = "M/MathOptBenchmarkInstances" }
 f7fc0f56-fd22-44bd-b234-bafb44a5fc23 = { name = "Dhall", path = "D/Dhall" }
 f80590ac-b429-510a-8a99-e7c46989f22d = { name = "JuliaFEM", path = "J/JuliaFEM" }
 f81e04c9-20b8-526d-9626-780ee78293fb = { name = "MNPDynamics", path = "M/MNPDynamics" }
