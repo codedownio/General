@@ -1667,6 +1667,7 @@ some amount of consideration when choosing package names.
 205e633a-858c-4dbb-8a70-2404f270abcf = { name = "HTML5", path = "H/HTML5" }
 20612f45-4fe6-500a-af5c-19078bfe0d65 = { name = "AppBundlerUtils_jll", path = "jll/A/AppBundlerUtils_jll" }
 2061d889-07fc-48e0-ab41-7cc4d945d6d4 = { name = "Coconots", path = "C/Coconots" }
+20620ad1-4fe4-4467-ae46-fb087718fe7b = { name = "RegularizedOptimization", path = "R/RegularizedOptimization" }
 206a444d-62d4-4bef-89ca-f2a4a27f2209 = { name = "MuTuner", path = "M/MuTuner" }
 206caa4e-a773-11ef-0a96-55713be7837f = { name = "Posits", path = "P/Posits" }
 2073ee19-d2a6-424f-ac95-ea3ed30aeccf = { name = "BigRiverMakie", path = "B/BigRiverMakie" }
@@ -3064,6 +3065,7 @@ some amount of consideration when choosing package names.
 3b8edd7d-1770-4db3-baf1-86f62e581bb4 = { name = "OneTwoFive", path = "O/OneTwoFive" }
 3b95acbd-20d2-4f07-8ac8-8df51737bf8b = { name = "ModelOrderReductionToolkit", path = "M/ModelOrderReductionToolkit" }
 3b969827-a86c-476c-9527-bb6f1a8fbad5 = { name = "MathOptSetDistances", path = "M/MathOptSetDistances" }
+3b96b61c-0fcc-4693-95ed-1ef9f35fcc53 = { name = "ACEpotentials", path = "A/ACEpotentials" }
 3b98bdbd-c5fb-40e4-a3b9-3b59ff234f62 = { name = "oneAPIKernels", path = "O/oneAPIKernels" }
 3ba4a88b-5b67-4a96-bb04-131d22fbab27 = { name = "ThArrays", path = "T/ThArrays" }
 3ba834b2-aae6-11e8-1661-67e72b16bbb0 = { name = "TypographicUnits", path = "T/TypographicUnits" }
@@ -5481,6 +5483,7 @@ some amount of consideration when choosing package names.
 6ba57fb7-81df-4b24-8e8e-a3885b6fcae7 = { name = "TestHandcalcFunctions", path = "T/TestHandcalcFunctions" }
 6bac03b7-bcd8-55bf-9a08-86b9b673b6cc = { name = "DatasetsCF", path = "D/DatasetsCF" }
 6bae1f5e-a943-11ed-0d2b-5515437897b0 = { name = "AltInplaceOperationInterface", path = "A/AltInplaceOperationInterface" }
+6bb917b9-1269-42b9-9f7c-b0dca72083ab = { name = "ModelingToolkitTearing", path = "M/ModelingToolkitTearing" }
 6bc1fdef-f8f4-516b-84c1-6f5f86a35b20 = { name = "Xorg_libXmu_jll", path = "jll/X/Xorg_libXmu_jll" }
 6bcd71f4-f95e-48eb-8a7d-f882b90fc629 = { name = "DegreesOfFreedom", path = "D/DegreesOfFreedom" }
 6bd331d2-b28d-4fd3-880e-1a1c7f37947f = { name = "DftFunctionals", path = "D/DftFunctionals" }
@@ -5790,6 +5793,7 @@ some amount of consideration when choosing package names.
 717719f8-c30c-5086-8f3c-70cd6a1e3a46 = { name = "ORTools_jll", path = "jll/O/ORTools_jll" }
 71772805-00bc-5a29-9044-a26d819b7806 = { name = "cilkrts_jll", path = "jll/C/cilkrts_jll" }
 717857b8-e6f2-59f4-9121-6e50c889abd2 = { name = "DSP", path = "D/DSP" }
+7178fac9-d2bf-4933-964d-a28131e4f2a4 = { name = "QuasiCrystal", path = "Q/QuasiCrystal" }
 71791924-b903-4d6d-b97e-d26ae20ee392 = { name = "BLAKJac", path = "B/BLAKJac" }
 717c3277-546c-407d-8270-09a39a0919a0 = { name = "AdaptiveMCMC", path = "A/AdaptiveMCMC" }
 71802903-5811-4e1f-b8e7-37bd234b68eb = { name = "AbstractYieldMacros", path = "A/AbstractYieldMacros" }
@@ -6501,6 +6505,7 @@ some amount of consideration when choosing package names.
 7e506255-f358-4e82-b7e4-beb19740aa63 = { name = "ScopedValues", path = "S/ScopedValues" }
 7e558dbc-694d-5a72-987c-6f4ebed21442 = { name = "ArbNumerics", path = "A/ArbNumerics" }
 7e584817-dab4-53a9-9a51-4037a36b0ad0 = { name = "FrankenTuples", path = "F/FrankenTuples" }
+7e58c0cd-f370-453c-9274-eb333b7aace6 = { name = "FCCQuadrature", path = "F/FCCQuadrature" }
 7e59e93b-e0cb-42c7-aa95-426cb754d61e = { name = "KroneckerTools", path = "K/KroneckerTools" }
 7e5a90cf-f82e-492e-a09b-e3e26432c138 = { name = "TypeParameterAccessors", path = "T/TypeParameterAccessors" }
 7e5b28ef-eee2-49be-86fd-c343c6921134 = { name = "Basins", path = "B/Basins" }
@@ -7409,6 +7414,7 @@ some amount of consideration when choosing package names.
 90978a9a-af5e-4113-9033-e3aa0a1ac968 = { name = "SeaPearlExtras", path = "S/SeaPearlExtras" }
 90980105-b163-44e5-ba9f-8b1c83bb0533 = { name = "KiteUtils", path = "K/KiteUtils" }
 90a7ee08-a23f-48b9-9006-0e0e2a9e4608 = { name = "SysInfo", path = "S/SysInfo" }
+90af1822-8dd1-5078-b228-f487b1f02c31 = { name = "StreamVByte_jll", path = "jll/S/StreamVByte_jll" }
 90b4794c-894b-4756-a0f8-5efeb5ddf7ae = { name = "PersistenceDiagrams", path = "P/PersistenceDiagrams" }
 90b8fcef-0c2d-428d-9c56-5f86629e9d14 = { name = "YAXArrayBase", path = "Y/YAXArrayBase" }
 90c4468e-a93e-43b4-8fb5-87d804bc629f = { name = "GeoLearning", path = "G/GeoLearning" }
@@ -12434,6 +12440,7 @@ f3fa9a12-d078-4fce-bc4d-6e7bfa191ad1 = { name = "PQBaseCamp", path = "P/PQBaseCa
 f3fadb3f-5422-5a6c-be27-a20f6ffb29ff = { name = "Clingcon_jll", path = "jll/C/Clingcon_jll" }
 f3fd9213-ca85-4dba-9dfd-7fc91308fec7 = { name = "Attractors", path = "A/Attractors" }
 f3fda6fd-dc4e-47de-8408-2e5155a8ff39 = { name = "ProjectEulerUtil", path = "P/ProjectEulerUtil" }
+f409d63b-f417-4cf6-91a7-43a0b773193b = { name = "Plasm", path = "P/Plasm" }
 f41335bc-9121-4844-b5af-1d5721981e9a = { name = "MillerIndices", path = "M/MillerIndices" }
 f42328cb-ece0-4cf2-995f-9e7abb27d006 = { name = "TreeSitter", path = "T/TreeSitter" }
 f4238b75-b362-5c4c-b852-0801c9a21d71 = { name = "NLPModelsIpopt", path = "N/NLPModelsIpopt" }
