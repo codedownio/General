@@ -8136,6 +8136,7 @@ some amount of consideration when choosing package names.
 9f696214-9961-49f3-89a2-cb1ea204eb6e = { name = "BrillouinZoneMeshes", path = "B/BrillouinZoneMeshes" }
 9f6dbb68-adea-48dd-82a4-058b403bed1f = { name = "WebBlast", path = "W/WebBlast" }
 9f6f0ab1-6019-4add-889f-74609d4bcb4c = { name = "ToddlerED", path = "T/ToddlerED" }
+9f77f41a-3be8-4884-a3be-1fccfab54d3c = { name = "PolymerArchitecture", path = "P/PolymerArchitecture" }
 9f7883ad-71c0-57eb-9f7f-b5c9e6d3789c = { name = "Tracker", path = "T/Tracker" }
 9f78cca6-572e-554e-b819-917d2f1cf240 = { name = "SummationByPartsOperators", path = "S/SummationByPartsOperators" }
 9f7a259d-73a7-556d-a7a2-3eb122d3865b = { name = "EcologicalNetworksPlots", path = "E/EcologicalNetworksPlots" }
@@ -8418,6 +8419,7 @@ a4c28711-7027-4a57-8564-74545b4697a4 = { name = "Downhill", path = "D/Downhill" 
 a4c2f6ca-3fbe-4430-8ede-32935de4c069 = { name = "FlightSims", path = "F/FlightSims" }
 a4c9d1fc-8f32-52c2-b7e7-251980156b63 = { name = "libspatialite_jll", path = "jll/L/libspatialite_jll" }
 a4d2327a-b40c-407e-b18c-dbb78b346b8e = { name = "LowRankIntegrators", path = "L/LowRankIntegrators" }
+a4daff8c-1d43-4ff3-8eff-f78720aeecdc = { name = "OrdinaryDiffEqRKIP", path = "O/OrdinaryDiffEqRKIP" }
 a4dc8951-f1cc-5499-9034-9ec1c3e64557 = { name = "ReadStat_jll", path = "jll/R/ReadStat_jll" }
 a4df4552-cc26-4903-aec0-212e50a0e84b = { name = "FastPower", path = "F/FastPower" }
 a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e = { name = "Tar", path = "T/Tar" }
@@ -9024,6 +9026,7 @@ b001f823-fa75-4bff-bf55-6610c8f3688a = { name = "GeoRegions", path = "G/GeoRegio
 b002da8f-3cb3-4d91-bbe3-2953433912b5 = { name = "SoleLogics", path = "S/SoleLogics" }
 b007c34f-ba52-4995-ba37-fffe79fbde35 = { name = "EnergyModelsRenewableProducers", path = "E/EnergyModelsRenewableProducers" }
 b00fcea2-f4b1-4480-b444-a0ed31c44801 = { name = "MeanFieldToolkit", path = "M/MeanFieldToolkit" }
+b012619c-76c7-5216-bb6b-491eaf671aba = { name = "libosrmc_jll", path = "jll/L/libosrmc_jll" }
 b012eb62-94f7-4100-b683-fca14a09dfae = { name = "CBOOCall", path = "C/CBOOCall" }
 b017c6bb-e7c7-4437-8ee6-a27b72ea26ab = { name = "GeneMatrix", path = "G/GeneMatrix" }
 b01af851-7cff-425c-b4a4-ed45d3481e5c = { name = "CarnotCycles", path = "C/CarnotCycles" }
@@ -9719,6 +9722,7 @@ bd945c55-3bff-4c7d-84e7-fefb69b5105e = { name = "BoseWormPIMC", path = "B/BoseWo
 bd9e9728-6f7b-4d28-9e50-c765cb1b7c8c = { name = "SatelliteToolboxGravityModels", path = "S/SatelliteToolboxGravityModels" }
 bda1af87-e1f1-54ef-ae32-d9c31cb662a2 = { name = "ExtremeStats", path = "E/ExtremeStats" }
 bda616b3-ac6d-5293-8ee1-22b41414598d = { name = "YAJL", path = "Y/YAJL" }
+bdb2d313-ae54-487a-ba87-13d2dbade7fa = { name = "SymbolicQuartetCF", path = "S/SymbolicQuartetCF" }
 bdc3b988-716f-514a-9703-6a7af59ca400 = { name = "BlsData", path = "B/BlsData" }
 bdcacae8-1622-11e9-2a5c-532679323890 = { name = "LoopVectorization", path = "L/LoopVectorization" }
 bdd0cfe9-1bbc-4c2f-b6dc-53835f28d58f = { name = "RFFMakie", path = "R/RFFMakie" }
