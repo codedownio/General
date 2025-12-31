@@ -3999,6 +3999,7 @@ some amount of consideration when choosing package names.
 4dc3fedf-fcb4-4327-bce2-523fd266e8c9 = { name = "FlexPlan", path = "F/FlexPlan" }
 4dc47793-80f3-4232-b30e-ca78ca9d621b = { name = "Peridynamics", path = "P/Peridynamics" }
 4dca28ae-43b8-11eb-1f5e-d55054101997 = { name = "KNearestCenters", path = "K/KNearestCenters" }
+4dcc563d-31b5-562a-a66a-bda255b7e226 = { name = "OpenColorIO_jll", path = "jll/O/OpenColorIO_jll" }
 4dccea4f-7716-450f-9d24-0ee75e7372ff = { name = "HubCLI", path = "H/HubCLI" }
 4ddda095-17ec-41dd-95c9-ce16dd2a2f48 = { name = "Chamber", path = "C/Chamber" }
 4de3b72a-362e-43dd-83ff-3f381eda9f9c = { name = "TensorNetworkQuantumSimulator", path = "T/TensorNetworkQuantumSimulator" }
@@ -5237,6 +5238,7 @@ some amount of consideration when choosing package names.
 667e4c0e-a733-4321-83c7-c10aa58aff6a = { name = "FixedPointNumerics", path = "F/FixedPointNumerics" }
 66835562-f1c4-5586-a145-e564a3963a4b = { name = "HighLevelTypes", path = "H/HighLevelTypes" }
 668502ff-1e8f-42bf-95c7-24f1e819f537 = { name = "ParametrisedConvexApproximators", path = "P/ParametrisedConvexApproximators" }
+6686e6de-2010-4bf8-9178-b2bcc470766e = { name = "SindbadTEM", path = "S/SindbadTEM" }
 66877b0d-840f-4af8-a0b5-b62f5ea465b3 = { name = "MultiBisect", path = "M/MultiBisect" }
 668d2cef-03a7-4c36-a521-7d1c6ddc8846 = { name = "PySPEDAS", path = "P/PySPEDAS" }
 6690c6e9-4e12-53b8-b8fd-4bffaef8839f = { name = "normaliz_jll", path = "jll/N/normaliz_jll" }
@@ -11104,6 +11106,7 @@ d7e7cbe0-5b96-5c0f-b173-1d76374e957e = { name = "bmon_jll", path = "jll/B/bmon_j
 d7e99b2f-e7f3-4d9e-9f01-2338fc023ad3 = { name = "Yields", path = "Y/Yields" }
 d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d = { name = "MUMPS_seq_jll", path = "jll/M/MUMPS_seq_jll" }
 d7fcca20-80f2-11e9-0c11-e932b7d58cd9 = { name = "ImageContainers", path = "I/ImageContainers" }
+d7fd56dd-41bc-4b2d-b658-79a5840b2e09 = { name = "DocumenterTypst", path = "D/DocumenterTypst" }
 d7fe3460-1609-53b1-864c-4d331a5b7338 = { name = "Faiss_jll", path = "jll/F/Faiss_jll" }
 d8047ffa-7f43-11e9-2204-adfbb6974ec5 = { name = "Dyn3d", path = "D/Dyn3d" }
 d80eeb9a-aca5-4d75-85e5-170c8b632249 = { name = "UnsafeAtomicsLLVM", path = "U/UnsafeAtomicsLLVM" }
@@ -11738,6 +11741,7 @@ e416a80e-9640-42f3-8df8-80a93ca01ea5 = { name = "HarmonicOrthogonalPolynomials",
 e41cd558-3099-4f6e-a65d-5336857e40aa = { name = "DCAUtils", path = "D/DCAUtils" }
 e4207f9d-5a5d-5278-bd5d-cae8f79430d9 = { name = "ModularForms", path = "M/ModularForms" }
 e4246700-6248-511e-8146-a1d1f47669d2 = { name = "MPIReco", path = "M/MPIReco" }
+e4247b8d-50b5-41ef-b53d-f6e21a6bdac0 = { name = "DualSignals", path = "D/DualSignals" }
 e424a512-dbd9-41ff-9883-094748823e72 = { name = "FeynmanDiagram", path = "F/FeynmanDiagram" }
 e429f160-8886-11e9-20cb-0dbe84e78965 = { name = "OpenQuantumTools", path = "O/OpenQuantumTools" }
 e4316d97-8bbb-4fd3-a7d8-3851d2a72823 = { name = "OptimizationMultistartOptimization", path = "O/OptimizationMultistartOptimization" }
@@ -12420,6 +12424,7 @@ f276a096-2d87-4069-b10e-355a3501ee6e = { name = "CircuitscapeMKLPardiso", path =
 f27b6e38-b328-58d1-80ce-0feddd5e7a45 = { name = "Polynomials", path = "P/Polynomials" }
 f27f6e37-5d2b-51aa-960f-b287f2bc3b7a = { name = "libvorbis_jll", path = "jll/L/libvorbis_jll" }
 f27fdc93-0c88-4b5a-91cb-e8275adac0f6 = { name = "QXZoo", path = "Q/QXZoo" }
+f285494a-2ed6-4acd-abe2-dee598a9e1b5 = { name = "PlasmaDispersionFunctions", path = "P/PlasmaDispersionFunctions" }
 f28bf708-275a-52ef-9ea6-4821c17573f9 = { name = "LibModbus_jll", path = "jll/L/LibModbus_jll" }
 f28f55f0-a522-5efc-85c2-fe41dfb9b2d9 = { name = "Memento", path = "M/Memento" }
 f2990250-8cf9-495f-b13a-cce12b45703c = { name = "PlotlyKaleido", path = "P/PlotlyKaleido" }
