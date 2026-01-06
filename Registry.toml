@@ -2632,6 +2632,7 @@ some amount of consideration when choosing package names.
 3325b298-19c5-4432-bbc2-e7898443f212 = { name = "ClusterRunner", path = "C/ClusterRunner" }
 3325f569-5a18-4e7d-8356-246b69339eea = { name = "FixedPoint", path = "F/FixedPoint" }
 33287015-dcc4-41a7-aecb-0a84b862e0d8 = { name = "BellDiagonalQudits", path = "B/BellDiagonalQudits" }
+3328f0eb-23dc-40af-8ac5-38dea7eda2f6 = { name = "LibCerf", path = "L/LibCerf" }
 332a3e40-df62-419b-9f04-2cb73588ccaf = { name = "LibAwsChecksums", path = "L/LibAwsChecksums" }
 333409e9-af72-5310-9767-d6ad21a76a05 = { name = "CImGuiPack_jll", path = "jll/C/CImGuiPack_jll" }
 333fe5f5-19c9-4863-8caf-c9193e7dba62 = { name = "AnythingLLMDocs", path = "A/AnythingLLMDocs" }
@@ -9175,6 +9176,7 @@ b21ddb9f-2587-4215-bf7c-fbe182daf540 = { name = "TemplateMatching", path = "T/Te
 b21e61f3-bafc-59ac-ab14-4c5c62d6588d = { name = "CURL_jll", path = "jll/C/CURL_jll" }
 b21f74c0-b399-568f-9643-d20f4fa2c814 = { name = "FunctionZeros", path = "F/FunctionZeros" }
 b22a6f82-2f65-5046-a5b2-351ab43fb4e5 = { name = "FFMPEG_jll", path = "jll/F/FFMPEG_jll" }
+b22ceafb-42ac-50cb-bbfc-91fa172c9161 = { name = "libigl_jll", path = "jll/L/libigl_jll" }
 b247a4be-ddc1-5759-8008-7e02fe3dbdaa = { name = "PARMETIS_jll", path = "jll/P/PARMETIS_jll" }
 b24819f0-15bd-425d-8fc0-a9d00d1e0559 = { name = "ScaleBar", path = "S/ScaleBar" }
 b2531deb-9288-45c6-8f4a-0220551da45d = { name = "KitML", path = "K/KitML" }
@@ -10566,6 +10568,7 @@ cd00e070-8fe2-570d-8212-aefc8f89bd06 = { name = "BerkeleyDB_jll", path = "jll/B/
 cd0106a6-6d98-567f-99b2-156dd1635c57 = { name = "ExpectationStubs", path = "E/ExpectationStubs" }
 cd08e055-f00b-4f05-b4e0-48de0b2da007 = { name = "OmniParserIconDetectors", path = "O/OmniParserIconDetectors" }
 cd092912-fa1d-4500-ad73-daf1b0b0bfff = { name = "HorseML", path = "H/HorseML" }
+cd12a3d6-ca9d-404c-9a04-cb90ee163205 = { name = "WiNDCHousehold", path = "W/WiNDCHousehold" }
 cd156443-31ad-4f6f-850f-a93ee5f75905 = { name = "Karnak", path = "K/Karnak" }
 cd2553d2-8bef-4d93-8a38-c62f17d5ad23 = { name = "ITensorVisualizationBase", path = "I/ITensorVisualizationBase" }
 cd26b91b-75b4-4f6e-a355-d2a0d136006d = { name = "IPGBs", path = "I/IPGBs" }
@@ -12226,6 +12229,7 @@ ed5aba05-e74d-5cf7-8b09-107ba3463b8e = { name = "acl_jll", path = "jll/A/acl_jll
 ed5d0301-4775-4676-b788-cf71e66ff8ed = { name = "PlutoExtras", path = "P/PlutoExtras" }
 ed5fc19a-51e0-403b-bf3b-cfeba61ff831 = { name = "MoM_AllinOne", path = "M/MoM_AllinOne" }
 ed619804-44bc-4c56-bdd2-11e3a27b3f1e = { name = "CJieba", path = "C/CJieba" }
+ed655b5c-2aa3-5cc1-b78c-7837dafe1f1f = { name = "cephes_jll", path = "jll/C/cephes_jll" }
 ed6ae0be-a024-11e9-2788-05dbf8cd15d9 = { name = "JSOSuite", path = "J/JSOSuite" }
 ed6da631-2423-57d3-8e4b-223f43b45c0c = { name = "Retriever", path = "R/Retriever" }
 ed76c251-e25f-44f6-91ec-f57abd734d0d = { name = "AvrutinSearch", path = "A/AvrutinSearch" }
@@ -12313,6 +12317,7 @@ ef34ea38-0a9e-523f-b228-55b6d5c13eb1 = { name = "spectra_jll", path = "jll/S/spe
 ef35fa6a-3910-11e9-1848-752a35b00f56 = { name = "DataIO", path = "D/DataIO" }
 ef3ab10e-7fda-4108-b977-705223b18434 = { name = "KLU", path = "K/KLU" }
 ef3b0bb0-9dc6-5204-90f3-946fd7d0da3e = { name = "HELICS_jll", path = "jll/H/HELICS_jll" }
+ef3ffb92-1c7b-43b8-a0d7-a7e2ce4fd1e5 = { name = "AdaptiveCrossApproximation", path = "A/AdaptiveCrossApproximation" }
 ef4b24a4-a090-4686-a932-e7e56a5a83bd = { name = "EasyModelAnalysis", path = "E/EasyModelAnalysis" }
 ef519ef6-af43-41a0-8ac4-eb81328190af = { name = "LibAwsCal", path = "L/LibAwsCal" }
 ef544631-5c6f-4e9b-994c-12e7a4cd724c = { name = "Pipelines", path = "P/Pipelines" }
