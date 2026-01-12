@@ -2721,6 +2721,7 @@ some amount of consideration when choosing package names.
 34da2185-b29b-5c13-b0c7-acf172513d20 = { name = "Compat", path = "C/Compat" }
 34dccd9f-48d6-4445-aa0f-8c2e373b5429 = { name = "SnakeGames", path = "S/SnakeGames" }
 34e26579-e93c-4b5e-ba07-7afb633408c2 = { name = "OpenTelemetryExporterPrometheus", path = "O/OpenTelemetryExporterPrometheus" }
+34e54ef0-c5bf-48ab-9e5d-cca51f35ed77 = { name = "AstroFITS", path = "A/AstroFITS" }
 34ee53bd-d3f2-451a-8e30-9c0767249144 = { name = "Wahoo", path = "W/Wahoo" }
 34f115b4-9156-5266-a33d-ca359e631fb8 = { name = "SyntheticGrids", path = "S/SyntheticGrids" }
 34f15cae-5318-50c9-93d3-9feadd34e321 = { name = "StructJuMP", path = "S/StructJuMP" }
@@ -5653,6 +5654,7 @@ some amount of consideration when choosing package names.
 6dcfc07b-8fa8-55f0-94e3-d46e2fec2cdb = { name = "NMEA", path = "N/NMEA" }
 6dd1b50a-3aae-11e9-10b5-ef983d2400fa = { name = "Tulip", path = "T/Tulip" }
 6dd3e646-b1c5-42c7-94be-00277fa12e22 = { name = "CassetteBase", path = "C/CassetteBase" }
+6ddf539a-d0a2-4e4a-9326-ccc383163d8c = { name = "Langdock", path = "L/Langdock" }
 6ddf540b-e790-4651-beb9-197bf739545d = { name = "NoisyQuantumComputerSimulator", path = "N/NoisyQuantumComputerSimulator" }
 6de2f99a-1d3e-11f0-2fac-936eab9aa55b = { name = "PEtabSelect", path = "P/PEtabSelect" }
 6de9746b-f93d-5813-b365-ba18ad4a9cf3 = { name = "Qt6Svg_jll", path = "jll/Q/Qt6Svg_jll" }
@@ -5963,6 +5965,7 @@ some amount of consideration when choosing package names.
 737a7361-d3b7-40e9-b1ac-59bee4c5ea2d = { name = "EnergyModelsGUI", path = "E/EnergyModelsGUI" }
 737ade88-6689-11e9-2266-a1567ed38d42 = { name = "Polyline", path = "P/Polyline" }
 737fac7d-4440-55ef-927e-002196e95561 = { name = "TravelingSalesmanExact", path = "T/TravelingSalesmanExact" }
+7381d214-3001-5784-8d9a-8eb8e8688076 = { name = "fastlowess_jll", path = "jll/F/fastlowess_jll" }
 738e0a8b-9125-4fc4-8d4f-3a5b1a21603b = { name = "BlobTracking", path = "B/BlobTracking" }
 73909f5d-5828-4c22-bf39-7339a58e168d = { name = "WebSession", path = "W/WebSession" }
 739be429-bea8-5141-9913-cc70e7f3736d = { name = "MbedTLS", path = "M/MbedTLS" }
@@ -6206,6 +6209,7 @@ some amount of consideration when choosing package names.
 7809f980-de1b-4f9a-8451-85f041491431 = { name = "GraphNetCore", path = "G/GraphNetCore" }
 780baa95-dd42-481b-93db-80fe3d88832c = { name = "RandomFeatureMaps", path = "R/RandomFeatureMaps" }
 780c37f4-4e5a-43de-9e79-65c261e525a4 = { name = "Carlo", path = "C/Carlo" }
+7811750c-a499-436e-8b04-55fc0593dd37 = { name = "XrayAttenuation", path = "X/XrayAttenuation" }
 781609d7-10c4-51f6-84f2-b8444358ff6d = { name = "GMP_jll", path = "jll/G/GMP_jll" }
 781a26e1-49f4-409a-8f4c-c3159d78c17e = { name = "MixedModelsExtras", path = "M/MixedModelsExtras" }
 781d2db2-48ae-11ec-81d3-0242ac130003 = { name = "ClimaCache", path = "C/ClimaCache" }
@@ -6835,6 +6839,7 @@ some amount of consideration when choosing package names.
 83bcdc74-1232-581c-948a-f29122bf8259 = { name = "AWSTools", path = "A/AWSTools" }
 83cbd138-b029-500a-bd82-26ec0fbaa0df = { name = "Jansson_jll", path = "jll/J/Jansson_jll" }
 83cf0ae4-8bfa-5275-b23c-08ca25417759 = { name = "SimpleCarModels", path = "S/SimpleCarModels" }
+83dc357c-0294-4c28-b122-f18155576d3d = { name = "Epicycle", path = "E/Epicycle" }
 83e47e11-4a7a-5bf8-892c-11f81bf9b223 = { name = "Vinyl", path = "V/Vinyl" }
 83e8ac13-25f8-5344-8a64-a9f2b223428f = { name = "IniFile", path = "I/IniFile" }
 83e8ae56-efb3-499e-9158-b649d4f902fc = { name = "OpenTelemetryExporterOtlpProtoGrpc", path = "O/OpenTelemetryExporterOtlpProtoGrpc" }
