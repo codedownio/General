@@ -14,7 +14,7 @@ jobs:
     - uses: actions/checkout@v3
       with:
         repository: "CodeDownIO/registry2nix"
-        ref: "f9c85c1b6fa09a02a23a3b9d31704dae04511b2f"
+        ref: "ad32fe644a572366d5cf31add2e27d5515597a4b"
 
     - uses: cachix/install-nix-action@v31
       with:
