@@ -967,6 +967,7 @@ some amount of consideration when choosing package names.
 124859b0-ceae-595e-8997-d05f6a7a8dfe = { name = "DataDeps", path = "D/DataDeps" }
 124a7ef3-0f4b-4896-aed6-e944e7e0912b = { name = "REPLMaze", path = "R/REPLMaze" }
 124badd8-7747-5df6-9c35-5cbf8cd52816 = { name = "StrICU", path = "S/StrICU" }
+1260424e-cd79-4b74-a0ea-47c69c296663 = { name = "Eegle", path = "E/Eegle" }
 1266804b-bd95-4f6b-9d1e-355bae9cde8b = { name = "GibbsTypePriors", path = "G/GibbsTypePriors" }
 126a0909-f052-481b-a318-ea548fff52bb = { name = "AsciinemaGenerator", path = "A/AsciinemaGenerator" }
 1270edf5-f2f9-52d2-97e9-ab00b5d0237a = { name = "x264_jll", path = "jll/X/x264_jll" }
@@ -8145,6 +8146,7 @@ some amount of consideration when choosing package names.
 9e997f8a-9a97-42d5-a9f1-ce6bfc15e2c0 = { name = "ChangesOfVariables", path = "C/ChangesOfVariables" }
 9e9a4d37-2d2e-41e3-8b85-f7978328d9c7 = { name = "Climatology", path = "C/Climatology" }
 9ea4277c-da97-4c3a-afb0-537c066769de = { name = "SnoopCompileAnalysis", path = "S/SnoopCompileAnalysis" }
+9ea80cae-fc13-4c00-8066-6eaedb12f34b = { name = "FastInterpolations", path = "F/FastInterpolations" }
 9ea8cd13-fabe-5354-bade-922846b34814 = { name = "SPH", path = "S/SPH" }
 9eb5382b-762c-48ca-8139-e736883fe800 = { name = "PkgDependency", path = "P/PkgDependency" }
 9eb6a62d-0ffa-5353-839e-400c605afeda = { name = "BarycentricInterpolation", path = "B/BarycentricInterpolation" }
@@ -8767,6 +8769,7 @@ aa3a806a-e146-4a0b-abc5-6bb34b5dedb7 = { name = "PermutedArrays", path = "P/Perm
 aa3b323a-0e68-4b14-b952-9911d94e084a = { name = "OceanDistributions", path = "O/OceanDistributions" }
 aa41a628-2c43-45df-899b-83ab96621781 = { name = "OrthogonalPolynomialsQuasi", path = "O/OrthogonalPolynomialsQuasi" }
 aa41fe3f-f84b-5278-bb8c-b34b17f07c6c = { name = "GenICamRuntime_jll", path = "jll/G/GenICamRuntime_jll" }
+aa42e64f-7c0c-4f7e-9a43-9f30a48e1a32 = { name = "NeoPKPD", path = "N/NeoPKPD" }
 aa4a32ff-dd5d-5357-90e3-e7a9512f0501 = { name = "SimpleHypergraphs", path = "S/SimpleHypergraphs" }
 aa547a04-dd37-49ab-8e73-656744f8a8fc = { name = "DataDrop", path = "D/DataDrop" }
 aa5a021a-6c35-4f46-b189-2143d43923dc = { name = "Waluigi", path = "W/Waluigi" }
@@ -11517,6 +11520,7 @@ df4de05a-b714-11e8-3c2a-c30fb13e804c = { name = "StatGeochem", path = "S/StatGeo
 df5135bc-470e-46c6-b451-292e27ca5b84 = { name = "AbInitioSoftwareBase", path = "A/AbInitioSoftwareBase" }
 df514bf8-98b6-11e9-19f1-af1e340ea726 = { name = "ResizableArrays", path = "R/ResizableArrays" }
 df519f1b-be81-5d76-8634-ded01372dc30 = { name = "AccerionSensorAPI_jll", path = "jll/A/AccerionSensorAPI_jll" }
+df5b002e-b112-454e-9743-c2a1eb89ddc3 = { name = "ICSTools", path = "I/ICSTools" }
 df5f24a2-ce61-5be2-97f7-106f5424b9fe = { name = "xhyve_jll", path = "jll/X/xhyve_jll" }
 df6a336b-a67f-4155-81fc-4f05fe893652 = { name = "Concorde", path = "C/Concorde" }
 df7458b6-5204-493f-a0e7-404b4eb72fac = { name = "LibAWSCRT", path = "L/LibAWSCRT" }
@@ -12581,6 +12585,7 @@ f4abf1af-0426-5881-a0da-e2f168889b5e = { name = "MultivariateMoments", path = "M
 f4ace912-77ac-4801-b600-bd6f88c28557 = { name = "ConjugateComputationVI", path = "C/ConjugateComputationVI" }
 f4b1acfe-f311-436c-bb79-8483f53c17d5 = { name = "PartialLeastSquaresRegressor", path = "P/PartialLeastSquaresRegressor" }
 f4b2537f-2a16-4095-98fc-a229818e8b13 = { name = "DaprClients", path = "D/DaprClients" }
+f4b513d5-df74-5b77-afcc-0e7f5b2f7b55 = { name = "Thermopack_jll", path = "jll/T/Thermopack_jll" }
 f4b57a2e-27c7-11e9-0cb0-edd185b706f6 = { name = "EnergyExpressions", path = "E/EnergyExpressions" }
 f4b8ab15-8e73-4e04-9661-b5912071d22b = { name = "NonlinearSolvers", path = "N/NonlinearSolvers" }
 f4bc562b-d309-54f8-9efb-476e56f0410d = { name = "oneAPI_Level_Zero_Headers_jll", path = "jll/O/oneAPI_Level_Zero_Headers_jll" }
