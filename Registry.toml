@@ -1282,6 +1282,7 @@ some amount of consideration when choosing package names.
 18732c20-e27e-497f-aa49-3bf01a8fc721 = { name = "OwnTime", path = "O/OwnTime" }
 187b0558-2788-49d3-abe0-74a17ed4e7c9 = { name = "ConstructionBase", path = "C/ConstructionBase" }
 187c2503-7656-4954-a2ef-882908ec45bf = { name = "SetEnums", path = "S/SetEnums" }
+187e6719-d2a6-4c17-9b39-0c99811c6bd2 = { name = "GroupFunctions", path = "G/GroupFunctions" }
 1882e10c-1919-490c-b622-a87720d6c7a2 = { name = "MonetDB", path = "M/MonetDB" }
 18868e41-8ff6-40da-b6bb-8f92e709e4d6 = { name = "Reg1dmt", path = "R/Reg1dmt" }
 1888cb03-ce40-4a36-8d45-ae8231a0e17c = { name = "MadNLPKrylov", path = "M/MadNLPKrylov" }
@@ -3493,6 +3494,7 @@ some amount of consideration when choosing package names.
 437b6fc4-8e8e-11e9-3fa1-ad391e66c018 = { name = "ProtoStructs", path = "P/ProtoStructs" }
 437ce7a4-cd80-4539-9a29-b274cfe157d6 = { name = "MINDFul", path = "M/MINDFul" }
 4381153b-2b60-58ae-a1ba-fd683676385f = { name = "ImageDraw", path = "I/ImageDraw" }
+4383d8c7-e827-43b8-a3d6-a47e3cac7fdc = { name = "PassStores", path = "P/PassStores" }
 4383ffe1-dc98-4547-9515-b1eacdbc2dac = { name = "MParT", path = "M/MParT" }
 43843433-91eb-5384-8a0e-cbb992997742 = { name = "FinancialDerivatives", path = "F/FinancialDerivatives" }
 438b5665-92b0-42e6-bc36-e4ac8449fa2d = { name = "ConvexHulls2d", path = "C/ConvexHulls2d" }
@@ -11467,6 +11469,7 @@ ddcc5653-dcaa-48f1-be98-eb2dafe13740 = { name = "PhysicsInformedML", path = "P/P
 ddcda2f0-0770-5eff-b02e-03a583a735ee = { name = "BladeRFHardwareDriver_jll", path = "jll/B/BladeRFHardwareDriver_jll" }
 ddd1f41d-9621-41e2-91a4-6b87cc8989f3 = { name = "NQCCalculators", path = "N/NQCCalculators" }
 ddd84059-9b64-5d1b-85eb-da48df743e32 = { name = "KeyedFrames", path = "K/KeyedFrames" }
+ddd859b9-8813-4e20-ab59-a7b08a106634 = { name = "HypothesisTestsExtra", path = "H/HypothesisTestsExtra" }
 dddc953c-20d8-47dd-8cc1-765c34677cac = { name = "PowerLaws", path = "P/PowerLaws" }
 dde13934-061e-461b-aa91-2c0fad390a0d = { name = "NURBS", path = "N/NURBS" }
 dde4c033-4e86-420c-a63e-0dd931031962 = { name = "Metal", path = "M/Metal" }
@@ -12057,6 +12060,7 @@ e89237b0-9201-11e9-31b0-6361926203f7 = { name = "Turf", path = "T/Turf" }
 e89f7d12-3494-54d1-8411-f7d8b9ae1f27 = { name = "Media", path = "M/Media" }
 e8a05a0c-2c7d-51b7-a4ec-976abaf7f9a3 = { name = "GstPluginsBase_jll", path = "jll/G/GstPluginsBase_jll" }
 e8a07092-c156-4455-ab8e-ed8bc81edefb = { name = "Handcalcs", path = "H/Handcalcs" }
+e8a2dd3f-358c-491c-b12d-146b59c446fb = { name = "PiMPC", path = "P/PiMPC" }
 e8a6717a-069f-43d5-9ac2-a49b1ec5be7b = { name = "BundleMethod", path = "B/BundleMethod" }
 e8a7ceb1-99d9-4ed8-9423-a05c7ce6343c = { name = "HierarchicMemeticStrategy", path = "H/HierarchicMemeticStrategy" }
 e8aa6df9-e6ca-548a-97ff-1f85fc5b8b98 = { name = "GLPK_jll", path = "jll/G/GLPK_jll" }
