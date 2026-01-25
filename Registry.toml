@@ -142,6 +142,7 @@ some amount of consideration when choosing package names.
 02898b10-1f73-11ea-317c-6393d7073e15 = { name = "Augmentor", path = "A/Augmentor" }
 028a27d2-de01-11e8-146d-d556803d83ae = { name = "BrkgaMpIpr", path = "B/BrkgaMpIpr" }
 028f657a-7ace-5159-a694-8cfd97933b0c = { name = "TotalLeastSquares", path = "T/TotalLeastSquares" }
+0291785c-4d3c-45ec-ba8e-d8f5428f97c2 = { name = "JCGEExamples", path = "J/JCGEExamples" }
 029bc01f-a38c-4df2-9931-c297cb6cdd02 = { name = "IceCream", path = "I/IceCream" }
 029c5f1c-0dc4-4551-8b87-a10b73fe3713 = { name = "PiecewiseAffineApprox", path = "P/PiecewiseAffineApprox" }
 02a14def-c6e6-4ab0-b2df-0ab64bc8cdd7 = { name = "Sinograms", path = "S/Sinograms" }
@@ -199,6 +200,7 @@ some amount of consideration when choosing package names.
 03d21f85-4b71-5aa4-88fd-39a722493ec0 = { name = "DeepDish", path = "D/DeepDish" }
 03d38035-ed2f-4a36-82eb-797f1727ab2e = { name = "SingleCellProjections", path = "S/SingleCellProjections" }
 03d9041e-b4d2-508d-8c1c-d30ef48c1ce0 = { name = "GRQt6_jll", path = "jll/G/GRQt6_jll" }
+03dde086-6832-4aef-a599-2e26e563d57c = { name = "TDEPWrapper", path = "T/TDEPWrapper" }
 03de00d5-86b5-48ba-885c-e25084f99d9a = { name = "QuadraticKalman", path = "Q/QuadraticKalman" }
 03de777c-af7e-5070-b460-500ad0553889 = { name = "UnitlessFlatten", path = "U/UnitlessFlatten" }
 03de9d45-54dd-5e36-9810-6ca1d577e6b3 = { name = "GAP_pkg_cvec_jll", path = "jll/G/GAP_pkg_cvec_jll" }
@@ -672,6 +674,7 @@ some amount of consideration when choosing package names.
 0ce0b37c-8851-4c5b-98a3-e691a5f19c53 = { name = "HAPIClient", path = "H/HAPIClient" }
 0ce4ce61-57bf-432b-a095-efac525d185e = { name = "ParametricOptInterface", path = "P/ParametricOptInterface" }
 0ce7a1f8-0645-46c2-a0bb-6c09c29d93e9 = { name = "EarthData", path = "E/EarthData" }
+0ceb7b1e-19fc-43b9-b3d5-2f4cf3d18128 = { name = "JCGEAgentInterface", path = "J/JCGEAgentInterface" }
 0cf0e50c-a82e-488f-ac7e-41ffdff1b8aa = { name = "ExaPF", path = "E/ExaPF" }
 0cf4c2ae-3c55-4387-8def-d33f99d13a02 = { name = "HTMLBuilder", path = "H/HTMLBuilder" }
 0cf705f9-a9e2-50d1-a699-2b372a39b750 = { name = "Redis", path = "R/Redis" }
@@ -9632,6 +9635,7 @@ ba9efadc-3ee3-4b4a-abe2-d0e326fbcffa = { name = "Constructs", path = "C/Construc
 ba9fb4c0-828e-4473-b6a1-cd2560fee5bf = { name = "JuliaBUGS", path = "J/JuliaBUGS" }
 baac1969-1582-5600-b38b-7408c9d44009 = { name = "slope_jll", path = "jll/S/slope_jll" }
 baad4e97-8daa-5946-aac2-2edac59d34e1 = { name = "OCCT_jll", path = "jll/O/OCCT_jll" }
+baba3ab0-b101-5c6b-81c2-6f96346aa768 = { name = "sqlite_vec_jll", path = "jll/S/sqlite_vec_jll" }
 babc3d20-cd49-4f60-a736-a8f9c08892d3 = { name = "JDF", path = "J/JDF" }
 babc4406-5200-4a30-9033-bf5ae714c842 = { name = "COBREXA", path = "C/COBREXA" }
 babe9734-f0f2-4b58-baca-5f6951677a1e = { name = "SSHAgentSetup", path = "S/SSHAgentSetup" }
@@ -11170,6 +11174,7 @@ d7ba0133-e1db-5d97-8f8c-041e4b3a1eb2 = { name = "Git", path = "G/Git" }
 d7c3d077-fdb7-5318-9663-3e6817e0e281 = { name = "libgifextra_jll", path = "jll/L/libgifextra_jll" }
 d7c4d21e-f632-4ce8-8dec-1f68bf4f0d36 = { name = "Celerite2", path = "C/Celerite2" }
 d7c5e2dd-9163-4219-82bc-37cddd708ca9 = { name = "CellMetabolism", path = "C/CellMetabolism" }
+d7cbbda6-fde5-4b94-961a-baab5090bb7e = { name = "TransferOperator", path = "T/TransferOperator" }
 d7ce213e-d3b9-4ed1-b00e-1146b7ac83e0 = { name = "VirtualObservatory", path = "V/VirtualObservatory" }
 d7d3b36b-41b8-4d0d-a2bf-768c6151755e = { name = "ParameterSchedulers", path = "P/ParameterSchedulers" }
 d7dc6e0c-a753-11e8-227e-b362679e0b17 = { name = "IPMeasures", path = "I/IPMeasures" }
@@ -12437,6 +12442,7 @@ f07625cc-80e4-4099-a362-36a3484d9bcc = { name = "PauliStrings", path = "P/PauliS
 f0789d0e-9b93-4002-b86d-d7fb1957141c = { name = "BasicDataLoaders", path = "B/BasicDataLoaders" }
 f07c2035-147c-4265-9006-0e86cca2fe32 = { name = "DOI2BibTeX", path = "D/DOI2BibTeX" }
 f07e07eb-5685-515a-97c8-3014f6152feb = { name = "cddlib_jll", path = "jll/C/cddlib_jll" }
+f07e4517-cb44-4ce3-be1e-24c689785741 = { name = "JCGEImportMPSGE", path = "J/JCGEImportMPSGE" }
 f09324ee-3d7c-5217-9330-fc30815ba969 = { name = "Netpbm", path = "N/Netpbm" }
 f09397d6-3230-428f-8b46-6217caaab93c = { name = "RecordArrays", path = "R/RecordArrays" }
 f0974a9f-ffa1-426c-82c3-eb116e824257 = { name = "CyclicalEncoding", path = "C/CyclicalEncoding" }
