@@ -1152,6 +1152,7 @@ some amount of consideration when choosing package names.
 15f4f7f2-30c1-5605-9d31-71845cf9641f = { name = "AutoHashEquals", path = "A/AutoHashEquals" }
 15f864f9-903d-48fa-aa6c-47f5a1506de6 = { name = "SortMark", path = "S/SortMark" }
 15fcbb24-5a00-427b-98c5-e32879a22884 = { name = "CGAL", path = "C/CGAL" }
+15ffbdae-f567-4411-842e-188464567360 = { name = "Multicluster", path = "M/Multicluster" }
 1602be87-98d2-44e8-83ad-5679ea8c0714 = { name = "CSetAutomorphisms", path = "C/CSetAutomorphisms" }
 1603b9d5-f456-4bc7-93d8-0a6ecb110267 = { name = "AlignedArrays", path = "A/AlignedArrays" }
 1607259e-80f4-4675-b495-cb9c54bacb3f = { name = "SmallCouplingDynamicCavity", path = "S/SmallCouplingDynamicCavity" }
@@ -9249,6 +9250,7 @@ b261b2ec-6378-4871-b32e-9173bb050604 = { name = "TensorCrossInterpolation", path
 b26cd056-4456-4d61-8550-65e4ff5b9100 = { name = "Radiant", path = "R/Radiant" }
 b27032c2-a3e7-50c8-80cd-2d36dbcbfd21 = { name = "LibCURL", path = "L/LibCURL" }
 b2723bf5-94c5-4359-89e1-3e553b39f040 = { name = "BetaDecayUtils", path = "B/BetaDecayUtils" }
+b272cc50-9a4f-43b1-8692-0510264c1fe6 = { name = "GenieTest", path = "G/GenieTest" }
 b276bca3-8be3-40c5-b17b-0eb635c89c3b = { name = "VirtualAgeModels", path = "V/VirtualAgeModels" }
 b27c85e4-d77a-5c9d-b9af-900830bae76b = { name = "MaximumLikelihoodPower", path = "M/MaximumLikelihoodPower" }
 b27dd330-f138-47c5-815b-40db9dd9b6e8 = { name = "GTPSA", path = "G/GTPSA" }
@@ -9480,6 +9482,7 @@ b71133ba-6b01-47a0-b4fe-e7a9e8ed2c06 = { name = "CDCLsat", path = "C/CDCLsat" }
 b7115f24-5f92-4794-81e8-23b0ddb121d3 = { name = "InvertibleNetworks", path = "I/InvertibleNetworks" }
 b7163347-bfae-5fd9-aba4-19f139889d78 = { name = "quarto_jll", path = "jll/Q/quarto_jll" }
 b7166d23-9f35-4d07-9399-e1add1741ff3 = { name = "Maxoids", path = "M/Maxoids" }
+b716e576-a1f9-415a-b454-baf909aed799 = { name = "DecisionProblems", path = "D/DecisionProblems" }
 b717d2d3-19c6-5ced-b36a-114a71eec478 = { name = "RegNets", path = "R/RegNets" }
 b718987f-49a8-5099-9789-dcd902bef87d = { name = "TextWrap", path = "T/TextWrap" }
 b7192094-8e58-5052-a244-180a858778ee = { name = "BinningAnalysis", path = "B/BinningAnalysis" }
@@ -10236,6 +10239,7 @@ c4fd2470-c9f5-491f-b4e2-53b9059945a5 = { name = "SynchronicBallot", path = "S/Sy
 c4fe5a9e-e7fb-5c3d-89d5-7f405ab2214f = { name = "Stopping", path = "S/Stopping" }
 c5022caa-3a13-4c38-8648-ef17c886ed6e = { name = "Powersense", path = "P/Powersense" }
 c505f82d-ff9d-4c3e-8ff7-8eb8c484653e = { name = "QuadGG", path = "Q/QuadGG" }
+c50625c8-1a95-45e7-9f30-e55dbed7e5b4 = { name = "WildfireData", path = "W/WildfireData" }
 c50e25eb-ade4-4c96-a757-2a1fd62cbd8c = { name = "QMDDocTools", path = "Q/QMDDocTools" }
 c5182250-406c-41f5-b9da-836c94d3c2ab = { name = "OneDimensionalNodes", path = "O/OneDimensionalNodes" }
 c5259379-ab45-534c-93f7-303bbb2cc12b = { name = "DCCA", path = "D/DCCA" }
@@ -11891,6 +11895,7 @@ e502b557-6362-48c1-8219-d30d308dcdb0 = { name = "GeoTables", path = "G/GeoTables
 e50ca838-b4f0-4a10-ad18-4b920bf1ae5c = { name = "FractionalTransforms", path = "F/FractionalTransforms" }
 e513cd14-23e6-48df-acf1-d9bc8fa5674b = { name = "BitemporalPostgres", path = "B/BitemporalPostgres" }
 e5143800-6ee0-4b40-b4db-1d4259db07c9 = { name = "CircuitComponentRounding", path = "C/CircuitComponentRounding" }
+e51ab4cc-94ad-4aad-a579-d543f796cd4d = { name = "MaskPII", path = "M/MaskPII" }
 e51cc422-768a-4345-bb8e-2246287ae729 = { name = "Crux", path = "C/Crux" }
 e51d7f76-d3fb-4251-851d-1e49b8315b3e = { name = "EnvironmentMigrators", path = "E/EnvironmentMigrators" }
 e525b322-f4d5-5e8a-9e4c-f31b6ef474ca = { name = "PyRhodium", path = "P/PyRhodium" }
@@ -12205,6 +12210,7 @@ eadc2687-ae89-51f9-a5d9-86b5a6373a9c = { name = "Pandas", path = "P/Pandas" }
 eadfb9d8-44f1-454c-a5eb-0663ee7d74a1 = { name = "AdaOPS", path = "A/AdaOPS" }
 eafb193a-b7ab-5a9e-9068-77385905fa72 = { name = "Highlights", path = "H/Highlights" }
 eb0c118b-dd0a-445a-b996-82088348ceb1 = { name = "SurrogatesSVM", path = "S/SurrogatesSVM" }
+eb14e3ba-90c8-11ed-0ecf-1dd2ea0d109c = { name = "Mocca", path = "M/Mocca" }
 eb17b914-a2e5-45e7-813f-e6fb2969af31 = { name = "DobotMagician", path = "D/DobotMagician" }
 eb1bf938-813d-4942-ac0f-b4657a683e76 = { name = "HerbEvaluation", path = "H/HerbEvaluation" }
 eb20ec05-5464-47b5-ba41-098e3c1068a3 = { name = "H5Zlz4", path = "H/H5Zlz4" }
