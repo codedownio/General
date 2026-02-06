@@ -1318,6 +1318,7 @@ some amount of consideration when choosing package names.
 18e54dd8-cb9d-406c-a71d-865a43cbb235 = { name = "IntegerMathUtils", path = "I/IntegerMathUtils" }
 18e85bec-f2a0-4122-b3a6-37651333b522 = { name = "ItemResponseFunctions", path = "I/ItemResponseFunctions" }
 18ed25b1-892a-4a3b-b8fc-1036dc9a6a89 = { name = "PokerHandEvaluator", path = "P/PokerHandEvaluator" }
+18f53e89-494d-4131-905c-653e8ada6cd8 = { name = "SignalIndices", path = "S/SignalIndices" }
 1901280f-61ce-5048-a6a8-fd033512e07b = { name = "libcifpp_jll", path = "jll/L/libcifpp_jll" }
 1902729b-b4d4-4bb0-ae7d-e2f19e2a15fb = { name = "LibGEOSMakie", path = "L/LibGEOSMakie" }
 1902f260-5fb4-5aff-8c31-6271790ab950 = { name = "Knet", path = "K/Knet" }
@@ -3046,6 +3047,7 @@ some amount of consideration when choosing package names.
 3a97d323-0669-5f0c-9066-3539efd106a3 = { name = "MPFR_jll", path = "jll/M/MPFR_jll" }
 3a985190-f512-4703-8d38-2a7944ed5916 = { name = "FranklinTemplates", path = "F/FranklinTemplates" }
 3a989f29-cff0-4f1c-87be-5dcdd41bd240 = { name = "CoNCMOR", path = "C/CoNCMOR" }
+3a9aa71a-4826-43c7-bf6d-7fc63822c18e = { name = "FastHankelTransform", path = "F/FastHankelTransform" }
 3a9c7681-b7ab-4d38-9bb7-f7834a016733 = { name = "SimpleQuaternions", path = "S/SimpleQuaternions" }
 3aa2c528-5caf-4a2e-b044-409d1cbc6a28 = { name = "VeriQuEST", path = "V/VeriQuEST" }
 3aa3ecc9-5a5d-57c8-8188-3e47bd8068d2 = { name = "QMDP", path = "Q/QMDP" }
@@ -9657,6 +9659,7 @@ ba4760a4-c768-5bed-964b-cf806dc591cb = { name = "BayesNets", path = "B/BayesNets
 ba4b7379-301a-4be0-bee6-171e4e152787 = { name = "SelfOrganizingMaps", path = "S/SelfOrganizingMaps" }
 ba5e3d4b-8524-549f-bc71-e76ad9e9deed = { name = "Jive", path = "J/Jive" }
 ba61b42c-0a63-478a-861d-cedeca8bda8f = { name = "Epicrop", path = "E/Epicrop" }
+ba656ed8-6435-5caa-83e6-1e677deaf2de = { name = "CHICKEN_jll", path = "jll/C/CHICKEN_jll" }
 ba65db9e-6590-4054-ab8a-101ed9124986 = { name = "OMOPCommonDataModel", path = "O/OMOPCommonDataModel" }
 ba661fbb-e901-4445-b070-854aec6bfbc5 = { name = "PreferenceTools", path = "P/PreferenceTools" }
 ba7d4641-94f4-5bcf-8684-37ba860b1597 = { name = "Recombinase", path = "R/Recombinase" }
