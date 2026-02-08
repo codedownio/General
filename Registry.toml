@@ -739,6 +739,7 @@ some amount of consideration when choosing package names.
 0e04eddd-96ac-454e-8372-d12cc190ad6e = { name = "SurrogatedDistanceModels", path = "S/SurrogatedDistanceModels" }
 0e08944d-e94e-41b1-9406-dcf66b6a9d2e = { name = "PencilArrays", path = "P/PencilArrays" }
 0e112785-0821-598c-8835-9f07837e8d7b = { name = "object_store_ffi_jll", path = "jll/O/object_store_ffi_jll" }
+0e139a23-195b-4aec-b8fc-e9aa4361bc8d = { name = "HaloMF", path = "H/HaloMF" }
 0e168e98-d76b-4d03-b07e-2b13986b2fd0 = { name = "FrictionProviders", path = "F/FrictionProviders" }
 0e18b5df-1f6d-5218-abdd-6febb37acc78 = { name = "FluxJS", path = "F/FluxJS" }
 0e1b5cf3-e725-4f3c-b25f-c55f40573e77 = { name = "UKCarbonIntensityData", path = "U/UKCarbonIntensityData" }
@@ -2030,6 +2031,7 @@ some amount of consideration when choosing package names.
 274a0f0b-05f4-4024-87ff-de4a5b524b4f = { name = "MacroUtilities", path = "M/MacroUtilities" }
 274fc56d-3b97-40fa-a1cd-1b4a50311bf9 = { name = "PythonPlot", path = "P/PythonPlot" }
 274fe647-06be-54d6-af78-99f37f3755f2 = { name = "CeresSolver_jll", path = "jll/C/CeresSolver_jll" }
+2751e0db-33e9-4374-b36d-b7219e1e6b40 = { name = "Corleone", path = "C/Corleone" }
 2752694e-a3a0-42bd-9f17-5f3242da1ce6 = { name = "ChebyshevTransforms", path = "C/ChebyshevTransforms" }
 275cd14a-065f-44bb-ab7a-e1328a0f1819 = { name = "Pfam", path = "P/Pfam" }
 275e499e-7a09-5551-a1d1-9fe535a2b717 = { name = "FastRationals", path = "F/FastRationals" }
@@ -8295,6 +8297,7 @@ a03496cd-edff-5a9b-9e67-9cda94a718b5 = { name = "PlotlyBase", path = "P/PlotlyBa
 a03a9c34-069e-5582-a11c-5c984cab887c = { name = "GigaSOM", path = "G/GigaSOM" }
 a03c184b-2b42-4641-ae65-f14a9f5424c6 = { name = "Tabulae", path = "T/Tabulae" }
 a0429a07-0388-4c37-a18a-23d110f8915c = { name = "TypedMatrices", path = "T/TypedMatrices" }
+a0444c1d-6bfd-4346-a8b3-2f7d58af6057 = { name = "SupabaseAuth", path = "S/SupabaseAuth" }
 a0499f29-c39b-4c5c-807c-88074221b949 = { name = "PlutoDevMacros", path = "P/PlutoDevMacros" }
 a05a14c7-6e3b-5ba9-90a2-45558833e1df = { name = "LibSerialPort", path = "L/LibSerialPort" }
 a05b3ec9-34a1-438a-b0a1-c0adb433119f = { name = "SciMLVerbosity", path = "S/SciMLVerbosity" }
@@ -10100,6 +10103,7 @@ c20f9b96-66de-4231-bbc8-363008277063 = { name = "OrbitPropagationLibrary", path 
 c214720e-3c4f-4d89-8b85-b9ea3aac2a05 = { name = "EvidentialFlux", path = "E/EvidentialFlux" }
 c21b50f5-aa40-41ea-b809-c0f5e47bfa5c = { name = "YAXArrays", path = "Y/YAXArrays" }
 c21dee59-005f-55b6-acfd-94526b082a96 = { name = "Lattices", path = "L/Lattices" }
+c2271b70-7219-4bda-bcc3-62ec08ead5b7 = { name = "PackageURLs", path = "P/PackageURLs" }
 c22758e7-e854-5bdb-8df2-7602c47a9d98 = { name = "TethysChlorisCore", path = "T/TethysChlorisCore" }
 c2297ded-f4af-51ae-bb23-16f91089e4e1 = { name = "ZMQ", path = "Z/ZMQ" }
 c2297e78-99bd-40ad-871d-f50e56b81012 = { name = "TensorInference", path = "T/TensorInference" }
@@ -10944,6 +10948,7 @@ d2d28525-57f2-465a-853a-c9519fdcef4a = { name = "NarmViz", path = "N/NarmViz" }
 d2d6fb72-71f0-4c51-b8f6-2c324c15d39c = { name = "IntensityMetrics", path = "I/IntensityMetrics" }
 d2d87a28-bc46-4564-bd1b-2e333645c2dc = { name = "SoilProfiles", path = "S/SoilProfiles" }
 d2dc9c37-b624-5257-85b1-2eb67ce3a11b = { name = "Exiv2_jll", path = "jll/E/Exiv2_jll" }
+d2e71dfc-f0f5-4b9d-8de2-a66a4c724860 = { name = "KernelForge", path = "K/KernelForge" }
 d2ef9438-c967-53ab-8060-373fdd9e13eb = { name = "Seaborn", path = "S/Seaborn" }
 d2ef9726-cd01-476d-83ec-59819e6084ab = { name = "NamingConventions", path = "N/NamingConventions" }
 d2f42c57-c897-4e08-8218-a119b5759c84 = { name = "Seleroute", path = "S/Seleroute" }
@@ -13050,6 +13055,7 @@ fc25ca13-2340-47d7-8ff6-e6adb00fe34b = { name = "StippleUsers", path = "S/Stippl
 fc2879f5-75d7-582e-8603-c64deb99b744 = { name = "Ant", path = "A/Ant" }
 fc3049fc-4624-4ea9-a8a9-22daae44174f = { name = "SeisSolXDMF", path = "S/SeisSolXDMF" }
 fc3527f7-49a6-4297-80e3-91cc46c94af5 = { name = "MetalKernels", path = "M/MetalKernels" }
+fc354a49-c873-40ff-aa7e-af8a5c6a2882 = { name = "BatchStats", path = "B/BatchStats" }
 fc36d966-fe4b-4286-9a77-63003c00d81d = { name = "Hydro", path = "H/Hydro" }
 fc3ce04a-5be5-4f3a-acff-eceaab723759 = { name = "QEDevents", path = "Q/QEDevents" }
 fc55d66b-b2a8-4ccc-9d64-c0c2166ceb36 = { name = "DifferentiableExpectations", path = "D/DifferentiableExpectations" }
