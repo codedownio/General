@@ -884,6 +884,7 @@ some amount of consideration when choosing package names.
 108db2ec-6058-46d0-81ab-928f1904c069 = { name = "NonogramSolver", path = "N/NonogramSolver" }
 10933b4c-d60f-11e8-1fc6-bd9035a249a1 = { name = "AtomicLevels", path = "A/AtomicLevels" }
 109d20d8-9763-411c-9b60-7eb2a068657f = { name = "NormalForms", path = "N/NormalForms" }
+109d70c3-7bcd-434b-a7d9-3642108a1280 = { name = "MemoryLayouts", path = "M/MemoryLayouts" }
 10ae2a08-2eea-53f8-8c20-eec175020e9f = { name = "ROCmOpenCLRuntime_jll", path = "jll/R/ROCmOpenCLRuntime_jll" }
 10b0fc19-5ccc-4427-889b-d75dd6306188 = { name = "DeltaArrays", path = "D/DeltaArrays" }
 10b2438b-ffd4-5096-aa58-44041d5c8f3b = { name = "Tracking", path = "T/Tracking" }
@@ -5493,6 +5494,7 @@ some amount of consideration when choosing package names.
 6a61c59e-0e35-4be2-9181-ca44005fb204 = { name = "Holidays", path = "H/Holidays" }
 6a7659b3-242e-4b14-83a6-15a101e52794 = { name = "Taichi", path = "T/Taichi" }
 6a795559-3f7e-5382-b5a1-7e858e3d15a4 = { name = "Clipper2_jll", path = "jll/C/Clipper2_jll" }
+6a833b0f-2137-4092-987b-66bce4e6b438 = { name = "CodeComplexity", path = "C/CodeComplexity" }
 6a86dc24-6348-571c-b903-95158fe2bd41 = { name = "FiniteDiff", path = "F/FiniteDiff" }
 6a88e26e-56cb-5037-a572-1ff8e7f440e8 = { name = "ALPS_jll", path = "jll/A/ALPS_jll" }
 6a8e3230-34bb-5a86-b9da-9f7447a06da5 = { name = "InverseDistanceWeighting", path = "I/InverseDistanceWeighting" }
@@ -7843,6 +7845,7 @@ some amount of consideration when choosing package names.
 974aae91-9ec7-499e-b331-29e7a3e13038 = { name = "Ziggurats", path = "Z/Ziggurats" }
 974fe673-6e6b-4833-bfec-235320a1a9d9 = { name = "IUCNRedList", path = "I/IUCNRedList" }
 975044d2-76e6-5fbe-bf08-97ce7c6574c7 = { name = "Xorg_xcb_util_keysyms_jll", path = "jll/X/Xorg_xcb_util_keysyms_jll" }
+975a0a4c-3350-41ca-9a50-68f91c961bd0 = { name = "MonteCarloGlauber", path = "M/MonteCarloGlauber" }
 975b03d1-ab45-5730-8389-540698ac00dc = { name = "OnlinePCA", path = "O/OnlinePCA" }
 9769ca81-ed10-4016-bab9-e66dc61d4d60 = { name = "QuanEstimationBase", path = "Q/QuanEstimationBase" }
 97725368-735e-11e9-0dd7-6bf34c3b13a8 = { name = "EncodedArrays", path = "E/EncodedArrays" }
@@ -8624,6 +8627,7 @@ a67e86c2-42a5-4f10-921b-1e94bb8ae306 = { name = "Cthonios", path = "C/Cthonios" 
 a6854289-b047-58aa-884c-5e4b3dc00a83 = { name = "QOCO_jll", path = "jll/Q/QOCO_jll" }
 a6865705-0aff-55fc-a8e1-34d7b6815716 = { name = "SemiDiscretizationMethod", path = "S/SemiDiscretizationMethod" }
 a6888d44-1185-43bb-bd0f-7806f9976d18 = { name = "HuggingFaceTokenizers", path = "H/HuggingFaceTokenizers" }
+a6892c6b-5768-548c-b024-ff8dabf482c5 = { name = "FFMPEG_nogpl_jll", path = "jll/F/FFMPEG_nogpl_jll" }
 a68b5a21-f429-434e-8bfa-46b447300aac = { name = "ParetoSmooth", path = "P/ParetoSmooth" }
 a69accfa-5557-4533-9d8b-afe141969680 = { name = "MatrixFreeRandomizedLinearAlgebra", path = "M/MatrixFreeRandomizedLinearAlgebra" }
 a69d1b5e-1cd7-4edd-aa26-bee352d56156 = { name = "ThreadLocalCounters", path = "T/ThreadLocalCounters" }
@@ -12981,6 +12985,7 @@ fadd631c-8d5c-5dbb-9ac9-de413eafe702 = { name = "Taskflow_jll", path = "jll/T/Ta
 fadf0b4e-86bc-4bbb-a4ee-5c756d629598 = { name = "SQLStore", path = "S/SQLStore" }
 fae3f90e-61e0-11e9-203b-a1b4e36eae6f = { name = "RevealedPreferences", path = "R/RevealedPreferences" }
 fae87a5f-d1ad-5cf0-8f61-c941e1580b46 = { name = "ParserCombinator", path = "P/ParserCombinator" }
+fae9e5b2-af3b-4f55-8d7e-b4c0083dc7a6 = { name = "AtmosphericExtinction", path = "A/AtmosphericExtinction" }
 faeb8267-8352-4c3e-81c7-04150084d5bf = { name = "ErrorsInVariables", path = "E/ErrorsInVariables" }
 faf0f6d7-8cee-47cb-b27c-1eb80cef534e = { name = "JumpProblemLibrary", path = "J/JumpProblemLibrary" }
 faf572ed-2b53-4324-a741-daa175e50348 = { name = "EvolutionaryModelingTools", path = "E/EvolutionaryModelingTools" }
