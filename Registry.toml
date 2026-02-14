@@ -435,6 +435,7 @@ some amount of consideration when choosing package names.
 07fe485e-7252-451c-a484-d20a4cdbbf79 = { name = "MedEval3D", path = "M/MedEval3D" }
 07ff2621-03e0-4bfb-9812-e5d28c6dbff8 = { name = "OceanRasterConversions", path = "O/OceanRasterConversions" }
 0802c0ca-1768-4022-988c-6dd5f9588a11 = { name = "GradientRobustMultiPhysics", path = "G/GradientRobustMultiPhysics" }
+0806812d-f945-4f84-939d-820504b53c51 = { name = "SymBasis", path = "S/SymBasis" }
 08074719-1b2a-587c-a292-00f91cc44415 = { name = "POMDPModelTools", path = "P/POMDPModelTools" }
 0810563c-c8a8-53be-b185-e51c33dc41ea = { name = "LogProbs", path = "L/LogProbs" }
 08131aa3-fb12-5dee-8b74-c09406e224a2 = { name = "OpenCL", path = "O/OpenCL" }
@@ -2230,6 +2231,7 @@ some amount of consideration when choosing package names.
 2b14c160-480b-11ea-1b58-656063328ff7 = { name = "ImageEdgeDetection", path = "I/ImageEdgeDetection" }
 2b19380a-1f7e-4d7d-b1b8-8aa60b3321c9 = { name = "Wannier", path = "W/Wannier" }
 2b1cd6f4-158b-5933-849b-48df756daf9e = { name = "TenPuzzle", path = "T/TenPuzzle" }
+2b218182-314f-4389-a4eb-69d351d2272a = { name = "ScratchSpaceGarbageCollector", path = "S/ScratchSpaceGarbageCollector" }
 2b23ba43-8213-43cb-b5ea-38c12b45bd45 = { name = "HerbCore", path = "H/HerbCore" }
 2b2c4be0-e38c-5918-b8b4-9a308845a1e9 = { name = "Extrae_jll", path = "jll/E/Extrae_jll" }
 2b3700d1-4306-52e2-a478-c162f0c514be = { name = "aws_c_auth_jll", path = "jll/A/aws_c_auth_jll" }
@@ -3874,6 +3876,7 @@ some amount of consideration when choosing package names.
 4a0b20f9-fc5a-4814-8f96-b33a141a51c8 = { name = "NeuralDynamics", path = "N/NeuralDynamics" }
 4a176cb5-e787-4417-92d8-5e07a66a639e = { name = "Capnp", path = "C/Capnp" }
 4a37a8b9-6e57-4b92-8664-298d46e639f7 = { name = "FlexiChains", path = "F/FlexiChains" }
+4a3a1c16-5378-477a-8c70-c7b46c0a0f4d = { name = "DistilBERT", path = "D/DistilBERT" }
 4a3ffa5b-425c-5e62-932c-e04bcaef15ee = { name = "librttopo_jll", path = "jll/L/librttopo_jll" }
 4a4311fe-81ff-4bcc-86a3-5026a4bf5b9f = { name = "RecursiveTupleMath", path = "R/RecursiveTupleMath" }
 4a446bee-a8a1-53bd-a908-d1601923a297 = { name = "Monads", path = "M/Monads" }
@@ -6003,7 +6006,6 @@ some amount of consideration when choosing package names.
 732b1220-b3b1-47df-92b9-9aafce73c71b = { name = "LightenQP", path = "L/LightenQP" }
 732b9ffd-ba4a-45cb-82b2-a390f71ea5ac = { name = "CompatDevTools", path = "C/CompatDevTools" }
 7332bcdc-bd2a-5999-b4fe-680b85f40771 = { name = "tree_sitter_bash_jll", path = "jll/T/tree_sitter_bash_jll" }
-73336863-5434-7263-5370-556e61336c43 = { name = "ScratchSpaceGarbageCollector", path = "S/ScratchSpaceGarbageCollector" }
 733f0b2a-2dd6-45a4-80ec-bf2267f2a32d = { name = "MosaikAPIv3", path = "M/MosaikAPIv3" }
 734052d1-fea3-4ffe-af92-b9cc64c3051c = { name = "BranchTests", path = "B/BranchTests" }
 73480bc8-48a2-41cc-880f-208b490ccf65 = { name = "RationalFunctionFields", path = "R/RationalFunctionFields" }
@@ -7521,6 +7523,7 @@ some amount of consideration when choosing package names.
 904591bb-b899-562f-9e6f-b8df64c7d480 = { name = "IncrementalInference", path = "I/IncrementalInference" }
 90484964-6d6a-4979-af09-8657dbed84ff = { name = "OneRule", path = "O/OneRule" }
 904a6c7d-4c1b-562f-9573-ab2e7e1c7946 = { name = "ADI", path = "A/ADI" }
+904d977b-046a-4731-8b86-9235c0d1ef02 = { name = "NumericalEarth", path = "N/NumericalEarth" }
 9051c120-a745-5e86-aaa7-8cbc404dba28 = { name = "M4_jll", path = "jll/M/M4_jll" }
 9052fb24-8e06-4531-a321-89bd3c4584f9 = { name = "GraphNets", path = "G/GraphNets" }
 905906f8-4650-4186-8b30-13842c9f1f1c = { name = "KrakenEx", path = "K/KrakenEx" }
@@ -10146,6 +10149,7 @@ c2843242-4f35-58a6-a2a0-7e7527607317 = { name = "Discreet", path = "D/Discreet" 
 c28a5fd4-166f-4f83-b04d-195ccdb4ae51 = { name = "IVFADC", path = "I/IVFADC" }
 c28d94ed-d5b6-4a5f-906b-ac5b0f674341 = { name = "UInt12Arrays", path = "U/UInt12Arrays" }
 c2934c1e-919f-47f2-8897-74860fdc935b = { name = "PolygenicRiskScores", path = "P/PolygenicRiskScores" }
+c297bd51-60f5-42e7-80e4-f985777cb71a = { name = "GeometricMedicalPhantoms", path = "G/GeometricMedicalPhantoms" }
 c298f58b-271f-48cb-96ac-5442ca7c67d9 = { name = "ProteinSecondaryStructures", path = "P/ProteinSecondaryStructures" }
 c2997458-08a2-5152-82e8-5e3e3871749a = { name = "QRupdate_ng_jll", path = "jll/Q/QRupdate_ng_jll" }
 c29ec348-61ec-40c8-8164-b8c60e9d9f3d = { name = "AbstractDifferentiation", path = "A/AbstractDifferentiation" }
