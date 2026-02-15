@@ -11,6 +11,7 @@ some amount of consideration when choosing package names.
 """
 
 [packages]
+00000000-0000-4000-b000-202512210000 = { name = "Swizzling", path = "S/Swizzling" }
 00000000-1111-2222-3333-444444444444 = { name = "REPLTreeViews", path = "R/REPLTreeViews" }
 0002e35e-4a6a-41c8-a2f5-6940c7e5949f = { name = "CombinatorialLinearOracles", path = "C/CombinatorialLinearOracles" }
 0004c1f4-53c5-4d43-a221-a1dac6cf6b74 = { name = "TuringGLM", path = "T/TuringGLM" }
@@ -702,6 +703,7 @@ some amount of consideration when choosing package names.
 0d4725de-cd7c-5e44-8a85-a48caeef9fa5 = { name = "Readables", path = "R/Readables" }
 0d47668e-0667-5a69-a72c-f761630bfb7e = { name = "Xorg_xcb_util_renderutil_jll", path = "jll/X/Xorg_xcb_util_renderutil_jll" }
 0d499d91-6ae5-5d63-9313-12987b87d5ad = { name = "AWSSDK", path = "A/AWSSDK" }
+0d49ff20-b62b-4542-99e1-46442543f9f8 = { name = "SearchableGeometries", path = "S/SearchableGeometries" }
 0d4e85e1-a563-5338-9f64-3e4dc8b67009 = { name = "Serd_jll", path = "jll/S/Serd_jll" }
 0d51003c-419e-4b70-b590-68fae1e54ab3 = { name = "DigiPopData", path = "D/DigiPopData" }
 0d552887-2f53-4f11-9665-485c167a9a55 = { name = "ExactConvolution", path = "E/ExactConvolution" }
@@ -11040,6 +11042,7 @@ d3dd9eff-7bfc-4540-8377-597257661861 = { name = "TheNumberLine", path = "T/TheNu
 d3ddc7e8-7106-46d1-9902-15843705f60e = { name = "CZML", path = "C/CZML" }
 d3e05d68-52be-433b-950f-1fabddef5ccc = { name = "BenchmarkEnvironments", path = "B/BenchmarkEnvironments" }
 d3e213a1-5e82-5c18-bb32-2a58a99f8c46 = { name = "ColorSchemeTools", path = "C/ColorSchemeTools" }
+d3e8d392-8e4b-4d9b-8e92-d7d4e3650ef6 = { name = "CTSolvers", path = "C/CTSolvers" }
 d3ebd857-6980-4843-ad12-8da20c4645b4 = { name = "FiniteMesh", path = "F/FiniteMesh" }
 d3ec4d54-14c5-4f6e-8d2e-82ae0926cfed = { name = "YetAnotherSimulationSuite", path = "Y/YetAnotherSimulationSuite" }
 d3ec5173-e411-466c-a952-137851032f03 = { name = "PkgMetadata", path = "P/PkgMetadata" }
@@ -11541,6 +11544,7 @@ dd9cd634-6083-4ae5-8f2e-b983833de2bb = { name = "PeriodicMatrices", path = "P/Pe
 ddafc8f7-a63f-59b6-bd98-72f6e6fe0966 = { name = "log4cplus_jll", path = "jll/L/log4cplus_jll" }
 ddb6d928-2868-570f-bddf-ab3f9cf99eb6 = { name = "YAML", path = "Y/YAML" }
 ddbd5806-ef7f-4d49-a7ae-17d1ec4329d7 = { name = "SignalTablesInterface_GLMakie", path = "S/SignalTablesInterface_GLMakie" }
+ddbf423a-3df4-409e-9685-3dc416cae46c = { name = "HyperFEM", path = "H/HyperFEM" }
 ddbffdd9-5b1a-5f20-b6eb-597a58a751db = { name = "StochOptInterface", path = "S/StochOptInterface" }
 ddc7317b-88db-5cb5-a849-8449e5df04f9 = { name = "GeoDatasets", path = "G/GeoDatasets" }
 ddcadc53-6d93-5ff2-a689-b0a21eea8355 = { name = "nghttp3_jll", path = "jll/N/nghttp3_jll" }
@@ -12151,6 +12155,7 @@ e8c45408-479c-54df-ae5b-4501057d3a5a = { name = "smesh_jll", path = "jll/S/smesh
 e8ddb7d6-0a34-4df1-87ae-36dec4b447d4 = { name = "ApproxLogFunction", path = "A/ApproxLogFunction" }
 e8de3f6f-ae4e-4f89-bef5-bb3731e07e8d = { name = "InventoryRoutingProblems", path = "I/InventoryRoutingProblems" }
 e8e009a8-4479-409b-a274-75b76d9b8a40 = { name = "LanguageFinder", path = "L/LanguageFinder" }
+e8e6a0c9-ed5e-482f-a5cb-ec074f5ee4bb = { name = "SigmaClip", path = "S/SigmaClip" }
 e8ee4b5e-54b2-4408-8575-c3c89e582a15 = { name = "StanPathfinder", path = "S/StanPathfinder" }
 e8efc688-5342-4ad4-b4ba-9025a731b363 = { name = "ImPlot", path = "I/ImPlot" }
 e8f11e50-668f-4bdf-b40b-95f76662da30 = { name = "NMRAnalysis", path = "N/NMRAnalysis" }
