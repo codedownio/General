@@ -2814,6 +2814,7 @@ some amount of consideration when choosing package names.
 3587e190-3f89-42d0-90ee-14403ec27112 = { name = "InverseFunctions", path = "I/InverseFunctions" }
 358a0a88-3548-4ad6-b652-8bdbf64af8e5 = { name = "FITSFiles", path = "F/FITSFiles" }
 358bd95d-d12c-439f-94b7-04b17e500c7f = { name = "PlantViz", path = "P/PlantViz" }
+358ed29a-d93c-4fe8-8ea3-c6948dc61de3 = { name = "TodoFiles", path = "T/TodoFiles" }
 359177bc-a543-11e8-11b7-bb015dba3358 = { name = "EarthDataLab", path = "E/EarthDataLab" }
 359b1769-a58e-495b-9770-312e911026ad = { name = "PlutoStaticHTML", path = "P/PlutoStaticHTML" }
 359eecd2-3036-4797-89e9-498f868f96c0 = { name = "NumPyArrays", path = "N/NumPyArrays" }
@@ -8257,6 +8258,7 @@ some amount of consideration when choosing package names.
 9e84b91c-71b0-5f24-acdc-49dbe8049396 = { name = "ReferenceBLAS32_jll", path = "jll/R/ReferenceBLAS32_jll" }
 9e8cae18-63c1-5223-a75c-80ca9d6e9a09 = { name = "Oceananigans", path = "O/Oceananigans" }
 9e8d69f6-009b-4290-9624-9f9a175b876d = { name = "FresnelEquations", path = "F/FresnelEquations" }
+9e90bdc5-3073-4e0f-a275-e19f28ac1b53 = { name = "CoolPDLP", path = "C/CoolPDLP" }
 9e997f8a-9a97-42d5-a9f1-ce6bfc15e2c0 = { name = "ChangesOfVariables", path = "C/ChangesOfVariables" }
 9e9a4d37-2d2e-41e3-8b85-f7978328d9c7 = { name = "Climatology", path = "C/Climatology" }
 9ea4277c-da97-4c3a-afb0-537c066769de = { name = "SnoopCompileAnalysis", path = "S/SnoopCompileAnalysis" }
@@ -9331,6 +9333,7 @@ b21e61f3-bafc-59ac-ab14-4c5c62d6588d = { name = "CURL_jll", path = "jll/C/CURL_j
 b21f74c0-b399-568f-9643-d20f4fa2c814 = { name = "FunctionZeros", path = "F/FunctionZeros" }
 b22a6f82-2f65-5046-a5b2-351ab43fb4e5 = { name = "FFMPEG_jll", path = "jll/F/FFMPEG_jll" }
 b22ceafb-42ac-50cb-bbfc-91fa172c9161 = { name = "libigl_jll", path = "jll/L/libigl_jll" }
+b23e9bf5-c030-48ea-90eb-85d026696f85 = { name = "Parables", path = "P/Parables" }
 b247a4be-ddc1-5759-8008-7e02fe3dbdaa = { name = "PARMETIS_jll", path = "jll/P/PARMETIS_jll" }
 b24819f0-15bd-425d-8fc0-a9d00d1e0559 = { name = "ScaleBar", path = "S/ScaleBar" }
 b2531deb-9288-45c6-8f4a-0220551da45d = { name = "KitML", path = "K/KitML" }
@@ -11756,6 +11759,7 @@ e0b4c2ea-889f-54df-a5e0-fe74b3c892fd = { name = "uCSV", path = "U/uCSV" }
 e0b8ae26-5307-5830-91fd-398402328850 = { name = "Thrift_jll", path = "jll/T/Thrift_jll" }
 e0ba718c-02ec-11e9-384b-dd2930072415 = { name = "ExoplanetsSysSim", path = "E/ExoplanetsSysSim" }
 e0c12bfd-47d7-434e-afb7-632611640ca5 = { name = "Graphons", path = "G/Graphons" }
+e0c1f8e0-0001-4000-8000-000000000001 = { name = "CoreNNLS", path = "C/CoreNNLS" }
 e0c51df9-7b68-45ac-a268-26cdc14101c5 = { name = "MetropolisAlgorithm", path = "M/MetropolisAlgorithm" }
 e0c89595-00ba-42a9-9f9b-061ef3dc23a1 = { name = "ClimaReproducibilityTests", path = "C/ClimaReproducibilityTests" }
 e0c94d91-d830-4516-8b46-9a113d37a394 = { name = "OnlineNMF", path = "O/OnlineNMF" }
@@ -12508,6 +12512,7 @@ eed59905-05f1-464e-afba-94c39a4505fd = { name = "LeafGasExchange", path = "L/Lea
 eed75e0f-2a47-456c-84f6-69ee3fe4bbf9 = { name = "EventEmitter", path = "E/EventEmitter" }
 eeda0dda-7046-4914-a807-2495fc7abb89 = { name = "SafeTensors", path = "S/SafeTensors" }
 eeddca60-27f6-4483-8676-7b6aefcc60ae = { name = "TestAbstractTypes", path = "T/TestAbstractTypes" }
+eedde146-038c-472b-a63b-c8c70ebda014 = { name = "BlockSQP2", path = "B/BlockSQP2" }
 eef66a8b-8d7a-5724-a8d2-7c31ae1e29ed = { name = "libcap_jll", path = "jll/L/libcap_jll" }
 eef6e190-9969-4f06-a38f-35a110a8fdc8 = { name = "SequenceVariation", path = "S/SequenceVariation" }
 eef8b2eb-50cb-54da-ad81-a1e64fa68590 = { name = "Clay_jll", path = "jll/C/Clay_jll" }
