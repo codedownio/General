@@ -8029,6 +8029,7 @@ some amount of consideration when choosing package names.
 99c1d5ce-7c61-4a25-a107-a5ade2e2a8e4 = { name = "NerfUtils", path = "N/NerfUtils" }
 99c59dee-8a25-45ad-b85d-0d599d702169 = { name = "LearningAlgebraicVarieties", path = "L/LearningAlgebraicVarieties" }
 99c6138d-4661-531e-8606-19bf1ec96588 = { name = "UnionFind", path = "U/UnionFind" }
+99c76e05-e2a6-5e47-b69a-d74ec2f0d12c = { name = "libsemigroups_jll", path = "jll/L/libsemigroups_jll" }
 99c8bb3a-9d13-5280-9740-b4880ed9c598 = { name = "Bio3DView", path = "B/Bio3DView" }
 99d987ce-9a1e-4df8-bc0b-1ea019aa547b = { name = "Comrade", path = "C/Comrade" }
 99dca13f-2202-4520-8aaf-d8c6dbeefecd = { name = "GeneralizedChisqDistribution", path = "G/GeneralizedChisqDistribution" }
@@ -9096,6 +9097,7 @@ adab0226-ee3c-44de-8f2f-393b1bf1e936 = { name = "StipplePivotTable", path = "S/S
 adab0d11-1453-4a42-9046-4ba7b121fa95 = { name = "DashBioUtils", path = "D/DashBioUtils" }
 adaf3d07-42b2-577a-8487-f34ffa1a67e4 = { name = "Watershed", path = "W/Watershed" }
 adafc99b-e345-5852-983c-f28acb93d879 = { name = "CpuId", path = "C/CpuId" }
+adbc9c39-6bf4-5566-8295-c0623552eeca = { name = "asio_jll", path = "jll/A/asio_jll" }
 adc28fdd-7b77-41a2-89a7-a1a193b336a0 = { name = "CompressedSensing", path = "C/CompressedSensing" }
 adc38e39-84cc-4087-89ab-f4eae76b2d15 = { name = "ConstantTime", path = "C/ConstantTime" }
 add04bee-8693-446b-8579-2d5929eca8f6 = { name = "MPSTime", path = "M/MPSTime" }
@@ -10942,6 +10944,7 @@ d0e446f1-e135-48f1-a6ea-e9a6190f2a7a = { name = "DualDecomposition", path = "D/D
 d0eb39ce-029e-40d1-add6-e32b3165f6a3 = { name = "ComoniconTypes", path = "C/ComoniconTypes" }
 d0ee94f6-a23d-54aa-bbe9-7f572d6da7f5 = { name = "StanBase", path = "S/StanBase" }
 d0f2625a-dce2-41fa-8f52-900cefdd6e0e = { name = "AreaInterpolation", path = "A/AreaInterpolation" }
+d0f2d65e-bd8c-4e3e-b0b0-b1ee50f5c8a4 = { name = "GenomicMIBLUP", path = "G/GenomicMIBLUP" }
 d0f58030-e4f1-4214-a600-bc055fa6d38e = { name = "FMIExchange", path = "F/FMIExchange" }
 d0f7bc7f-cd2f-4cc8-8336-d901b45b4b8e = { name = "SymDiff", path = "S/SymDiff" }
 d0ff3c94-28b9-43ce-b75b-813f49a99563 = { name = "AesKeywrapNettle", path = "A/AesKeywrapNettle" }
@@ -12366,6 +12369,7 @@ eb5c4719-5716-4250-abf0-f5b4713e79ae = { name = "SoleReasoners", path = "S/SoleR
 eb5f792d-d1b1-4535-bae3-d5649ec7daa4 = { name = "LegolasFlux", path = "L/LegolasFlux" }
 eb622722-88ce-45f2-a8b9-c2f73a5cb263 = { name = "BLPData", path = "B/BLPData" }
 eb66a70c-a255-11e9-03ea-7ba6b2f22006 = { name = "TreeParzen", path = "T/TreeParzen" }
+eb71ef10-bbd6-487f-97cc-2efbd12ad3c4 = { name = "FastSinCos", path = "F/FastSinCos" }
 eb74ef6d-f479-4c54-be43-bc7ae9988d2f = { name = "DarkCurves", path = "D/DarkCurves" }
 eb7571c6-2196-4f03-99b8-52a5a35b3163 = { name = "SearchSpaces", path = "S/SearchSpaces" }
 eb7db99b-64ae-4b81-85c2-3439b6569b78 = { name = "Ranges", path = "R/Ranges" }
@@ -12983,6 +12987,7 @@ f84dc87b-1198-49da-97ab-02d881fe0800 = { name = "TopologyPreprocessing", path = 
 f85291cd-a23d-5685-85d1-de13e1abbd3f = { name = "SDL2_net_jll", path = "jll/S/SDL2_net_jll" }
 f853b5e0-b243-11e9-0043-7da5023c5ee7 = { name = "Pandoc", path = "P/Pandoc" }
 f8559b4c-f045-44a2-8db2-503e40bb7416 = { name = "SigmaProofs", path = "S/SigmaProofs" }
+f85cbb92-938a-4877-a34b-92f8b55ab56a = { name = "BeamPhysics", path = "B/BeamPhysics" }
 f861b655-cb5f-42ce-b66a-341b542d4f2c = { name = "BioMarkovChains", path = "B/BioMarkovChains" }
 f86311af-d4d5-4877-8d32-564a46a659f1 = { name = "MofonBase", path = "M/MofonBase" }
 f8632b6a-8763-4da0-bfaf-5f7707adef25 = { name = "AdaStress", path = "A/AdaStress" }
