@@ -582,6 +582,7 @@ some amount of consideration when choosing package names.
 0ac99047-f20c-4964-adcf-e848779dacfc = { name = "PointerStructs", path = "P/PointerStructs" }
 0ace06cf-e779-487f-a467-04008fba83a1 = { name = "FSimROS", path = "F/FSimROS" }
 0acea522-3a8c-4b93-9211-1fc67cbf95d9 = { name = "ComoniconBuilder", path = "C/ComoniconBuilder" }
+0ae0509d-b425-412a-aec4-62d47edd1221 = { name = "CrystalBase", path = "C/CrystalBase" }
 0ae10fbf-af58-4883-b66b-ff0ac82d20dd = { name = "GraphQLParser", path = "G/GraphQLParser" }
 0ae4a718-28b7-58ec-9efb-cded64d6d5b4 = { name = "VegaDatasets", path = "V/VegaDatasets" }
 0ae4d431-9932-4135-a8f1-51ee5e017775 = { name = "OutMacro", path = "O/OutMacro" }
@@ -3686,6 +3687,7 @@ some amount of consideration when choosing package names.
 45e47a89-b455-4dd5-a62c-c007f63154db = { name = "MethodForwarding", path = "M/MethodForwarding" }
 45f359ea-796d-4f51-95a5-deb1a414c586 = { name = "MLJBalancing", path = "M/MLJBalancing" }
 45f42fbc-210c-4ecc-9452-59ec793b9bfd = { name = "LinearRationalExpectations", path = "L/LinearRationalExpectations" }
+45fd81cf-4570-4cb4-b51d-06adeaefc15d = { name = "Mantis", path = "M/Mantis" }
 45fdfeda-9075-4319-90b5-f13bf67f1b3c = { name = "Lunettes", path = "L/Lunettes" }
 4606675f-2246-4a0b-99d5-75b910de637b = { name = "NQCDInterfASE", path = "N/NQCDInterfASE" }
 460b0459-f81d-40f2-a460-3486927c7399 = { name = "OneHot", path = "O/OneHot" }
@@ -6806,6 +6808,7 @@ some amount of consideration when choosing package names.
 80a53053-bcf5-42c0-89b5-2140b4d6711b = { name = "Alicorn", path = "A/Alicorn" }
 80a8ab25-5750-5d93-a6d7-4adc97cdd5fb = { name = "MultipleScattering", path = "M/MultipleScattering" }
 80a941df-def7-4d99-bd07-d3a3a468fbfc = { name = "ModulePresentationsForCAP", path = "M/ModulePresentationsForCAP" }
+80aba503-207c-4777-976b-9d60a60fc763 = { name = "DiscretePolynomialEnsembles", path = "D/DiscretePolynomialEnsembles" }
 80aee790-0d4a-5951-bcd6-30e0bbfe317a = { name = "SoapyBladeRF_jll", path = "jll/S/SoapyBladeRF_jll" }
 80b912e8-4419-4152-9910-58fcfb6515ad = { name = "ChainLadder", path = "C/ChainLadder" }
 80ba17bc-93a6-516a-8fbf-86028cccafde = { name = "libwebm_jll", path = "jll/L/libwebm_jll" }
@@ -7269,6 +7272,7 @@ some amount of consideration when choosing package names.
 89aa2b4b-ed13-41a6-8160-6e24b4388da4 = { name = "PlasmaBO", path = "P/PlasmaBO" }
 89adb604-71c9-4ada-adbb-83a91803605c = { name = "YaoTargetQASM", path = "Y/YaoTargetQASM" }
 89b048f0-36f8-47dc-b812-110e59d1ec6a = { name = "REPLference", path = "R/REPLference" }
+89b22d97-be7f-4761-8b60-7b4b226eb4bd = { name = "SFEModeling", path = "S/SFEModeling" }
 89b67f3b-d1aa-5f6f-9ca4-282e8d98620d = { name = "ExcelFiles", path = "E/ExcelFiles" }
 89b7c20c-a96a-11e9-35df-35fba0891eb2 = { name = "NeRCA", path = "N/NeRCA" }
 89b7eb7d-0b8d-5078-86d5-4a0f481f2984 = { name = "ElectronicStructureModels", path = "E/ElectronicStructureModels" }
@@ -10508,6 +10512,7 @@ c7aee132-11e1-519c-8219-0a43005e73c2 = { name = "NodeJS_20_jll", path = "jll/N/N
 c7b3ebfe-d098-56ea-b529-6cf0bac1b5f3 = { name = "CancerSeqSim", path = "C/CancerSeqSim" }
 c7b9bcad-ccd7-4721-b0c6-1499c55cf356 = { name = "GraphBasedSystems", path = "G/GraphBasedSystems" }
 c7bec4a6-5215-51fd-b0a3-64ceaaad3a34 = { name = "patch_jll", path = "jll/P/patch_jll" }
+c7c60c5c-2ec4-4fbb-884a-28bd8a4a87ad = { name = "Causifyxion", path = "C/Causifyxion" }
 c7c68f13-a4a2-5b9a-b424-07d005f8d9d2 = { name = "IntervalOptimisation", path = "I/IntervalOptimisation" }
 c7ce213b-85ae-5bf1-9497-6be93055ed87 = { name = "Hjson_jll", path = "jll/H/Hjson_jll" }
 c7cfdc94-dc32-55de-ac96-5a1b8d977c5b = { name = "Xorg_libxcb_jll", path = "jll/X/Xorg_libxcb_jll" }
