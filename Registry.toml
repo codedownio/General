@@ -351,6 +351,7 @@ some amount of consideration when choosing package names.
 067cb88e-f685-5f7b-ae80-0aaea8472f72 = { name = "procps_jll", path = "jll/P/procps_jll" }
 067cfa3b-fa88-53b2-a873-5b23b3a16e31 = { name = "NonlinearEigenproblems", path = "N/NonlinearEigenproblems" }
 0682c367-51f6-4d82-8bfe-b4722079e034 = { name = "Relationals", path = "R/Relationals" }
+06875939-83ae-4909-8529-2b6af0a65917 = { name = "AverageLoglikelihoodRatio", path = "A/AverageLoglikelihoodRatio" }
 06905c2e-4b4a-4765-8bb9-c6b6b2b99b1d = { name = "ParametricBodies", path = "P/ParametricBodies" }
 06909019-6f44-4949-96fc-b9d9aaa02889 = { name = "GraphsFlows", path = "G/GraphsFlows" }
 069161ab-964a-4228-89a0-7a676f2e1f46 = { name = "ChemicalFormula", path = "C/ChemicalFormula" }
@@ -450,6 +451,7 @@ some amount of consideration when choosing package names.
 082447d4-558c-5d27-93f4-14fc19e9eca2 = { name = "ChainRules", path = "C/ChainRules" }
 0825541b-7374-5e1e-93bd-72e337c8a986 = { name = "ANOVA", path = "A/ANOVA" }
 0827807b-44c9-51d0-af97-efe667fe6b2a = { name = "StableDQMC", path = "S/StableDQMC" }
+083b1810-24a1-4a79-9a41-145bb2bb8ceb = { name = "FewBodyECG", path = "F/FewBodyECG" }
 083f6447-9a71-585a-bc2e-c0ad124fd6e4 = { name = "PrintFileTree", path = "P/PrintFileTree" }
 08437348-eef5-4817-bc1b-d4e9459680d6 = { name = "AutoMLPipeline", path = "A/AutoMLPipeline" }
 0843a435-28de-4971-9e8b-a9641b2983a8 = { name = "YaoAPI", path = "Y/YaoAPI" }
@@ -1553,6 +1555,7 @@ some amount of consideration when choosing package names.
 1cead3c2-87b3-11e9-0ccd-23c62b72b94e = { name = "Manifolds", path = "M/Manifolds" }
 1cecccd7-a9b6-5045-9cdc-a44c19b16d76 = { name = "hsakmt_roct_jll", path = "jll/H/hsakmt_roct_jll" }
 1cf1ec0c-22f7-4062-925b-8db09db48fc3 = { name = "CoordGridTransforms", path = "C/CoordGridTransforms" }
+1cf8b4df-845c-448c-a3f0-11784a558759 = { name = "PWMPrettyPrint", path = "P/PWMPrettyPrint" }
 1cfade01-22cf-5700-b092-accc4b62d6e1 = { name = "UnicodeFun", path = "U/UnicodeFun" }
 1d0040c9-8b98-4ee7-8388-3f51789ca0ad = { name = "PolyesterWeave", path = "P/PolyesterWeave" }
 1d0525e4-8992-11e8-313c-e310e1f6ddea = { name = "Mill", path = "M/Mill" }
@@ -3120,6 +3123,7 @@ some amount of consideration when choosing package names.
 3ae7ce5f-3138-4ab9-addd-ceedf56009da = { name = "XsdToStruct", path = "X/XsdToStruct" }
 3af4ccab-a251-578e-a514-ea85a0ba79ee = { name = "Qt5Svg_jll", path = "jll/Q/Qt5Svg_jll" }
 3af9cca3-6439-492f-bb75-d94037938865 = { name = "MonteCarloCollisions", path = "M/MonteCarloCollisions" }
+3afe5679-3dae-4b7a-af0e-821cb371ddf8 = { name = "StructuralSearchModels", path = "S/StructuralSearchModels" }
 3b00829b-373b-4a35-afa6-09f888b04ecd = { name = "GeneralizedSylvesterSolver", path = "G/GeneralizedSylvesterSolver" }
 3b0f367b-da20-4531-811a-c13cc92422b5 = { name = "MutatePlainDataArray", path = "M/MutatePlainDataArray" }
 3b182d85-2403-5c21-9c21-1e1f0cc25472 = { name = "Graphite2_jll", path = "jll/G/Graphite2_jll" }
@@ -4238,6 +4242,7 @@ some amount of consideration when choosing package names.
 5078a376-72f3-5289-bfd5-ec5146d43c02 = { name = "LazyArrays", path = "L/LazyArrays" }
 5087d2c0-5ad2-51de-b1ef-eaf82f0743fd = { name = "IncGammaBeta", path = "I/IncGammaBeta" }
 508a6b02-8bde-11e9-1a67-e1104bdc04c9 = { name = "FinEtoolsVoxelMesher", path = "F/FinEtoolsVoxelMesher" }
+508b8dab-2d72-462c-b792-eb7ae329b456 = { name = "PhiloxRNG", path = "P/PhiloxRNG" }
 508c55e1-51b4-41fd-a5ca-7eb0327d070d = { name = "DispatchedTuples", path = "D/DispatchedTuples" }
 508c9074-7a14-5c94-9582-3d4bc1871065 = { name = "bliss_jll", path = "jll/B/bliss_jll" }
 5091b313-875f-492b-8fe1-0f0d7d725ad8 = { name = "DotNET", path = "D/DotNET" }
@@ -12382,6 +12387,7 @@ eb17b914-a2e5-45e7-813f-e6fb2969af31 = { name = "DobotMagician", path = "D/Dobot
 eb1bf938-813d-4942-ac0f-b4657a683e76 = { name = "HerbEvaluation", path = "H/HerbEvaluation" }
 eb20ec05-5464-47b5-ba41-098e3c1068a3 = { name = "H5Zlz4", path = "H/H5Zlz4" }
 eb2c8555-dd0c-5034-8ba4-744b1f3a043f = { name = "bowtie_jll", path = "jll/B/bowtie_jll" }
+eb2d4cfc-2064-11ea-0a1c-63d372e6a848 = { name = "FLOWFarm", path = "F/FLOWFarm" }
 eb300fae-53e8-50a0-950c-e21f52c2b7e0 = { name = "DiffEqBiological", path = "D/DiffEqBiological" }
 eb30cadb-4394-5ae3-aed4-317e484a6458 = { name = "MLDatasets", path = "M/MLDatasets" }
 eb32b910-dde9-4347-8fce-cd6be3498f0c = { name = "EDM4hep", path = "E/EDM4hep" }
@@ -12758,6 +12764,7 @@ f34749e5-bf11-50ef-9bf7-447477e32da8 = { name = "Matio_jll", path = "jll/M/Matio
 f34a0dec-cdff-52ca-a698-8a683c311173 = { name = "ClustForOpt", path = "C/ClustForOpt" }
 f34bc7f3-9d04-4ef8-b7a3-feb87ce2ba93 = { name = "HydroModelLibrary", path = "H/HydroModelLibrary" }
 f34fe3fd-af96-4859-b26f-d1ad3ec20571 = { name = "Walker2020Sampling", path = "W/Walker2020Sampling" }
+f354a88b-0804-406d-a35b-636616acac82 = { name = "XRationals", path = "X/XRationals" }
 f3582904-6f60-4bbd-985d-55eab799bc9d = { name = "WaveletOperators", path = "W/WaveletOperators" }
 f370be48-5072-5a80-a2be-a91280f1992d = { name = "tree_sitter_fortran_jll", path = "jll/T/tree_sitter_fortran_jll" }
 f37634dd-fc60-56ab-95b9-a67e66fd33fe = { name = "jd_jll", path = "jll/J/jd_jll" }
