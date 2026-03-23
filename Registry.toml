@@ -1785,6 +1785,7 @@ some amount of consideration when choosing package names.
 2182be2a-124f-4a91-8389-f06db5907a21 = { name = "HeterogeneousComputing", path = "H/HeterogeneousComputing" }
 2196b101-3ac0-4e12-b5a8-532424305d17 = { name = "LiBr", path = "L/LiBr" }
 21a827c4-482a-11ea-3a19-4d2243a4a2c5 = { name = "SearchLightSQLite", path = "S/SearchLightSQLite" }
+21ab680e-8976-4604-9445-b09bf8035a21 = { name = "MuJoCoEnvironments", path = "M/MuJoCoEnvironments" }
 21ac8556-7714-4a21-a3d1-782ae53d7567 = { name = "PyTSP", path = "P/PyTSP" }
 21ad27bb-7bae-4588-b189-a1a591923795 = { name = "CartesianCutCell", path = "C/CartesianCutCell" }
 21ade233-9772-486b-8b4a-1a75b0845905 = { name = "MOTIFs", path = "M/MOTIFs" }
@@ -2924,6 +2925,7 @@ some amount of consideration when choosing package names.
 371cf0fa-3142-5eb4-b340-7aa651d2670e = { name = "kdb_c_api_jll", path = "jll/K/kdb_c_api_jll" }
 3725be50-bbbd-5592-92c3-2f0e82159c3e = { name = "PhysOcean", path = "P/PhysOcean" }
 37290134-6146-11e9-0c71-a5c489be1f53 = { name = "MatrixLM", path = "M/MatrixLM" }
+3738f2fa-2244-4e2d-ac48-d4c5041abf79 = { name = "YamDB", path = "Y/YamDB" }
 3743d7c0-8adf-11ea-380b-7d33b0ecc1da = { name = "P4est_wrapper", path = "P/P4est_wrapper" }
 374a444c-c624-4b44-9de1-37c0fe7c6d41 = { name = "SoilWater_ToolBox", path = "S/SoilWater_ToolBox" }
 37516f07-4740-538e-b7cb-eec320f4a184 = { name = "Hanabi_jll", path = "jll/H/Hanabi_jll" }
@@ -4743,6 +4745,7 @@ some amount of consideration when choosing package names.
 5a560754-308a-11ea-3701-ef72685e98d6 = { name = "Splines2", path = "S/Splines2" }
 5a6518a2-e6ab-4020-97b8-110ebf16b849 = { name = "ComradeAdaptMCMC", path = "C/ComradeAdaptMCMC" }
 5a653867-b65e-5b16-a095-b1e26d522bbf = { name = "Counters", path = "C/Counters" }
+5a671d39-efd4-4f73-b77d-a08726cdc8b7 = { name = "ParetoEnsembles", path = "P/ParetoEnsembles" }
 5a6f062f-bf45-497d-b654-ad17aae2a530 = { name = "MRIFiles", path = "M/MRIFiles" }
 5a74c7d3-1edb-47ee-a7ac-bdb4b3eeab9d = { name = "MinimumVarianceAnalysis", path = "M/MinimumVarianceAnalysis" }
 5a7615ae-274c-51d1-b5a8-ff30401c2c7e = { name = "osslsigncode_jll", path = "jll/O/osslsigncode_jll" }
@@ -10562,6 +10565,7 @@ c84cffac-6943-4fe6-9449-f6d23817af8b = { name = "GNSSReceiver", path = "G/GNSSRe
 c84ed2f1-dad5-54f0-aa8e-dbefe2724439 = { name = "Ratios", path = "R/Ratios" }
 c851c8d9-0c3b-43db-9ff0-525c27d20a67 = { name = "ThorlabsLTStage", path = "T/ThorlabsLTStage" }
 c85262ba-a08a-430a-b926-d29770767bf2 = { name = "GeometricEquations", path = "G/GeometricEquations" }
+c853eca7-4467-4dac-871a-88cef1644acc = { name = "PolyHarmonicTrigTransforms", path = "P/PolyHarmonicTrigTransforms" }
 c85a633c-0c3f-44a2-bffe-7f9d0681b3e7 = { name = "AstroIO", path = "A/AstroIO" }
 c85fbf42-ee25-425e-8745-f7176d4f19ec = { name = "Impostor", path = "I/Impostor" }
 c85fd23e-5eaf-479f-abdc-5c469c653c21 = { name = "ArguMend", path = "A/ArguMend" }
@@ -10854,6 +10858,7 @@ ce1b76f3-601c-5192-adf8-a07e935792b9 = { name = "AvailablePotentialEnergyFramewo
 ce1e5628-4095-449b-8858-623a1e420393 = { name = "RainMaker", path = "R/RainMaker" }
 ce21103b-dbf2-498b-b3c4-edbf725743bc = { name = "ExportPublic", path = "E/ExportPublic" }
 ce233488-44ea-4441-b732-192676ce2298 = { name = "MCMCTempering", path = "M/MCMCTempering" }
+ce2437d6-9709-47f6-b5a7-5bf524fd8b96 = { name = "LatticeMaker", path = "L/LatticeMaker" }
 ce2a0656-6bed-5c64-9e01-e7b1ac833b80 = { name = "SigmoidalProgramming", path = "S/SigmoidalProgramming" }
 ce3535a8-59a6-4c0a-83ac-3858a19dc5ad = { name = "OPFSampler", path = "O/OPFSampler" }
 ce36242b-ad83-4f84-8519-47cd8aeefd60 = { name = "Eyeball", path = "E/Eyeball" }
@@ -12218,6 +12223,7 @@ e79d16a5-2ad2-5b5c-99b8-a0c382a386e2 = { name = "Doxygen_jll", path = "jll/D/Dox
 e79e7a6a-7bb1-5a4d-9d64-da657b06f53a = { name = "StrBase", path = "S/StrBase" }
 e79eea86-5fe6-5310-9049-79d90d78ad74 = { name = "CurveProximityQueries", path = "C/CurveProximityQueries" }
 e79ef3ae-79c8-4b97-b165-63f338db30c2 = { name = "GraphsOptim", path = "G/GraphsOptim" }
+e7a3c1d2-5f8b-4a9e-b6c0-3d2e1f4a8b7c = { name = "SolarSINDy", path = "S/SolarSINDy" }
 e7a83b92-501e-4b94-a6dd-ebbcc1d264fa = { name = "Dijkstra", path = "D/Dijkstra" }
 e7b6519d-fdf7-4a33-b544-2b37a9c1234a = { name = "ThermoState", path = "T/ThermoState" }
 e7bfaba1-d571-5449-8927-abc22e82249b = { name = "NumericalIntegration", path = "N/NumericalIntegration" }
