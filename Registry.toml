@@ -5891,6 +5891,7 @@ some amount of consideration when choosing package names.
 7011085d-2e9b-5a7b-b0c2-f102c05e50c2 = { name = "CrossMappings", path = "C/CrossMappings" }
 7016d903-ac20-4882-9d97-75c232100024 = { name = "SmallDatasetMaker", path = "S/SmallDatasetMaker" }
 701c8e6d-1b01-4551-886b-1760f51f9f8d = { name = "KaitaiStruct", path = "K/KaitaiStruct" }
+702af922-8fe5-4898-93bf-1d716fce3ecb = { name = "MACEInterface", path = "M/MACEInterface" }
 7031d0ef-c40d-4431-b2f8-61a8d2f650db = { name = "LazyGrids", path = "L/LazyGrids" }
 7034ab61-46d4-4ed7-9d0f-46aef9175898 = { name = "FastBroadcast", path = "F/FastBroadcast" }
 7035ae7a-3787-11e9-139a-5545ed3dc201 = { name = "MIRT", path = "M/MIRT" }
@@ -9661,6 +9662,7 @@ b7a0d2b7-1990-46dc-b5dd-87820ecd1b09 = { name = "AxisKeysExtra", path = "A/AxisK
 b7a15901-be09-4a0e-87d2-2e66b0e09b5a = { name = "CoreMath", path = "C/CoreMath" }
 b7a990de-7fa3-5a2e-8a39-d875e4dafecd = { name = "ViennaRNA_jll", path = "jll/V/ViennaRNA_jll" }
 b7afff70-4bfb-11e9-240b-a35f420ae9bd = { name = "PressureDrop", path = "P/PressureDrop" }
+b7b438b0-8b51-4018-ba50-da6ecf296240 = { name = "WeberElectrodynamics", path = "W/WeberElectrodynamics" }
 b7b5e640-9b39-4803-84eb-376048795def = { name = "IMASggd", path = "I/IMASggd" }
 b7bab496-830c-4b53-8aec-8b9a988c40b4 = { name = "Fminbnd", path = "F/Fminbnd" }
 b7bf5f09-dce4-461b-b741-5180c76f4cfe = { name = "Electrum", path = "E/Electrum" }
@@ -12499,6 +12501,7 @@ ed25ef7a-b813-415f-98cd-eb06d9efe1db = { name = "ReactionSensitivity", path = "R
 ed268df6-2d29-4139-a3e0-ddeb8be80dc7 = { name = "CachedFunctions", path = "C/CachedFunctions" }
 ed2dc23b-ada4-5fdb-a26f-56368a14ad8f = { name = "EcoSISTEM", path = "E/EcoSISTEM" }
 ed36266e-456b-4f4e-a6d5-e20de27032ad = { name = "PEtabTraining", path = "P/PEtabTraining" }
+ed376acd-e979-4125-b637-573100a4d0f2 = { name = "CHGNetInterface", path = "C/CHGNetInterface" }
 ed38bb8a-6120-4024-8d1e-8789784f251b = { name = "GraphsColoring", path = "G/GraphsColoring" }
 ed3cd733-9f0f-46a9-93e0-89b8d4998dd9 = { name = "VortexStepMethod", path = "V/VortexStepMethod" }
 ed3f0a38-8ad9-4cf8-877e-929e8d190fe9 = { name = "IESopt", path = "I/IESopt" }
@@ -12926,6 +12929,7 @@ f5cc5b76-f814-11e9-291c-a1ea2b8c31c6 = { name = "UnitfulCurrency", path = "U/Uni
 f5cc8831-eeb7-4288-8d9f-d6c1ddb77004 = { name = "AtomsBuilder", path = "A/AtomsBuilder" }
 f5d339c9-093b-5756-8f08-ceae06537255 = { name = "Silo_jll", path = "jll/S/Silo_jll" }
 f5de1e94-2f77-472d-8c3b-9d09f580ee5e = { name = "SimplexQuad", path = "S/SimplexQuad" }
+f5e5459d-1a87-5129-97d9-bab22ca84fbb = { name = "Musica_jll", path = "jll/M/Musica_jll" }
 f5e6c550-199f-11ee-3608-394420200519 = { name = "Sleipnir", path = "S/Sleipnir" }
 f5e74093-75df-45cb-9a4a-089f0fae2cb7 = { name = "LibTeXPrintf", path = "L/LibTeXPrintf" }
 f5e9ba3c-56cf-4230-8a8f-3a70500a02a9 = { name = "ThreeBodyProblem", path = "T/ThreeBodyProblem" }
