@@ -2255,6 +2255,7 @@ some amount of consideration when choosing package names.
 2ae464b0-21de-4247-9233-e7c17725eb53 = { name = "InstrumentConfig", path = "I/InstrumentConfig" }
 2aec4490-903f-5c70-9b11-9bed06a700e1 = { name = "FourierFlows", path = "F/FourierFlows" }
 2aef5ad7-51ca-5a8f-8e88-e75cf067b44b = { name = "QueryOperators", path = "Q/QueryOperators" }
+2af597a4-5342-44f0-9c3f-26623f0804b1 = { name = "TwistedBoundaryConditions", path = "T/TwistedBoundaryConditions" }
 2afb0842-1d6c-4499-8b39-71b06199676f = { name = "PkgDevTools", path = "P/PkgDevTools" }
 2b0dec9d-f767-4f95-9e73-7df56487de68 = { name = "SpectralDistances", path = "S/SpectralDistances" }
 2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7 = { name = "LanguageServer", path = "L/LanguageServer" }
@@ -3364,6 +3365,7 @@ some amount of consideration when choosing package names.
 3f56377e-4191-4d51-b9b6-988a50b9b843 = { name = "Undefs", path = "U/Undefs" }
 3f6ec708-df3b-46b4-8b70-ec9fa53b9f7d = { name = "ComponentLogging", path = "C/ComponentLogging" }
 3f718f31-6db8-4f43-a433-67cb5c73363e = { name = "ITensorGLMakie", path = "I/ITensorGLMakie" }
+3f775d88-a4da-46c4-a2cc-aa9f16db6707 = { name = "EnergyModelsGasNetworks", path = "E/EnergyModelsGasNetworks" }
 3f775d88-a4da-46c4-a2cc-aa9f16db6708 = { name = "EnergyModelsGeography", path = "E/EnergyModelsGeography" }
 3f797b09-34e4-41d7-acf6-3302ae3248a5 = { name = "FittedItemBanks", path = "F/FittedItemBanks" }
 3f79f04f-7cac-48b4-bde1-3ad54d8f74fa = { name = "Helium", path = "H/Helium" }
@@ -3988,6 +3990,7 @@ some amount of consideration when choosing package names.
 4b6948d5-498c-54b5-b082-cdb1540453e9 = { name = "RemoteBMI", path = "R/RemoteBMI" }
 4b700b29-7da4-4670-af42-5a9783ffd6e0 = { name = "SplitOrderedCollections", path = "S/SplitOrderedCollections" }
 4b816528-16ba-4e32-9a2e-3c1bc2049d3a = { name = "Muninn", path = "M/Muninn" }
+4b8222f9-91d6-4fc3-8988-c3d342909eae = { name = "FluorescenceCorrelationFitting", path = "F/FluorescenceCorrelationFitting" }
 4b92dbe6-3cad-5173-b451-9946eb17ce71 = { name = "bsdiff_endsley_jll", path = "jll/B/bsdiff_endsley_jll" }
 4b9e565b-77fc-50a5-a571-1244f986bda1 = { name = "SumOfSquares", path = "S/SumOfSquares" }
 4baa4f4d-2ae9-40db-8331-a7d1080e3f4e = { name = "KomaMRICore", path = "K/KomaMRICore" }
@@ -7471,6 +7474,7 @@ some amount of consideration when choosing package names.
 8d663f9d-4f48-40de-bd8d-17f077f467f6 = { name = "EarthEngineREST", path = "E/EarthEngineREST" }
 8d666b04-775d-5f6e-b778-5ac7c70f65a3 = { name = "PolyChaos", path = "P/PolyChaos" }
 8d673c98-5a32-5a15-b616-7dad274ffdd7 = { name = "Matcha", path = "M/Matcha" }
+8d6c9889-004b-5ffc-a588-babdd84958c6 = { name = "ElectricityNetworkReduction", path = "E/ElectricityNetworkReduction" }
 8d6fe0f5-cdf5-47ae-8203-553721bd1e97 = { name = "ProjectManagement", path = "P/ProjectManagement" }
 8d73829f-f4b0-474a-9580-cecc8e084068 = { name = "Vecchia", path = "V/Vecchia" }
 8d776fb2-c776-41b2-9301-35f2bdade9dc = { name = "EyeTrackingUtils", path = "E/EyeTrackingUtils" }
@@ -13076,6 +13080,7 @@ f8f80db2-c0ba-59e9-a5c3-38d72e3c5ac2 = { name = "jq_jll", path = "jll/J/jq_jll" 
 f8fcb915-6b99-5be2-b79a-d6dbef8e6e7e = { name = "ApproxFunSingularities", path = "A/ApproxFunSingularities" }
 f8fcefdb-5f5a-475b-b2a0-c41c734946b5 = { name = "OrbitalElements", path = "O/OrbitalElements" }
 f91b31a4-be4d-40e3-b767-4b8c09c10076 = { name = "MagNav", path = "M/MagNav" }
+f91b385c-3ede-44c9-92c8-2a04f762ef2f = { name = "BroadbandBPM", path = "B/BroadbandBPM" }
 f91f2aa8-3cb3-52ab-b009-b9f47c1c1b27 = { name = "Zomato", path = "Z/Zomato" }
 f9221216-80da-5205-bffb-473ccd158385 = { name = "Bullet_Physics_SDK_jll", path = "jll/B/Bullet_Physics_SDK_jll" }
 f92c20c0-9f2a-4705-8116-881385faba05 = { name = "TextEncodeBase", path = "T/TextEncodeBase" }
