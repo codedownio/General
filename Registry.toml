@@ -1398,6 +1398,7 @@ some amount of consideration when choosing package names.
 19b8cd92-e066-46ba-a542-94e93cc5e2a9 = { name = "ArgDecomposition", path = "A/ArgDecomposition" }
 19bbc782-a6fb-447a-8120-ff40275555e1 = { name = "FluxReconstruction", path = "F/FluxReconstruction" }
 19bfd68b-3085-5123-a7aa-2ec83b867ca4 = { name = "CORBITS", path = "C/CORBITS" }
+19c5a474-6cd1-4a5f-be79-46dc34e54d7f = { name = "StochasticDiffEqCore", path = "S/StochasticDiffEqCore" }
 19ce2a37-d051-4e03-9a1e-989d2d09a817 = { name = "LazyFym", path = "L/LazyFym" }
 19cf8126-1d00-4ad8-bf17-4e76d7bc0f6d = { name = "StateSpaceDynamics", path = "S/StateSpaceDynamics" }
 19d19b8a-d445-44de-bef5-58c3ebc30fa7 = { name = "Photodynamics", path = "P/Photodynamics" }
@@ -2721,6 +2722,7 @@ some amount of consideration when choosing package names.
 3383e110-d2c8-5588-847f-51a846eee08b = { name = "CUTENSOR_CUDA102_jll", path = "jll/C/CUTENSOR_CUDA102_jll" }
 3384d301-0fbe-4b40-9ae0-b0e68bedb069 = { name = "SymbolicCompilerPasses", path = "S/SymbolicCompilerPasses" }
 338f10d5-c7f1-4033-a7d1-f9dec39bcaa0 = { name = "Observers", path = "O/Observers" }
+33907ca8-b329-4b9f-877b-c71d0f37dbeb = { name = "FundamentalFrequencies", path = "F/FundamentalFrequencies" }
 33913031-fe46-5864-950f-100836f47845 = { name = "CalibrationErrors", path = "C/CalibrationErrors" }
 3391f64e-dcde-5f30-b752-e11513730f60 = { name = "CDDLib", path = "C/CDDLib" }
 33a72cf0-4690-46d7-b987-06506c2248b9 = { name = "Chmy", path = "C/Chmy" }
@@ -3300,6 +3302,7 @@ some amount of consideration when choosing package names.
 3e2ffa6a-ba38-11e8-0a1c-7b69309e1c72 = { name = "Duff", path = "D/Duff" }
 3e3237d9-63df-4510-8634-5aa762e77746 = { name = "ElectroMechanicsFEM", path = "E/ElectroMechanicsFEM" }
 3e3c03f2-1a94-11e9-2981-050a4ca824ab = { name = "XUnit", path = "X/XUnit" }
+3e47ebc0-1a57-5d97-8531-bb9677ddea26 = { name = "fast_float_jll", path = "jll/F/fast_float_jll" }
 3e47f106-5d41-4e23-9040-914dff44c15a = { name = "MondrianForests", path = "M/MondrianForests" }
 3e489a4b-a92a-5e1b-a7bf-ed666eae205e = { name = "CvxCompress", path = "C/CvxCompress" }
 3e48f91b-32ac-4cc7-9c0f-e9f53eeef932 = { name = "OMSparseEinsum", path = "O/OMSparseEinsum" }
@@ -4126,6 +4129,7 @@ some amount of consideration when choosing package names.
 4e289a0a-7415-4d19-859d-a7e5c4648b56 = { name = "EnumX", path = "E/EnumX" }
 4e3cecfd-b093-5904-9786-8bbb286a6a31 = { name = "ImageShow", path = "I/ImageShow" }
 4e3eb3bd-530d-473f-987b-017f501eadde = { name = "Regions", path = "R/Regions" }
+4e3fa5aa-00ae-463a-a120-6d723684915b = { name = "RuizEquilibration", path = "R/RuizEquilibration" }
 4e41d8b6-e438-5f9c-8b78-0c738ca8d379 = { name = "RSCG", path = "R/RSCG" }
 4e4236b1-b06d-4ded-9e3d-2d170138da79 = { name = "SphericalClusterMass", path = "S/SphericalClusterMass" }
 4e51ce9a-7ecb-4b33-a20a-6d9e1a01b2b3 = { name = "Faddeyeva985", path = "F/Faddeyeva985" }
@@ -7640,6 +7644,7 @@ some amount of consideration when choosing package names.
 90d73f82-b7c3-43a4-ac2d-0ceedb790db1 = { name = "MDInclude", path = "M/MDInclude" }
 90d841e0-6953-4e90-9f3a-43681da8e949 = { name = "View5D", path = "V/View5D" }
 90db92cd-0007-4c0a-8e51-dbf0782ce592 = { name = "VLBILikelihoods", path = "V/VLBILikelihoods" }
+90dbc90e-856a-4131-af2c-e8c5aa0f35b5 = { name = "StochasticDiffEqLevyArea", path = "S/StochasticDiffEqLevyArea" }
 90e503ea-487f-4e8e-81fe-8dcc9db25ac5 = { name = "OpenQuantumSystems", path = "O/OpenQuantumSystems" }
 90edb7a8-79d7-49b2-b6b1-9322c3fdead8 = { name = "Diffusers", path = "D/Diffusers" }
 90f18bad-8de6-4f24-a7ee-bfe158ef45c0 = { name = "SymbolicCircuit", path = "S/SymbolicCircuit" }
@@ -9416,6 +9421,7 @@ b297549e-c8cb-44e5-9c33-b7e2667db6fc = { name = "Checkerboard", path = "C/Checke
 b29a95c0-35db-4866-a636-e016a4ee858a = { name = "Desktop", path = "D/Desktop" }
 b2a88e68-78e7-5e94-8c20-c02986ec140e = { name = "aws_checksums_jll", path = "jll/A/aws_checksums_jll" }
 b2ad6718-fff2-47f2-82f8-4d98a2866c7e = { name = "EmacsVterm", path = "E/EmacsVterm" }
+b2adfde3-587a-5e1b-918b-4f590a6d5faa = { name = "SoapyHackRF_jll", path = "jll/S/SoapyHackRF_jll" }
 b2aef97b-4721-5af9-b440-0bad754dc5ba = { name = "SimplePosets", path = "S/SimplePosets" }
 b2b3ca75-8444-5ffa-85e6-af70e2b64fe7 = { name = "HMMBase", path = "H/HMMBase" }
 b2b8a7f1-da70-4e5f-beaa-e2774ec39c2f = { name = "MarSwitching", path = "M/MarSwitching" }
