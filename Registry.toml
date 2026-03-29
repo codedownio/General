@@ -197,6 +197,7 @@ some amount of consideration when choosing package names.
 03c2b57b-fb4c-5576-ac09-ef0ca0563633 = { name = "ObjectStores", path = "O/ObjectStores" }
 03c36417-ddab-428a-818d-5359aee292ef = { name = "NestedGraphs", path = "N/NestedGraphs" }
 03c4bcba-a943-47e9-bfa1-b1661fc2974f = { name = "Polynomials4ML", path = "P/Polynomials4ML" }
+03ca86a4-b7cd-4b10-a38f-d7a84f40de1e = { name = "IntegrationInterface", path = "I/IntegrationInterface" }
 03cb29e0-1ef4-4721-aa24-cf58a006576f = { name = "CellMLToolkit", path = "C/CellMLToolkit" }
 03cb9323-3c4b-4e23-a84c-921ade87b3a3 = { name = "MaterialReconstruction", path = "M/MaterialReconstruction" }
 03cc5b98-4f21-4eb6-99f2-22eced81f962 = { name = "GenieSession", path = "G/GenieSession" }
@@ -7659,6 +7660,7 @@ some amount of consideration when choosing package names.
 91294a36-8144-4a6b-bcde-0166c034afe3 = { name = "AnalyticalStructureFactors", path = "A/AnalyticalStructureFactors" }
 9136182c-28ba-11e9-034c-db9fb085ebd5 = { name = "ITensors", path = "I/ITensors" }
 91393fb9-e38b-4a31-9409-aa579b4163ad = { name = "UniformIsingModels", path = "U/UniformIsingModels" }
+913af9f3-6a3d-46e7-8a90-1058e86354fb = { name = "Terse", path = "T/Terse" }
 913cd07a-ab48-11e9-38cf-61416429a70b = { name = "ModelSanitizer", path = "M/ModelSanitizer" }
 91422e4c-10a5-47ab-9349-b60c71326670 = { name = "TileMaps", path = "T/TileMaps" }
 91464d47-22a1-43fe-8b7f-2d57ee82463f = { name = "StableTasks", path = "S/StableTasks" }
@@ -9197,6 +9199,7 @@ aea7be01-6a6a-4083-8856-8a6e6704d82a = { name = "PrecompileTools", path = "P/Pre
 aeaa251e-9d76-11e9-311b-83636bf44738 = { name = "LazyAlgebra", path = "L/LazyAlgebra" }
 aebc047d-cbe2-4ea1-a181-a2987ad69fed = { name = "LinearFold", path = "L/LinearFold" }
 aec56ffe-cd48-4f37-83c0-3fddfef137dd = { name = "SMRPInversion", path = "S/SMRPInversion" }
+aecef331-8c7a-44c4-b913-ba8debb6e116 = { name = "CompariMotif", path = "C/CompariMotif" }
 aed1982a-8fda-507f-9586-7b0439959a61 = { name = "XSLT_jll", path = "jll/X/XSLT_jll" }
 aed23131-dcd0-47ca-8090-d21e605652e3 = { name = "SymbolicNeuralNetworks", path = "S/SymbolicNeuralNetworks" }
 aed2ae9c-e0a3-4a50-8068-bdeec279239a = { name = "ShowMethodTesting", path = "S/ShowMethodTesting" }
