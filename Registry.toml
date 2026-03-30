@@ -595,6 +595,7 @@ some amount of consideration when choosing package names.
 0af1e411-0638-4d6d-bb05-ed1900b440d5 = { name = "Opus", path = "O/Opus" }
 0af4abc2-9bda-511f-85a5-daebf69421ba = { name = "Xorg_compositeproto_jll", path = "jll/X/Xorg_compositeproto_jll" }
 0af78db0-3b7c-4df8-88bd-686b7cc5245d = { name = "SpaceTimeFields", path = "S/SpaceTimeFields" }
+0afaa0e9-cc38-4a4d-9239-d0953829ee9e = { name = "GraphTransportation", path = "G/GraphTransportation" }
 0afdae40-3141-486e-b874-33af99ac38b5 = { name = "RetentionParameterEstimator", path = "R/RetentionParameterEstimator" }
 0b0e28cf-a3af-44db-8bea-1c4507018d35 = { name = "AllenNeuropixelsBase", path = "A/AllenNeuropixelsBase" }
 0b12f483-aaff-4a42-bf4f-5a3345f2360f = { name = "Pitaya", path = "P/Pitaya" }
@@ -1482,6 +1483,7 @@ some amount of consideration when choosing package names.
 1b08a953-4be3-4667-9a23-a540cca008f6 = { name = "DashDaq", path = "D/DashDaq" }
 1b08a953-4be3-4667-9a23-f0e2ba4deb9a = { name = "DashTable", path = "D/DashTable" }
 1b08a953-4be3-4667-9a23-fa6d05876a1e = { name = "DashBootstrapComponents", path = "D/DashBootstrapComponents" }
+1b0c7da8-4eb4-4bd5-bd5a-0bb1b0f4bca1 = { name = "InterpolatedNyquist", path = "I/InterpolatedNyquist" }
 1b10255b-6da3-57ce-9089-d24e8517b87e = { name = "GlobalSensitivityAnalysis", path = "G/GlobalSensitivityAnalysis" }
 1b112299-d6bc-44e2-912a-478f25731460 = { name = "Kelpie", path = "K/Kelpie" }
 1b19e153-50d3-4699-8064-93bcb9fb4fba = { name = "KroneckerProducts", path = "K/KroneckerProducts" }
@@ -1496,6 +1498,7 @@ some amount of consideration when choosing package names.
 1b4d18b6-9e5d-11e9-236c-f792b01831f8 = { name = "RangeEnclosures", path = "R/RangeEnclosures" }
 1b53aba6-35b6-5f92-a507-53c67d53f819 = { name = "CUTEst", path = "C/CUTEst" }
 1b5eed3d-1f46-4baa-87f3-a4a892b23610 = { name = "RustyObjectStore", path = "R/RustyObjectStore" }
+1b604ab5-8734-4983-954d-ef9ae1cbea4b = { name = "AIFF", path = "A/AIFF" }
 1b61a8d9-79ed-4491-8266-ef37f39e1727 = { name = "UnitDiskMapping", path = "U/UnitDiskMapping" }
 1b67bd2a-23ea-4736-a23a-3ec91cbf2075 = { name = "Xyce", path = "X/Xyce" }
 1b6a4a23-ba22-4f51-9698-8599985d3728 = { name = "MLJMultivariateStatsInterface", path = "M/MLJMultivariateStatsInterface" }
@@ -3907,6 +3910,7 @@ some amount of consideration when choosing package names.
 49a8456a-4ba5-11e9-3740-3f4f22e0c893 = { name = "Plumber", path = "P/Plumber" }
 49aacbaa-bd10-4545-ba27-0a7ca180d7f7 = { name = "SpecialExponentialFamilies", path = "S/SpecialExponentialFamilies" }
 49b00bb7-8bd4-4f2b-b78c-51cd0450215f = { name = "SurfaceFluxes", path = "S/SurfaceFluxes" }
+49b37b9d-a8e6-4364-9144-4677bcb8a7f0 = { name = "Drill", path = "D/Drill" }
 49b3b870-118c-11ea-1661-71d34d312539 = { name = "KrigingModel", path = "K/KrigingModel" }
 49b5b516-ca3f-4003-a081-42bdcf55082d = { name = "GitCommand", path = "G/GitCommand" }
 49bccec5-5f8e-4a37-813c-bb803a7e462a = { name = "ExprManipulation", path = "E/ExprManipulation" }
@@ -11162,6 +11166,7 @@ d3bc4f2e-91e6-11e9-365e-cd067da536ce = { name = "BranchAndPrune", path = "B/Bran
 d3c5d4cd-a8ee-40d6-aac7-e34df5a20044 = { name = "PolarizedTypes", path = "P/PolarizedTypes" }
 d3cb9f0d-9994-4b1a-a019-873b7558f280 = { name = "ToolipsExport", path = "T/ToolipsExport" }
 d3ce8812-9567-47e9-a7b5-65a6d70a3065 = { name = "SerializedElementArrays", path = "S/SerializedElementArrays" }
+d3d182ee-e566-4962-9279-3a9916be1802 = { name = "Musica", path = "M/Musica" }
 d3d30c82-a38e-471c-a45a-3d24d2f4d22d = { name = "MutableShiftedArrays", path = "M/MutableShiftedArrays" }
 d3d335b2-f152-507c-820e-958e337efb65 = { name = "RawArray", path = "R/RawArray" }
 d3d4fdd0-c191-11e8-3358-a3629b56487d = { name = "OpenStreetMapXPlot", path = "O/OpenStreetMapXPlot" }
@@ -12649,6 +12654,7 @@ efd95c89-babc-5260-8753-618084eaf9d7 = { name = "Tesseract_jll", path = "jll/T/T
 efdf428f-f294-58b6-a961-90c8051bff4c = { name = "PiecewiseIncreasingRanges", path = "P/PiecewiseIncreasingRanges" }
 efe261a4-0d2b-5849-be55-fc731d526b0d = { name = "NFFT", path = "N/NFFT" }
 efe28fd5-8261-553b-a9e1-b2916fc3738e = { name = "OpenSpecFun_jll", path = "jll/O/OpenSpecFun_jll" }
+efe4dcdd-3aed-4391-894d-a9dbd16a2f14 = { name = "SciMLIterators", path = "S/SciMLIterators" }
 efe69fdf-5f6b-4971-99df-296990405262 = { name = "ParameterizedNotebooks", path = "P/ParameterizedNotebooks" }
 eff96cbd-3442-458f-9fe2-6cad589fe5e1 = { name = "MeshMaker", path = "M/MeshMaker" }
 eff96d63-e80a-5855-80a2-b1b0885c5ab7 = { name = "Measurements", path = "M/Measurements" }
