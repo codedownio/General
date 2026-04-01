@@ -519,6 +519,7 @@ some amount of consideration when choosing package names.
 09606e27-ecf5-54fc-bb29-004bd9f985bf = { name = "ODEInterfaceDiffEq", path = "O/ODEInterfaceDiffEq" }
 096a3bc2-3ced-46d0-87f4-dd12716f4bfc = { name = "GPUToolbox", path = "G/GPUToolbox" }
 09780231-1698-4933-9d9d-4e01e0abea36 = { name = "HmtGutenberg", path = "H/HmtGutenberg" }
+097857cb-d914-4df9-ba6d-e02fb595fe10 = { name = "QuantumClusterTheories", path = "Q/QuantumClusterTheories" }
 0979c8fe-16a4-4796-9b82-89a9f10403ea = { name = "JACC", path = "J/JACC" }
 097c2839-c7bc-4c4b-a5f2-b4167c1b4e7c = { name = "MetidaNCA", path = "M/MetidaNCA" }
 09812cc9-162f-4ef5-b000-81142b1d39ff = { name = "UnitfulCoordinateSystems", path = "U/UnitfulCoordinateSystems" }
@@ -5239,6 +5240,7 @@ some amount of consideration when choosing package names.
 634c7f73-3e90-4749-a1bd-001b8efc642d = { name = "QuanticsGrids", path = "Q/QuanticsGrids" }
 634d3b9d-ee7a-5ddf-bec9-22491ea816e1 = { name = "DrWatson", path = "D/DrWatson" }
 634dcf3f-6aa7-47ba-9e85-1fb329c9ebfe = { name = "Networks", path = "N/Networks" }
+634e6054-d510-4276-b3a3-6481ab5b18dc = { name = "WaterLilyMeshBodies", path = "W/WaterLilyMeshBodies" }
 63556450-714a-11e9-08e1-e368b701e279 = { name = "DroneSurveillance", path = "D/DroneSurveillance" }
 6356fb03-8c35-4dfb-8dca-145006c345e7 = { name = "TrajectoryBundles", path = "T/TrajectoryBundles" }
 636a865e-7cf4-491e-846c-de09b730eb36 = { name = "NearestNeighborModels", path = "N/NearestNeighborModels" }
@@ -6701,6 +6703,7 @@ some amount of consideration when choosing package names.
 7e2db94e-98cb-4b2e-907e-9710ad85db91 = { name = "LibNanoVG", path = "L/LibNanoVG" }
 7e3cde01-c141-467b-bff6-5350a0af19fc = { name = "HydroModels", path = "H/HydroModels" }
 7e4462cd-8001-4c22-b109-db8e4e581e9c = { name = "Modulo2", path = "M/Modulo2" }
+7e48b2a1-39c4-4d51-8e95-9d3278c7b89b = { name = "SamplesCore", path = "S/SamplesCore" }
 7e49a35a-f44a-4d26-94aa-eba1b4ca6b47 = { name = "RuntimeGeneratedFunctions", path = "R/RuntimeGeneratedFunctions" }
 7e49bc5d-d907-5fdd-93a4-11f1b4f8bb51 = { name = "BayesianNonparametrics", path = "B/BayesianNonparametrics" }
 7e4b4f32-fbf9-4b74-9510-4d15222ac973 = { name = "StaticThings", path = "S/StaticThings" }
@@ -8191,6 +8194,7 @@ some amount of consideration when choosing package names.
 9be66c26-f988-4649-80fc-f4721a4a33f2 = { name = "MRISampling", path = "M/MRISampling" }
 9bed6e46-0232-43fb-95ab-f63adf9bda0f = { name = "BeeDeeDee", path = "B/BeeDeeDee" }
 9bed79ab-e35b-4b7a-8527-918872a9571e = { name = "Curves", path = "C/Curves" }
+9bfbc2e6-55ab-4199-a6e3-cd4a60ef255b = { name = "FastCUDASSIM", path = "F/FastCUDASSIM" }
 9c0b9be8-e31e-490f-90fe-77697562404d = { name = "Dataverse", path = "D/Dataverse" }
 9c0cb1da-21b1-4615-967b-153e03110a28 = { name = "CalciumScoring", path = "C/CalciumScoring" }
 9c0f25c4-2ca1-5870-89f6-52640788da1d = { name = "Eirene", path = "E/Eirene" }
@@ -8572,6 +8576,7 @@ a2c6e634-85ca-418a-9c67-9b5417ce2d04 = { name = "ElectrochemicalKinetics", path 
 a2cac450-b92f-5266-8821-25eda20663c8 = { name = "ColorBrewer", path = "C/ColorBrewer" }
 a2cc645c-3eea-5389-862e-a155d0052231 = { name = "GraphPlot", path = "G/GraphPlot" }
 a2ce7b33-90ba-591a-b03f-46764c5db586 = { name = "CJieba_jll", path = "jll/C/CJieba_jll" }
+a2d1c3e4-5b67-4d89-bc01-e23456789abc = { name = "WavNative", path = "W/WavNative" }
 a2d61402-033a-4ca9-aef4-652d70cf7c9c = { name = "Fauxcurrences", path = "F/Fauxcurrences" }
 a2db99b7-8b79-58f8-94bf-bbc811eef33d = { name = "TextAnalysis", path = "T/TextAnalysis" }
 a2deda47-164f-4e4d-810f-425bbd57e6e7 = { name = "TempestSDR", path = "T/TempestSDR" }
@@ -8967,6 +8972,7 @@ a9f42406-efe7-414c-8b71-df971cc98041 = { name = "DirectTrajectoryOptimization", 
 a9f5bb6c-0632-44f9-9c01-5aa9e657c941 = { name = "RiskBudgeting", path = "R/RiskBudgeting" }
 a9f96d1f-ed6a-4404-822f-5927c777f274 = { name = "RandomMeas", path = "R/RandomMeas" }
 a9fe299e-2329-4adb-a199-17440bd42f02 = { name = "SqraCore", path = "S/SqraCore" }
+aa021fa7-5c7d-5dc1-9fa7-c90cd282ac20 = { name = "gdx_jll", path = "jll/G/gdx_jll" }
 aa0ab9cb-918b-5ca1-812e-3cecb1c413b6 = { name = "GAP_pkg_edim_jll", path = "jll/G/GAP_pkg_edim_jll" }
 aa0f7f06-fcc0-5ec4-a7f3-a573f33f9c4c = { name = "Molly", path = "M/Molly" }
 aa102bde-5a27-4b0c-b2c1-e7a7dcc4c3e7 = { name = "GeoStatsProcesses", path = "G/GeoStatsProcesses" }
