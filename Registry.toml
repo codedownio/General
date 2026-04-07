@@ -2643,6 +2643,7 @@ some amount of consideration when choosing package names.
 31df374a-5bce-54dc-914a-f687be069de8 = { name = "Getopt", path = "G/Getopt" }
 31e2f376-db9e-427a-b76e-a14f56347a14 = { name = "PredefinedDynamicalSystems", path = "P/PredefinedDynamicalSystems" }
 31ece079-7405-46d1-96b6-7aef44ad4713 = { name = "CiteDown", path = "C/CiteDown" }
+31efde5a-9a5e-4933-8696-7df4d2d7b37b = { name = "BuoyData", path = "B/BuoyData" }
 31f4d4b3-d71d-422d-8932-b4ab24c6e7e3 = { name = "HydroModelTools", path = "H/HydroModelTools" }
 31f4e45d-be81-5be7-b2dd-bc577b4f7be8 = { name = "DualMatrixTools", path = "D/DualMatrixTools" }
 31f734f8-188a-4ce0-8406-c8a06bd891cd = { name = "ArrowTypes", path = "A/ArrowTypes" }
@@ -2946,6 +2947,7 @@ some amount of consideration when choosing package names.
 37516f07-4740-538e-b7cb-eec320f4a184 = { name = "Hanabi_jll", path = "jll/H/Hanabi_jll" }
 3756410d-ab6e-41a2-9897-9aa267a7ef31 = { name = "StableDistributions", path = "S/StableDistributions" }
 37591b3e-a3c2-50e0-b676-8bc36018f336 = { name = "lttng_tools_jll", path = "jll/L/lttng_tools_jll" }
+3764e38b-e87f-453d-b456-dc646f8e1bb8 = { name = "ARPES", path = "A/ARPES" }
 3771e204-432d-45a9-9661-5d0025a53671 = { name = "FacilityLocationProblems", path = "F/FacilityLocationProblems" }
 377afc40-5642-4616-8613-b7ebca523866 = { name = "PostNewtonian", path = "P/PostNewtonian" }
 37821647-3276-4ed8-9a4e-bc9886b3c106 = { name = "Minuit2", path = "M/Minuit2" }
@@ -4240,6 +4242,7 @@ some amount of consideration when choosing package names.
 4fb893c1-3164-4f58-823a-cb4c64eabb4f = { name = "Metadata", path = "M/Metadata" }
 4fba245c-0d91-5ea0-9b3e-6abc04ee57a9 = { name = "ArrayInterface", path = "A/ArrayInterface" }
 4fba8ba3-5816-4b0a-a58e-35901defa442 = { name = "ExtremeFloats", path = "E/ExtremeFloats" }
+4fbb9974-894c-4a41-a014-437e511f5eec = { name = "AtomTwin", path = "A/AtomTwin" }
 4fc4fbda-03ee-4929-b565-b3d9b12bdf79 = { name = "AcousticRayTracers", path = "A/AcousticRayTracers" }
 4fce6fc7-ba6a-5f4c-898f-77e99806d6f8 = { name = "FLTK_jll", path = "jll/F/FLTK_jll" }
 4fd0377b-cfdc-4941-97f4-8d7ddbb8981e = { name = "FGenerators", path = "F/FGenerators" }
@@ -6682,6 +6685,7 @@ some amount of consideration when choosing package names.
 7dab568b-3cf7-4f91-a977-b4631dfca174 = { name = "RadialPiecewisePolynomials", path = "R/RadialPiecewisePolynomials" }
 7db386b5-e858-4964-8eb4-2fa66f8df882 = { name = "DependencyWalker", path = "D/DependencyWalker" }
 7dbda32b-b8f8-4b95-b50c-a09c52aba2c8 = { name = "FinEtoolsTetsFromTris", path = "F/FinEtoolsTetsFromTris" }
+7dc15f10-ef5b-4bb7-b45f-6ac6462fc3a6 = { name = "TinyEigvals", path = "T/TinyEigvals" }
 7dc2201c-deb4-56f8-b3a0-2ab29a2c732a = { name = "POMDPSolve_jll", path = "jll/P/POMDPSolve_jll" }
 7dc409a7-fbe5-4c9d-b3e2-b0c19a6ba600 = { name = "ADRIA", path = "A/ADRIA" }
 7dc7d583-5213-5900-9003-a99bbb4d6a76 = { name = "TinyXML_jll", path = "jll/T/TinyXML_jll" }
@@ -7458,6 +7462,7 @@ some amount of consideration when choosing package names.
 8c675823-c5d5-50f8-acb2-29aff48dfc1d = { name = "SequentialMonteCarlo", path = "S/SequentialMonteCarlo" }
 8c6ce2ba-659c-5ec7-ba4c-37596cf1f22a = { name = "rocSPARSE_jll", path = "jll/R/rocSPARSE_jll" }
 8c7a6a83-a663-42fb-a24a-c426533903ed = { name = "TemporalNetworks", path = "T/TemporalNetworks" }
+8c7db820-1a42-4900-981b-afb566070d21 = { name = "MedicalImageRegistration", path = "M/MedicalImageRegistration" }
 8c8b3700-392b-4630-b974-b8b78831232a = { name = "BcubeGmsh", path = "B/BcubeGmsh" }
 8c8f4381-2cdd-507c-846c-be2bcff6f45f = { name = "TravelingSalesmanHeuristics", path = "T/TravelingSalesmanHeuristics" }
 8c9296c2-eef7-5c5a-b7f9-196cb7be2712 = { name = "HelloWorldGo_jll", path = "jll/H/HelloWorldGo_jll" }
@@ -8777,6 +8782,7 @@ a67e86c2-42a5-4f10-921b-1e94bb8ae306 = { name = "Cthonios", path = "C/Cthonios" 
 a683250b-caed-589c-a637-5aa540466d33 = { name = "Cairo_NoGPL_jll", path = "jll/C/Cairo_NoGPL_jll" }
 a6854289-b047-58aa-884c-5e4b3dc00a83 = { name = "QOCO_jll", path = "jll/Q/QOCO_jll" }
 a6865705-0aff-55fc-a8e1-34d7b6815716 = { name = "SemiDiscretizationMethod", path = "S/SemiDiscretizationMethod" }
+a6880d5c-510b-4d6a-acfa-e934188c78a6 = { name = "BoseFermiLerch", path = "B/BoseFermiLerch" }
 a6888d44-1185-43bb-bd0f-7806f9976d18 = { name = "HuggingFaceTokenizers", path = "H/HuggingFaceTokenizers" }
 a6892c6b-5768-548c-b024-ff8dabf482c5 = { name = "FFMPEG_nogpl_jll", path = "jll/F/FFMPEG_nogpl_jll" }
 a68b5a21-f429-434e-8bfa-46b447300aac = { name = "ParetoSmooth", path = "P/ParetoSmooth" }
@@ -12925,6 +12931,7 @@ f4a74d36-062a-4d48-97cd-1356bad1de4e = { name = "LayeredLayouts", path = "L/Laye
 f4abf1af-0426-5881-a0da-e2f168889b5e = { name = "MultivariateMoments", path = "M/MultivariateMoments" }
 f4ace912-77ac-4801-b600-bd6f88c28557 = { name = "ConjugateComputationVI", path = "C/ConjugateComputationVI" }
 f4afba0d-ee76-4f0d-9e6b-7521d0ede300 = { name = "MacroEnergyTimeReduction", path = "M/MacroEnergyTimeReduction" }
+f4b1a2c3-d5e6-7f89-0a1b-c2d3e4f5a6b7 = { name = "FeedBackAndForth", path = "F/FeedBackAndForth" }
 f4b1acfe-f311-436c-bb79-8483f53c17d5 = { name = "PartialLeastSquaresRegressor", path = "P/PartialLeastSquaresRegressor" }
 f4b2537f-2a16-4095-98fc-a229818e8b13 = { name = "DaprClients", path = "D/DaprClients" }
 f4b513d5-df74-5b77-afcc-0e7f5b2f7b55 = { name = "Thermopack_jll", path = "jll/T/Thermopack_jll" }
@@ -13060,6 +13067,7 @@ f6ee7e80-f154-4ab7-9ba1-93ac0b1bd6c8 = { name = "MultivariateMarkovChains", path
 f6f2d980-1ec6-471c-a70d-0270e22f1103 = { name = "H5Zzstd", path = "H/H5Zzstd" }
 f70d9fcc-98c5-4d4a-abd7-e4cdeebd8ca8 = { name = "CommonWorldInvalidations", path = "C/CommonWorldInvalidations" }
 f713baf6-9299-4878-8719-8ad597e49a7b = { name = "QuantumESPRESSOCommands", path = "Q/QuantumESPRESSOCommands" }
+f72ebd5e-5dd3-5332-aade-6695765c27ff = { name = "Montre_jll", path = "jll/M/Montre_jll" }
 f7321fe0-76de-4184-b262-f3439fe138fd = { name = "SubsidenceChron", path = "S/SubsidenceChron" }
 f736b957-7581-4cbb-b747-c02a85f5d4ae = { name = "Mathenize", path = "M/Mathenize" }
 f73916d7-f1f8-4ba1-9c05-cb0c1ef97587 = { name = "FastActivations", path = "F/FastActivations" }
