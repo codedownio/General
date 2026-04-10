@@ -545,6 +545,7 @@ some amount of consideration when choosing package names.
 0a04e04c-3d81-46c0-89a4-d6cdbba47ab1 = { name = "VTKLegacy", path = "V/VTKLegacy" }
 0a077753-09e0-5213-973e-a9bab7f4efc7 = { name = "systemtap_jll", path = "jll/S/systemtap_jll" }
 0a079e9b-4bc2-44fe-a89b-7607e4464786 = { name = "FinSetsForCAP", path = "F/FinSetsForCAP" }
+0a114e3f-4576-410c-8414-be1d36bbc63f = { name = "ContourDynamics", path = "C/ContourDynamics" }
 0a1268e7-2270-4ee8-9901-5a5b516c7ae9 = { name = "InvariantSets", path = "I/InvariantSets" }
 0a13313b-1c00-422e-8263-562364ed9544 = { name = "SauterSchwab3D", path = "S/SauterSchwab3D" }
 0a1892c8-8a22-4bcd-b9e2-a5b491b58d94 = { name = "NASAMergedTb", path = "N/NASAMergedTb" }
@@ -888,6 +889,7 @@ some amount of consideration when choosing package names.
 104b5d7c-a370-577a-8038-80a2059c5097 = { name = "WebSockets", path = "W/WebSockets" }
 104c01f3-edb2-4478-93b7-cdaa98dd5680 = { name = "SatelliteDataSources", path = "S/SatelliteDataSources" }
 10506e09-08cd-5f0b-aee5-631de1bcc925 = { name = "FFAST", path = "F/FFAST" }
+1053fb32-4acc-43b8-9452-68b47d229da6 = { name = "ReferenceRevision", path = "R/ReferenceRevision" }
 10587292-549a-4141-aed9-b9dca56acf27 = { name = "ClusterAnalysis", path = "C/ClusterAnalysis" }
 105a4150-501d-4750-a750-eeda3b75fac2 = { name = "MathleticsFiles", path = "M/MathleticsFiles" }
 105f6ee8-0889-46b1-9d4b-65e03cbc8f13 = { name = "SNOW", path = "S/SNOW" }
@@ -1796,6 +1798,7 @@ some amount of consideration when choosing package names.
 217fe2f1-7e3d-419f-9934-cd6900c2759a = { name = "CavityTools", path = "C/CavityTools" }
 21828b05-d3b3-40ad-870e-a4bc2f52d5e8 = { name = "GraphMLDatasets", path = "G/GraphMLDatasets" }
 2182be2a-124f-4a91-8389-f06db5907a21 = { name = "HeterogeneousComputing", path = "H/HeterogeneousComputing" }
+2183b06c-96af-4393-8376-7de3f6d52a77 = { name = "TurboQuant", path = "T/TurboQuant" }
 2196b101-3ac0-4e12-b5a8-532424305d17 = { name = "LiBr", path = "L/LiBr" }
 21a827c4-482a-11ea-3a19-4d2243a4a2c5 = { name = "SearchLightSQLite", path = "S/SearchLightSQLite" }
 21ab680e-8976-4604-9445-b09bf8035a21 = { name = "MuJoCoEnvironments", path = "M/MuJoCoEnvironments" }
@@ -6256,6 +6259,7 @@ some amount of consideration when choosing package names.
 75ebfc8e-976a-11e9-26c7-f5346d660b1d = { name = "Unitary", path = "U/Unitary" }
 75efc99c-f354-4bf0-9c4f-447e54034ed9 = { name = "AKNS", path = "A/AKNS" }
 75f4d65b-1b42-4905-9fb1-6d40607712e8 = { name = "SurfaceCoverage", path = "S/SurfaceCoverage" }
+75f83073-4d85-4669-9473-9dff7d7e5b78 = { name = "Genqo", path = "G/Genqo" }
 7600667b-db04-5866-8f94-e5ff75fe7256 = { name = "JuDGE", path = "J/JuDGE" }
 76062700-569f-48fc-9444-88b66f57fbe9 = { name = "MultiwayNumberPartitioning", path = "M/MultiwayNumberPartitioning" }
 760752a8-943b-47af-ae9a-04fdfee5f700 = { name = "DeepFry", path = "D/DeepFry" }
@@ -11172,6 +11176,7 @@ d2f42c57-c897-4e08-8218-a119b5759c84 = { name = "Seleroute", path = "S/Seleroute
 d2f4e7c0-4966-47f3-9552-d63f8a71a436 = { name = "StatsProcedures", path = "S/StatsProcedures" }
 d2f5444f-75bc-4fdf-ac35-56f514c445e1 = { name = "DuckDB", path = "D/DuckDB" }
 d302b3f7-c8ae-418d-9fc2-2c0a42bddda0 = { name = "CamiMath", path = "C/CamiMath" }
+d3093253-1426-44ff-8fa8-1ab5fe440962 = { name = "PhyloPOMP", path = "P/PhyloPOMP" }
 d30d5f5c-d141-4870-aa07-aabb0f5fe7d5 = { name = "WeakCacheSets", path = "W/WeakCacheSets" }
 d310a076-6a08-52b6-ab78-79baa254182b = { name = "XPA", path = "X/XPA" }
 d31cee86-d6f0-47a3-813b-bb8537950420 = { name = "Boids", path = "B/Boids" }
@@ -11834,6 +11839,7 @@ df1a97a6-7490-50b1-97c6-e8aaaa3c5160 = { name = "nats_c_jll", path = "jll/N/nats
 df1af0dd-2f85-5d2f-b099-55d224f7db60 = { name = "ldid_jll", path = "jll/L/ldid_jll" }
 df1fea92-c066-49dd-8b36-eace3378ea47 = { name = "SignalAnalysis", path = "S/SignalAnalysis" }
 df2c65bb-145d-4e43-9df5-5660864f8cb3 = { name = "TPLib", path = "T/TPLib" }
+df2d4b28-ae60-43d6-8e46-0b6fc9d716f5 = { name = "Montre", path = "M/Montre" }
 df2e8839-b2b1-4723-be1d-fec23799ee0a = { name = "SocialSamplingTheory", path = "S/SocialSamplingTheory" }
 df31ea59-17a4-4ebd-9d69-4f45266dc2c7 = { name = "AWSCRT", path = "A/AWSCRT" }
 df459030-36d8-4de1-905a-e8bbf7c7dfd8 = { name = "TimetableSolver", path = "T/TimetableSolver" }
@@ -13210,6 +13216,7 @@ f9ed5ce0-9f41-4eaa-96da-f38ab8df101c = { name = "TimeStruct", path = "T/TimeStru
 f9f48841-c794-520a-933b-121f7ba6ed94 = { name = "MemPool", path = "M/MemPool" }
 fa12694a-6dff-11e9-3f23-c5fa6b69506f = { name = "GetGene", path = "G/GetGene" }
 fa1605e6-acd5-459c-a1e6-7e635759db14 = { name = "MeasureBase", path = "M/MeasureBase" }
+fa1c4275-15d9-4b6b-ac6e-8f8cb1e5cce9 = { name = "KoopmanModeDecomposition", path = "K/KoopmanModeDecomposition" }
 fa1fc709-16e9-4084-816c-4cfb0f07afb9 = { name = "BinnedModels", path = "B/BinnedModels" }
 fa267f1f-6049-4f14-aa54-33bafae1ed76 = { name = "TOML", path = "T/TOML" }
 fa32481b-f100-4b48-8dc8-c62f61b13870 = { name = "SparseMatricesCOO", path = "S/SparseMatricesCOO" }
