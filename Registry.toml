@@ -108,6 +108,7 @@ some amount of consideration when choosing package names.
 01a8e460-0890-11ea-3f19-8b8faecc21cc = { name = "PowerModelsWildfire", path = "P/PowerModelsWildfire" }
 01b28500-b454-11e9-2ad6-37799b6cb31a = { name = "CVortex", path = "C/CVortex" }
 01bcebdf-4d21-426d-b5c4-6132c1619978 = { name = "Nonconvex", path = "N/Nonconvex" }
+01be3c3f-7f86-47d7-9d35-d52d1be8d668 = { name = "MassBalanceMachine", path = "M/MassBalanceMachine" }
 01c9c671-d471-43d2-8b89-3af15e6b824d = { name = "AnalysisOfVariance", path = "A/AnalysisOfVariance" }
 01d81517-befc-4cb6-b9ec-a95719d0359c = { name = "RecipesPipeline", path = "R/RecipesPipeline" }
 01da207a-183e-480e-93ab-a94ea6491b8c = { name = "SpectralResampling", path = "S/SpectralResampling" }
@@ -2292,6 +2293,7 @@ some amount of consideration when choosing package names.
 2b218182-314f-4389-a4eb-69d351d2272a = { name = "ScratchSpaceGarbageCollector", path = "S/ScratchSpaceGarbageCollector" }
 2b23ba43-8213-43cb-b5ea-38c12b45bd45 = { name = "HerbCore", path = "H/HerbCore" }
 2b2c4be0-e38c-5918-b8b4-9a308845a1e9 = { name = "Extrae_jll", path = "jll/E/Extrae_jll" }
+2b3394db-9f9c-454f-a26a-0ad872321417 = { name = "LatticeProteins", path = "L/LatticeProteins" }
 2b3700d1-4306-52e2-a478-c162f0c514be = { name = "aws_c_auth_jll", path = "jll/A/aws_c_auth_jll" }
 2b384925-53cb-4042-a8d2-6faa627467e1 = { name = "QuantumCollocationCore", path = "Q/QuantumCollocationCore" }
 2b3899e7-9068-5c5c-a4f4-f7d195ee295c = { name = "DCEMRI", path = "D/DCEMRI" }
@@ -4620,6 +4622,7 @@ some amount of consideration when choosing package names.
 5715ea1d-2681-4c29-8656-382bac65f29d = { name = "IwaiEngine", path = "I/IwaiEngine" }
 5717a53b-5d69-4fa3-b976-0bf2f97ca1e5 = { name = "QuantumInterface", path = "Q/QuantumInterface" }
 5718ef0a-a30f-426d-bcd9-4cf31dd12909 = { name = "SatelliteToolboxAtmosphericModels", path = "S/SatelliteToolboxAtmosphericModels" }
+571d7339-38b0-4585-872c-fb03e0c88832 = { name = "CosmoNEXUS", path = "C/CosmoNEXUS" }
 5721bf48-af8e-5845-8445-c9e18126e773 = { name = "DataVoyager", path = "D/DataVoyager" }
 5722b1ce-14da-11ed-06c6-d930f2b72c9a = { name = "IdealistaAPIClient", path = "I/IdealistaAPIClient" }
 5732040d-69e3-5649-938a-b6b4f237613f = { name = "DelayEmbeddings", path = "D/DelayEmbeddings" }
@@ -7081,6 +7084,7 @@ some amount of consideration when choosing package names.
 84a963f3-210d-52bd-a31c-8c93a6d2cb5c = { name = "gmime_jll", path = "jll/G/gmime_jll" }
 84ad2fbc-dacc-5b40-99f5-8db9d02a0a8a = { name = "ffts_jll", path = "jll/F/ffts_jll" }
 84b136a2-8bec-4844-b63d-93659377b41a = { name = "XboxController", path = "X/XboxController" }
+84b1cbd8-bc58-4618-bc4f-b46a399f49f1 = { name = "LatticeCore", path = "L/LatticeCore" }
 84b3f4d7-d799-4a5d-b06c-25c90dcfcad7 = { name = "EnergyModelsCO2", path = "E/EnergyModelsCO2" }
 84b91ece-59cc-50c4-8800-6f827c67b7cb = { name = "CAOS", path = "C/CAOS" }
 84bf69ba-cd12-4c14-afd7-8e4ca43af7cc = { name = "PowerSeries", path = "P/PowerSeries" }
