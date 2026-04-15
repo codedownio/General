@@ -447,6 +447,7 @@ some amount of consideration when choosing package names.
 0802c0ca-1768-4022-988c-6dd5f9588a11 = { name = "GradientRobustMultiPhysics", path = "G/GradientRobustMultiPhysics" }
 0806812d-f945-4f84-939d-820504b53c51 = { name = "SymBasis", path = "S/SymBasis" }
 08074719-1b2a-587c-a292-00f91cc44415 = { name = "POMDPModelTools", path = "P/POMDPModelTools" }
+08082164-f6a1-4363-b3df-3aa6fcf571ad = { name = "OrdinaryDiffEqAMF", path = "O/OrdinaryDiffEqAMF" }
 0810563c-c8a8-53be-b185-e51c33dc41ea = { name = "LogProbs", path = "L/LogProbs" }
 08131aa3-fb12-5dee-8b74-c09406e224a2 = { name = "OpenCL", path = "O/OpenCL" }
 0814aff9-93cb-554c-9fff-9bf1cfdb5efa = { name = "TrackingLoopFilters", path = "T/TrackingLoopFilters" }
@@ -7213,6 +7214,7 @@ some amount of consideration when choosing package names.
 86f7a689-2022-50b4-a561-43c23ac3c673 = { name = "NamedArrays", path = "N/NamedArrays" }
 86fad55d-71c6-41a1-96ed-88d107dcd2ba = { name = "DifferentiableTrajectoryOptimization", path = "D/DifferentiableTrajectoryOptimization" }
 86fae568-95e7-573e-a6b2-d8a6b900c9ef = { name = "ImageView", path = "I/ImageView" }
+86fbd0b9-476f-557c-b766-62c724b42d8c = { name = "STRUMPACK_jll", path = "jll/S/STRUMPACK_jll" }
 8706c442-30ce-4f68-b407-b81ebf148be9 = { name = "StippleLatex", path = "S/StippleLatex" }
 870cdf72-5502-4b10-839c-127ceab78f22 = { name = "DWaveNeal", path = "D/DWaveNeal" }
 8710efd8-4ad6-11eb-33ea-2d5ceb25a41c = { name = "GtkObservables", path = "G/GtkObservables" }
@@ -11322,6 +11324,7 @@ d49dbf32-c5c2-4618-8acc-27bb2598ef2d = { name = "WeightInitializers", path = "W/
 d4a7d00b-0e68-4c54-830d-611b26b28009 = { name = "MultifractalTools", path = "M/MultifractalTools" }
 d4b2941c-f37a-4ec9-8241-9a5e52a0f7fd = { name = "TRSFiles", path = "T/TRSFiles" }
 d4b606b2-00e0-534d-b821-fa459008cf27 = { name = "odrpack_jll", path = "jll/O/odrpack_jll" }
+d4b830b4-ac80-426b-8507-16693d424963 = { name = "OrdinaryDiffEqMultirate", path = "O/OrdinaryDiffEqMultirate" }
 d4bbf60b-102b-5ffb-8f97-a7ea5817e69f = { name = "Acquisition", path = "A/Acquisition" }
 d4c411e5-b967-4c36-b61c-e426871b3c50 = { name = "InstantFrame", path = "I/InstantFrame" }
 d4cbf8b2-a14f-4080-9f5e-d5a64ada768e = { name = "Pixell", path = "P/Pixell" }
