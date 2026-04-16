@@ -1886,6 +1886,7 @@ some amount of consideration when choosing package names.
 23524693-fba5-5b56-a3e3-2a280dc54396 = { name = "ONNX_static_jll", path = "jll/O/ONNX_static_jll" }
 235f3f79-a89d-4d04-8acc-8e76a70bca42 = { name = "PCquery", path = "P/PCquery" }
 236017c9-faef-5401-ab52-d2664edfb5d0 = { name = "Wigxjpf_jll", path = "jll/W/Wigxjpf_jll" }
+2361c6a6-84b7-4f91-9ad3-fbd42a4af622 = { name = "InjectSills", path = "I/InjectSills" }
 2377441b-c98c-4b62-8dd7-ad61dfe8e447 = { name = "StandaloneIpopt", path = "S/StandaloneIpopt" }
 23777cdb-d90c-4eb0-a694-7c2b83d5c1d6 = { name = "MLJTransforms", path = "M/MLJTransforms" }
 2381bf8a-dfd0-557d-9999-79630e7b1b91 = { name = "Wayland_protocols_jll", path = "jll/W/Wayland_protocols_jll" }
@@ -2165,6 +2166,7 @@ some amount of consideration when choosing package names.
 28c4a263-0105-5ca0-9a8c-f4f6b89a1dd4 = { name = "Xorg_libXt_jll", path = "jll/X/Xorg_libXt_jll" }
 28c78530-8bb7-4fc0-9b88-04e8b391d412 = { name = "Mica", path = "M/Mica" }
 28caa042-5edb-4d1f-abcd-02ce41b2dd3d = { name = "NyanVerilogAParser", path = "N/NyanVerilogAParser" }
+28ce5535-9df1-4533-abc1-da0fb7327efb = { name = "Cadnip", path = "C/Cadnip" }
 28cec04b-85b5-4b92-beb9-e8851fc733f1 = { name = "CitrusBuilder", path = "C/CitrusBuilder" }
 28d57a85-8fef-5791-bfe6-a80928e7c999 = { name = "Transducers", path = "T/Transducers" }
 28d598bf-9b8f-59f1-b38c-5a06b4a0f5e6 = { name = "BGZFStreams", path = "B/BGZFStreams" }
@@ -7494,6 +7496,7 @@ some amount of consideration when choosing package names.
 8c6ce2ba-659c-5ec7-ba4c-37596cf1f22a = { name = "rocSPARSE_jll", path = "jll/R/rocSPARSE_jll" }
 8c7a6a83-a663-42fb-a24a-c426533903ed = { name = "TemporalNetworks", path = "T/TemporalNetworks" }
 8c7db820-1a42-4900-981b-afb566070d21 = { name = "MedicalImageRegistration", path = "M/MedicalImageRegistration" }
+8c89282f-5e1c-475e-ab71-1a5914ad9bc2 = { name = "UpSetPlot", path = "U/UpSetPlot" }
 8c8b3700-392b-4630-b974-b8b78831232a = { name = "BcubeGmsh", path = "B/BcubeGmsh" }
 8c8f4381-2cdd-507c-846c-be2bcff6f45f = { name = "TravelingSalesmanHeuristics", path = "T/TravelingSalesmanHeuristics" }
 8c9296c2-eef7-5c5a-b7f9-196cb7be2712 = { name = "HelloWorldGo_jll", path = "jll/H/HelloWorldGo_jll" }
@@ -9071,6 +9074,7 @@ aaaaf01e-2457-52c6-9fe8-886f7267d736 = { name = "GStreamer_jll", path = "jll/G/G
 aabc7e14-95f1-5e66-9f32-aea603782360 = { name = "MariaDB_Connector_C_jll", path = "jll/M/MariaDB_Connector_C_jll" }
 aabda75e-bfe4-5a37-92e3-ffe54af3c273 = { name = "SCALAPACK32_jll", path = "jll/S/SCALAPACK32_jll" }
 aac05064-a116-4aba-9bed-53c9d53f4642 = { name = "WhereIsMyDocstring", path = "W/WhereIsMyDocstring" }
+aac3f40a-7475-434e-9d89-bbdc1574c652 = { name = "Nghttp2Wrapper", path = "N/Nghttp2Wrapper" }
 aaca4a50-36af-4a1d-b878-4c443f2061ad = { name = "gRPCClient", path = "G/gRPCClient" }
 aacb0929-27c6-5080-af7c-e887e16e4e49 = { name = "Pitchjx", path = "P/Pitchjx" }
 aacddb02-875f-59d6-b918-886e6ef4fbf8 = { name = "JpegTurbo_jll", path = "jll/J/JpegTurbo_jll" }
@@ -9502,6 +9506,7 @@ b281dfcc-6b29-5cb9-bd90-7b3b9327bc45 = { name = "rubberband_jll", path = "jll/R/
 b28a226c-6cff-11e9-1336-699fd753ab00 = { name = "Todo", path = "T/Todo" }
 b297549e-c8cb-44e5-9c33-b7e2667db6fc = { name = "Checkerboard", path = "C/Checkerboard" }
 b29a95c0-35db-4866-a636-e016a4ee858a = { name = "Desktop", path = "D/Desktop" }
+b2a6c25c-c996-4615-94ab-6e519ffb8690 = { name = "BinaryHeaps", path = "B/BinaryHeaps" }
 b2a88e68-78e7-5e94-8c20-c02986ec140e = { name = "aws_checksums_jll", path = "jll/A/aws_checksums_jll" }
 b2ad6718-fff2-47f2-82f8-4d98a2866c7e = { name = "EmacsVterm", path = "E/EmacsVterm" }
 b2adfde3-587a-5e1b-918b-4f590a6d5faa = { name = "SoapyHackRF_jll", path = "jll/S/SoapyHackRF_jll" }
@@ -11697,6 +11702,7 @@ dbf13d8f-d36e-4350-8970-f3a99faba1a8 = { name = "ThreadTools", path = "T/ThreadT
 dbf15181-0796-4f0c-80cc-db9023881340 = { name = "Garamon", path = "G/Garamon" }
 dbf63f58-971e-4a9b-b153-820e5f7f543b = { name = "LibAwsMqtt", path = "L/LibAwsMqtt" }
 dc0c328b-2f26-4c4e-a741-3d78bb01adf9 = { name = "NeuralGraphPDE", path = "N/NeuralGraphPDE" }
+dc0f521d-5d0d-4248-bff6-a823dd2a26ec = { name = "TopoTS", path = "T/TopoTS" }
 dc1670bf-010d-423c-baea-ccde1e2dde80 = { name = "CountdownNumbers", path = "C/CountdownNumbers" }
 dc1a60f9-7a32-4f65-8b9e-ee7db92abd95 = { name = "BayesDensityBSplineMixture", path = "B/BayesDensityBSplineMixture" }
 dc1af1da-aa00-46a0-b3ad-5cde4383c966 = { name = "SigMF", path = "S/SigMF" }
