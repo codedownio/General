@@ -1264,6 +1264,7 @@ some amount of consideration when choosing package names.
 1735446d-a1d9-49ef-8d9f-4aa6b1e90fb9 = { name = "JSBSim", path = "J/JSBSim" }
 1746e360-1058-44a5-9855-ddd460437d0c = { name = "FdeSolver", path = "F/FdeSolver" }
 174e927f-d384-57ac-82db-e88370a29c21 = { name = "yq_jll", path = "jll/Y/yq_jll" }
+1750cefb-754d-4383-8ab7-d9c1d1688458 = { name = "AssociativeCommutativePatternMatching", path = "A/AssociativeCommutativePatternMatching" }
 17511681-8477-586a-8d98-4cfd5a1f2ec3 = { name = "ERFA", path = "E/ERFA" }
 1761a1e1-e032-445b-870e-f3b23132a90a = { name = "MannKendall", path = "M/MannKendall" }
 1766def0-c946-4dda-a59e-d0d07f8410f7 = { name = "AbbreviatedTypes", path = "A/AbbreviatedTypes" }
@@ -3108,6 +3109,7 @@ some amount of consideration when choosing package names.
 39fdd4d3-b125-5cbe-a3fb-d0967b9158ef = { name = "Gotree_jll", path = "jll/G/Gotree_jll" }
 3a01c810-c4d4-5434-a337-635ca50da98f = { name = "louvain_jll", path = "jll/L/louvain_jll" }
 3a057b76-36a0-51f0-a66f-6d580b8e8efd = { name = "SDPLR_jll", path = "jll/S/SDPLR_jll" }
+3a0688b7-cdea-55d2-b485-88f3d59bc26e = { name = "ImageTally", path = "I/ImageTally" }
 3a07dd3d-1c52-4395-8858-40c6328157db = { name = "RangeHelpers", path = "R/RangeHelpers" }
 3a126c26-e5d7-4a95-83c3-3b69f8a11ded = { name = "FewBodyHamiltonians", path = "F/FewBodyHamiltonians" }
 3a141323-8675-5d76-9d11-e1df1406c778 = { name = "PolynomialRoots", path = "P/PolynomialRoots" }
@@ -6817,6 +6819,7 @@ some amount of consideration when choosing package names.
 7f4aaa78-ba82-458d-b0a9-a4bcbebf63c4 = { name = "PatchMixtureKriging", path = "P/PatchMixtureKriging" }
 7f4f7f52-2f44-4c87-b9ed-462dc784f1b2 = { name = "PowerWaterModels", path = "P/PowerWaterModels" }
 7f51dc2b-bb24-59f8-b771-bb1490e4195d = { name = "NUMA_jll", path = "jll/N/NUMA_jll" }
+7f538e44-2768-4ef2-af90-2110c0378286 = { name = "Theseus", path = "T/Theseus" }
 7f56f5a3-f504-529b-bc02-0b1fe5e64312 = { name = "LSODA", path = "L/LSODA" }
 7f671e5d-0047-4e0c-be3f-48e444156e7b = { name = "ImageChipper", path = "I/ImageChipper" }
 7f6f6c8a-3b03-11e9-223d-e7d88259bd6c = { name = "TextSearch", path = "T/TextSearch" }
@@ -10576,6 +10579,7 @@ c62cc850-d7ca-4cc1-a95b-48008b40dc90 = { name = "Langmuir", path = "L/Langmuir" 
 c6328df5-4af8-4637-a9e9-78ed74a2ae2b = { name = "MinimallyDisruptiveCurves", path = "M/MinimallyDisruptiveCurves" }
 c636ee4f-4591-4d8c-9fae-2dea21daa433 = { name = "PolyaGammaHybridSamplers", path = "P/PolyaGammaHybridSamplers" }
 c6373c32-5b88-5913-90f5-31d7686b42da = { name = "Qt5Declarative_jll", path = "jll/Q/Qt5Declarative_jll" }
+c6403d6d-7f13-4b8b-8cd8-129f29a0fba1 = { name = "GeoFetch", path = "G/GeoFetch" }
 c648c4dd-c1e0-49a6-84b9-144ae7fd2468 = { name = "ConditionalDists", path = "C/ConditionalDists" }
 c649151a-19b8-53bd-9f17-80f8f8085f60 = { name = "OpenVAF_jll", path = "jll/O/OpenVAF_jll" }
 c64915e2-6c82-11e9-38e9-1f159a780463 = { name = "ComplexRegions", path = "C/ComplexRegions" }
@@ -13523,6 +13527,7 @@ ffc816e1-ba66-5fa9-9ecc-bcc5cb19bea1 = { name = "Clang_unified_jll", path = "jll
 ffcb3a2f-c869-4483-b5bf-82d7b239c77e = { name = "ZXingCPP", path = "Z/ZXingCPP" }
 ffd25f8a-64ca-5728-b0f7-c24cf3aae800 = { name = "XZ_jll", path = "jll/X/XZ_jll" }
 ffd69456-1935-58d2-abba-ba12e8909167 = { name = "ECharts_jll", path = "jll/E/ECharts_jll" }
+ffda9531-618e-46f2-b97a-23c8fea85237 = { name = "NewtonSchulz", path = "N/NewtonSchulz" }
 ffdd34ce-459d-4fc7-82a1-202b2ab8becf = { name = "SqpSolver", path = "S/SqpSolver" }
 ffdd8e40-dc34-5919-9e87-c8f182d9ad02 = { name = "TableSchema", path = "T/TableSchema" }
 ffdf776e-a381-4021-b00a-97884d4c0dcd = { name = "InfiniteExaModels", path = "I/InfiniteExaModels" }
