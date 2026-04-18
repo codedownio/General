@@ -3675,6 +3675,7 @@ some amount of consideration when choosing package names.
 4484d908-372d-4f90-b90b-0ec97f005b8c = { name = "AndExport", path = "A/AndExport" }
 44855f8b-b147-4985-ac18-48817d03c548 = { name = "EnergyModelsHydrogen", path = "E/EnergyModelsHydrogen" }
 448d79b3-4b49-4e06-a5ea-00c62c0dc3db = { name = "cuTensorNet", path = "C/cuTensorNet" }
+448fece5-6e02-4dfe-bf33-b4920090d0e2 = { name = "Armington", path = "A/Armington" }
 4491297b-8966-5840-8cb9-b189d60f3398 = { name = "RealNeuralNetworks", path = "R/RealNeuralNetworks" }
 4497dbff-a3fd-4ae5-909f-dd1339757ac3 = { name = "GroundwaterPlots", path = "G/GroundwaterPlots" }
 44994717-8eef-47f3-a7e0-6b313e1778f0 = { name = "EnlilGrids", path = "E/EnlilGrids" }
@@ -4918,6 +4919,7 @@ some amount of consideration when choosing package names.
 5c9374ce-fdac-595e-b98d-9d97a97a2302 = { name = "Luna_jll", path = "jll/L/Luna_jll" }
 5c958174-e7d9-5990-9618-4567de4ba542 = { name = "SuperEnum", path = "S/SuperEnum" }
 5c9727c4-3b82-4ab3-b165-76e2eb971b08 = { name = "ExponentialFamilyManifolds", path = "E/ExponentialFamilyManifolds" }
+5c9b64c6-6bff-409c-98cc-3e0c4aaf8bc2 = { name = "SignatureTensors", path = "S/SignatureTensors" }
 5c9c0fc8-7103-448b-bb0a-c427020e3b0b = { name = "PkgButlerEngine", path = "P/PkgButlerEngine" }
 5ca6e7c4-69d2-49cf-b3ce-e6fbf50f8d91 = { name = "InfiniteSets", path = "I/InfiniteSets" }
 5cadff95-7770-533d-a838-a1bf817ee6e0 = { name = "JuliennedArrays", path = "J/JuliennedArrays" }
@@ -5189,6 +5191,7 @@ some amount of consideration when choosing package names.
 6174cffe-3aeb-40a0-b6ea-f169f792c023 = { name = "KinbiontPlots", path = "K/KinbiontPlots" }
 6184abd9-1539-47ca-b742-6ec6f8d46641 = { name = "ThesisArt", path = "T/ThesisArt" }
 619b3e1a-df4a-11e8-3b0b-a997e0925a8d = { name = "SolverTraces", path = "S/SolverTraces" }
+61ab1198-09f6-40be-823d-566e36da65b4 = { name = "DynamicWorkflow", path = "D/DynamicWorkflow" }
 61ac1d4c-5a1f-4019-949c-7919748f8c44 = { name = "Pingouin", path = "P/Pingouin" }
 61bb816a-e6af-4913-ab9e-91bff2e122e3 = { name = "EasyHybrid", path = "E/EasyHybrid" }
 61bfa2bf-ac51-4dc3-9c62-6a5180432d13 = { name = "FluxDiffUtils", path = "F/FluxDiffUtils" }
@@ -6450,6 +6453,7 @@ some amount of consideration when choosing package names.
 78927d98-f421-490e-8789-96b006983a5c = { name = "SimulationBasedInference", path = "S/SimulationBasedInference" }
 789caeaf-c7a9-5a7d-9973-96adeb23e2a0 = { name = "StochasticDiffEq", path = "S/StochasticDiffEq" }
 789cc80b-6f9a-47a7-8588-bb01047265c3 = { name = "Neutrals", path = "N/Neutrals" }
+78a0b619-6146-4252-b244-0f81c54be577 = { name = "GPUEnv", path = "G/GPUEnv" }
 78a0c066-08f1-49a8-82f0-b29cd485e1d3 = { name = "AutoSymPTR", path = "A/AutoSymPTR" }
 78a364fa-1a3c-552a-b4bb-8fa0f9c1fcca = { name = "Chemfiles_jll", path = "jll/C/Chemfiles_jll" }
 78a92bc3-407c-4e2f-aae5-75bb47a6fe36 = { name = "PlotGraphviz", path = "P/PlotGraphviz" }
