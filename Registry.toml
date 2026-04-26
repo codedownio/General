@@ -236,6 +236,7 @@ some amount of consideration when choosing package names.
 044a62f1-e260-4c1b-b41b-507424d69d9a = { name = "PlotPWM", path = "P/PlotPWM" }
 04572ae6-984a-583e-9378-9577a1c2574d = { name = "Deno_jll", path = "jll/D/Deno_jll" }
 0460cc1c-04d8-4f02-b57d-511136c80085 = { name = "MoistThermodynamics", path = "M/MoistThermodynamics" }
+046256cb-d774-41de-a243-db2e1ebe8eb7 = { name = "BitonicSort", path = "B/BitonicSort" }
 04643c7a-9ac6-48c5-822f-2704f9e70bd3 = { name = "IceFloeTracker", path = "I/IceFloeTracker" }
 0468d222-5c00-46b0-98db-2efb25d65330 = { name = "ThermoProbe", path = "T/ThermoProbe" }
 046f749b-9c1e-43ca-86bc-6902340f753e = { name = "AcousticMetrics", path = "A/AcousticMetrics" }
@@ -2703,6 +2704,7 @@ some amount of consideration when choosing package names.
 3263718b-31ed-49cf-8a0f-35a466e8af96 = { name = "ImplicitDiscreteSolve", path = "I/ImplicitDiscreteSolve" }
 3265bcac-820f-4b8a-8cd5-05a71ff46e33 = { name = "MatrixMerge", path = "M/MatrixMerge" }
 32681960-a1b1-40db-9bff-a1ca817385d1 = { name = "CTParser", path = "C/CTParser" }
+3278f1b1-0f5c-4cde-98e0-ba5eb00db955 = { name = "OrdinaryDiffEqExplicitTableaus", path = "O/OrdinaryDiffEqExplicitTableaus" }
 328aa5c7-aa14-5b23-aa57-05fb7d04b830 = { name = "openfhe_julia_int128_jll", path = "jll/O/openfhe_julia_int128_jll" }
 32925ad8-f583-44d3-8c77-a232bc7bbe09 = { name = "JUDI4Cloud", path = "J/JUDI4Cloud" }
 3293fb92-4d5f-4840-a675-6a8c3e839d01 = { name = "LongDatasetSort", path = "L/LongDatasetSort" }
@@ -6300,6 +6302,7 @@ some amount of consideration when choosing package names.
 75ebfc8e-976a-11e9-26c7-f5346d660b1d = { name = "Unitary", path = "U/Unitary" }
 75efc99c-f354-4bf0-9c4f-447e54034ed9 = { name = "AKNS", path = "A/AKNS" }
 75f4d65b-1b42-4905-9fb1-6d40607712e8 = { name = "SurfaceCoverage", path = "S/SurfaceCoverage" }
+75f66a49-58fc-43e3-9173-2340726368f7 = { name = "OrdinaryDiffEqImplicitTableaus", path = "O/OrdinaryDiffEqImplicitTableaus" }
 75f83073-4d85-4669-9473-9dff7d7e5b78 = { name = "Genqo", path = "G/Genqo" }
 7600667b-db04-5866-8f94-e5ff75fe7256 = { name = "JuDGE", path = "J/JuDGE" }
 76062700-569f-48fc-9444-88b66f57fbe9 = { name = "MultiwayNumberPartitioning", path = "M/MultiwayNumberPartitioning" }
@@ -9065,6 +9068,7 @@ a9f96d1f-ed6a-4404-822f-5927c777f274 = { name = "RandomMeas", path = "R/RandomMe
 a9fe299e-2329-4adb-a199-17440bd42f02 = { name = "SqraCore", path = "S/SqraCore" }
 aa021fa7-5c7d-5dc1-9fa7-c90cd282ac20 = { name = "gdx_jll", path = "jll/G/gdx_jll" }
 aa0ab9cb-918b-5ca1-812e-3cecb1c413b6 = { name = "GAP_pkg_edim_jll", path = "jll/G/GAP_pkg_edim_jll" }
+aa0cea19-a6a0-4763-972a-18f6f03725f1 = { name = "NonArchimedeanMachineLearning", path = "N/NonArchimedeanMachineLearning" }
 aa0f7f06-fcc0-5ec4-a7f3-a573f33f9c4c = { name = "Molly", path = "M/Molly" }
 aa102bde-5a27-4b0c-b2c1-e7a7dcc4c3e7 = { name = "GeoStatsProcesses", path = "G/GeoStatsProcesses" }
 aa126574-2ec3-42c9-8bf5-7f62001d6bce = { name = "Rembus", path = "R/Rembus" }
@@ -9647,6 +9651,7 @@ b4b06e15-aec3-475a-bd5d-4eaf7ad224b9 = { name = "OptimalEstimation", path = "O/O
 b4b868b0-69a7-11e9-2db0-173b4e8e576c = { name = "IntegerSequences", path = "I/IntegerSequences" }
 b4bd6d93-059e-4964-b0e5-1e0f552f15ad = { name = "RK4Light", path = "R/RK4Light" }
 b4bd816d-b975-4295-ac05-5f2992945579 = { name = "InducingPoints", path = "I/InducingPoints" }
+b4bd8bb3-f80f-41d2-9b21-73a655b304b9 = { name = "OrdinaryDiffEqRosenbrockTableaus", path = "O/OrdinaryDiffEqRosenbrockTableaus" }
 b4be18c8-5d09-4dc7-9320-34e8e308bc8c = { name = "WamIPEDensity", path = "W/WamIPEDensity" }
 b4be8cd2-ef9b-406c-8da0-f1f18fb2b05e = { name = "DEMetropolis", path = "D/DEMetropolis" }
 b4c46c6c-4fb0-484d-a11a-41bc3392d094 = { name = "LinuxPerf", path = "L/LinuxPerf" }
