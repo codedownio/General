@@ -1426,6 +1426,7 @@ some amount of consideration when choosing package names.
 19daf8e9-0870-4f25-9c1d-f38ed379fe1e = { name = "MyAwesomePackage", path = "M/MyAwesomePackage" }
 19dc6840-f33b-545b-b366-655c7e3ffd49 = { name = "HCubature", path = "H/HCubature" }
 19e549d1-356f-5655-9f3d-c1d6136da705 = { name = "GeoStatsDevTools", path = "G/GeoStatsDevTools" }
+19e5a071-0e58-4e20-9e36-393e8533d14d = { name = "OpenSourceRoutingMachine", path = "O/OpenSourceRoutingMachine" }
 19eb6ba3-879d-56ad-ad62-d5c202156566 = { name = "Packing", path = "P/Packing" }
 19ecbf4d-ef7c-5e4b-b54a-0a0ff23c5aed = { name = "Codecs", path = "C/Codecs" }
 19f1efb6-7162-484a-b3a1-b52c391689d7 = { name = "SPICEBodies", path = "S/SPICEBodies" }
@@ -1580,6 +1581,7 @@ some amount of consideration when choosing package names.
 1cead3c2-87b3-11e9-0ccd-23c62b72b94e = { name = "Manifolds", path = "M/Manifolds" }
 1cecccd7-a9b6-5045-9cdc-a44c19b16d76 = { name = "hsakmt_roct_jll", path = "jll/H/hsakmt_roct_jll" }
 1cf1ec0c-22f7-4062-925b-8db09db48fc3 = { name = "CoordGridTransforms", path = "C/CoordGridTransforms" }
+1cf589dd-6d9d-4b3c-8f51-646b1be7d77f = { name = "AgentBible", path = "A/AgentBible" }
 1cf8b4df-845c-448c-a3f0-11784a558759 = { name = "PWMPrettyPrint", path = "P/PWMPrettyPrint" }
 1cfade01-22cf-5700-b092-accc4b62d6e1 = { name = "UnicodeFun", path = "U/UnicodeFun" }
 1d0040c9-8b98-4ee7-8388-3f51789ca0ad = { name = "PolyesterWeave", path = "P/PolyesterWeave" }
@@ -3691,6 +3693,7 @@ some amount of consideration when choosing package names.
 44994717-8eef-47f3-a7e0-6b313e1778f0 = { name = "EnlilGrids", path = "E/EnlilGrids" }
 449ebaaf-06bc-4dda-9a3f-b1c40666d086 = { name = "Game2048Core", path = "G/Game2048Core" }
 44ab47fd-db85-4242-8804-764e64c491dd = { name = "GlobalMetadata", path = "G/GlobalMetadata" }
+44ab9252-467d-406b-8247-97505f0e2540 = { name = "AtomicChannels", path = "A/AtomicChannels" }
 44adabc6-386d-4db0-bb6e-0f7b06129544 = { name = "SorptionModels", path = "S/SorptionModels" }
 44b1415a-b224-5c99-9168-ff4febb5f37f = { name = "ADIOS2_jll", path = "jll/A/ADIOS2_jll" }
 44b605c4-b955-5f2b-9b6d-d2bd01d3d205 = { name = "CRC", path = "C/CRC" }
@@ -11368,6 +11371,7 @@ d496a93d-167e-4197-9f49-d3af4ff8fe40 = { name = "SeawaterPolynomials", path = "S
 d4999880-6331-4276-8b7d-7ee1f305cff8 = { name = "QRDecoders", path = "Q/QRDecoders" }
 d49c3b98-12bb-537a-8c40-37c13654c7f4 = { name = "StanRun", path = "S/StanRun" }
 d49dbf32-c5c2-4618-8acc-27bb2598ef2d = { name = "WeightInitializers", path = "W/WeightInitializers" }
+d4a0f349-cd98-4799-b7a0-96cbe38b225a = { name = "Relucent", path = "R/Relucent" }
 d4a7d00b-0e68-4c54-830d-611b26b28009 = { name = "MultifractalTools", path = "M/MultifractalTools" }
 d4b2941c-f37a-4ec9-8241-9a5e52a0f7fd = { name = "TRSFiles", path = "T/TRSFiles" }
 d4b606b2-00e0-534d-b821-fa459008cf27 = { name = "odrpack_jll", path = "jll/O/odrpack_jll" }
@@ -11746,6 +11750,7 @@ dbece2fb-9d58-4710-9902-4ec759308ae8 = { name = "ModalDecisionLists", path = "M/
 dbf13d8f-d36e-4350-8970-f3a99faba1a8 = { name = "ThreadTools", path = "T/ThreadTools" }
 dbf15181-0796-4f0c-80cc-db9023881340 = { name = "Garamon", path = "G/Garamon" }
 dbf63f58-971e-4a9b-b153-820e5f7f543b = { name = "LibAwsMqtt", path = "L/LibAwsMqtt" }
+dbfca70a-f45c-4ba8-8c04-a9b96ef74a4f = { name = "Qdrant", path = "Q/Qdrant" }
 dc0c328b-2f26-4c4e-a741-3d78bb01adf9 = { name = "NeuralGraphPDE", path = "N/NeuralGraphPDE" }
 dc0f521d-5d0d-4248-bff6-a823dd2a26ec = { name = "TopoTS", path = "T/TopoTS" }
 dc1670bf-010d-423c-baea-ccde1e2dde80 = { name = "CountdownNumbers", path = "C/CountdownNumbers" }
