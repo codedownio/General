@@ -1240,6 +1240,7 @@ some amount of consideration when choosing package names.
 16bb567d-e57a-496c-929a-1ee5ec86e21d = { name = "ModiaPlot_GLMakie", path = "M/ModiaPlot_GLMakie" }
 16c52a8d-d77f-496f-9be6-47c8df57b84b = { name = "AutomationLabs", path = "A/AutomationLabs" }
 16ddad29-bbe8-45a7-857d-3d9514eb0023 = { name = "RAGTools", path = "R/RAGTools" }
+16de62c6-7569-4410-9c3f-4d5d9d54e565 = { name = "MPISharedMemLUs", path = "M/MPISharedMemLUs" }
 16e07271-a41c-4e3e-b73a-b807cf2ea0eb = { name = "PlutoStyles", path = "P/PlutoStyles" }
 16e42a1c-b1d1-5566-807a-fe3b9ee7f6e1 = { name = "AcceleratedDCTs", path = "A/AcceleratedDCTs" }
 16e4e860-d6b8-5056-a518-93e88b6392ae = { name = "UCX_jll", path = "jll/U/UCX_jll" }
@@ -11234,6 +11235,7 @@ d25df0c9-e2be-5dd7-82c8-3ad0b3e990b9 = { name = "Inflate", path = "I/Inflate" }
 d26121ab-931e-479e-b928-38e5e8d76109 = { name = "MDSh5", path = "M/MDSh5" }
 d262d690-7b73-43ed-8cf8-7b23904776e1 = { name = "SeriesAcceleration", path = "S/SeriesAcceleration" }
 d265eb64-f81a-44ad-a842-4247ee1503de = { name = "TypedSyntax", path = "T/TypedSyntax" }
+d2677e01-3654-4f8a-9d1f-7a356cb83656 = { name = "DiagonalIndexing", path = "D/DiagonalIndexing" }
 d26dedfb-ad13-44bd-90c7-a2710fa2c005 = { name = "RationalPolygons", path = "R/RationalPolygons" }
 d26ff896-aba2-4e70-a0a6-448627456efe = { name = "PlasmaFormulary", path = "P/PlasmaFormulary" }
 d273dfef-62f2-5f88-806b-f32b81b662f1 = { name = "SuiteSparse_GPU_jll", path = "jll/S/SuiteSparse_GPU_jll" }
@@ -11892,6 +11894,7 @@ de436766-0b2a-5f82-bc5b-1ccc5f599b83 = { name = "C3D", path = "C/C3D" }
 de460e47-3fe3-5279-bb4a-814414816d5d = { name = "DiffTests", path = "D/DiffTests" }
 de46ae7c-df16-46d9-ba75-55d31af5ce86 = { name = "AtomicLocks", path = "A/AtomicLocks" }
 de52edbc-65ea-441a-8357-d3a637375a31 = { name = "Integrals", path = "I/Integrals" }
+de57f43c-cd6e-4458-91da-1920171fba1c = { name = "DistanceDependentCRP", path = "D/DistanceDependentCRP" }
 de610439-98db-48ec-87cd-a9843b890493 = { name = "FSimPlots", path = "F/FSimPlots" }
 de688a37-743e-4ac2-a6f0-bd62414d1aa7 = { name = "BitInformation", path = "B/BitInformation" }
 de68a502-6b26-11e9-2c24-19af4cbda7e6 = { name = "SalesForceBulkApi", path = "S/SalesForceBulkApi" }
@@ -13256,6 +13259,7 @@ f88b31d2-eb98-4433-b52d-2dd32bc6efce = { name = "NCBITaxonomy", path = "N/NCBITa
 f894c1f0-37bd-4d0b-bad6-c1e4fa45af5b = { name = "AdaptiveEstimators", path = "A/AdaptiveEstimators" }
 f8a19df8-e894-5f55-a973-672c1158cbca = { name = "PropertyDicts", path = "P/PropertyDicts" }
 f8a4a616-cf80-42aa-b426-b81cf4398b07 = { name = "Apportionment", path = "A/Apportionment" }
+f8a5e1c0-7b2d-4a3e-9c6f-1d2e3f4a5b6c = { name = "Semigroups", path = "S/Semigroups" }
 f8abcde7-e9b7-5caa-b8af-a437887ae8e4 = { name = "micromamba_jll", path = "jll/M/micromamba_jll" }
 f8b46487-2199-4994-9208-9a1283c18c0a = { name = "TestItemRunner", path = "T/TestItemRunner" }
 f8c24b8e-07c0-4fa7-b4d4-fbfdbae127a5 = { name = "OptimalPortfolios", path = "O/OptimalPortfolios" }
