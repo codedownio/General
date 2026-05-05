@@ -2477,6 +2477,7 @@ some amount of consideration when choosing package names.
 2e7db186-766a-50e7-8928-5c30181fb135 = { name = "Remez", path = "R/Remez" }
 2e8251e1-4612-5cea-b4a3-ba3e3b422b6d = { name = "gsasl_jll", path = "jll/G/gsasl_jll" }
 2e889f3d-35ce-4a77-8ea2-858aecb630f7 = { name = "LaMEM", path = "L/LaMEM" }
+2e896e94-a4a1-44d3-bdd1-72a60ceb4988 = { name = "SmoQyElPhQMC", path = "S/SmoQyElPhQMC" }
 2e89c364-fad6-56cb-99bd-ebadcd2cf8d2 = { name = "AffineArithmetic", path = "A/AffineArithmetic" }
 2e8a6dce-851f-4ff4-8c9d-f01c3f7a94ce = { name = "EtherSPH", path = "E/EtherSPH" }
 2e8cd123-6858-488d-b42d-068777248635 = { name = "StructuredArrays", path = "S/StructuredArrays" }
@@ -8221,6 +8222,7 @@ some amount of consideration when choosing package names.
 9a68df92-36a6-505f-a73e-abb412b6bfb4 = { name = "isoband_jll", path = "jll/I/isoband_jll" }
 9a7b7887-c5ce-4a33-a17b-c1c258e18085 = { name = "MaximinOPF", path = "M/MaximinOPF" }
 9a7e659c-8ee8-5706-894e-f68f43bc57ea = { name = "Proj4", path = "P/Proj4" }
+9a8258a1-e827-5686-bee9-144461246960 = { name = "libigc_LTS_jll", path = "jll/L/libigc_LTS_jll" }
 9a84b867-ccd3-531b-bb38-095e36150902 = { name = "ISL_jll", path = "jll/I/ISL_jll" }
 9a8bc11e-79be-5b39-94d7-1ccc349a1a85 = { name = "DataStreams", path = "D/DataStreams" }
 9a8c767f-158d-41a6-96f9-54dc897bf7e9 = { name = "PrecompileAfterUpdate", path = "P/PrecompileAfterUpdate" }
@@ -8905,6 +8907,7 @@ a7073274-a066-55f0-b90d-d619367d196c = { name = "GDAL_jll", path = "jll/G/GDAL_j
 a7079d05-a211-4b9a-ade9-d081fcc12f6a = { name = "ArenaArrays", path = "A/ArenaArrays" }
 a70bccb4-a5c0-5e2e-a329-e731972457e8 = { name = "MLIR_jll", path = "jll/M/MLIR_jll" }
 a722555e-65e0-4074-a036-ca7ce79a4aed = { name = "ExtendableFEM", path = "E/ExtendableFEM" }
+a724f90f-ce79-56dd-a1bd-b9de5a61085f = { name = "NEO_LTS_jll", path = "jll/N/NEO_LTS_jll" }
 a725b495-10eb-56fe-b38b-717eba820537 = { name = "ProximalOperators", path = "P/ProximalOperators" }
 a725f2ce-9316-4120-9e92-88e556b8edfa = { name = "PermaProgress", path = "P/PermaProgress" }
 a7283dc5-4ecf-47fb-a95b-1412723fc960 = { name = "SourceCodeMcCormick", path = "S/SourceCodeMcCormick" }
@@ -10146,6 +10149,7 @@ bda1af87-e1f1-54ef-ae32-d9c31cb662a2 = { name = "ExtremeStats", path = "E/Extrem
 bda616b3-ac6d-5293-8ee1-22b41414598d = { name = "YAJL", path = "Y/YAJL" }
 bdb2d313-ae54-487a-ba87-13d2dbade7fa = { name = "SymbolicQuartetCF", path = "S/SymbolicQuartetCF" }
 bdc3b988-716f-514a-9703-6a7af59ca400 = { name = "BlsData", path = "B/BlsData" }
+bdc509e6-e5f8-4c54-b183-09f7d375e776 = { name = "SallyScope", path = "S/SallyScope" }
 bdcacae8-1622-11e9-2a5c-532679323890 = { name = "LoopVectorization", path = "L/LoopVectorization" }
 bdd0cfe9-1bbc-4c2f-b6dc-53835f28d58f = { name = "RFFMakie", path = "R/RFFMakie" }
 bdd23359-8b1c-4f88-b89b-d11982a786f4 = { name = "ActuaryUtilities", path = "A/ActuaryUtilities" }
@@ -11150,6 +11154,7 @@ d08873cf-a47e-4b69-9395-6fab01a89815 = { name = "Dianli", path = "D/Dianli" }
 d091dd56-f8c5-469d-b7f7-ff847498145f = { name = "AttributeGraphs", path = "A/AttributeGraphs" }
 d091e8ba-531a-589c-9de9-94069b037ed8 = { name = "Xorg_libXfixes_jll", path = "jll/X/Xorg_libXfixes_jll" }
 d0a0d62e-5946-5252-a47a-59d54c8a5a63 = { name = "Sollya_jll", path = "jll/S/Sollya_jll" }
+d0a94e12-2f58-5ad4-a7be-b35833414070 = { name = "libsie_z_jll", path = "jll/L/libsie_z_jll" }
 d0b46c7b-8a8f-4d20-a1b4-6e9a4a1e4e5f = { name = "IRBEM", path = "I/IRBEM" }
 d0bbae9a-e099-4d5b-a835-1c6931763bda = { name = "LuxCUDA", path = "L/LuxCUDA" }
 d0bc0b20-b151-4d03-b2a4-6ca51751cb9c = { name = "KomaMRIBase", path = "K/KomaMRIBase" }
