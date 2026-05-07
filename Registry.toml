@@ -1857,6 +1857,7 @@ some amount of consideration when choosing package names.
 22609570-6d06-11e9-3c98-5705e233061e = { name = "ExpressPathToRegex", path = "E/ExpressPathToRegex" }
 2261ed0a-af22-4371-a226-613cb940b01c = { name = "InfectionSpreading", path = "I/InfectionSpreading" }
 2267b70d-4c4a-5da2-8395-98751c0d506a = { name = "StrRegex", path = "S/StrRegex" }
+226a4f77-d45f-40bb-908f-e1e2bc89957a = { name = "Arborist", path = "A/Arborist" }
 226e0482-2e74-5b70-8460-0a87d2a092cc = { name = "ConformalMaps", path = "C/ConformalMaps" }
 226f0e26-6dd6-4589-ada7-1d32f6e1d800 = { name = "FMIBuild", path = "F/FMIBuild" }
 22787eb5-b846-44ae-b979-8e399b8463ab = { name = "Term", path = "T/Term" }
@@ -2982,6 +2983,7 @@ some amount of consideration when choosing package names.
 37516f07-4740-538e-b7cb-eec320f4a184 = { name = "Hanabi_jll", path = "jll/H/Hanabi_jll" }
 3756410d-ab6e-41a2-9897-9aa267a7ef31 = { name = "StableDistributions", path = "S/StableDistributions" }
 37591b3e-a3c2-50e0-b676-8bc36018f336 = { name = "lttng_tools_jll", path = "jll/L/lttng_tools_jll" }
+375ea531-7347-4d8b-abc6-73f2d355a625 = { name = "RtemisA3", path = "R/RtemisA3" }
 3764e38b-e87f-453d-b456-dc646f8e1bb8 = { name = "ARPES", path = "A/ARPES" }
 3771e204-432d-45a9-9661-5d0025a53671 = { name = "FacilityLocationProblems", path = "F/FacilityLocationProblems" }
 3779a08a-8b2c-4d19-ac40-7acb68237a94 = { name = "CollocationIRK", path = "C/CollocationIRK" }
@@ -4096,6 +4098,7 @@ some amount of consideration when choosing package names.
 4c20a592-b4de-41d1-8706-b02f346981aa = { name = "CHMMera", path = "C/CHMMera" }
 4c24c29e-1bf7-59e2-a6c7-e500a6482ce4 = { name = "BoxCoxTrans", path = "B/BoxCoxTrans" }
 4c24e94e-21a7-4591-8ee4-d226b67258b2 = { name = "CALIPSO", path = "C/CALIPSO" }
+4c2d0946-a3d2-4bb8-8258-3a09d0d24184 = { name = "DesirabilityScores", path = "D/DesirabilityScores" }
 4c2ee4bc-ae8c-4f43-b820-7df96744ebfe = { name = "SolarGeometry", path = "S/SolarGeometry" }
 4c2fb5cd-5fa8-4952-858b-935ef2e5e854 = { name = "SmallCombinatorics", path = "S/SmallCombinatorics" }
 4c411929-775e-4429-ac3f-feb95d997042 = { name = "SGCRNAs", path = "S/SGCRNAs" }
@@ -6343,6 +6346,7 @@ some amount of consideration when choosing package names.
 7653e0a5-60b0-4f1f-8cf0-e76f3cfe9cb0 = { name = "CollatzConjecture", path = "C/CollatzConjecture" }
 7656fb31-40ed-4019-8ece-32bdcc5fce69 = { name = "NonstationaryProcesses", path = "N/NonstationaryProcesses" }
 7659f2e7-3eba-428e-a299-bc867dd8ac42 = { name = "CallendarVanDusen", path = "C/CallendarVanDusen" }
+765d8e3e-f214-4ecb-acbb-a2789e381393 = { name = "GeoNamesAPI", path = "G/GeoNamesAPI" }
 76642167-d241-5cee-8c94-7a494e8cb7b7 = { name = "Ninja_jll", path = "jll/N/Ninja_jll" }
 766d9fe0-8bda-4b1c-9671-3009ced25364 = { name = "RestApis", path = "R/RestApis" }
 7673ebd9-f02d-46dd-b879-08aafde2f01b = { name = "LocalStore", path = "L/LocalStore" }
@@ -11838,6 +11842,7 @@ dcf425a8-86bf-4135-b17a-04ddca2f3b37 = { name = "SintPowerCase", path = "S/SintP
 dcf505f5-2bf4-45cb-8fef-5f56a3c0e7fc = { name = "GivEmXL", path = "G/GivEmXL" }
 dcffe42e-adbb-5815-9d51-5ab017577a26 = { name = "catchaMouse16_jll", path = "jll/C/catchaMouse16_jll" }
 dd074c01-bd9e-510d-b91d-361c690844c9 = { name = "battery_cli_jll", path = "jll/B/battery_cli_jll" }
+dd07e42f-8d4e-4e9e-9c0b-000000000001 = { name = "MarsRuntime", path = "M/MarsRuntime" }
 dd0f122e-fa3b-47f3-bcf0-93bbc60d885e = { name = "ClimaInterpolations", path = "C/ClimaInterpolations" }
 dd1544ca-2576-438c-a599-ae96278fd687 = { name = "ReinforcementLearningDatasets", path = "R/ReinforcementLearningDatasets" }
 dd192d2f-8180-539f-9fb4-cc70b1dcf69a = { name = "LibVPX_jll", path = "jll/L/LibVPX_jll" }
