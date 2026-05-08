@@ -1984,6 +1984,7 @@ some amount of consideration when choosing package names.
 25264005-a304-4053-a338-565045d392ac = { name = "PowerModelsONM", path = "P/PowerModelsONM" }
 2527f7a4-0af4-4016-a944-036fbac19de9 = { name = "MPISphericalHarmonics", path = "M/MPISphericalHarmonics" }
 2530d2c0-90ae-4e22-bd10-17e782bf2dab = { name = "ForSyDeIO", path = "F/ForSyDeIO" }
+253386b1-9842-41af-b678-bbe31787c5e9 = { name = "Randompack", path = "R/Randompack" }
 2535ab7d-5cd8-5a07-80ac-9b1792aadce3 = { name = "JSON2", path = "J/JSON2" }
 253f991c-a7b2-45f8-8852-8b9a9df78a86 = { name = "OptimizationFlux", path = "O/OptimizationFlux" }
 2542163d-3f63-581c-abc1-15efe995b982 = { name = "Memcache", path = "M/Memcache" }
@@ -5164,6 +5165,7 @@ some amount of consideration when choosing package names.
 60658175-6863-4866-a322-ab51a11c0cfe = { name = "WarmupHMC", path = "W/WarmupHMC" }
 60694085-d904-4bfc-95dc-1e0e768e9359 = { name = "Swizzles", path = "S/Swizzles" }
 606afd24-34ae-43cb-b3df-40d2cc14ba61 = { name = "Polarisation", path = "P/Polarisation" }
+606d2a7e-9b17-11e9-1c5c-455b84f60309 = { name = "LatticeQM", path = "L/LatticeQM" }
 60701a23-6482-424a-84db-faee86b9b1f8 = { name = "CliqueTrees", path = "C/CliqueTrees" }
 6073304d-8c11-559f-8a83-5ce24a08dcab = { name = "MLX_C_jll", path = "jll/M/MLX_C_jll" }
 6074595b-091a-495a-9b39-045a690b2c53 = { name = "Muspel", path = "M/Muspel" }
@@ -9927,6 +9929,7 @@ b9828eed-09bc-50cb-b95c-f80757bd8d62 = { name = "DirectGaussianSimulation", path
 b9860ae5-e623-471e-878b-f6a53c775ea6 = { name = "FLoopsBase", path = "F/FLoopsBase" }
 b9879e35-cdd4-53a9-a12a-bc41659e9769 = { name = "DatagenCopulaBased", path = "D/DatagenCopulaBased" }
 b98c9c47-44ae-5843-9183-064241ee97a0 = { name = "Pipe", path = "P/Pipe" }
+b98ef39d-f70c-4876-8718-5d113581b365 = { name = "UTCDates", path = "U/UTCDates" }
 b98f706d-40ec-4ce6-a66c-1c6e71d3cef6 = { name = "IESoptLib", path = "I/IESoptLib" }
 b99085f1-2f43-45a7-bd38-d511f4bff3b1 = { name = "DaggerImageReconstruction", path = "D/DaggerImageReconstruction" }
 b9914132-a727-11e9-1322-f18e41205b0b = { name = "JSONTables", path = "J/JSONTables" }
@@ -12206,6 +12209,7 @@ e3819d11-95af-5eea-9727-70c091663a01 = { name = "Spark", path = "S/Spark" }
 e38a874e-a7c2-4ff3-8dea-81ae2e5c9b07 = { name = "CitablePhysicalText", path = "C/CitablePhysicalText" }
 e38bdfdf-80f5-4f0c-93e0-53dd02ee37b8 = { name = "LineageCollapse", path = "L/LineageCollapse" }
 e394c99e-e854-4268-9140-34fa518dd490 = { name = "MoireSuperlattices", path = "M/MoireSuperlattices" }
+e39743ec-b2cc-45ef-a990-b666fc093538 = { name = "Argus", path = "A/Argus" }
 e39c9192-ea4d-5e15-9584-a488c6d614bd = { name = "GroebnerBasis", path = "G/GroebnerBasis" }
 e3a49ea3-7edf-49e1-b84f-839ab305a372 = { name = "Phonetics", path = "P/Phonetics" }
 e3aaa7dc-3e4b-44e0-be63-ffb868ccd7c1 = { name = "WebP", path = "W/WebP" }
