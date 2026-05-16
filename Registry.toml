@@ -6630,6 +6630,7 @@ some amount of consideration when choosing package names.
 7ab50ac8-3a8c-5d28-9910-0d361883217b = { name = "gitoxide_jll", path = "jll/G/gitoxide_jll" }
 7abe38c7-550a-49b0-ba99-33d1b5164ede = { name = "DynamicalCorrelators", path = "D/DynamicalCorrelators" }
 7ac5b1a4-9e37-4f0e-9aa3-3305a66bfb1c = { name = "RustCall", path = "R/RustCall" }
+7ac7b2fc-d795-4232-af45-0788aa9f4abc = { name = "BayesKNN", path = "B/BayesKNN" }
 7aca2e03-f7e2-4192-9ec8-f4ca66d597fb = { name = "NodesAndModes", path = "N/NodesAndModes" }
 7acf609c-83a4-11e9-1ffb-b912bcd3b04a = { name = "LightGBM", path = "L/LightGBM" }
 7ad07ef1-bdf2-5661-9d2b-286fd4296dac = { name = "CoupledFields", path = "C/CoupledFields" }
@@ -7515,6 +7516,7 @@ some amount of consideration when choosing package names.
 8b1724b8-7d2d-4f3a-bca2-6234a697fafb = { name = "DiscreteEventsLite", path = "D/DiscreteEventsLite" }
 8b390c8a-e41e-419b-b3a5-595c9a4d2b26 = { name = "LinearElasticity", path = "L/LinearElasticity" }
 8b424ff8-82f5-59a4-86a6-de3761897198 = { name = "Thebes", path = "T/Thebes" }
+8b457350-7060-4fc5-94ff-7a3d96bb78d0 = { name = "Orientations", path = "O/Orientations" }
 8b53f75a-7fc5-4a6e-98d3-d4400dab8eec = { name = "MLJAbstractGPsGlue", path = "M/MLJAbstractGPsGlue" }
 8b6756d2-c55c-11ea-2998-5f67ea17da60 = { name = "TimeSeriesEcon", path = "T/TimeSeriesEcon" }
 8b67ef88-54bd-43ff-aca0-8be02588656a = { name = "SimpleImplicitDiscreteSolve", path = "S/SimpleImplicitDiscreteSolve" }
@@ -7718,6 +7720,7 @@ some amount of consideration when choosing package names.
 8f7a8886-8f8a-428e-b78f-4cb978acfc7c = { name = "ExtractLinks", path = "E/ExtractLinks" }
 8f8cde19-4581-4697-bfbd-917306c72405 = { name = "SimpleSudoku", path = "S/SimpleSudoku" }
 8f8ec94a-26d1-428c-aa0e-4e66223094bc = { name = "BigRiverQTL", path = "B/BigRiverQTL" }
+8f904dfe-b85e-4ff6-b463-dae2292396b9 = { name = "BasisSimulator", path = "B/BasisSimulator" }
 8f975abe-a56e-4aef-bda8-ee7f6c5b55ee = { name = "KeyedSets", path = "K/KeyedSets" }
 8f9d5d0e-dd2e-4568-92d4-f8c5d34f25cf = { name = "NetSurvival", path = "N/NetSurvival" }
 8f9e8900-be71-40de-a258-603fdc860a2d = { name = "PoissonSolvers", path = "P/PoissonSolvers" }
@@ -8071,6 +8074,7 @@ some amount of consideration when choosing package names.
 96e4cb12-aa16-11e9-3f16-05acf5cf8c1c = { name = "ModularIndices", path = "M/ModularIndices" }
 96e750e4-2b4b-404e-96bc-6769eb2ae924 = { name = "OptimalBranching", path = "O/OptimalBranching" }
 96eb917e-2868-4417-9cb6-27e7ff17528f = { name = "ContinuousWavelets", path = "C/ContinuousWavelets" }
+96ec6574-3e85-11f1-3b3c-2957db4b7004 = { name = "AeroTrixi", path = "A/AeroTrixi" }
 96f0acd4-de70-4946-a647-1916fbbf835a = { name = "Geocoder", path = "G/Geocoder" }
 96f7d883-6668-4fbe-bb01-b60427b16035 = { name = "Airtable", path = "A/Airtable" }
 96fb99f5-d28b-4914-8161-ce02e97273ad = { name = "KernelOps", path = "K/KernelOps" }
@@ -9625,6 +9629,7 @@ b325ad68-3eea-4afa-b43e-4b8e378fd76d = { name = "FastPointQuery", path = "F/Fast
 b32ace64-3998-4ca6-afd0-a0db4a0482b2 = { name = "MixedModelsSerialization", path = "M/MixedModelsSerialization" }
 b32b01fb-8833-5495-9754-2f5f3e3ebfd4 = { name = "MirroredArrayViews", path = "M/MirroredArrayViews" }
 b3329135-7958-41d4-bb02-e084c5a526bf = { name = "CovarianceFunctions", path = "C/CovarianceFunctions" }
+b33d0e21-58ed-44e8-a1cd-54bcd6317649 = { name = "PortableStructs", path = "P/PortableStructs" }
 b33eeca9-aacb-4496-a840-e75f1646a4fb = { name = "SyntaxInterface", path = "S/SyntaxInterface" }
 b33f1834-3304-4c26-96eb-60ff7015163d = { name = "PointInPoly", path = "P/PointInPoly" }
 b33f403f-199b-472b-b9d0-1cd2092892d0 = { name = "Uncertain", path = "U/Uncertain" }
