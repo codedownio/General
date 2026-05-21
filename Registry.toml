@@ -1457,6 +1457,7 @@ some amount of consideration when choosing package names.
 1a2887a7-38b6-5ebe-8978-3a02049ebf6f = { name = "PressureFieldContact", path = "P/PressureFieldContact" }
 1a297f60-69ca-5386-bcde-b61e274b549b = { name = "FillArrays", path = "F/FillArrays" }
 1a2a01d2-c044-4ae4-8de1-e8ffaa2b5b19 = { name = "FastTransposeMatrix", path = "F/FastTransposeMatrix" }
+1a2e9a1c-d784-4d3f-8c27-9f27d983cc09 = { name = "ZedPlotPane", path = "Z/ZedPlotPane" }
 1a32220a-4ac3-442e-849d-1943511e16f7 = { name = "NextGP", path = "N/NextGP" }
 1a361701-5cf3-415b-af48-956f67dbd5f6 = { name = "MaxwellGuidedMode", path = "M/MaxwellGuidedMode" }
 1a3c8808-2843-4c72-af8e-d50ed15039bf = { name = "ManifoldGroupUtils", path = "M/ManifoldGroupUtils" }
@@ -3792,6 +3793,7 @@ some amount of consideration when choosing package names.
 4624b3bc-fe35-44f8-bfa8-722ff9c0e307 = { name = "GeoCotrans", path = "G/GeoCotrans" }
 46276fb2-733a-55e8-a436-109f48337aca = { name = "CUDA_loader_jll", path = "jll/C/CUDA_loader_jll" }
 4630fe09-e0fb-4da5-a846-781cb73437b6 = { name = "PlantMeteo", path = "P/PlantMeteo" }
+463569c3-d6e9-43b4-bb3a-bd02a13deb89 = { name = "ConsensusFitting", path = "C/ConsensusFitting" }
 463f052f-59d6-49ce-a736-63fd8daf74b9 = { name = "MetaNetXReactions", path = "M/MetaNetXReactions" }
 4642663a-9907-4130-9c18-0ebd857e5e35 = { name = "Estrin", path = "E/Estrin" }
 464e2eba-0a11-4ed3-b274-413caa1a1cca = { name = "ImGuiTestEngine", path = "I/ImGuiTestEngine" }
@@ -7477,6 +7479,7 @@ some amount of consideration when choosing package names.
 8a270532-f23f-47a8-83a9-b33d10cad486 = { name = "QuantumControl", path = "Q/QuantumControl" }
 8a283c49-c6d0-46c5-bbc1-5b2a51f34960 = { name = "BinaryReedSolomon", path = "B/BinaryReedSolomon" }
 8a292aeb-7a57-582c-b821-06e4c11590b1 = { name = "Cuba", path = "C/Cuba" }
+8a2d1f95-46f9-4279-b1d5-bcafb618cf2e = { name = "Panelest", path = "P/Panelest" }
 8a4e6c94-4038-4cdc-81c3-7e6ffdb2a71b = { name = "QuasiMonteCarlo", path = "Q/QuasiMonteCarlo" }
 8a5e4057-03e0-4a42-ba57-0eb88ce604f5 = { name = "PsychometricsBazzarBase", path = "P/PsychometricsBazzarBase" }
 8a639fad-7908-4fe4-8003-906e9297f002 = { name = "MCMCLogDensityProblems", path = "M/MCMCLogDensityProblems" }
@@ -10854,6 +10857,7 @@ c947b005-6f94-5690-8353-b90d48bfe02f = { name = "QNaNs", path = "Q/QNaNs" }
 c949b730-32ca-5034-8981-9fadbaa9e517 = { name = "NamedPlus", path = "N/NamedPlus" }
 c94a8726-515c-4ee5-9c02-6a0d0dc456e9 = { name = "PointerArithmetic", path = "P/PointerArithmetic" }
 c94c279d-25a6-4763-9509-64d165bea63e = { name = "Proj", path = "P/Proj" }
+c94c8c3d-2ef7-4940-9544-b98dae328d9f = { name = "FlightApps", path = "F/FlightApps" }
 c9556dd2-1aed-4cfe-8560-1557cf593001 = { name = "ForwardDiffChainRules", path = "F/ForwardDiffChainRules" }
 c959553c-f8cc-46e9-a814-0006f6d26ee1 = { name = "GEEBRA", path = "G/GEEBRA" }
 c95d6c40-0c10-4161-80ab-e9b71483fbc7 = { name = "KIMNeighborList", path = "K/KIMNeighborList" }
@@ -13538,6 +13542,7 @@ fc9b0551-4f1b-42e1-8440-e8a535f5a551 = { name = "SymbolicCodegen", path = "S/Sym
 fc9e345c-e35d-43ed-87a7-513e2d0ff273 = { name = "OMOPVocabMapper", path = "O/OMOPVocabMapper" }
 fca3f8eb-b383-437d-8e7b-aac76bb2004f = { name = "EnergyModelsInvestments", path = "E/EnergyModelsInvestments" }
 fca4bea3-143f-49fa-bca2-9809b242ef85 = { name = "VectorPrisms", path = "V/VectorPrisms" }
+fcabb1d5-d7f9-46f6-908e-cdac43c56d12 = { name = "SwitchingControl", path = "S/SwitchingControl" }
 fcae8fc2-2969-4f4b-b6c9-a95746d81969 = { name = "QMCGenerators", path = "Q/QMCGenerators" }
 fcb5363a-df8d-57f1-a64b-7615e60d793b = { name = "Schedulers", path = "S/Schedulers" }
 fcbbe0ba-d66e-4e8f-95dd-8166f95b70c5 = { name = "ELFINData", path = "E/ELFINData" }
