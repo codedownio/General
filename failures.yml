@@ -1045,6 +1045,18 @@
   name: PeaceCypher
   info:
     tag: repo_inaccessible
+- uuid: 7a57a42e-76ec-4ea3-a279-07e840d6d9cf
+  name: AbstractPPL
+  info:
+    tag: specific_version
+    text: |
+      Failed to nix-prefetch-git https://github.com/TuringLang/AbstractPPL.jl.git --rev 7fa6bddc445752e16abe60b200092695a9b20202 (exited with 123). Stdout: . Stderr: Initialized empty Git repository in /home/runner/work/_temp/git-checkout-tmp-36hbeLh3/clone/.git/
+      From https://github.com/TuringLang/AbstractPPL.jl
+       * branch            7fa6bddc445752e16abe60b200092695a9b20202 -> FETCH_HEAD
+      Switched to a new branch 'fetchgit'
+      removing `.git'...
+      rm: cannot remove '/home/runner/work/_temp/git-checkout-tmp-36hbeLh3/clone/.git': Directory not empty
+    version: '"0.15.1"'
 - uuid: 7ddc1c72-b467-4b56-ac1e-188734e3cfa7
   name: MaxwellBase
   info:
