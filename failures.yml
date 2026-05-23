@@ -22,6 +22,42 @@
   name: ContourDynamics
   info:
     tag: repo_inaccessible
+- uuid: 0a420f0b-933a-5d4b-986a-eca9d80f9bfc
+  name: Gnuastro_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0b7ba130-8d10-5ba8-a3d6-c5182647fed9
+  name: Blosc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0cbd5639-4ed4-5caa-9af9-db1a1b49a12d
+  name: openPMD_api_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0d1115f3-e42e-5952-a93b-f179746a6ed7
+  name: fakechroot_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0d4e85e1-a563-5338-9f64-3e4dc8b67009
+  name: Serd_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0d65d39a-c591-5c20-a0df-10e8381fd541
+  name: cJSON_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0e394dc1-71ae-5c65-abe5-8749687e42d3
+  name: Xorg_randrproto_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0e40f886-cfff-5d56-8a11-88482f468a43
+  name: CUTENSOR_CUDA111_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 0e90efc8-2bbd-550f-bf3c-306a2edaaeef
+  name: mousetrap_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 100727de-7a56-4b5d-9379-46eb10e23cf1
   name: CarouselGreedy
   info:
@@ -68,16 +104,72 @@
   name: GCTAccess
   info:
     tag: repo_inaccessible
+- uuid: 1906bf50-7128-11ef-3209-891d16f9be9f
+  name: SNNPlots
+  info:
+    tag: repo_inaccessible
+- uuid: 19c5a474-6cd1-4a5f-be79-46dc34e54d7f
+  name: StochasticDiffEqCore
+  info:
+    tag: repo_inaccessible
+- uuid: 19f1efb6-7162-484a-b3a1-b52c391689d7
+  name: SPICEBodies
+  info:
+    tag: repo_inaccessible
+- uuid: 19f34311-ddf3-4b8b-af20-060888a46c0e
+  name: SciMLJacobianOperators
+  info:
+    tag: repo_inaccessible
 - uuid: 1a361701-5cf3-415b-af48-956f67dbd5f6
   name: MaxwellGuidedMode
+  info:
+    tag: repo_inaccessible
+- uuid: 1a8df32f-26ad-40b8-8029-212bc012bd57
+  name: StackOverflow
+  info:
+    tag: repo_inaccessible
+- uuid: 1bc1db3f-e088-4b4f-941a-131a3eb578db
+  name: SkipLists
+  info:
+    tag: repo_inaccessible
+- uuid: 1d2b6a6e-f79c-4b33-849e-5348bdb84a0f
+  name: ModularFormsModuloTwo
   info:
     tag: repo_inaccessible
 - uuid: 1d6e2fc3-29aa-4bd6-bf55-212bcb8e2840
   name: FinEtoolsFlexBeams
   info:
     tag: repo_inaccessible
+- uuid: 1d939cba-ab73-4bc0-975c-87d4c856e1f9
+  name: MHDFlows
+  info:
+    tag: repo_inaccessible
+- uuid: 1db0cb78-5717-11e9-0361-01e0964942ce
+  name: SurfaceTopology
+  info:
+    tag: repo_inaccessible
+- uuid: 1dcdc7e9-a8b1-4892-8a0a-cdab5a60ee98
+  name: McmcHermes
+  info:
+    tag: repo_inaccessible
+- uuid: 1e09ba94-8865-5af0-8cfd-6b3609c426e6
+  name: SubMatrixSelectionSVD
+  info:
+    tag: repo_inaccessible
 - uuid: 1e25b1b3-a3a0-53b8-8729-934c9d7c4cc0
   name: GPnet
+  info:
+    tag: repo_inaccessible
+- uuid: 1e8d2bf6-9821-4900-9a2f-4d87552df2bd
+  name: MultilineStrings
+  info:
+    tag: repo_inaccessible
+- uuid: 1eb2ecf7-7547-4427-9254-f8e5a5c22f1d
+  name: SymmetricDispatch
+  info:
+    tag: repo_inaccessible
+- uuid: 1ed8b502-d754-442c-8d5d-10ac956f44a1
+  name: SciMLSensitivity
   info:
     tag: repo_inaccessible
 - uuid: 1f9da163-5ddd-5895-b7bb-161347ed2303
@@ -94,6 +186,34 @@
     tag: repo_inaccessible
 - uuid: 2098c8a6-82c4-11e9-1f54-e72760d085ce
   name: LibSymspg
+  info:
+    tag: repo_inaccessible
+- uuid: 20c9ef15-1db2-418e-be3d-d83b089f5c41
+  name: SceneGraphs
+  info:
+    tag: repo_inaccessible
+- uuid: 20d4277e-fd01-4864-93be-4ec87eb9404e
+  name: StaticMPI
+  info:
+    tag: repo_inaccessible
+- uuid: 20fadf95-9e3d-483c-97cd-cab2760e7998
+  name: StaticVectors
+  info:
+    tag: repo_inaccessible
+- uuid: 21a827c4-482a-11ea-3a19-4d2243a4a2c5
+  name: SearchLightSQLite
+  info:
+    tag: repo_inaccessible
+- uuid: 21ab680e-8976-4604-9445-b09bf8035a21
+  name: MuJoCoEnvironments
+  info:
+    tag: repo_inaccessible
+- uuid: 21ade233-9772-486b-8b4a-1a75b0845905
+  name: MOTIFs
+  info:
+    tag: repo_inaccessible
+- uuid: 234d2aa0-2291-45f7-9047-6fa6f316b0a8
+  name: MicroCanonicalHMC
   info:
     tag: repo_inaccessible
 - uuid: 2377441b-c98c-4b62-8dd7-ad61dfe8e447
@@ -529,20 +649,108 @@
        * [new branch]          629_setindex_complex    -> origin/629_setindex_complex
        * [new branch]     ...
     version: '"0.1.9"'
+- uuid: 24249f21-da20-56a4-8eb1-6a02cf4ae2e6
+  name: SymPy
+  info:
+    tag: repo_inaccessible
+- uuid: 249d44c8-44e3-11e9-1b59-f5895c860273
+  name: SyntheticNetworks
+  info:
+    tag: repo_inaccessible
+- uuid: 2527f7a4-0af4-4016-a944-036fbac19de9
+  name: MPISphericalHarmonics
+  info:
+    tag: repo_inaccessible
+- uuid: 2542163d-3f63-581c-abc1-15efe995b982
+  name: Memcache
+  info:
+    tag: repo_inaccessible
+- uuid: 2561df7e-f865-450a-9449-e82e8f8f9a2f
+  name: MimiRFFSPs
+  info:
+    tag: repo_inaccessible
+- uuid: 257d0e10-ba0c-4014-b61a-657d3b5dcd33
+  name: Squirrel
+  info:
+    tag: repo_inaccessible
+- uuid: 25a4c9b9-c310-4d6e-b9a7-fa79274760a1
+  name: SpatialRasterLite
+  info:
+    tag: repo_inaccessible
+- uuid: 25b0cc0c-38e4-462f-a11d-8564868c562d
+  name: SlidingDistancesBase
+  info:
+    tag: repo_inaccessible
+- uuid: 25d49962-0f22-42a0-bb44-b427e1ded1d4
+  name: PrefectInterfaces
+  info:
+    tag: repo_inaccessible
 - uuid: 261d18cc-621b-11ea-1fb1-6780d106abdc
   name: GPMLj
+  info:
+    tag: repo_inaccessible
+- uuid: 264155e8-78a8-466a-aa59-c9b28c34d21a
+  name: Stencils
+  info:
+    tag: repo_inaccessible
+- uuid: 26593b87-58e3-4a81-8553-1b48117f317a
+  name: PlutoSplitter
   info:
     tag: repo_inaccessible
 - uuid: 265b7df6-2be8-4c25-b607-723db51099b1
   name: SALTBase
   info:
     tag: repo_inaccessible
+- uuid: 267f34df-16a8-4a72-a26d-fb880b511394
+  name: SpatiallySymmetricTensors
+  info:
+    tag: repo_inaccessible
+- uuid: 27726e8a-9648-448d-a8f7-a27e0ac037d6
+  name: SymbolicSigns
+  info:
+    tag: repo_inaccessible
+- uuid: 277cf75d-8bce-46ef-b2a4-258a2479b121
+  name: DBMigrations
+  info:
+    tag: repo_inaccessible
 - uuid: 286ff66b-9b1b-5805-8ad0-4d725a2cae59
   name: Vortice
   info:
     tag: repo_inaccessible
+- uuid: 291a174b-6542-42e7-9996-fc00d7c03310
+  name: StippleDownloads
+  info:
+    tag: repo_inaccessible
+- uuid: 291d046c-3347-11e9-1e74-c3d251d406c6
+  name: MixedSubdivisions
+  info:
+    tag: repo_inaccessible
+- uuid: 293282d5-3c99-4fb6-92d0-fd3280a19750
+  name: PauliPropagation
+  info:
+    tag: repo_inaccessible
+- uuid: 29b9b1b6-efa6-450e-8188-a5a2c25df071
+  name: MatricesForHomalg
+  info:
+    tag: repo_inaccessible
+- uuid: 29bf0bfc-420f-4fa5-b441-811fd9e6e11d
+  name: SpaceLiDAR
+  info:
+    tag: repo_inaccessible
 - uuid: 29c5a556-b6e4-4b12-acd4-bb8b306706d2
   name: DeepUnfoldedCDLMotif
+  info:
+    tag: repo_inaccessible
+- uuid: 2a74400c-0885-457e-a858-e4f63fac11e2
+  name: DerivableFunctionsBase
+  info:
+    tag: repo_inaccessible
+- uuid: 2a88db5c-15f1-4b3e-a070-d1159e8d76cc
+  name: MessyTimeSeries
+  info:
+    tag: repo_inaccessible
+- uuid: 2aaeee26-74d4-4395-a8a7-2c94eb819fb5
+  name: SplitComplexNumbers
   info:
     tag: repo_inaccessible
 - uuid: 2ae464b0-21de-4247-9233-e7c17725eb53
@@ -553,12 +761,124 @@
   name: PkgDevTools
   info:
     tag: repo_inaccessible
+- uuid: 2b1277c3-b477-4c49-a15e-7ba350325c68
+  name: MIPLearn
+  info:
+    tag: repo_inaccessible
+- uuid: 2b41e42f-53d9-436c-aed0-ebb7c31b58f1
+  name: StippleKeplerGL
+  info:
+    tag: repo_inaccessible
+- uuid: 2b4a2ac8-8f8b-43e8-abf4-3cb0c45e8736
+  name: Sunny
+  info:
+    tag: repo_inaccessible
+- uuid: 2b5f0a26-aae2-5c4c-af55-bc6d20297121
+  name: ModuleMixins
+  info:
+    tag: repo_inaccessible
+- uuid: 2b750c0e-0bff-11f1-9200-1befd75df6be
+  name: PowerTableDataParser
+  info:
+    tag: repo_inaccessible
+- uuid: 2b7f82d5-8785-4f63-971e-f18ddbeb808e
+  name: Subscripts
+  info:
+    tag: repo_inaccessible
+- uuid: 2bd2a319-f9c6-417c-a4f9-7b097fc62840
+  name: MathepiaModels
+  info:
+    tag: repo_inaccessible
+- uuid: 2bdc0d93-21f3-4e16-a26e-769a2eaf80d4
+  name: ParticleCorrelations
+  info:
+    tag: repo_inaccessible
+- uuid: 2c645270-77db-11e9-22c3-0f302a89c64c
+  name: SimpleSDMLayers
+  info:
+    tag: repo_inaccessible
 - uuid: 2c84d669-3b95-46c3-a358-9a76f739ac9c
   name: Atmosphere
   info:
     tag: repo_inaccessible
+- uuid: 2ce8fb18-82de-4cc8-b75d-a45bdc5f56b9
+  name: PlanetSim
+  info:
+    tag: repo_inaccessible
+- uuid: 2d5d6fbe-53ff-4287-a095-853dcbfcd4a5
+  name: SIFKit
+  info:
+    tag: repo_inaccessible
+- uuid: 2d94bacf-4d71-535d-a47c-45e808015115
+  name: Mingw_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 2da68c74-98d7-5633-99d6-8493888d7b1e
+  name: SymDict
+  info:
+    tag: repo_inaccessible
+- uuid: 2dbab86a-7cbf-476f-9afe-75ffd3079e7c
+  name: PandaModels
+  info:
+    tag: repo_inaccessible
+- uuid: 2dcacdae-9679-587a-88bb-8b444fb7085b
+  name: ParallelDataTransfer
+  info:
+    tag: repo_inaccessible
+- uuid: 2de0d7f0-0963-4438-8bc8-7e7ffe3dc69a
+  name: PoreMatMod
+  info:
+    tag: repo_inaccessible
+- uuid: 2dfb63ee-cc39-5dd5-95bd-886bf059d720
+  name: PooledArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 2e0e35c7-a2e4-4343-998d-7ef72827ed2d
+  name: Moshi
+  info:
+    tag: repo_inaccessible
+- uuid: 2e2323e0-db8b-457b-ae0d-bdfb3bc63afd
+  name: MLJScientificTypes
+  info:
+    tag: repo_inaccessible
 - uuid: 2e2c70e5-d463-5cb0-9776-5d0c86956fe9
   name: DataFitting
+  info:
+    tag: repo_inaccessible
+- uuid: 2e3c4037-312d-4650-b9c0-fcd0fc09aae4
+  name: SimString
+  info:
+    tag: repo_inaccessible
+- uuid: 2e4ec7c6-185f-4bfd-8419-ce336ea983f6
+  name: PhyloClustering
+  info:
+    tag: repo_inaccessible
+- uuid: 2e6306e0-6984-547a-ab2d-63c654801828
+  name: Spasm_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 2e771a56-c23a-4e0b-9282-20c2e37157e9
+  name: StanBlocks
+  info:
+    tag: repo_inaccessible
+- uuid: 2e981812-ef13-4a9c-bfa0-ab13047b12a9
+  name: DataLoaders
+  info:
+    tag: repo_inaccessible
+- uuid: 2e9cd046-0924-5485-92f1-d5272153d98b
+  name: Gurobi
+  info:
+    tag: repo_inaccessible
+- uuid: 2edc7d5a-420c-455a-9f50-96c88fa4f765
+  name: SimplePadics
+  info:
+    tag: repo_inaccessible
+- uuid: 2eded7df-79ee-58af-89be-7676cda93c14
+  name: Yosys_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 2f0138a6-2765-53ae-bca2-2fe9d5077335
+  name: MMseqs2_jll
   info:
     tag: repo_inaccessible
 - uuid: 2f046eea-e9a0-482c-8c12-e34140017081
@@ -569,12 +889,112 @@
   name: BraidChains
   info:
     tag: repo_inaccessible
+- uuid: 2f259941-3e49-4c82-90a7-44f3fe3dcca1
+  name: StippleCodeMirror
+  info:
+    tag: repo_inaccessible
+- uuid: 2f97d39f-9754-482a-91aa-b40596fbfbc8
+  name: DynamicsPlots
+  info:
+    tag: repo_inaccessible
+- uuid: 2fdf5542-5ed4-5642-8140-83dcf60a5f79
+  name: Scrypt
+  info:
+    tag: repo_inaccessible
+- uuid: 3025c34a-b394-11e9-2a55-3fee550c04c8
+  name: GridapGmsh
+  info:
+    tag: repo_inaccessible
+- uuid: 30392449-352a-5448-841d-b1acce4e97dc
+  name: Pixman_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3046eef8-5348-48c9-b840-6c15f76662f3
+  name: Scheduling
+  info:
+    tag: repo_inaccessible
+- uuid: 304e07c4-4ffc-4adf-87bc-5a9afdf39ded
+  name: StippleTypedArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 307724fd-586d-46f6-8b3d-ea3ff22db83d
+  name: MoM_MPI
+  info:
+    tag: repo_inaccessible
+- uuid: 307c2aad-90be-4152-b348-f51955fac6ce
+  name: SimplePlots
+  info:
+    tag: repo_inaccessible
+- uuid: 308bddfa-7f95-4fa6-a557-f2c7addc1869
+  name: Xpress_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 30c4ba4d-5c6d-4df8-9a6f-7ded98721337
   name: VoxelwiseConstantMapping
   info:
     tag: repo_inaccessible
+- uuid: 30cb0354-2223-46a9-baa0-41bdcfbe0178
+  name: SciMLTutorials
+  info:
+    tag: repo_inaccessible
+- uuid: 30cfb417-a18a-4984-907c-c461bfb07c95
+  name: GridDensities
+  info:
+    tag: repo_inaccessible
+- uuid: 30d33687-f7ed-5b0d-8b26-3dc9b7abd572
+  name: MCVI
+  info:
+    tag: repo_inaccessible
+- uuid: 30d44bb2-ff8b-57e8-b516-b10f428bad0e
+  name: HiGHSstatic_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 30f210dd-8aff-4c5f-94ba-8e64358c1161
+  name: ScientificTypesBase
+  info:
+    tag: repo_inaccessible
+- uuid: 311a05b2-6137-4a5a-b473-18580a3d38b5
+  name: DemoCards
+  info:
+    tag: repo_inaccessible
+- uuid: 312ee924-cb12-49df-b284-7304c3902fc0
+  name: MadNLPPardiso
+  info:
+    tag: repo_inaccessible
+- uuid: 314ce334-5f6e-57ae-acf6-00b6e903104a
+  name: TaylorModels
+  info:
+    tag: repo_inaccessible
 - uuid: 31692b3b-61a6-410b-a229-5e9354f2e019
   name: CDLmotif
+  info:
+    tag: repo_inaccessible
+- uuid: 3179d415-6c90-44ae-a551-1cda3561f97d
+  name: SplitClusterTest
+  info:
+    tag: repo_inaccessible
+- uuid: 31822d60-0862-422f-9a3d-0eb9781332f3
+  name: PossibilisticArithmetic
+  info:
+    tag: repo_inaccessible
+- uuid: 31c91b34-3c75-11e9-0341-95557aab0344
+  name: SciMLBenchmarks
+  info:
+    tag: repo_inaccessible
+- uuid: 3201582d-3078-4276-ba5d-0a1254d79d7c
+  name: SignalTables
+  info:
+    tag: repo_inaccessible
+- uuid: 323748d4-b4be-59be-a22c-1904c60787cb
+  name: SDL2_gfx_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 323ce080-7fb5-11ea-274f-1d7ddb39cbfa
+  name: MultiStochGrad
+  info:
+    tag: repo_inaccessible
+- uuid: 3251bfac-6a57-4b6d-aa61-ac1fef2975ab
+  name: GeometryOps
   info:
     tag: repo_inaccessible
 - uuid: 3265bcac-820f-4b8a-8cd5-05a71ff46e33
@@ -585,60 +1005,576 @@
   name: Settn
   info:
     tag: repo_inaccessible
+- uuid: 3348d572-c7ce-5100-8a2c-7d2bb2d34f8f
+  name: MambaModels
+  info:
+    tag: repo_inaccessible
+- uuid: 33561aa0-85d4-466e-be0d-17c227566225
+  name: MetOfficeStationData
+  info:
+    tag: repo_inaccessible
+- uuid: 33b9d88c-85f9-5d73-bd91-4e2b95a9aa0b
+  name: OpenCV_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 33c101cd-e3cd-5787-bb96-d137b8b1ecc4
+  name: CHiPPS_BLIS_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 33e6dc65-8f57-5167-99aa-e5a354878fb2
+  name: MKL
+  info:
+    tag: repo_inaccessible
+- uuid: 340407ab-12a4-4a78-8da2-3de3b3fd1448
+  name: TestItemControllers
+  info:
+    tag: repo_inaccessible
+- uuid: 343dbc49-a00e-4db9-80e1-8930f4861f86
+  name: SeqBounds
+  info:
+    tag: repo_inaccessible
+- uuid: 34973bfc-0c0e-5173-a011-fa9066d4440a
+  name: MockAWS
+  info:
+    tag: repo_inaccessible
+- uuid: 349ef902-387d-4643-bd1b-125067241d07
+  name: Surge
+  info:
+    tag: repo_inaccessible
 - uuid: 35055d32-6816-4a65-8aeb-d6e3aca393e8
   name: KirUtil
+  info:
+    tag: repo_inaccessible
+- uuid: 35248bf2-58a5-46a0-9b1d-c0a73a50a101
+  name: SudokuSolver
+  info:
+    tag: repo_inaccessible
+- uuid: 35248bf2-58a5-46a0-9b1d-c0a73a50a103
+  name: SampledVectors
   info:
     tag: repo_inaccessible
 - uuid: 353a8573-383f-4727-b0e9-478950a5ec11
   name: DrillMudsThermalProps
   info:
     tag: repo_inaccessible
+- uuid: 353fb843-c566-51e6-ba49-78b3e3d5ebb5
+  name: FEMBasis
+  info:
+    tag: repo_inaccessible
+- uuid: 35636aaa-5d3a-56eb-bfb5-a154ce8a9530
+  name: aws_c_mqtt_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3564bb48-796b-48a4-9154-f091725b7055
+  name: DisplayStructure
+  info:
+    tag: repo_inaccessible
+- uuid: 35661453-b289-5fab-8a00-3d9160c6a3a4
+  name: Xorg_xkbcomp_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 356fff74-3787-4fec-bfc9-b8569907faee
   name: EfficientNetSeq2label
+  info:
+    tag: repo_inaccessible
+- uuid: 3576fdfd-e245-5854-bcf7-dae6dc3117e0
+  name: capnproto_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 35c70e29-c044-44e8-ae14-cceff0bd3f12
+  name: ToolipsBase64
+  info:
+    tag: repo_inaccessible
+- uuid: 35ca27e7-8b34-5b7f-bca9-bdc33f59eb06
+  name: eudev_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 35d9aba7-3991-5541-aec2-52abade7e365
+  name: Qt6WebSockets_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3646fa90-6ef7-5e7e-9f22-8aca16db6324
+  name: ScikitLearn
+  info:
+    tag: repo_inaccessible
+- uuid: 36492b79-4a51-4dff-89b6-31e03c9a81c2
+  name: GeoStatsViz
+  info:
+    tag: repo_inaccessible
+- uuid: 3654c272-9f13-50b0-a4d5-1f2e7e802f45
+  name: elfshaker_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 365c3f09-11dd-4b21-ae3b-5ed73578a59c
+  name: TensorKitAdapters
+  info:
+    tag: repo_inaccessible
+- uuid: 366fac1a-8926-5ab0-83e4-4abef7ac9c79
+  name: TVM_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 36869731-bdee-424d-aa32-cab38c994e3b
+  name: Malt
+  info:
+    tag: repo_inaccessible
+- uuid: 36b54c61-190e-5a5f-82d5-6f0a962d7362
+  name: PushVectors
+  info:
+    tag: repo_inaccessible
+- uuid: 36de11a4-635f-5b15-8378-93f477661e31
+  name: Pfapack_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 36e41bbe-399b-4a86-8623-faa02b4c2ac8
+  name: Tsunami
+  info:
+    tag: repo_inaccessible
+- uuid: 3713708d-6816-4a57-846e-904b81e02fa1
+  name: SpikeSynchrony
+  info:
+    tag: repo_inaccessible
+- uuid: 371cf0fa-3142-5eb4-b340-7aa651d2670e
+  name: kdb_c_api_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3725be50-bbbd-5592-92c3-2f0e82159c3e
+  name: PhysOcean
   info:
     tag: repo_inaccessible
 - uuid: 374a444c-c624-4b44-9de1-37c0fe7c6d41
   name: SoilWater_ToolBox
   info:
     tag: repo_inaccessible
+- uuid: 37516f07-4740-538e-b7cb-eec320f4a184
+  name: Hanabi_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 379a6b09-926d-464b-b907-221504e1dab7
   name: SimpleTweaks
+  info:
+    tag: repo_inaccessible
+- uuid: 37f6aa50-8035-52d0-81c2-5a1d08754b2d
+  name: TikzPictures
+  info:
+    tag: repo_inaccessible
+- uuid: 381ff186-7949-5def-80e3-c2e748080dc1
+  name: flux_core_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3821ddf9-e5b5-40d5-8e25-6813ab96b5e2
+  name: FixedSizeArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 38244590-38c0-4f85-8105-e5c469effcd5
+  name: PlotSVG
+  info:
+    tag: repo_inaccessible
+- uuid: 382cd787-c1b6-5bf2-a167-d5b971a19bda
+  name: TableTraitsUtils
+  info:
+    tag: repo_inaccessible
+- uuid: 383780d8-6555-4e9d-ab4b-56ed78d9a773
+  name: SegmentAnalytics
+  info:
+    tag: repo_inaccessible
+- uuid: 383c0d22-5f9f-554f-9489-56ea6a7d49ac
+  name: Gnome_themes_extra_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3894bb1e-daea-4181-948f-3877d7a6e5a8
+  name: FvCFD
+  info:
+    tag: repo_inaccessible
+- uuid: 38a345b3-de98-5d2b-a5d3-14cd9215e700
+  name: Libuuid_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 38cef826-3163-5c31-a333-3957420b3fb7
+  name: mimalloc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 38e38edf-8417-5370-95a0-9cbb8c7f171a
+  name: GLM
+  info:
+    tag: repo_inaccessible
+- uuid: 391af1a9-06f1-59d3-8d21-0be089654739
+  name: Spectra
+  info:
+    tag: repo_inaccessible
+- uuid: 39234983-ca09-5ebd-80f9-0678ebb0ef7b
+  name: PROPOSAL_cxxwrap_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3930f61c-4d81-4846-ab8f-357babe068a6
+  name: SPEDAS
+  info:
+    tag: repo_inaccessible
+- uuid: 3934549d-b4b9-4a85-8fa6-9c281fbf1a3e
+  name: DecomposingGroupRepresentations
+  info:
+    tag: repo_inaccessible
+- uuid: 393490a8-41a6-5dea-8ab1-81a396b80891
+  name: libLLVM_assert_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 39356fd2-1f9e-4efe-8abf-5745c7d9f608
+  name: GastonRecipes
+  info:
+    tag: repo_inaccessible
+- uuid: 3986aa12-c984-439b-887a-f8545bea0e93
+  name: SyncBarriers
+  info:
+    tag: repo_inaccessible
+- uuid: 39a08dd0-b4b7-4086-afbb-eb1796240846
+  name: ProductArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 39fdbc7a-862a-11e9-015b-61723af7393f
+  name: FSInteraction
+  info:
+    tag: repo_inaccessible
+- uuid: 3a01c810-c4d4-5434-a337-635ca50da98f
+  name: louvain_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3a057b76-36a0-51f0-a66f-6d580b8e8efd
+  name: SDPLR_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3a2d25a1-7f54-53f7-aded-df035e2fc6f8
+  name: OpenBLASHighCoreCount_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3a59bceb-d31e-474c-9627-7222755a1e48
+  name: Slint
+  info:
+    tag: repo_inaccessible
+- uuid: 3a78539b-9dce-42c5-be8d-f3fa4153f7a3
+  name: SubsurfaceCore
+  info:
+    tag: repo_inaccessible
+- uuid: 3ac119c9-1236-5556-b556-adc8150b0244
+  name: Tokei_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3ac90d68-5a11-50c7-932e-af3f40d97fdc
+  name: SeisProcessing
   info:
     tag: repo_inaccessible
 - uuid: 3acb29d5-902e-4acc-9bd8-2830ece8358d
   name: SemanticSpaces
   info:
     tag: repo_inaccessible
+- uuid: 3af9cca3-6439-492f-bb75-d94037938865
+  name: MonteCarloCollisions
+  info:
+    tag: repo_inaccessible
+- uuid: 3b2b4ff1-bcff-5658-a3ee-dbcf1ce5ac09
+  name: Multisets
+  info:
+    tag: repo_inaccessible
+- uuid: 3b4f1277-4f84-48a8-a8ec-5e08d2f3a5e9
+  name: DrawingDim
+  info:
+    tag: repo_inaccessible
+- uuid: 3b531cbf-ee43-4e67-8118-dca2c9372f86
+  name: DataConvenience
+  info:
+    tag: repo_inaccessible
 - uuid: 3b6521e1-56b2-406b-b1f7-6ae6ec1fb69e
   name: ExtremalOptimization
+  info:
+    tag: repo_inaccessible
+- uuid: 3b8dc6f2-bddc-4c88-9cf9-9f37a0c17a29
+  name: PrimitiveCollisions
+  info:
+    tag: repo_inaccessible
+- uuid: 3b95acbd-20d2-4f07-8ac8-8df51737bf8b
+  name: ModelOrderReductionToolkit
+  info:
+    tag: repo_inaccessible
+- uuid: 3bb3bcb6-c561-57d3-939c-408d524c1e5b
+  name: PottsGauge
+  info:
+    tag: repo_inaccessible
+- uuid: 3bd8f0ae-a0f2-5238-a5af-e1b399a4940c
+  name: Microbiome
+  info:
+    tag: repo_inaccessible
+- uuid: 3beb2ed1-af7d-458f-b727-6e9beb3586c0
+  name: PDFmerger
   info:
     tag: repo_inaccessible
 - uuid: 3c1df321-2532-4054-b4fb-66e5d4440098
   name: NaturalGradientOptimisers
   info:
     tag: repo_inaccessible
+- uuid: 3c6ae550-c37b-5556-a07e-d40b4910cf1c
+  name: CLIME_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3c71623a-a715-5176-9801-629b201a4880
+  name: GraphDataFrameBridge
+  info:
+    tag: repo_inaccessible
+- uuid: 3c863552-8265-54e4-a6dc-903eb78fde85
+  name: Graphviz_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3c9796d7-64a0-5134-86ad-79f8eb684845
+  name: Xorg_libXcomposite_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3c991dec-9c56-4f58-9859-82b65299ade1
+  name: PairVelocities
+  info:
+    tag: repo_inaccessible
 - uuid: 3caadacf-3504-43fd-90cf-12adede613ab
   name: Tarang
+  info:
+    tag: repo_inaccessible
+- uuid: 3cdde19b-5bb0-4aaf-8931-af3e248e098b
+  name: SIMDDualNumbers
+  info:
+    tag: repo_inaccessible
+- uuid: 3cf6f5a4-34a7-5d62-9a78-d5aadfae302d
+  name: MFEM_seq_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3d2d666f-9104-4379-abe9-d44f4b99a429
+  name: StructuredGrids
+  info:
+    tag: repo_inaccessible
+- uuid: 3d38dfc6-4f17-513e-996d-152e5e70789c
+  name: ScanImageTiffReader
+  info:
+    tag: repo_inaccessible
+- uuid: 3d47416f-b330-5763-8b13-e9bf7bc8d726
+  name: spdlog_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3d48db48-6773-11ed-1a7e-43a2532b2fa8
+  name: StarStats
+  info:
+    tag: repo_inaccessible
+- uuid: 3d56f106-398e-55cb-9b6b-0dced46c254c
+  name: CLFFT_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3d704607-676d-54ad-a58f-27926b53472b
+  name: Unishox_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3d876f86-fca9-45cb-9864-7207416dc431
+  name: TableScraper
+  info:
+    tag: repo_inaccessible
+- uuid: 3da0fdf6-3ccc-4f1b-acd9-58baa6c99267
+  name: MPIPreferences
+  info:
+    tag: repo_inaccessible
+- uuid: 3e7d7328-36f8-4388-bd01-4613c92c7370
+  name: PredictMD
+  info:
+    tag: repo_inaccessible
+- uuid: 3eadb0b9-5057-49d2-9b8f-52a8c334ebf6
+  name: StochasticWeatherGenerators
+  info:
+    tag: repo_inaccessible
+- uuid: 3f13813c-b3c5-46a6-9f94-8bb23878de35
+  name: FuzzyEmbeddingMatch
   info:
     tag: repo_inaccessible
 - uuid: 3f2ee0b8-2aac-4501-a955-6c9296aa3f9e
   name: RandomizedNMF
   info:
     tag: repo_inaccessible
+- uuid: 3f48aabc-caa9-5088-9d68-3c6fc69eadfd
+  name: libtasn1_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 3f496205-d90f-4778-83b9-652c261f54b9
+  name: ParticleInCell
+  info:
+    tag: repo_inaccessible
+- uuid: 3fc7acb0-3ec8-433f-906a-2d1e86d217d2
+  name: FilterDDP
+  info:
+    tag: repo_inaccessible
+- uuid: 3fca794e-44fa-49a6-b6a0-8cd45572ba0a
+  name: ProfileLikelihood
+  info:
+    tag: repo_inaccessible
+- uuid: 3fee2672-df33-422b-aa65-d915eeac013a
+  name: SurrogatesRandomForest
+  info:
+    tag: repo_inaccessible
+- uuid: 40452611-1178-4e48-bdfc-3af4bebad9c9
+  name: TestingUtilities
+  info:
+    tag: repo_inaccessible
+- uuid: 409b0d58-1332-5589-be3b-4d778b0df058
+  name: SZ_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 409f5150-fb84-534f-94db-80d1e10f57e1
+  name: FeatherLib
+  info:
+    tag: repo_inaccessible
+- uuid: 40b5814e-7855-5c9f-99f7-a735ce3fdf8b
+  name: METIS4_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 40c74d1a-b44c-5b06-a7c1-6cbea58ea978
+  name: TableView
+  info:
+    tag: repo_inaccessible
+- uuid: 415736d3-e371-4b8a-9ed5-2a314a4b3aac
+  name: Sabermetrics
+  info:
+    tag: repo_inaccessible
+- uuid: 4160a140-ed77-4dbe-8316-dcd1d4ea2f4e
+  name: SawyerEliassenSolver
+  info:
+    tag: repo_inaccessible
+- uuid: 41a02a25-b8f0-4f67-bc48-60067656b558
+  name: Folds
+  info:
+    tag: repo_inaccessible
+- uuid: 41be5fce-5647-450b-ae37-a6739b881a1c
+  name: PeriodicOrbits
+  info:
+    tag: repo_inaccessible
+- uuid: 41c3f962-d225-4afd-879a-c18106b4395d
+  name: FHIRClientJSON
+  info:
+    tag: repo_inaccessible
+- uuid: 41de04b1-2efd-44ae-92ae-39d71a4fd99b
+  name: PALEOocean
+  info:
+    tag: repo_inaccessible
+- uuid: 41e2f9bb-6422-5ff7-a427-aa949331d861
+  name: Xorg_libXScrnSaver_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 4201568c-2e61-4571-8a9c-4da1ec7770d0
   name: SymbolicQuartetNetworkCoal
+  info:
+    tag: repo_inaccessible
+- uuid: 4249d9c7-3290-4ddd-961c-e1d3ec2467f8
+  name: SoleModels
+  info:
+    tag: repo_inaccessible
+- uuid: 42699a24-3520-5f41-a549-6a478ed667c2
+  name: Serd
+  info:
+    tag: repo_inaccessible
+- uuid: 428bdadb-6287-5aa5-874b-9969638295fd
+  name: SimJulia
+  info:
+    tag: repo_inaccessible
+- uuid: 4297ee4d-0239-47d8-ba5d-195ecdf594fe
+  name: SymbolicAnalysis
   info:
     tag: repo_inaccessible
 - uuid: 42a5c2e1-f365-4540-8ca5-3684de3ecd95
   name: ODEConvergenceTester
   info:
     tag: repo_inaccessible
+- uuid: 42b16160-194f-40b3-8419-7a13c10fa643
+  name: PortMidi
+  info:
+    tag: repo_inaccessible
+- uuid: 42b7a45b-8021-5b99-aff5-7432580bee1c
+  name: StrEntities
+  info:
+    tag: repo_inaccessible
+- uuid: 42b8e9d4-006b-409a-8472-7f34b3fb58af
+  name: ParallelKMeans
+  info:
+    tag: repo_inaccessible
+- uuid: 42c9172c-a860-479f-a7e6-dd0e15e4e07f
+  name: SomatSIE
+  info:
+    tag: repo_inaccessible
+- uuid: 42def6c6-fd6a-4211-8419-600c79e00ff9
+  name: SatellitePlayground
+  info:
+    tag: repo_inaccessible
+- uuid: 42fb36cb-998a-4034-bf40-4eee476c43a1
+  name: SeasonalTrendLoess
+  info:
+    tag: repo_inaccessible
+- uuid: 430257b6-7d61-4797-9a77-8ecd01b73801
+  name: SuffixTrees
+  info:
+    tag: repo_inaccessible
+- uuid: 431bcebd-1456-4ced-9d72-93c2757fff0b
+  name: SciMLPublic
+  info:
+    tag: repo_inaccessible
+- uuid: 432009dd-59a1-4b72-8c93-6462ce9b220f
+  name: Flux3D
+  info:
+    tag: repo_inaccessible
+- uuid: 433bd86c-62cb-491d-a348-72c5c8365002
+  name: PixelMatch
+  info:
+    tag: repo_inaccessible
+- uuid: 437b6fc4-8e8e-11e9-3fa1-ad391e66c018
+  name: ProtoStructs
+  info:
+    tag: repo_inaccessible
+- uuid: 4383d8c7-e827-43b8-a3d6-a47e3cac7fdc
+  name: PassStores
+  info:
+    tag: repo_inaccessible
+- uuid: 43843433-91eb-5384-8a0e-cbb992997742
+  name: FinancialDerivatives
+  info:
+    tag: repo_inaccessible
+- uuid: 43a3c2be-4208-490b-832a-a21dcd55d7da
+  name: PairPlots
+  info:
+    tag: repo_inaccessible
+- uuid: 43b7c8c0-5622-45b8-90a3-338fc50d2232
+  name: SimulatedNeuralMoments
+  info:
+    tag: repo_inaccessible
+- uuid: 43cd2700-e54a-5645-adf8-b9b288a87fe6
+  name: difmap_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4412c578-8aba-4b04-8c8c-6ae573ccb792
+  name: SmoothInterpolation
+  info:
+    tag: repo_inaccessible
 - uuid: 4450f29b-7b71-45c6-8742-e7520a479938
   name: RepliBuild
   info:
     tag: repo_inaccessible
+- uuid: 4456351a-5be3-4067-ade9-541926a41e04
+  name: SimpleTensorNetworks
+  info:
+    tag: repo_inaccessible
+- uuid: 4475fa32-7023-44a0-aa70-4813b230e492
+  name: SoleBase
+  info:
+    tag: repo_inaccessible
 - uuid: 44994717-8eef-47f3-a7e0-6b313e1778f0
   name: EnlilGrids
+  info:
+    tag: repo_inaccessible
+- uuid: 44f67abd-f36e-4be4-bfe5-65f468a62b3d
+  name: PyGDatasets
+  info:
+    tag: repo_inaccessible
+- uuid: 450466ac-e45e-40ce-9385-fade81a2016c
+  name: SFrontiers
+  info:
+    tag: repo_inaccessible
+- uuid: 4536629a-c528-5b80-bd46-f80d51c5b363
+  name: OpenBLAS_jll
   info:
     tag: repo_inaccessible
 - uuid: 4544d5e4-abc5-4dea-817f-29e4c205d9c8
@@ -732,24 +1668,164 @@
        * [new branch]      ap/flare     -> origin/ap/flare
        * [new branch]      ap/llama3    -> origin/ap/llama...
     version: '"0.1.6"'
+- uuid: 454a8cc1-5e0e-5123-92d5-09b094f0e876
+  name: jemalloc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 45858cf5-a6b0-47a3-bbea-62219f50df47
+  name: Sixel
+  info:
+    tag: repo_inaccessible
+- uuid: 458b697b-88f0-4a86-b56b-78b75cfb3531
+  name: SymPyCore
+  info:
+    tag: repo_inaccessible
+- uuid: 45948f9d-8d54-5094-b7bd-7e0ca68150a5
+  name: libopenjpegextra_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 45996516-d782-4985-8a4d-8a8f0336c9da
+  name: SlackAPI
+  info:
+    tag: repo_inaccessible
+- uuid: 460c41e3-6112-5d7f-b78c-b6823adb3f2d
+  name: QhullMiniWrapper_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 467b4f57-cce5-4b05-af51-83574939c5b4
+  name: Polfed
+  info:
+    tag: repo_inaccessible
+- uuid: 468859d6-42d8-48b7-8ad9-1d312e0e3b0a
+  name: Tachikoma
+  info:
+    tag: repo_inaccessible
+- uuid: 4698e515-9779-5814-ac19-c1da39f829b4
+  name: osmium_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 46b73cfa-376a-48ee-8926-0c45ac3f7830
+  name: PySA
+  info:
+    tag: repo_inaccessible
+- uuid: 474730fa-5ea9-5b8c-8629-63de62f23418
+  name: VDT_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 474b5345-2588-4284-8a58-2430a1a40cb0
   name: TensND
+  info:
+    tag: repo_inaccessible
+- uuid: 476501e8-09a2-5ece-8869-fb82de89a1fa
+  name: SLEEFPirates
+  info:
+    tag: repo_inaccessible
+- uuid: 47aef6b3-ad0c-573a-a1e2-d07658019622
+  name: SimpleWeightedGraphs
+  info:
+    tag: repo_inaccessible
+- uuid: 48187f9f-78ff-4060-b31e-d855612fbaec
+  name: LatinSyntax
+  info:
+    tag: repo_inaccessible
+- uuid: 4846b161-c94e-4150-8dac-c7ae193c601f
+  name: InferOpt
   info:
     tag: repo_inaccessible
 - uuid: 484b717a-98b9-4b0c-89dc-fb7d7e739263
   name: MeshKeeper
   info:
     tag: repo_inaccessible
+- uuid: 48530278-0828-4a49-9772-0f3830dfa1e9
+  name: TBLIS
+  info:
+    tag: repo_inaccessible
+- uuid: 48a634ad-e948-5137-8d70-aa71f2a747f4
+  name: Tensors
+  info:
+    tag: repo_inaccessible
+- uuid: 48ae9875-8a8b-401f-9c90-1ad5d6adef54
+  name: SmoothNumbers
+  info:
+    tag: repo_inaccessible
 - uuid: 48ce63ed-6f34-4d1b-af9f-4e5ab636a982
   name: TuplesOfNTuples
+  info:
+    tag: repo_inaccessible
+- uuid: 48dee9f3-50d2-49a3-a3c9-e990db172bec
+  name: SinusoidalRegressions
+  info:
+    tag: repo_inaccessible
+- uuid: 48e2ed6f-953e-42f9-a56e-74c660f20e0a
+  name: SparseGaussianProcesses
+  info:
+    tag: repo_inaccessible
+- uuid: 49048992-29d2-5fd1-994f-9cecf112d624
+  name: cunumeric_jl_wrapper_jll
   info:
     tag: repo_inaccessible
 - uuid: 4908299a-382f-4474-b696-db03060d32c1
   name: GMTAccess
   info:
     tag: repo_inaccessible
+- uuid: 493365b4-7e18-460b-8b90-ec3e7f80d3eb
+  name: ROS2
+  info:
+    tag: repo_inaccessible
+- uuid: 4937893a-a78f-43c0-9d0a-2f4d4786e0cf
+  name: Polyomino
+  info:
+    tag: repo_inaccessible
 - uuid: 49523d62-8978-4391-abdd-b8467d4505ae
   name: CliMADatasets
+  info:
+    tag: repo_inaccessible
+- uuid: 496038af-b016-571c-b31e-8262695ac102
+  name: Lens
+  info:
+    tag: repo_inaccessible
+- uuid: 497af919-c005-5197-85cc-b1f3ea720854
+  name: Emoslib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 497e9ebb-6d82-5bd4-be3d-5b7dba4508ca
+  name: Avro_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 498468b5-6726-5392-b148-b36d48e22663
+  name: LAZperf_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 49a0df60-3d80-5428-85ce-5c0f24fd7b67
+  name: c_questdb_client_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 49d5a0a8-0cca-57b3-8548-a2cd8c16dcd0
+  name: Qdrant_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 49fe2e30-ebaf-52e2-a844-d04adb473700
+  name: NL2sol_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4a3ffa5b-425c-5e62-932c-e04bcaef15ee
+  name: librttopo_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4a48f351-57a6-4416-9ec4-c37015456aae
+  name: PencilFFTs
+  info:
+    tag: repo_inaccessible
+- uuid: 4a5d46fc-d8cf-5151-a261-86b458210efb
+  name: SPIRV_LLVM_Translator_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4a6ed817-0e58-48c6-8452-9e9afc8cb508
+  name: PALEOcopse
+  info:
+    tag: repo_inaccessible
+- uuid: 4ac160eb-0277-4e02-b3c6-a4c4623dd812
+  name: Remarkable
   info:
     tag: repo_inaccessible
 - uuid: 4acbeb90-81a0-11ea-1966-bdaff8155998
@@ -765,6 +1841,106 @@
        * [new branch]      Geniev5               -> origin/Geniev5
        * [new branch]      comments-and...
     version: '"0.1.0"'
+- uuid: 4bc72436-6d1e-53e9-a681-d5a2ff310728
+  name: EinsteinToolkit_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4c445503-5c2d-5ebd-97f6-9e823778a91e
+  name: FastCDR_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4c526841-e1e8-562c-bfa9-9f39d642e243
+  name: PolynomialTestSystems
+  info:
+    tag: repo_inaccessible
+- uuid: 4ce82931-4c10-4b80-a308-e2bd97408557
+  name: InMAPSourceReceptorMatrices
+  info:
+    tag: repo_inaccessible
+- uuid: 4d0d745f-9d9a-592e-8d18-1ad8a0f42b92
+  name: PDFIO
+  info:
+    tag: repo_inaccessible
+- uuid: 4d23c25a-f84e-4dc0-9513-4942a305df7e
+  name: RMLImaging
+  info:
+    tag: repo_inaccessible
+- uuid: 4d6a76a9-bfbc-5492-8924-cf6ed7875f06
+  name: Econometrics
+  info:
+    tag: repo_inaccessible
+- uuid: 4d7a3746-15be-11ea-1130-334b0c4f5fa0
+  name: ImplicitGlobalGrid
+  info:
+    tag: repo_inaccessible
+- uuid: 4d8266f6-2b3b-57e3-ad7a-d431eaaac945
+  name: libpolymake_julia_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4d841945-e0c2-5143-9479-18e4f0102556
+  name: igraph_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4dc08600-4268-439e-8673-d706fafbb426
+  name: PropDicts
+  info:
+    tag: repo_inaccessible
+- uuid: 4dcc563d-31b5-562a-a66a-bda255b7e226
+  name: OpenColorIO_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4de3b72a-362e-43dd-83ff-3f381eda9f9c
+  name: TensorNetworkQuantumSimulator
+  info:
+    tag: repo_inaccessible
+- uuid: 4e17d02c-6bf5-513e-be62-445f41c75a11
+  name: LLVMCompilerRT_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4e3cecfd-b093-5904-9786-8bbb286a6a31
+  name: ImageShow
+  info:
+    tag: repo_inaccessible
+- uuid: 4e8a8231-0ba9-591b-8620-81c6740d7791
+  name: LearningStrategies
+  info:
+    tag: repo_inaccessible
+- uuid: 4e9b3aee-d8a1-5a3d-ad8b-7d824db253f0
+  name: CRlibm_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4f207c7e-01da-51d7-a1a0-c8c06dd1d883
+  name: RadiationSpectra
+  info:
+    tag: repo_inaccessible
+- uuid: 4f4992fb-2984-5eba-87b8-475305d0f5fc
+  name: TropicalGemmC_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4f75ad7f-53e1-4703-a57b-ee35418d6f20
+  name: RandomSplit
+  info:
+    tag: repo_inaccessible
+- uuid: 4f7db680-92c2-5241-a1f0-57b96f62fa1d
+  name: ROOT_julia_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4f82f1eb-248c-5f56-a42e-99106d144614
+  name: CUDA_full_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 4f9d485d-518f-41ed-81c8-372cd804c93b
+  name: PolynomialMatrixEquations
+  info:
+    tag: repo_inaccessible
+- uuid: 4fb452e6-e726-4794-90dc-adda47b23488
+  name: RegressionDynamicCausalModeling
+  info:
+    tag: repo_inaccessible
+- uuid: 4fba8ba3-5816-4b0a-a58e-35901defa442
+  name: ExtremeFloats
+  info:
+    tag: repo_inaccessible
 - uuid: 4fe2279e-80f0-4adb-8463-ee114ff56b7d
   name: SparseIR
   info:
@@ -885,8 +2061,92 @@
       From https://github.com/SpM-lab/SparseIR.jl
        * [new branch]      51-implement-tests-for-polyjl-that-are-independent-from-svejl -> origin/51-impl...
     version: '"0.9.1"'
+- uuid: 502039d7-87d7-456d-8cc8-96307cceeee2
+  name: TruncatedMVN
+  info:
+    tag: repo_inaccessible
+- uuid: 50296a37-19d4-5487-a1d5-621c23d0d175
+  name: SPIRV_Headers_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 50515f5d-e8ff-5b26-ab2b-0473a017b18c
+  name: pigpiod_if2_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 508b8dab-2d72-462c-b792-eb7ae329b456
+  name: PhiloxRNG
+  info:
+    tag: repo_inaccessible
+- uuid: 508c9074-7a14-5c94-9582-3d4bc1871065
+  name: bliss_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 50a7bfbf-5fc4-52b4-b7f8-52e7f829027e
+  name: libimagequant_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5109d7c4-8f61-540a-bdd6-fb9d06080a8f
+  name: Infernal_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5160dea5-cc57-53b0-be5f-ac191989508a
+  name: EarCut
+  info:
+    tag: repo_inaccessible
 - uuid: 5163218f-e962-4d1b-9436-42cf34da72ec
   name: MultilayerFiber
+  info:
+    tag: repo_inaccessible
+- uuid: 519a0aee-8577-56a6-9f9d-1e74151fa0e1
+  name: CDE_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 51c06dcf-91d3-5c9e-a52e-02df4e7cbcf5
+  name: LispSyntax
+  info:
+    tag: repo_inaccessible
+- uuid: 51c8708f-2dd9-446d-a0d4-ba9f49ba4b23
+  name: LibAwsCompression
+  info:
+    tag: repo_inaccessible
+- uuid: 51d429d1-9683-4c89-86d7-889f440454ef
+  name: LokiLogger
+  info:
+    tag: repo_inaccessible
+- uuid: 51f2fc5f-9d5c-580b-98f8-9638c2091362
+  name: libposit_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 522f3ed2-3f36-55e3-b6df-e94fee9b0c07
+  name: LibExpat
+  info:
+    tag: repo_inaccessible
+- uuid: 5257e33d-5a01-4fd1-9680-e504fee35d5b
+  name: TransportProperties
+  info:
+    tag: repo_inaccessible
+- uuid: 5286dc34-9e20-4123-8e59-fcde100af23f
+  name: RxCiphers
+  info:
+    tag: repo_inaccessible
+- uuid: 52a89005-cc63-50df-a748-7ef82af009e5
+  name: Chafa_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 52b1e31a-230f-50d6-be04-0f5494ddfff6
+  name: RationalVectorFitting
+  info:
+    tag: repo_inaccessible
+- uuid: 5352d3c8-010c-4f6e-a427-fe5152755be6
+  name: ReactiveToolkit
+  info:
+    tag: repo_inaccessible
+- uuid: 53656f53-9700-50e7-bf9c-d3aea1338d1b
+  name: mrfDepth_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 539b6a15-2144-4f08-8574-27224deb4b81
+  name: ResEE
   info:
     tag: repo_inaccessible
 - uuid: 53b67e40-53a7-4335-973f-e3e901fe4865
@@ -919,24 +2179,176 @@
   name: Powerful
   info:
     tag: repo_inaccessible
+- uuid: 543da890-fecb-4311-ac3c-00ed56aa0c09
+  name: Layered
+  info:
+    tag: repo_inaccessible
 - uuid: 546ecb9f-27b9-4a3e-acea-6784bee00edb
   name: StepwiseRegression
+  info:
+    tag: repo_inaccessible
+- uuid: 55336d7b-7a60-40a5-8869-d5806121a906
+  name: ExcelUtilities
+  info:
+    tag: repo_inaccessible
+- uuid: 5558cf25-a90e-53b0-b813-cadaa3ae7ade
+  name: cohomCalg_jll
   info:
     tag: repo_inaccessible
 - uuid: 558fcde3-b420-4fcf-b6fa-fc874c7e75b7
   name: KitePodSimulator
   info:
     tag: repo_inaccessible
+- uuid: 55c6dc9b-343a-50ca-8ff2-b71adb3733d5
+  name: nauty_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 55eddd50-7f45-4398-96cf-6a37e2b16f80
+  name: ReliabilityOptimization
+  info:
+    tag: repo_inaccessible
 - uuid: 55efb022-e1be-4044-9089-57a478d003fb
   name: IterativeLearningControl
+  info:
+    tag: repo_inaccessible
+- uuid: 569bd051-8d7b-4221-bcb8-d78512b5866a
+  name: PartitionedDistributions
+  info:
+    tag: repo_inaccessible
+- uuid: 56f361f5-126b-55db-87fb-1c71988fcde4
+  name: Triangle
+  info:
+    tag: repo_inaccessible
+- uuid: 57154dfa-8ce1-53a2-a7ab-dcd9e58fb5bc
+  name: Faiss_CUDA_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 57609f06-44cb-4626-8f6d-47ea844d0af1
+  name: HydroModelCore
   info:
     tag: repo_inaccessible
 - uuid: 577c3ae3-e2e9-4c4d-8517-88b63258dae5
   name: SumOfExponentials
   info:
     tag: repo_inaccessible
+- uuid: 57b37032-215b-411a-8a7c-41a003a55207
+  name: ImplicitDifferentiation
+  info:
+    tag: repo_inaccessible
+- uuid: 57baeb14-c09c-5c0a-afa2-fbebe617cc21
+  name: Xorg_dri3proto_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 57c31d6b-7ec9-45e4-80ae-c449616bb020
+  name: ToolipsMemWrite
+  info:
+    tag: repo_inaccessible
+- uuid: 57c3d5b1-721f-43a0-b20c-e9152d812276
+  name: LSL
+  info:
+    tag: repo_inaccessible
+- uuid: 57eb2189-7eb1-52c8-ac0e-99495f550b14
+  name: Libcroco_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 58029095-ecac-58e2-8c2a-e49631082a9d
+  name: glog_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5818bda4-868b-5068-b238-e370ed6eefef
+  name: coreutils_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 583f92f5-06d6-4306-8236-316410defc98
+  name: EltypeExtensions
+  info:
+    tag: repo_inaccessible
+- uuid: 58530d00-bdec-5bcb-8e8b-bc8c1f9d555e
+  name: LZFSE_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5880b2e8-ad0a-48c9-bacd-30dc9c1357e0
+  name: HelpPlots
+  info:
+    tag: repo_inaccessible
+- uuid: 58948b4f-47e0-5654-a9ad-f609743f8632
+  name: PROJ_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 58bc7355-f626-4c51-96f2-1f8a038f95a2
+  name: IRKGaussLegendre
+  info:
+    tag: repo_inaccessible
+- uuid: 592b5752-818d-11e9-1e9a-2b8ca4a44cd1
+  name: Trapz
+  info:
+    tag: repo_inaccessible
+- uuid: 592ba744-f2ce-40dd-852e-7cfd1e22b0d7
+  name: EmpiricalTightBinding
+  info:
+    tag: repo_inaccessible
+- uuid: 594ad865-6a17-49ee-8f22-76ed020c7c08
+  name: ORToolsBinaries
+  info:
+    tag: repo_inaccessible
+- uuid: 59d54670-b8ac-4d81-ab7a-bb56233e17ab
+  name: ThreadedSparseArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 5a1048b7-9ca6-4e8a-8e2e-1f932e78ac4e
+  name: Terming
+  info:
+    tag: repo_inaccessible
+- uuid: 5a1273f0-a906-4eb0-8178-7035f457d819
+  name: PyQHA
+  info:
+    tag: repo_inaccessible
+- uuid: 5a22e6b1-9da4-4d8a-9828-7fbb35a05de2
+  name: HapSim
+  info:
+    tag: repo_inaccessible
+- uuid: 5a3ac768-beb4-554a-9c98-3342fe3377f5
+  name: HORIZONS
+  info:
+    tag: repo_inaccessible
+- uuid: 5a402ddf-f93c-42eb-975e-5582dcda653d
+  name: PiccoloQuantumObjects
+  info:
+    tag: repo_inaccessible
+- uuid: 5a7615ae-274c-51d1-b5a8-ff30401c2c7e
+  name: osslsigncode_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 5ab975a5-f155-4336-a876-3801e55c18d2
   name: RhsJTool
+  info:
+    tag: repo_inaccessible
+- uuid: 5aed96f1-df88-482a-81d7-fb30b91491f6
+  name: RuntimeEnums
+  info:
+    tag: repo_inaccessible
+- uuid: 5b3ab26d-9607-527c-88ea-8fe5ba57cafe
+  name: LAMMPS_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5bbddadd-02c5-4713-84b8-97364418cca7
+  name: HerbInterpret
+  info:
+    tag: repo_inaccessible
+- uuid: 5befdd30-5572-5129-8422-0c92d957d47a
+  name: Hilbert
+  info:
+    tag: repo_inaccessible
+- uuid: 5c0c5c38-9dd5-11e8-3ab7-453bd9ce6c97
+  name: PredictMDFull
+  info:
+    tag: repo_inaccessible
+- uuid: 5c75c0c5-d41e-523d-9fce-fb93fc296351
+  name: OpenSSL_CLI_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5c9727c4-3b82-4ab3-b165-76e2eb971b08
+  name: ExponentialFamilyManifolds
   info:
     tag: repo_inaccessible
 - uuid: 5cda3ad9-a1fd-4c59-8c0c-bd6100725b84
@@ -947,8 +2359,172 @@
   name: S2TwTrans
   info:
     tag: repo_inaccessible
+- uuid: 5d2f8d0c-8a3d-45b5-9848-1a5a591485bf
+  name: LaTeXFigures
+  info:
+    tag: repo_inaccessible
+- uuid: 5d3b31b8-5173-11e9-1ac0-b32cb3db6653
+  name: EnhancedLogging
+  info:
+    tag: repo_inaccessible
+- uuid: 5d6e2f64-5c87-46b6-9ff4-cf810e78676d
+  name: PackedReadWrite
+  info:
+    tag: repo_inaccessible
+- uuid: 5dc68c43-2cae-45c1-9c9f-30d6e2b9e002
+  name: EasyCurl
+  info:
+    tag: repo_inaccessible
+- uuid: 5dd0a6cf-3d4b-4314-aa06-06d4e299bc89
+  name: OrdinaryDiffEqPDIRK
+  info:
+    tag: repo_inaccessible
+- uuid: 5dde4c60-e15a-59a1-8194-93aa09eef4ab
+  name: lapackpp_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5de271da-f4c9-48db-ba43-272b66d09ab8
+  name: PyCaesar
+  info:
+    tag: repo_inaccessible
+- uuid: 5decd0d0-8a5f-11ec-2edd-87b25cbcd17e
+  name: PeriodicSystems
+  info:
+    tag: repo_inaccessible
+- uuid: 5e0a28e4-193c-47fa-bbb8-9c901cc1ac2c
+  name: PETLION
+  info:
+    tag: repo_inaccessible
+- uuid: 5e107534-7145-4f8f-b06f-47a52840c895
+  name: EquivariantTensors
+  info:
+    tag: repo_inaccessible
+- uuid: 5ea003d0-0c30-4e5c-84d5-cc22d8d83890
+  name: RxEnvironments
+  info:
+    tag: repo_inaccessible
 - uuid: 5eb54613-e1e4-5bb3-a6bc-ad608a6b2204
   name: MackeyGlass
+  info:
+    tag: repo_inaccessible
+- uuid: 5ecd16ac-4fd8-43d2-a9dd-e22a5cebe6f6
+  name: Liblet
+  info:
+    tag: repo_inaccessible
+- uuid: 5ed2caf0-0e3c-46c8-ab7c-f67841b915e6
+  name: LocalPackageServer
+  info:
+    tag: repo_inaccessible
+- uuid: 5ef642bb-a58b-5208-ae37-583168b2c491
+  name: libxcrypt_legacy_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 5efb4b28-465d-11ec-08dc-2f64b808d2ca
+  name: RandomLinearAlgebraSolvers
+  info:
+    tag: repo_inaccessible
+- uuid: 605abd48-4d17-4660-b914-d4df33194460
+  name: LabelledGraphs
+  info:
+    tag: repo_inaccessible
+- uuid: 606afd24-34ae-43cb-b3df-40d2cc14ba61
+  name: Polarisation
+  info:
+    tag: repo_inaccessible
+- uuid: 61220d1e-4cdb-4fc3-9e6c-02bd7f830b85
+  name: ReactionNetworkEvolution
+  info:
+    tag: repo_inaccessible
+- uuid: 61252e1c-87f0-426a-93a7-3cdb1ed5a867
+  name: NeuralLyapunov
+  info:
+    tag: repo_inaccessible
+- uuid: 6136c539-28a5-5bf0-87cc-b183200dce32
+  name: blis_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 616915ae-382f-4b02-a1fe-078270f89671
+  name: PeptideProjections
+  info:
+    tag: repo_inaccessible
+- uuid: 6171b9fb-adbf-4751-adb9-5faded75de07
+  name: LowLevelFEM
+  info:
+    tag: repo_inaccessible
+- uuid: 61d0e4fa-4e73-5030-88a9-ae4c27b203dd
+  name: Taro
+  info:
+    tag: repo_inaccessible
+- uuid: 61e8395a-c5b7-11e9-0bf6-872d3bc7175c
+  name: TimeSeriesClustering
+  info:
+    tag: repo_inaccessible
+- uuid: 620c3add-4af5-46cb-82b5-af0dc8736fda
+  name: Ramps
+  info:
+    tag: repo_inaccessible
+- uuid: 62371590-58c0-453a-97c0-b8b10383e1ee
+  name: LearningHorse
+  info:
+    tag: repo_inaccessible
+- uuid: 6248df61-47b1-58fa-9b7c-c0f1183480ca
+  name: LevelDB
+  info:
+    tag: repo_inaccessible
+- uuid: 626f57eb-f6ca-464c-8f04-384fee2a352e
+  name: TraceFuns
+  info:
+    tag: repo_inaccessible
+- uuid: 62b44479-cb7b-5706-934f-f13b2eb2e645
+  name: CUDNN_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 62bfec6d-59d7-401d-8490-b29ee721c001
+  name: Runic
+  info:
+    tag: repo_inaccessible
+- uuid: 62ce6dcf-afc2-4b9e-bf6a-7a1353c578d1
+  name: NDPriorityQueues
+  info:
+    tag: repo_inaccessible
+- uuid: 62f0eae3-8c0e-4032-a621-7756092209e5
+  name: TreeTools
+  info:
+    tag: repo_inaccessible
+- uuid: 62fd8b95-f654-4bbd-a8a5-9c27f68ccd50
+  name: TensorCore
+  info:
+    tag: repo_inaccessible
+- uuid: 630b40c4-2f38-41ff-bcb3-b2c7232fed0d
+  name: HetaSimulator
+  info:
+    tag: repo_inaccessible
+- uuid: 637d83c4-b86a-5d90-b82d-5cf0573a8cfc
+  name: Xerces_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 63be7be4-0e17-5266-a559-5ce1673933d5
+  name: VCDiff_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 64299e68-9b01-4b5a-be04-faf1e4464d2a
+  name: RegistryBrowser
+  info:
+    tag: repo_inaccessible
+- uuid: 644c6a88-f588-41ff-bb6a-8a2790f1d811
+  name: Reflexicons
+  info:
+    tag: repo_inaccessible
+- uuid: 64580eba-dac5-4344-8efb-4882f76a30da
+  name: RvLineList
+  info:
+    tag: repo_inaccessible
+- uuid: 656d14af-56e4-5275-8e68-4e861d7b5043
+  name: AMGX_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 656e9f32-718a-11e9-002e-018f26774860
+  name: LabViewXML
   info:
     tag: repo_inaccessible
 - uuid: 657d34fe-3196-4c2a-8906-b42f7ce4733b
@@ -959,40 +2535,308 @@
   name: Demultiplex
   info:
     tag: repo_inaccessible
+- uuid: 65cff058-67fb-5034-9600-a8f6a0feb90b
+  name: Minuit2_Julia_Wrapper_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 65edd895-dc1e-518e-896c-dc343a3c7f2e
+  name: librealsense_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 66835562-f1c4-5586-a145-e564a3963a4b
   name: HighLevelTypes
+  info:
+    tag: repo_inaccessible
+- uuid: 6694b27a-7f2b-41da-9dea-d3f4793b6534
+  name: OnlineLogBinning
+  info:
+    tag: repo_inaccessible
+- uuid: 669c94d9-1f4b-4b64-b377-1aa079aa2388
+  name: OrdinaryDiffEqSSPRK
+  info:
+    tag: repo_inaccessible
+- uuid: 66b684e8-4fb7-5952-97a4-a506b1089b62
+  name: ZXing_CPP_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 66fc67db-0fc8-5d7f-9e27-c97754404be4
+  name: Xorg_dri2proto_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6727f6b2-98ea-5d0a-8239-2f72283ddb11
+  name: GibbsSeaWater_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 67377c25-f533-4d0b-9328-1721380cc1f1
+  name: ExtensibleEffects
+  info:
+    tag: repo_inaccessible
+- uuid: 6774de46-80ba-43f8-ba42-e41071ccfc5f
+  name: LieGroups
   info:
     tag: repo_inaccessible
 - uuid: 67be77aa-8e15-4dcd-9068-de5e3adff985
   name: BlindingIndex
   info:
     tag: repo_inaccessible
+- uuid: 67e192b9-39bd-51f2-a859-4b6827b2b1d7
+  name: TerminalImageViewer_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 67f7b941-d455-546b-99f0-07b665bf0aaf
+  name: NormalHermiteSplines
+  info:
+    tag: repo_inaccessible
+- uuid: 68071ed3-b3ed-4442-ae89-ae359c4518d1
+  name: Enigma
+  info:
+    tag: repo_inaccessible
+- uuid: 687fb87b-adea-59d5-9be9-82253b54685d
+  name: TypedCodeUtils
+  info:
+    tag: repo_inaccessible
+- uuid: 68e3532b-a499-55ff-9963-d1c0c0748b3a
+  name: Ncurses_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 691e61f8-6502-44a1-a143-5276a0aa0dc4
+  name: EPOCHInput
+  info:
+    tag: repo_inaccessible
+- uuid: 69ad847d-c018-4c53-a279-bc41134dba09
+  name: PlantUML
+  info:
+    tag: repo_inaccessible
+- uuid: 6a3da44c-33b1-5374-838f-bf0fbf92c29b
+  name: Xorg_xineramaproto_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6a61c59e-0e35-4be2-9181-ca44005fb204
+  name: Holidays
+  info:
+    tag: repo_inaccessible
+- uuid: 6a9148d9-5e9a-5935-86c8-72740ba3a7c7
+  name: PrePostCall
+  info:
+    tag: repo_inaccessible
+- uuid: 6a9dcc7b-3034-4be4-928d-8fe7b0a7c174
+  name: ThermiaAPI
+  info:
+    tag: repo_inaccessible
+- uuid: 6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2
+  name: TensorOperations
+  info:
+    tag: repo_inaccessible
 - uuid: 6acb60cf-2fd4-4316-b77c-a68f9bfdd616
   name: Heuristics
+  info:
+    tag: repo_inaccessible
+- uuid: 6af1007f-d462-454c-a7f3-5589aa52c87f
+  name: PhaseFields
+  info:
+    tag: repo_inaccessible
+- uuid: 6b20a5d4-3c6c-44cd-883b-1480592d72be
+  name: PSSFSS
+  info:
+    tag: repo_inaccessible
+- uuid: 6b39ad65-d4e1-4a6a-9d75-56e3fde28494
+  name: ReloadableMiddleware
+  info:
+    tag: repo_inaccessible
+- uuid: 6b659922-2939-5935-a7a2-1bdd48c7820f
+  name: SIRIUS_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6b86205d-155a-4b14-b82d-b6a149ea78f2
+  name: LimberJack
+  info:
+    tag: repo_inaccessible
+- uuid: 6bc1fdef-f8f4-516b-84c1-6f5f86a35b20
+  name: Xorg_libXmu_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6bd458e5-1694-412f-b601-3a888375c491
+  name: ReinforcementLearningExperiments
+  info:
+    tag: repo_inaccessible
+- uuid: 6bf4ee07-1766-4a3a-9e7e-3ffe73513617
+  name: LogisticROC
   info:
     tag: repo_inaccessible
 - uuid: 6c2f61f8-fafd-4db0-a534-9240d45f7a9c
   name: CalculatedABC
   info:
     tag: repo_inaccessible
+- uuid: 6c5fa084-3dbe-5c56-adb0-3ea4e9e901c0
+  name: librsync_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6c8e8166-39d2-5c7b-a0d9-a6b5560fbba2
+  name: PHYLIP_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6cc4b21d-cec8-58d5-a373-5cd579ce5971
+  name: PiCraft
+  info:
+    tag: repo_inaccessible
+- uuid: 6cca9763-2e92-47b9-bf40-ccfe60418944
+  name: Taproots
+  info:
+    tag: repo_inaccessible
+- uuid: 6cdc7f73-28fd-5e50-80fb-958a8875b1af
+  name: OpenBLASConsistentFPCSR_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6cef90fc-eb55-4a2a-97d0-7ecce2b738fe
+  name: TexasHoldem
+  info:
+    tag: repo_inaccessible
 - uuid: 6cf45cad-7870-4d4d-b567-e05cd8632aa3
   name: IntensityScans
+  info:
+    tag: repo_inaccessible
+- uuid: 6cfef11d-eb86-5696-bb50-1df673c3ffa1
+  name: TDLib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6d4de0fb-32d9-4c65-aac1-cc9ed8b94b1a
+  name: LinRegOutliers
   info:
     tag: repo_inaccessible
 - uuid: 6d7a0864-9fbc-11e9-1427-7bb65d6eba8e
   name: RandomizedPropertyTest
   info:
     tag: repo_inaccessible
+- uuid: 6dcfc07b-8fa8-55f0-94e3-d46e2fec2cdb
+  name: NMEA
+  info:
+    tag: repo_inaccessible
+- uuid: 6dd1b50a-3aae-11e9-10b5-ef983d2400fa
+  name: Tulip
+  info:
+    tag: repo_inaccessible
+- uuid: 6ddf540b-e790-4651-beb9-197bf739545d
+  name: NoisyQuantumComputerSimulator
+  info:
+    tag: repo_inaccessible
+- uuid: 6de9746b-f93d-5813-b365-ba18ad4a9cf3
+  name: Qt6Svg_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6dfc96c8-e1b7-449c-9871-5de18f44e5a6
+  name: ToggleMenus
+  info:
+    tag: repo_inaccessible
+- uuid: 6e0fd8a8-0703-4e38-9954-b94da054c472
+  name: PQEcolaPoint
+  info:
+    tag: repo_inaccessible
+- uuid: 6e255fe7-ae48-41c3-9a63-27b032ae9e75
+  name: RegistryTimeTraveler
+  info:
+    tag: repo_inaccessible
+- uuid: 6e93e0f3-59a5-426f-9354-1ff93716b9b4
+  name: NDimensionalSparseArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 6ea5c882-2ec3-5826-84d1-aff636352c13
+  name: OpenPolicyAgent_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 6ede814e-e28c-40c4-8292-4ab1886a440f
   name: PonchonSavarit
+  info:
+    tag: repo_inaccessible
+- uuid: 6f0a0517-dbc2-4a7a-8a20-99ae7f27e911
+  name: OptimizationGCMAES
+  info:
+    tag: repo_inaccessible
+- uuid: 6f6f4c20-e954-4c6d-a185-c2fbf890196e
+  name: NestedGraphMakie
+  info:
+    tag: repo_inaccessible
+- uuid: 6f74fd91-2978-43ad-8164-3af8c0ec0142
+  name: NetworkInterfaceControllers
+  info:
+    tag: repo_inaccessible
+- uuid: 6fae04a5-42e9-4d0c-90a8-26d1a9434b6b
+  name: PyThermo
+  info:
+    tag: repo_inaccessible
+- uuid: 6fcef0ae-1c05-5fc1-b206-1cf994addbad
+  name: cif_api_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 6fd26c76-9c3a-4270-bdc3-4821c052fe8b
+  name: TableEdit
+  info:
+    tag: repo_inaccessible
+- uuid: 6ff9205f-2186-4c35-b9d7-b7843b877754
+  name: PortHamiltonianSystems
+  info:
+    tag: repo_inaccessible
+- uuid: 7031d0ef-c40d-4431-b2f8-61a8d2f650db
+  name: LazyGrids
+  info:
+    tag: repo_inaccessible
+- uuid: 705708ad-e62c-5f47-9095-732127600058
+  name: Hanabi
+  info:
+    tag: repo_inaccessible
+- uuid: 70823c38-4688-527f-81c8-b284cebe458d
+  name: Shoco_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 708e8d2e-5bbf-55cc-b455-510884a304cf
+  name: CVRPSEP_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 70eefb7d-4b42-471c-acf6-aaa17e297c50
+  name: TensArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 7106de7a-f406-5ef1-84f7-3345f7341bd2
+  name: LibMPDec_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7127f3d6-1721-46bc-bb38-8fc703dd438e
+  name: NeXLUncertainties
+  info:
+    tag: repo_inaccessible
+- uuid: 714382d7-300d-5cff-9119-eab393adbf23
+  name: HighFive_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 71a25704-ed10-46ea-9c76-1c441b891988
+  name: Ludwig
   info:
     tag: repo_inaccessible
 - uuid: 71b753c1-733f-4418-b8b2-c1bb484780f7
   name: YahooFinance
   info:
     tag: repo_inaccessible
+- uuid: 71cc7b0d-25ae-54b3-b08b-36363cca7c2f
+  name: VMEC_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 71ce3a53-bc01-4ee9-b4af-5ce581ee5149
+  name: Pitches
+  info:
+    tag: repo_inaccessible
+- uuid: 7200193e-83a8-5a55-b20d-5d36d44a0795
+  name: Twiddle
+  info:
+    tag: repo_inaccessible
 - uuid: 7207f3b3-84f3-4c9f-b950-dd331d8ad5c8
   name: MaxwellInterface
+  info:
+    tag: repo_inaccessible
+- uuid: 7240a794-28ba-5199-b477-df5fe5cf6155
+  name: Oracle
+  info:
+    tag: repo_inaccessible
+- uuid: 7243133f-43d8-5620-bbf4-c2c921802cf3
+  name: NetCDF_jll
   info:
     tag: repo_inaccessible
 - uuid: 727e6d20-b764-4bd8-a329-72de5adea6c7
@@ -1021,6 +2865,50 @@
        * [new branch]          add-sublibrary-downgrade-ci -> origin/add-sublibrary-downgrade-ci
        * [n...
     version: '"1.12.5"'
+- uuid: 72a4bdf2-be5e-5c84-b157-f1dc2927f791
+  name: MAFFT_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 72d370af-b0e4-5787-9b36-2e8c6f54fb93
+  name: Clang_assert_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 730a473e-e451-46cc-9004-d443de66d173
+  name: OliveDocBrowser
+  info:
+    tag: repo_inaccessible
+- uuid: 731186ca-8d62-57ce-b412-fbd966d074cd
+  name: RecursiveArrayTools
+  info:
+    tag: repo_inaccessible
+- uuid: 7322c9eb-3a94-563c-b3a7-b438160070c5
+  name: SDL12_compat_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 732b1220-b3b1-47df-92b9-9aafce73c71b
+  name: LightenQP
+  info:
+    tag: repo_inaccessible
+- uuid: 73480bc8-48a2-41cc-880f-208b490ccf65
+  name: RationalFunctionFields
+  info:
+    tag: repo_inaccessible
+- uuid: 735ffce8-66c7-5b61-a90f-89c46d1a79d5
+  name: TrafficAssignment
+  info:
+    tag: repo_inaccessible
+- uuid: 73717f16-8662-5d85-9e79-a3c1fc1c8861
+  name: ABC_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7381d214-3001-5784-8d9a-8eb8e8688076
+  name: fastlowess_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 73af2aaf-3f58-5b29-82a9-435ecf827f5b
+  name: PotentialFlow
+  info:
+    tag: repo_inaccessible
 - uuid: 73b108b0-3f95-4bd2-8c7c-23af2537d260
   name: AuthGG
   info:
@@ -1029,20 +2917,172 @@
   name: NuclearCalculator
   info:
     tag: repo_inaccessible
+- uuid: 73ec333a-e3df-5994-9c7a-5ef2077ce03e
+  name: TypeStability
+  info:
+    tag: repo_inaccessible
+- uuid: 74123790-a849-591a-9c73-46a70652358a
+  name: cppcheck_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 741b9549-f6ed-4911-9fbf-4a1c0c97f0cd
+  name: Legolas
+  info:
+    tag: repo_inaccessible
+- uuid: 748b5efa-ed57-4836-b183-a38105a77fdd
+  name: PostgresORM
+  info:
+    tag: repo_inaccessible
+- uuid: 74c39be2-f71b-5dd1-bffc-f479ee282a63
+  name: GAP_pkg_kbmag_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 74f4ad05-5f81-5a78-8197-4e83b84c9c17
+  name: GAP_pkg_normalizinterface_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 75036a29-a2ca-4eb4-a964-4c35e636f9a9
+  name: Hestia
+  info:
+    tag: repo_inaccessible
 - uuid: 75185e45-e16e-4c90-beee-275c7fc4acba
   name: BigG
+  info:
+    tag: repo_inaccessible
+- uuid: 755d2ad4-7ed4-4791-99e6-179f2b4884dd
+  name: ReverseStackTraces
+  info:
+    tag: repo_inaccessible
+- uuid: 7567bd1e-91b2-4c89-85ad-d5bd41b820dc
+  name: LoggingFacilities
+  info:
+    tag: repo_inaccessible
+- uuid: 756832fe-a726-4697-a3e3-9d94f93caec2
+  name: OpenLocationCode
+  info:
+    tag: repo_inaccessible
+- uuid: 75b8dd0a-07b1-5bf5-8859-e3022e43e992
+  name: CUDNN_CUDA92_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 75f66a49-58fc-43e3-9173-2340726368f7
+  name: OrdinaryDiffEqImplicitTableaus
   info:
     tag: repo_inaccessible
 - uuid: 760a73f4-dca7-4de8-943d-18a66a2ce654
   name: HiddenMarkovModelReaders
   info:
     tag: repo_inaccessible
+- uuid: 760fc936-9fa0-4281-9c1a-468957eedc89
+  name: OrdinaryDiffEqOperatorSplitting
+  info:
+    tag: repo_inaccessible
+- uuid: 7627cfbf-f290-59f7-b5e8-595c7b62b918
+  name: GCCBootstrap_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 766d9fe0-8bda-4b1c-9671-3009ced25364
   name: RestApis
   info:
     tag: repo_inaccessible
+- uuid: 76b0de8b-5c4b-48ef-a724-914b33ca988d
+  name: TestItemDetection
+  info:
+    tag: repo_inaccessible
+- uuid: 76d26698-d9ba-5ca1-ae24-4ac9393d02a0
+  name: libnode_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 7743456c-e0c5-4477-a2b6-196c240b0368
   name: PeaceCypher
+  info:
+    tag: repo_inaccessible
+- uuid: 775d8421-ae54-5f59-bb96-f071f11d00ce
+  name: Skia_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 77ce9b8e-ecf5-45d1-bd8a-d31f384f2f95
+  name: OpenFHE
+  info:
+    tag: repo_inaccessible
+- uuid: 780baa95-dd42-481b-93db-80fe3d88832c
+  name: RandomFeatureMaps
+  info:
+    tag: repo_inaccessible
+- uuid: 781609d7-10c4-51f6-84f2-b8444358ff6d
+  name: GMP_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 782cc49c-e073-530d-b5fe-579a70b042cc
+  name: nlcglib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 783c9a47-75a3-44ac-a16b-f1ab7b3acf04
+  name: TinyHugeNumbers
+  info:
+    tag: repo_inaccessible
+- uuid: 784df20b-8885-49bf-9cd9-555b1fa67e21
+  name: Twitch
+  info:
+    tag: repo_inaccessible
+- uuid: 78637076-15f0-5053-8c59-c1671873564b
+  name: SoapyLiteXM2SDR_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 78759bb8-e702-4122-98f4-c2c710342d47
+  name: OverpassAPI
+  info:
+    tag: repo_inaccessible
+- uuid: 78a364fa-1a3c-552a-b4bb-8fa0f9c1fcca
+  name: Chemfiles_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 78b55507-aeef-58d4-861c-77aaff3498b1
+  name: Gettext_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 78c6b45d-5eaf-5d68-bcfb-a5a2cb06c27f
+  name: glmnet_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 78dcde23-ec64-5e07-a917-6fe22bbc0f45
+  name: Mesa_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 78faba9b-a54b-441f-8118-62407cbe4e59
+  name: HChebInterp
+  info:
+    tag: repo_inaccessible
+- uuid: 79098fc4-a85e-5d69-aa6a-4863f24498fa
+  name: Rmath
+  info:
+    tag: repo_inaccessible
+- uuid: 79566f03-f7ae-471c-a05f-4700599937bd
+  name: ToyPublicKeys
+  info:
+    tag: repo_inaccessible
+- uuid: 795d4caa-f5a7-4580-b5d8-c01d53451803
+  name: ReadOnlyDicts
+  info:
+    tag: repo_inaccessible
+- uuid: 7998695d-6960-4d3a-85c4-e1bceb8cd856
+  name: NLPModelsTest
+  info:
+    tag: repo_inaccessible
+- uuid: 7a12625a-238d-50fd-b39a-03d52299707e
+  name: LinearMaps
+  info:
+    tag: repo_inaccessible
+- uuid: 7a1ad169-5d6d-5d19-843c-e04c00abb03b
+  name: tree_sitter_json_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7a3f4937-0cad-4220-a144-0330815b2118
+  name: RealTimeAudioDiffEq
+  info:
+    tag: repo_inaccessible
+- uuid: 7a4b51ec-a40a-52db-952c-916e8965abc8
+  name: Prodigal_jll
   info:
     tag: repo_inaccessible
 - uuid: 7a57a42e-76ec-4ea3-a279-07e840d6d9cf
@@ -1057,20 +3097,204 @@
       removing `.git'...
       rm: cannot remove '/home/runner/work/_temp/git-checkout-tmp-36hbeLh3/clone/.git': Directory not empty
     version: '"0.15.1"'
+- uuid: 7aca2e03-f7e2-4192-9ec8-f4ca66d597fb
+  name: NodesAndModes
+  info:
+    tag: repo_inaccessible
+- uuid: 7acf609c-83a4-11e9-1ffb-b912bcd3b04a
+  name: LightGBM
+  info:
+    tag: repo_inaccessible
+- uuid: 7add5ba3-2f88-524e-9cd5-f83b8a55f7b8
+  name: Libgpg_error_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7aeabb7e-fcf6-4882-8a40-b3e2d665735e
+  name: OliveReadOnly
+  info:
+    tag: repo_inaccessible
+- uuid: 7bb39b10-f246-11ea-2456-25a63198e074
+  name: RiskAdjustedLinearizations
+  info:
+    tag: repo_inaccessible
+- uuid: 7c09cfe3-afe2-5798-bcc9-d6b7fecfdca5
+  name: Xorg_util_macros_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7c138fc3-9327-4ab8-b9a3-c864f3475625
+  name: NeuralPDELogging
+  info:
+    tag: repo_inaccessible
+- uuid: 7cf1493d-886e-405c-b582-53b49fa147b6
+  name: RayTraceHeatTransfer
+  info:
+    tag: repo_inaccessible
+- uuid: 7d2ed363-0947-51cb-8ada-ce58eccc042f
+  name: re2c_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7da25872-d9ce-5375-a4d3-7a845f58efdd
+  name: Osi_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7dab568b-3cf7-4f91-a977-b4631dfca174
+  name: RadialPiecewisePolynomials
+  info:
+    tag: repo_inaccessible
+- uuid: 7dc2201c-deb4-56f8-b3a0-2ab29a2c732a
+  name: POMDPSolve_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7dc7d583-5213-5900-9003-a99bbb4d6a76
+  name: TinyXML_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 7ddc1c72-b467-4b56-ac1e-188734e3cfa7
   name: MaxwellBase
+  info:
+    tag: repo_inaccessible
+- uuid: 7e02d93a-ae51-4f58-b602-d97af76e3b33
+  name: OptimalTransport
+  info:
+    tag: repo_inaccessible
+- uuid: 7e11003c-6902-4de6-b30c-de11577d87f1
+  name: NetDecOPF
+  info:
+    tag: repo_inaccessible
+- uuid: 7e133797-8c8e-49d9-acf3-b153daa40e06
+  name: HybridDynamicModels
+  info:
+    tag: repo_inaccessible
+- uuid: 7e49a35a-f44a-4d26-94aa-eba1b4ca6b47
+  name: RuntimeGeneratedFunctions
+  info:
+    tag: repo_inaccessible
+- uuid: 7e4e0a2a-738e-4919-8f64-2391d105e660
+  name: LibAwsS3
+  info:
+    tag: repo_inaccessible
+- uuid: 7e85a9e7-c65d-495e-8ec0-baa06f07ebbf
+  name: LearningSchedules
+  info:
+    tag: repo_inaccessible
+- uuid: 7e88e5ca-120e-58e7-9660-b2187fd466c0
+  name: SDL2_mixer_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7ed9a814-9cab-54e9-8e9e-d9e95b4d61b1
+  name: SSGraphBLAS_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 7f16798b-0e18-40de-98af-932948254698
+  name: Hedgehog
+  info:
+    tag: repo_inaccessible
+- uuid: 7f51dc2b-bb24-59f8-b771-bb1490e4195d
+  name: NUMA_jll
   info:
     tag: repo_inaccessible
 - uuid: 80e77ffc-c35e-544b-8e57-5accc6d0de25
   name: StanDataFrames
   info:
     tag: repo_inaccessible
+- uuid: 8115cc2e-fb29-5d71-b5cb-a4fb1c5dcd4c
+  name: OptimPack_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 81561df1-22b2-57e5-9f67-03318e1fa9d9
+  name: rcodesign_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 815b9798-8dd0-5549-95cc-3cf7d01bce66
+  name: ThriftJuliaCompiler_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 817f1d60-ba6b-4fd5-9520-3cf149f6a823
+  name: ReTestItems
+  info:
+    tag: repo_inaccessible
+- uuid: 818ab7a1-5177-5f44-ba99-6e845030c6cb
+  name: HDF4_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 81d43f40-5267-43b7-ae1c-8b967f377efa
+  name: Noise
+  info:
+    tag: repo_inaccessible
+- uuid: 81d7bfe7-808b-4a8e-bf67-c3577adb378e
+  name: REoptPlots
+  info:
+    tag: repo_inaccessible
 - uuid: 8243b59d-e2f9-4d7c-a464-631a5f298ce7
   name: MLJScikitLearn
   info:
     tag: repo_inaccessible
+- uuid: 82994860-12e5-56b1-9971-c34819be692e
+  name: libclangex_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 82bedeac-9837-5b62-883a-b5b3b7c811c5
+  name: Jute
+  info:
+    tag: repo_inaccessible
+- uuid: 82daab19-8fc9-5c1e-9f69-37d6aaa0269b
+  name: RigidBodyTreeInspector
+  info:
+    tag: repo_inaccessible
+- uuid: 82e1c212-e1a2-49d2-b26a-a31d6968e3bd
+  name: LinearMPC
+  info:
+    tag: repo_inaccessible
+- uuid: 830ae420-d14d-11e8-2f94-6b071437414d
+  name: JenaAtomicCalculator
+  info:
+    tag: repo_inaccessible
+- uuid: 84687f94-9f67-4744-9d95-d64e07ea2a3b
+  name: JLD2Bzip2
+  info:
+    tag: repo_inaccessible
+- uuid: 8497c1d1-af72-4391-8d22-bdd566511a1c
+  name: NumberTheoreticTransforms
+  info:
+    tag: repo_inaccessible
+- uuid: 85e77ee8-8498-5435-b1ed-98efe5aa7d59
+  name: LibFTD2XX
+  info:
+    tag: repo_inaccessible
+- uuid: 85f0d8ed-5b39-5caa-b1ae-7472de402361
+  name: SPIRV_LLVM_Translator_unified_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 85f775e4-5132-11e9-29db-1f7edb98f041
   name: DutyCycles
+  info:
+    tag: repo_inaccessible
+- uuid: 86e2ceac-6d26-4fc9-a89c-301e41ecded2
+  name: RandomizedQuasiMonteCarlo
+  info:
+    tag: repo_inaccessible
+- uuid: 86f7a689-2022-50b4-a561-43c23ac3c673
+  name: NamedArrays
+  info:
+    tag: repo_inaccessible
+- uuid: 872c559c-99b0-510c-b3b7-b6c96a88d5cd
+  name: NNlib
+  info:
+    tag: repo_inaccessible
+- uuid: 87da34d4-7b1b-5a94-8376-8cb65bf3132c
+  name: Openresty_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 87f02e12-f6bc-4038-9bdd-797fa8455fab
+  name: LiteHF
+  info:
+    tag: repo_inaccessible
+- uuid: 87fe0de2-c867-4266-b59a-2f0a94fc965b
+  name: LineSearch
+  info:
+    tag: repo_inaccessible
+- uuid: 8855df87-3ca1-5a3d-a68b-4f0ddc198ba8
+  name: libsigcpp_jll
   info:
     tag: repo_inaccessible
 - uuid: 88b3b2ed-56ea-4eac-b1de-e42ac45953c8
@@ -1085,32 +3309,160 @@
   name: ArtGallery
   info:
     tag: repo_inaccessible
+- uuid: 88db161d-10c7-51e6-aa56-e32ecf738a46
+  name: tree_sitter_python_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 88f3d70c-3a4c-11ed-1389-4902f2e49de8
+  name: Orbits
+  info:
+    tag: repo_inaccessible
+- uuid: 88f46535-a3c0-54f4-998e-4320a1339f51
+  name: Snowball_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 88fa7841-ef32-4516-bb70-c6ec135699d9
   name: GilbertCurves
+  info:
+    tag: repo_inaccessible
+- uuid: 891f6deb-a4f5-4bc5-a2e3-1e8f649cdd2c
+  name: OceanStateEstimation
+  info:
+    tag: repo_inaccessible
+- uuid: 896acac2-5fe1-47fe-8ead-27e3a9bc5c85
+  name: LoopFieldCalc
+  info:
+    tag: repo_inaccessible
+- uuid: 89a19a88-f0c6-5ede-9587-7a2c5ccf09c7
+  name: avr_binutils_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 89bda076-bce5-4f1c-845f-551c83cdda9a
+  name: OrdinaryDiffEqAdamsBashforthMoulton
   info:
     tag: repo_inaccessible
 - uuid: 89d1cb86-bf84-46ce-bdfb-ab7f830013b1
   name: Psychrometrics
   info:
     tag: repo_inaccessible
+- uuid: 8a12f9b3-8daf-4285-9aa6-f1d88d857ae8
+  name: LatticeQCD
+  info:
+    tag: repo_inaccessible
+- uuid: 8b137802-21d4-43b8-8610-b92ef2bbc330
+  name: LambdaMaker
+  info:
+    tag: repo_inaccessible
+- uuid: 8b1691f7-6002-537d-bdf7-c6203599dc08
+  name: nats_server_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 8b390c8a-e41e-419b-b3a5-595c9a4d2b26
+  name: LinearElasticity
+  info:
+    tag: repo_inaccessible
+- uuid: 8b6db2d4-7670-4922-a472-f9537c81ab66
+  name: OpenML
+  info:
+    tag: repo_inaccessible
+- uuid: 8c6ce2ba-659c-5ec7-ba4c-37596cf1f22a
+  name: rocSPARSE_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 8cc58f20-0515-4f53-8f08-ac69cfb2ea7c
   name: AstroMeasurements
+  info:
+    tag: repo_inaccessible
+- uuid: 8cf9e0f4-2236-4022-885f-e952f37830b5
+  name: RandFieldStructFuncs
+  info:
+    tag: repo_inaccessible
+- uuid: 8d0e9305-38f4-5c97-8ceb-e1429a1a2d0c
+  name: Nuklear
   info:
     tag: repo_inaccessible
 - uuid: 8d120385-201d-43c1-a82b-e15c39505f50
   name: SqState
   info:
     tag: repo_inaccessible
+- uuid: 8d59b228-a473-5ba1-8a23-3bbe368b3f30
+  name: Polymers_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 8da1a5bb-246c-59c5-9ba1-a6804f8e92f0
+  name: libiio_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 8e072fc4-01f8-44fb-b9dc-f9336c367e6b
   name: TurbulenceConvection
+  info:
+    tag: repo_inaccessible
+- uuid: 8e12dfa0-5d10-4b69-81ee-8efd2627538b
+  name: Oura
   info:
     tag: repo_inaccessible
 - uuid: 8e55fee6-e67b-4637-994c-810009a3f62d
   name: Simpson
   info:
     tag: repo_inaccessible
+- uuid: 8e850b90-86db-534c-a0d3-1478176c7d93
+  name: libblastrampoline_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 8ef0a80b-9436-5d2c-a485-80b904378c43
+  name: Languages
+  info:
+    tag: repo_inaccessible
 - uuid: 8f1571ae-b3a1-52af-8ab1-32258739efdb
   name: StanMCMCChain
+  info:
+    tag: repo_inaccessible
+- uuid: 8f1865be-045e-5c20-9c9f-bfbfb0764568
+  name: ZeroMQ_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 8f257efb-743c-4ebc-8197-d291a1f743b4
+  name: OpenPolicyAgent
+  info:
+    tag: repo_inaccessible
+- uuid: 8f464e1e-25db-479f-b0a5-b7680379e03f
+  name: WaveletsExt
+  info:
+    tag: repo_inaccessible
+- uuid: 8f4cd466-d9e8-5461-9379-2aebd0b2c3e0
+  name: KMA_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 8f53af78-0b28-57f6-844a-4720ec1bfefc
+  name: aws_c_http_jq_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 8fa3689e-f0b9-5420-9873-adf6ccf46f2d
+  name: PETSc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 8faf48c0-8b73-11e9-0e63-2155955bfa4d
+  name: NeuralNetDiffEq
+  info:
+    tag: repo_inaccessible
+- uuid: 8fca9ca2-e7a1-5ccf-8c05-43be5a78664f
+  name: NodeJS_22_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 90294288-587b-4593-a557-cb1db79f8ded
+  name: LaTeXCompilers
+  info:
+    tag: repo_inaccessible
+- uuid: 904d977b-046a-4731-8b86-9235c0d1ef02
+  name: NumericalEarth
+  info:
+    tag: repo_inaccessible
+- uuid: 90902b46-5383-4c97-8f8a-bddf608a7bc6
+  name: ROCCurves
+  info:
+    tag: repo_inaccessible
+- uuid: 90af1822-8dd1-5078-b228-f487b1f02c31
+  name: StreamVByte_jll
   info:
     tag: repo_inaccessible
 - uuid: 910541cc-34bb-47a1-b3fd-5231dc2195e0
@@ -1130,8 +3482,64 @@
        * [new branch]      dependa    -> origin/dependa
        * [new branch]      main       -> ori...
     version: '"0.2.0"'
+- uuid: 91981db5-b9f1-5001-b8b4-81f16e12aa66
+  name: CUDNN_CUDA100_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 920c060a-fbb2-54e8-bd70-fc4b6562f351
+  name: rocm_smi_lib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 92481ed7-9fb7-40fd-80f2-46fd0f076581
+  name: LinearRegression
+  info:
+    tag: repo_inaccessible
+- uuid: 9255714d-24a7-4b30-8ea3-d46a97f7e13b
+  name: LibDeflate
+  info:
+    tag: repo_inaccessible
+- uuid: 925886fa-5bf2-5e8e-b522-a9147a512338
+  name: OnlineStatsBase
+  info:
+    tag: repo_inaccessible
+- uuid: 932f4081-3d7e-4a99-9bcb-8a566d3812cb
+  name: RcloneInterface
+  info:
+    tag: repo_inaccessible
+- uuid: 935fb764-8cf2-53bf-bb30-45bb1f8bf724
+  name: Xorg_libXcursor_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 93acb638-a083-5915-8dce-d129bc6a3f59
+  name: LikelihoodProfiler
+  info:
+    tag: repo_inaccessible
+- uuid: 9417aab8-0bea-54fa-920e-1be37e111af1
+  name: mmtk_julia_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 94a1c18c-0d95-461b-994e-5c3447d2ff66
+  name: RichDEM
+  info:
+    tag: repo_inaccessible
 - uuid: 94afc05e-a560-4acd-8e11-a7bb2c092f45
   name: MeshFinder
+  info:
+    tag: repo_inaccessible
+- uuid: 954431ae-a746-4b0b-bf75-a8381ca95b21
+  name: LineIntegralConvolution
+  info:
+    tag: repo_inaccessible
+- uuid: 95f667b2-49e0-4955-80bd-390d74d178c7
+  name: NoSleep
+  info:
+    tag: repo_inaccessible
+- uuid: 962878d8-9763-11ee-8c14-fbf60c98afae
+  name: WrapIt
+  info:
+    tag: repo_inaccessible
+- uuid: 963ca19c-1af9-4710-a933-a2a16c7180a2
+  name: ReproducibleLiteratePage
   info:
     tag: repo_inaccessible
 - uuid: 963d7961-7533-4a80-bf6b-d3653d506006
@@ -1362,8 +3770,28 @@
   name: Tower
   info:
     tag: repo_inaccessible
+- uuid: 966baf2c-d1f1-5710-8d7e-4d538f29c110
+  name: Agama_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 969c3ef0-f950-5ada-826d-ee9b7b636380
+  name: Qemu_static_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 971a2a11-349f-5eb6-a4bf-bc548fa92b3a
+  name: Kissat_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 97e8ad84-0770-496d-b901-33f7e6c3230c
   name: RandomTweaks
+  info:
+    tag: repo_inaccessible
+- uuid: 984bce1d-4616-540c-a9ee-88d1112d94c9
+  name: LambertW
+  info:
+    tag: repo_inaccessible
+- uuid: 98581153-e998-4eef-8d0d-5ec2c052313d
+  name: NDTools
   info:
     tag: repo_inaccessible
 - uuid: 986b9465-75d6-44a0-94a2-e5aa8586ae9d
@@ -1402,12 +3830,52 @@
        * [new branch]      operator   -> origin/operator
        ...
     version: '"0.14.2"'
+- uuid: 98999733-62a0-5dba-8ad6-4caa993b519a
+  name: Netpbm_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 98b081ad-f1c9-55d3-8b20-4c87d4299306
+  name: Literate
+  info:
+    tag: repo_inaccessible
+- uuid: 98e50ef6-434e-11e9-1051-2b60c6c9e899
+  name: JuliaFormatter
+  info:
+    tag: repo_inaccessible
+- uuid: 995e1dad-72e3-4b97-b122-7deaeb8b44f9
+  name: QXTns
+  info:
+    tag: repo_inaccessible
 - uuid: 99e47ffd-a99c-4d17-8b51-d4481b168213
   name: IndirectTrajOpt
   info:
     tag: repo_inaccessible
+- uuid: 9a2c21bd-3a47-402d-9113-8faf9a0ee114
+  name: NonlinearSolveQuasiNewton
+  info:
+    tag: repo_inaccessible
 - uuid: 9ae74011-d0f3-412c-a047-ea779e11a931
   name: BlueNoise
+  info:
+    tag: repo_inaccessible
+- uuid: 9aeb927a-4695-514f-a259-621a69f20ec0
+  name: mpif_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9b22aa7e-b0d0-4fe8-9c3b-2b8bf774f735
+  name: RoomAcoustics
+  info:
+    tag: repo_inaccessible
+- uuid: 9b64493d-8859-5bf3-93d7-7c32dd38186f
+  name: Tar_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9b6a1cb2-ee7e-5f22-a98b-ab382f85f133
+  name: AMReX_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9b8beb19-0777-58c6-920b-28f749fee4d3
+  name: JSONWebTokens
   info:
     tag: repo_inaccessible
 - uuid: 9bd120df-771c-42ec-88b3-c561e7179d1b
@@ -1418,8 +3886,64 @@
   name: BeeDeeDee
   info:
     tag: repo_inaccessible
+- uuid: 9c18f8f7-1c8d-5a34-9fc2-3ecefed5c104
+  name: Perple_X_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9c30249a-7e08-11ec-0e99-a323e937e79f
+  name: RAI
+  info:
+    tag: repo_inaccessible
+- uuid: 9c53b654-4175-57d2-a160-8980ed551c15
+  name: Pangomm_jll
+  info:
+    tag: repo_inaccessible
 - uuid: 9c72e466-2585-4cd6-b2fc-9c3ab070dc04
   name: ParGOGraphs
+  info:
+    tag: repo_inaccessible
+- uuid: 9c7f617c-f299-5d18-afb6-044c7798b3d0
+  name: tblis_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9c87d999-769b-4741-85b2-6f554d09e731
+  name: OndaEDFSchemas
+  info:
+    tag: repo_inaccessible
+- uuid: 9cc047cb-c261-5740-88fc-0cf96f7bdcc7
+  name: Ipopt_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9ce75daa-2788-5e2c-ba1d-cf8c48367b27
+  name: CSDP_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9d33f173-f162-446b-a684-c368130999bf
+  name: RestInterfaces
+  info:
+    tag: repo_inaccessible
+- uuid: 9de5dc81-f971-414a-927b-652b2f41c539
+  name: KitePodModels
+  info:
+    tag: repo_inaccessible
+- uuid: 9e19721c-8a1a-4e7b-ae00-562464868f98
+  name: Wrangling
+  info:
+    tag: repo_inaccessible
+- uuid: 9e63c3cd-fb65-5a20-944b-2e08a37f68f9
+  name: neofetch_jll
+  info:
+    tag: repo_inaccessible
+- uuid: 9e6618a4-6605-11ea-2880-e931cf774ea8
+  name: Qaintessent
+  info:
+    tag: repo_inaccessible
+- uuid: 9e74470a-8ab1-4f32-b878-f32ebd236ea2
+  name: WinchControllers
+  info:
+    tag: repo_inaccessible
+- uuid: 9e84b91c-71b0-5f24-acdc-49dbe8049396
+  name: ReferenceBLAS32_jll
   info:
     tag: repo_inaccessible
 - uuid: 9ee19b4e-b9c3-5130-be0e-e5859ba17e49
@@ -1430,32 +3954,200 @@
   name: McCabeThiele
   info:
     tag: repo_inaccessible
+- uuid: 9f1bac23-581c-4ebc-bd36-df60d764636d
+  name: WoodburyFactorizations
+  info:
+    tag: repo_inaccessible
+- uuid: 9f3a1415-1112-405b-ae89-c61daf9872bd
+  name: WasmTarget
+  info:
+    tag: repo_inaccessible
+- uuid: 9f57e263-0b3d-5e2e-b1be-24f2bb48858b
+  name: WignerSymbols
+  info:
+    tag: repo_inaccessible
+- uuid: 9f67e06f-6394-43be-a72d-a2000081c01d
+  name: QEPOptimize
+  info:
+    tag: repo_inaccessible
+- uuid: 9fbee185-08cf-5df3-934a-20f446aa0bf6
+  name: NNFEM
+  info:
+    tag: repo_inaccessible
 - uuid: 9ff941b3-d743-4c60-9dd5-2748db76006b
   name: AlgorithmsCollection
+  info:
+    tag: repo_inaccessible
+- uuid: a0053b83-2858-41a9-bfb0-1030075bb8f6
+  name: NEFTInterface
   info:
     tag: repo_inaccessible
 - uuid: a023d85a-3a31-486e-88e8-289a01a8187b
   name: MarketRisk
   info:
     tag: repo_inaccessible
+- uuid: a0afc4d6-34a3-5dc3-9aa8-ab4d2706eb2d
+  name: BOLT_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a115732e-4334-4ecb-8ea3-f683e7f66d4d
+  name: RDataGet
+  info:
+    tag: repo_inaccessible
+- uuid: a13778fd-9a17-58b4-b5a0-4b4a242815a9
+  name: libheif_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a14a4b93-2064-4976-ac0c-5e1498c38ea6
+  name: RESTOllamaAPI
+  info:
+    tag: repo_inaccessible
 - uuid: a173ecca-d819-46be-893e-979583f5a0a2
   name: FrequencySweep
+  info:
+    tag: repo_inaccessible
+- uuid: a194aa59-28ba-4574-a09c-4a745416d6e3
+  name: ReactiveMP
+  info:
+    tag: repo_inaccessible
+- uuid: a20136b7-8e32-4c10-91d3-7060c0bd8ec7
+  name: KmerAnalysis
+  info:
+    tag: repo_inaccessible
+- uuid: a262596c-dd27-4d54-b019-3619024addbd
+  name: RemoveLFS
+  info:
+    tag: repo_inaccessible
+- uuid: a2826780-45ff-53db-9dda-fd961bc58de1
+  name: lttng_ust_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a2aa3e71-aced-403c-831b-dc7e729b9ba3
+  name: OpenScripturesHebrew
   info:
     tag: repo_inaccessible
 - uuid: a350b66b-315f-4c41-8dcc-4d7330525fdd
   name: TeXTable
   info:
     tag: repo_inaccessible
+- uuid: a38d70fc-99f5-11e9-1e3d-cbca093024c3
+  name: Omniscape
+  info:
+    tag: repo_inaccessible
 - uuid: a3f4ffcb-63ab-449f-b58f-50e21d5ccbd2
   name: InternalFluidFlow
+  info:
+    tag: repo_inaccessible
+- uuid: a4086b1d-a96a-5d6b-8e4f-2030e6f25ba6
+  name: Lua_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a44e4c57-a566-426a-9563-b0c20c24dda1
+  name: OceanWaveSpectralFitting
+  info:
+    tag: repo_inaccessible
+- uuid: a4739e29-4b97-5c0b-bbcf-46f08034c990
+  name: GTPSA_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a49af516-9db8-4be4-be45-1dad61c5a376
+  name: OceanBioME
+  info:
+    tag: repo_inaccessible
+- uuid: a4b94fbf-73f5-58ff-888d-48a8396e17f6
+  name: NodeJS_16_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a51aa0fd-4e3c-5386-b890-e753decda492
+  name: Xorg_libXi_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a53098ac-c15a-4696-bee0-14caaca04665
+  name: QuadraticModelsCPLEX
+  info:
+    tag: repo_inaccessible
+- uuid: a54ac8ab-712d-5a0e-8e11-9296c0d3c20e
+  name: Binaryen_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a56a6d9d-ad03-58af-ab61-878bf78270d6
+  name: Libxc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a61b6c3d-25e5-5e83-9f29-3d6b98db101c
+  name: hyper_jll
   info:
     tag: repo_inaccessible
 - uuid: a641f28f-8d9e-4160-8071-676a3167f41f
   name: SMDInterfacesUtils
   info:
     tag: repo_inaccessible
+- uuid: a683250b-caed-589c-a637-5aa540466d33
+  name: Cairo_NoGPL_jll
+  info:
+    tag: repo_inaccessible
 - uuid: a6a4b4a1-58ae-5f2f-bbf9-c7004aa6538b
   name: Unicode2LaTeX
+  info:
+    tag: repo_inaccessible
+- uuid: a6bfbf70-4841-5cb9-aa18-3a8ad3c413ee
+  name: NNPACK_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a6d8d4cd-8200-5f89-a2d4-82fe55f80886
+  name: SSW_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a70bccb4-a5c0-5e2e-a329-e731972457e8
+  name: MLIR_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a7736f47-6014-525c-ac95-fe8419cd7fa6
+  name: PROPOSAL_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a796ede8-0982-4285-a2cf-116db6b737e1
+  name: NeuralFoil
+  info:
+    tag: repo_inaccessible
+- uuid: a7a71e66-9295-4c47-9853-dcf21ad69f4a
+  name: ObjConsNLPModels
+  info:
+    tag: repo_inaccessible
+- uuid: a7aa756b-2b7f-562a-9e9d-e94076c5c8ee
+  name: OpenCL_Headers_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a7b11256-881b-11e9-3aff-ff4a76f1bfae
+  name: DigitalComm
+  info:
+    tag: repo_inaccessible
+- uuid: a80a7044-09a6-4a0a-a486-eb806178b9ba
+  name: Radiomics
+  info:
+    tag: repo_inaccessible
+- uuid: a81e2ce2-54d1-11eb-2c75-db236b00f339
+  name: DescriptorSystems
+  info:
+    tag: repo_inaccessible
+- uuid: a8315d63-8160-44e4-a573-aa779bc83c34
+  name: ReviseTests
+  info:
+    tag: repo_inaccessible
+- uuid: a8468747-bd6f-53ef-9e5c-744dbc5c59e7
+  name: QHull
+  info:
+    tag: repo_inaccessible
+- uuid: a89d73a9-ae92-4287-941f-57cd51dbf5ba
+  name: KoreanJosa
+  info:
+    tag: repo_inaccessible
+- uuid: a8b33d9f-0f8b-5197-9986-f85cbaa50c6c
+  name: GDB_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a8d4f100-aa25-5708-be18-96e0805c2c9d
+  name: libssh_jll
   info:
     tag: repo_inaccessible
 - uuid: a8f54c17-34bc-5a9d-b050-f522fe3f755f
@@ -1510,6 +4202,62 @@
        * [new branch]        Design4GPU             -> origin/Design4GPU
        * [new branch]        autodiff-pat...
     version: '"0.3.0"'
+- uuid: a93c6f00-e57d-5684-b7b6-d8193f3e46c0
+  name: DataFrames
+  info:
+    tag: repo_inaccessible
+- uuid: a99a7680-1b0c-57dd-b59a-79ab8f52c9a4
+  name: tree_sitter_highlight_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a9a0a982-c603-4485-bf80-6b61b825abb4
+  name: NonCommutativeProducts
+  info:
+    tag: repo_inaccessible
+- uuid: a9c6e4b1-b2fb-56d5-96a9-25f276f13840
+  name: Qt5Tools_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a9dd1e63-b4ad-4579-bca8-3a609f3d87b9
+  name: DifferentialGamesBase
+  info:
+    tag: repo_inaccessible
+- uuid: a9dd9d48-4682-593d-95c5-5ff28a9e156e
+  name: libdmg_hfsplus_jll
+  info:
+    tag: repo_inaccessible
+- uuid: a9f5bb6c-0632-44f9-9c01-5aa9e657c941
+  name: RiskBudgeting
+  info:
+    tag: repo_inaccessible
+- uuid: aa021fa7-5c7d-5dc1-9fa7-c90cd282ac20
+  name: gdx_jll
+  info:
+    tag: repo_inaccessible
+- uuid: aa0ab9cb-918b-5ca1-812e-3cecb1c413b6
+  name: GAP_pkg_edim_jll
+  info:
+    tag: repo_inaccessible
+- uuid: aa0cea19-a6a0-4763-972a-18f6f03725f1
+  name: NonArchimedeanMachineLearning
+  info:
+    tag: repo_inaccessible
+- uuid: aa126574-2ec3-42c9-8bf5-7f62001d6bce
+  name: Rembus
+  info:
+    tag: repo_inaccessible
+- uuid: aa1ae85d-cabe-5617-a682-6adf51b2e16a
+  name: JuliaInterpreter
+  info:
+    tag: repo_inaccessible
+- uuid: aa747835-a391-587f-982f-064ff03f7d29
+  name: URCU_jll
+  info:
+    tag: repo_inaccessible
+- uuid: aa79e827-bd0b-42a8-9f10-2b302677a641
+  name: Ripserer
+  info:
+    tag: repo_inaccessible
 - uuid: aa959544-2f3b-44d5-8079-5ba914f22dbb
   name: SAMaDB
   info:
@@ -1518,16 +4266,96 @@
   name: TcpInstruments
   info:
     tag: repo_inaccessible
+- uuid: aaf54ef3-cdf8-58ed-94cc-d582ad619b94
+  name: DistributedArrays
+  info:
+    tag: repo_inaccessible
+- uuid: ab215d34-98c8-565c-96d8-6589c1ef91a8
+  name: Zenith_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ab4ef3a6-0b42-11ea-31f6-e34652774712
+  name: NiLang
+  info:
+    tag: repo_inaccessible
 - uuid: ab51929a-ac93-4d67-a0ea-9824f8544b9e
   name: CountdownLetters
+  info:
+    tag: repo_inaccessible
+- uuid: ac3cf774-1c31-5ab1-b91e-e77d3fbc835d
+  name: aws_c_iot_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ac60b53e-8d92-4c83-b960-e78698fa1916
+  name: Dojo
   info:
     tag: repo_inaccessible
 - uuid: ac82832f-fdb8-443a-8a43-6f2f224322a9
   name: SVDSubset
   info:
     tag: repo_inaccessible
+- uuid: acafc109-a718-429c-b0e5-afd7f8c7ae46
+  name: Korg
+  info:
+    tag: repo_inaccessible
+- uuid: accb2a19-7d14-4fef-adf6-2d18346bd8ac
+  name: NeuroFlow
+  info:
+    tag: repo_inaccessible
+- uuid: acccf2be-895d-5fd8-88d3-4be6fc0b64a1
+  name: resvg_jll
+  info:
+    tag: repo_inaccessible
+- uuid: acd4faa2-4a7b-5a95-a73e-c243ef4528a3
+  name: Birch_Standard_jll
+  info:
+    tag: repo_inaccessible
+- uuid: acedd4c2-ced6-4a15-accc-2607eb759ba2
+  name: JuliaC
+  info:
+    tag: repo_inaccessible
+- uuid: acf6eb54-70d9-11e9-0013-234b7a5f5337
+  name: DFTK
+  info:
+    tag: repo_inaccessible
+- uuid: ad7bff83-59f0-4382-9fe5-c2ac8aa77434
+  name: REPLSmuggler
+  info:
+    tag: repo_inaccessible
+- uuid: ad8e49fd-fab7-444e-af4a-0daba3b8bf11
+  name: DuctAPE
+  info:
+    tag: repo_inaccessible
 - uuid: ad924a34-1f3f-4025-ae82-e16b6f8ddf61
   name: QuantumCircuits
+  info:
+    tag: repo_inaccessible
+- uuid: adaf3d07-42b2-577a-8487-f34ffa1a67e4
+  name: Watershed
+  info:
+    tag: repo_inaccessible
+- uuid: adbc9c39-6bf4-5566-8295-c0623552eeca
+  name: asio_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ae456e04-aaf2-55ce-80c6-09193969412e
+  name: Telescope_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ae5ea0c6-3f5e-46a2-bc28-a7c4c7a4773c
+  name: Quantica
+  info:
+    tag: repo_inaccessible
+- uuid: ae81ac8f-d209-56e5-92de-9978fef736f9
+  name: ASL_jll
+  info:
+    tag: repo_inaccessible
+- uuid: aed1982a-8fda-507f-9586-7b0439959a61
+  name: XSLT_jll
+  info:
+    tag: repo_inaccessible
+- uuid: af0b21b6-ea01-48a9-a6c6-8ff6351a99f2
+  name: DPMNeal3
   info:
     tag: repo_inaccessible
 - uuid: af179572-5b27-49bb-a7da-7163b0e709f2
@@ -1538,8 +4366,64 @@
   name: RipsererDataPrep
   info:
     tag: repo_inaccessible
+- uuid: af6e375f-46ec-5fa0-b791-491b0dfa44a4
+  name: SCS_GPU_jll
+  info:
+    tag: repo_inaccessible
+- uuid: af82f447-cd1e-5518-b874-3ab508da728e
+  name: DirectQhullHelper_jll
+  info:
+    tag: repo_inaccessible
+- uuid: af901252-fd8a-4391-8647-10b4fde07a1e
+  name: Wigxjpf
+  info:
+    tag: repo_inaccessible
+- uuid: afbf81f7-602f-5a4a-9a77-738a1b1188fe
+  name: ReusableFunctions
+  info:
+    tag: repo_inaccessible
+- uuid: afc68a34-7891-4c5a-9da1-1c62935e7b0d
+  name: JLLPrefixes
+  info:
+    tag: repo_inaccessible
 - uuid: afc79dc6-9922-4b50-ae92-da7b5116c2c8
   name: ClimaCartesianIndices
+  info:
+    tag: repo_inaccessible
+- uuid: afd6e06f-c550-5763-af36-7391d39e46ec
+  name: RadiationDetectorDSP
+  info:
+    tag: repo_inaccessible
+- uuid: b0275aa7-013b-42ad-9e10-dc5d6db0accb
+  name: QuadraticModelsGurobi
+  info:
+    tag: repo_inaccessible
+- uuid: b04048ba-5ccd-5610-b3f6-85129a548705
+  name: eccodes_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b049733a-a71d-5ed3-8eba-7d323ac00b36
+  name: oneAPI_Support_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b0520d53-158e-5a4f-b7bb-e0a5e0db8429
+  name: github_release_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b0724c58-0f36-5564-988d-3bb0596ebc4a
+  name: GettextRuntime_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b0d11df0-eea3-4d79-b4a5-421488cbf74b
+  name: Quantikz
+  info:
+    tag: repo_inaccessible
+- uuid: b0e4dd01-7b14-53d8-9b45-175a3e362653
+  name: RollingFunctions
+  info:
+    tag: repo_inaccessible
+- uuid: b11687fd-3a1c-4c41-97d0-998ab401d50e
+  name: QuanticsTCI
   info:
     tag: repo_inaccessible
 - uuid: b2c2a83c-20aa-4d51-8862-bb551092e619
@@ -1552,6 +4436,14 @@
     tag: repo_inaccessible
 - uuid: b3701df6-d9dc-468b-b8b3-43cf0e13d0c8
   name: Estapir
+  info:
+    tag: repo_inaccessible
+- uuid: b37880e1-55fa-5503-9f1a-f1223ce0b53e
+  name: liblsl_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b3e40c51-02ae-5482-8a39-3ace5868dcf4
+  name: CFITSIO_jll
   info:
     tag: repo_inaccessible
 - uuid: b40dcafa-b65c-47ad-a230-3174ba5cadd1
@@ -1571,32 +4463,264 @@
        * [new branch]        devel      -> origin/devel
        * [new branch]        main       ->...
     version: '"0.24.3"'
+- uuid: b43a31b8-ff9b-442d-8e31-c163daa8ab75
+  name: NonconvexNLopt
+  info:
+    tag: repo_inaccessible
 - uuid: b4bd6d93-059e-4964-b0e5-1e0f552f15ad
   name: RK4Light
+  info:
+    tag: repo_inaccessible
+- uuid: b4bd8bb3-f80f-41d2-9b21-73a655b304b9
+  name: OrdinaryDiffEqRosenbrockTableaus
+  info:
+    tag: repo_inaccessible
+- uuid: b4f34e82-e78d-54a5-968a-f98e89d6e8f7
+  name: Distances
+  info:
+    tag: repo_inaccessible
+- uuid: b51820a9-a924-5fc2-b09e-5fb7870ce458
+  name: EDFlib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b51ba988-139c-5e66-8d45-d5b53cbf8c72
+  name: bcftools_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b53ab163-7315-5a32-b7e7-8af45be20176
+  name: DiscreteFunctions
+  info:
+    tag: repo_inaccessible
+- uuid: b53b4c65-9356-5827-b1ea-8c7a1a84506f
+  name: libpng_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b5475fc2-85c9-5de8-8430-71c9b732ec36
+  name: SPIRV_Cross_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b54e8e98-f244-53b3-a8e8-4727a4907f76
+  name: Qiskit_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b588beb9-536a-5a7d-a241-c127386fde06
+  name: Joseki
+  info:
+    tag: repo_inaccessible
+- uuid: b5a273c3-7e6c-41f6-98bd-8d7f1525a36a
+  name: DataGraphs
+  info:
+    tag: repo_inaccessible
+- uuid: b6113df7-b24e-50c0-846f-35a2e36cb9d5
+  name: XRootD_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b67d9115-b479-4391-b710-1f027b87ba2b
+  name: DoubleBetaDecayGenerators
+  info:
+    tag: repo_inaccessible
+- uuid: b68b8c3f-ed99-5bef-9675-4739d9426b26
+  name: GMT_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b7050fa9-e91f-4b37-bcee-a89a063da141
+  name: NonlinearProblemLibrary
+  info:
+    tag: repo_inaccessible
+- uuid: b717d2d3-19c6-5ced-b36a-114a71eec478
+  name: RegNets
+  info:
+    tag: repo_inaccessible
+- uuid: b7825cb4-7108-404a-9145-f310ea34db32
+  name: RadioPropagation
+  info:
+    tag: repo_inaccessible
+- uuid: b792d7bf-f512-5dba-8a02-6d8084434f1d
+  name: cminpack_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b7d69b34-a827-4671-8cfa-f7e1eec930c7
+  name: ORTools
+  info:
+    tag: repo_inaccessible
+- uuid: b889d2dc-af3c-4820-88a8-238fa91d3518
+  name: RecurrenceRelationshipArrays
+  info:
+    tag: repo_inaccessible
+- uuid: b89f85f3-45f8-5ea8-8223-9dfa39faf294
+  name: peco_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b8a86587-4115-5ab1-83bc-aa920d37bbce
+  name: NearestNeighbors
+  info:
+    tag: repo_inaccessible
+- uuid: b8c81e45-bfcc-5af0-87df-fd7619bc5515
+  name: Powsybl_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b93afbca-07d8-5443-9979-bb4221978155
+  name: MiniFB_jll
+  info:
+    tag: repo_inaccessible
+- uuid: b94af626-7959-4878-9336-2adc27959007
+  name: KiteModels
   info:
     tag: repo_inaccessible
 - uuid: b9734e3f-1fb5-4b0f-895a-a4ed7ba034cc
   name: SSMPlots
   info:
     tag: repo_inaccessible
+- uuid: b9828eed-09bc-50cb-b95c-f80757bd8d62
+  name: DirectGaussianSimulation
+  info:
+    tag: repo_inaccessible
+- uuid: b9879e35-cdd4-53a9-a12a-bc41659e9769
+  name: DatagenCopulaBased
+  info:
+    tag: repo_inaccessible
+- uuid: b99085f1-2f43-45a7-bd38-d511f4bff3b1
+  name: DaggerImageReconstruction
+  info:
+    tag: repo_inaccessible
+- uuid: b9ff107b-b78e-5f57-8772-57a339630ba9
+  name: Spot_julia_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ba0b0d4f-ebba-5204-a429-3ac8c609bfb7
+  name: Krylov
+  info:
+    tag: repo_inaccessible
+- uuid: ba274cc4-b956-5b22-9ddf-0d83a922508d
+  name: whisper_cpp_jll
+  info:
+    tag: repo_inaccessible
 - uuid: ba61b42c-0a63-478a-861d-cedeca8bda8f
   name: Epicrop
+  info:
+    tag: repo_inaccessible
+- uuid: ba656ed8-6435-5caa-83e6-1e677deaf2de
+  name: CHICKEN_jll
   info:
     tag: repo_inaccessible
 - uuid: ba998677-2e4b-4950-b481-8cc4322dc218
   name: MeshPorter
   info:
     tag: repo_inaccessible
+- uuid: bac558e1-5e72-5ebc-8fee-abe8a469f55d
+  name: OrderedCollections
+  info:
+    tag: repo_inaccessible
+- uuid: bada3277-1da5-58a9-94c6-da212cd39369
+  name: czmq_jll
+  info:
+    tag: repo_inaccessible
+- uuid: bb12108a-f4ef-5f88-8ef3-0b33ff7017f1
+  name: SBML_jll
+  info:
+    tag: repo_inaccessible
+- uuid: bb3d3a65-b032-5cdd-a073-dfed7b606c01
+  name: SecretSanta
+  info:
+    tag: repo_inaccessible
+- uuid: bb401bc5-fb22-5674-bf0e-333823e8805f
+  name: xrt_jll
+  info:
+    tag: repo_inaccessible
+- uuid: bb5f6f25-f23d-57fd-8f90-3ef7bad1d825
+  name: CUTEst_jll
+  info:
+    tag: repo_inaccessible
+- uuid: bbac0a1f-7c9d-5672-960b-c6ca726e5d5d
+  name: WeightedOnlineStats
+  info:
+    tag: repo_inaccessible
+- uuid: bbf590c4-e513-4bbe-9b18-05decba2e5d8
+  name: OrdinaryDiffEqCore
+  info:
+    tag: repo_inaccessible
 - uuid: bc03c374-6515-4bc9-983b-02908b112166
   name: TestContexts
+  info:
+    tag: repo_inaccessible
+- uuid: bc6bbf8a-a594-5541-9c57-10b0d0312c70
+  name: Eigen_jll
   info:
     tag: repo_inaccessible
 - uuid: bcd14c31-b0d4-4eae-b592-0213e767a021
   name: Numssp
   info:
     tag: repo_inaccessible
+- uuid: bcd4f6db-9728-5f36-b5f7-82caef46ccdb
+  name: DelayDiffEq
+  info:
+    tag: repo_inaccessible
+- uuid: bcdc7952-6eb0-55db-bf57-82111c48552b
+  name: RemoteSemaphores
+  info:
+    tag: repo_inaccessible
+- uuid: bcf2b353-04f3-4f78-ac0b-80007e341812
+  name: ScalingCollapse
+  info:
+    tag: repo_inaccessible
+- uuid: bd07be1c-e76f-5ff0-9c0b-f51ef45303c6
+  name: Winston
+  info:
+    tag: repo_inaccessible
+- uuid: bd0b56a1-724b-4db5-9cfb-6781c02e0e49
+  name: SDFReader
+  info:
+    tag: repo_inaccessible
+- uuid: bd3c3ff1-ad01-40db-ab3f-ca12d8f2d1e9
+  name: NumericalRange
+  info:
+    tag: repo_inaccessible
+- uuid: bd407f91-200f-4536-9381-e4ba712f53f8
+  name: OptimizationCMAEvolutionStrategy
+  info:
+    tag: repo_inaccessible
+- uuid: bd92d27a-bb62-11e8-1f1b-ed4b990cdfb0
+  name: StemCellModels
+  info:
+    tag: repo_inaccessible
+- uuid: bdd0cfe9-1bbc-4c2f-b6dc-53835f28d58f
+  name: RFFMakie
+  info:
+    tag: repo_inaccessible
+- uuid: be4360af-1d55-5d16-a27b-51516c589496
+  name: tree_sitter_modelica_jll
+  info:
+    tag: repo_inaccessible
+- uuid: be6384bf-868f-57ad-9feb-9e32886bc996
+  name: very_nauty_jll
+  info:
+    tag: repo_inaccessible
+- uuid: be6f12e9-ca4f-5eb2-a339-a4f995cc0291
+  name: ODBC
+  info:
+    tag: repo_inaccessible
+- uuid: be7e520c-a8fa-4f26-8f65-6d6d1049182e
+  name: DiffFusion
+  info:
+    tag: repo_inaccessible
+- uuid: be8d7a73-1782-5ce7-96ff-8fff21e5e970
+  name: lexbor_jll
+  info:
+    tag: repo_inaccessible
 - uuid: be9d7f57-3392-4762-97ee-7c9806ef4e00
   name: DataDogClient
+  info:
+    tag: repo_inaccessible
+- uuid: bea87d4a-7f5b-5778-9afe-8cc45184846c
+  name: SuiteSparse_jll
+  info:
+    tag: repo_inaccessible
+- uuid: beacd9db-9e5e-4956-9b09-459a4b2028df
+  name: DifferentiableStateSpaceModels
+  info:
+    tag: repo_inaccessible
+- uuid: beb21ac1-5488-4e8e-a65a-eed5c6ff7e13
+  name: ObjectSystem
   info:
     tag: repo_inaccessible
 - uuid: beb21ac1-5488-4e8e-a65a-eed5c6ff7e13
@@ -1612,8 +4736,36 @@
        * [new branch]      2-erase-warning -> origin/2-erase-warning
        * [new branch]      master  ...
     version: '"1.0.0"'
+- uuid: becf559c-afb9-529d-9a2d-92566e0304eb
+  name: OpenSlide_jll
+  info:
+    tag: repo_inaccessible
+- uuid: bf2c0563-65cf-5db2-a620-ceb7de82658c
+  name: RadiationDetectorSignals
+  info:
+    tag: repo_inaccessible
+- uuid: bfecab0d-fd4d-5014-a23f-56c5fae6447a
+  name: Rematch
+  info:
+    tag: repo_inaccessible
+- uuid: c0017dae-bb0d-5ae0-bc81-a2950b9c605d
+  name: startin_jll
+  info:
+    tag: repo_inaccessible
 - uuid: c0a9bebe-16b7-413a-a76c-3b37481804e9
   name: BitemporalPostgresDDL
+  info:
+    tag: repo_inaccessible
+- uuid: c121886f-841d-4855-8f3a-15f9a2397416
+  name: SignalPlots
+  info:
+    tag: repo_inaccessible
+- uuid: c13e3d18-d57b-11e9-0f19-037e2db2dfef
+  name: KDEstimation
+  info:
+    tag: repo_inaccessible
+- uuid: c146b59d-1589-421c-8e09-a22e554fd05c
+  name: StatsLearnModels
   info:
     tag: repo_inaccessible
 - uuid: c1654acf-408b-4272-96ce-66c258df8a6c
@@ -1624,8 +4776,40 @@
   name: AlgebraicRL
   info:
     tag: repo_inaccessible
+- uuid: c1854a36-7b81-519e-bf44-e86c02ce7156
+  name: ProtocolBuffersSDK_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c1c5ebd0-6772-5130-a774-d5fcae4a789d
+  name: LAME_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c1fe1625-cec3-4ab7-b4cb-bea2f0104fc4
+  name: SemaDbAPI
+  info:
+    tag: repo_inaccessible
+- uuid: c22aa0dd-efad-54c6-b924-081a8340d351
+  name: libsoundio_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c24f3079-adb7-4533-8329-9f66732e5e85
+  name: DomainColoring
+  info:
+    tag: repo_inaccessible
+- uuid: c2604015-7b3d-4a30-8a26-9074551ec60a
+  name: KnuthBendix
+  info:
+    tag: repo_inaccessible
 - uuid: c268e415-724e-5440-8745-890f0ae6d2bf
   name: KelvinletsImage
+  info:
+    tag: repo_inaccessible
+- uuid: c2843242-4f35-58a6-a2a0-7e7527607317
+  name: Discreet
+  info:
+    tag: repo_inaccessible
+- uuid: c2b537fd-2c7d-5f1c-8e77-78945a4d1c3a
+  name: CUTENSOR_CUDA101_jll
   info:
     tag: repo_inaccessible
 - uuid: c2bd907f-6643-4f95-bba2-6fb2889bb36c
@@ -1636,8 +4820,48 @@
   name: OrthogonalSphericalShellGrids
   info:
     tag: repo_inaccessible
+- uuid: c2cb89bc-8ac9-4fc1-90b0-361a3529c1c9
+  name: DoNOF
+  info:
+    tag: repo_inaccessible
+- uuid: c2e08473-88be-4f39-9d3c-afcdb6e3aeb8
+  name: SolverLogging
+  info:
+    tag: repo_inaccessible
+- uuid: c2e53169-916a-425c-bc99-aa016d67d968
+  name: DiscreteChoiceModels
+  info:
+    tag: repo_inaccessible
+- uuid: c300d64c-1c1d-5dc3-9d9e-1537157676b9
+  name: Cling_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c3092dcd-a09e-45f3-b86d-18109bff285f
+  name: OnlineStatsChains
+  info:
+    tag: repo_inaccessible
+- uuid: c3111fcb-6a66-54cb-a6df-fd652d9c82a2
+  name: iperf_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c384ba91-639a-44ca-823a-e1d3691ab84a
+  name: RecursiveArrayToolsRaggedArrays
+  info:
+    tag: repo_inaccessible
 - uuid: c3c4c650-3bb6-4a80-aee6-49dcbcefb5f1
   name: Sonic
+  info:
+    tag: repo_inaccessible
+- uuid: c3eb98f6-eb42-520d-ab3c-506c3b64aac0
+  name: rocm_cmake_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c3ed25c8-d0c4-52f4-bb85-3c100dfcbec7
+  name: quickfix_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c41cd5a2-72a3-5203-9076-a500b088fc82
+  name: finufft_jll
   info:
     tag: repo_inaccessible
 - uuid: c429c406-9079-5a14-8339-dedc8835de90
@@ -1666,24 +4890,204 @@
        * [new branch]      master     -> origin/master
       fatal: git cat-file: could not get object i...
     version: '"0.1.1"'
+- uuid: c489a379-e885-57ff-9236-bd896d33c250
+  name: SphericalHarmonics
+  info:
+    tag: repo_inaccessible
+- uuid: c4c386cf-5103-5370-be45-f3a111cca3b8
+  name: Rsvg
+  info:
+    tag: repo_inaccessible
+- uuid: c4f2a1c4-7655-40d8-82ee-c6ae0a8b7409
+  name: RemoteHPC
+  info:
+    tag: repo_inaccessible
+- uuid: c4fd2470-c9f5-491f-b4e2-53b9059945a5
+  name: SynchronicBallot
+  info:
+    tag: repo_inaccessible
+- uuid: c5259379-ab45-534c-93f7-303bbb2cc12b
+  name: DCCA
+  info:
+    tag: repo_inaccessible
+- uuid: c57283d8-6a1b-5748-ae95-e23eefbd933c
+  name: PicoHTTPParser_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c5775199-6b5c-47be-a5a7-a37436caf489
+  name: SemanticAST
+  info:
+    tag: repo_inaccessible
+- uuid: c599abfa-5b8f-4a17-b52a-f0b922b74a92
+  name: StorageMirrorServer
+  info:
+    tag: repo_inaccessible
+- uuid: c5d12a1c-ebca-44e1-aaa9-03f0dbaa929f
+  name: SnowyOwl
+  info:
+    tag: repo_inaccessible
+- uuid: c5e3f7f7-c02a-4fcc-b7a5-ee49051641db
+  name: SimpleFWA
+  info:
+    tag: repo_inaccessible
+- uuid: c5e4b96a-f99f-5557-8ed2-dc63ef9b5131
+  name: StaticNumbers
+  info:
+    tag: repo_inaccessible
+- uuid: c5fb5394-a638-5e4d-96e5-b29de1b5cf10
+  name: Xorg_xtrans_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c619ae07-58cd-5f6d-b883-8f17bd6a98f9
+  name: DimensionalPlotRecipes
+  info:
+    tag: repo_inaccessible
+- uuid: c62bbaca-5768-5b75-85e2-9a0ea54e1624
+  name: ZlibNG_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c6373c32-5b88-5913-90f5-31d7686b42da
+  name: Qt5Declarative_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c69b092c-cabd-51ee-983a-b3d58f6c0ce7
+  name: scopehal_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c6f45eda-53e9-4846-927e-3bf2d3f4e2f3
+  name: RationalProjectivePlane
+  info:
+    tag: repo_inaccessible
+- uuid: c73af94c-d91f-53ed-93a7-00f77d67a9d7
+  name: ImageMagick_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c76e7e64-dca4-11eb-0ff5-1d6d625192a2
+  name: ReadCoverageDistributions
+  info:
+    tag: repo_inaccessible
+- uuid: c771fb93-2439-5ece-a3b3-58fecce82101
+  name: ODEInterface_jll
+  info:
+    tag: repo_inaccessible
 - uuid: c7a8a04f-9555-4fea-9aa6-9f2fbff5049a
   name: GraphicsMath
+  info:
+    tag: repo_inaccessible
+- uuid: c7aee132-11e1-519c-8219-0a43005e73c2
+  name: NodeJS_20_jll
   info:
     tag: repo_inaccessible
 - uuid: c851c8d9-0c3b-43db-9ff0-525c27d20a67
   name: ThorlabsLTStage
   info:
     tag: repo_inaccessible
+- uuid: c88070b3-ddf6-46c7-b699-196056389566
+  name: RemoteSensingToolbox
+  info:
+    tag: repo_inaccessible
+- uuid: c88a4935-d25e-5644-aacc-5db6f1b8ef79
+  name: obstack_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c894b116-72e5-5b58-be3c-e6d8d4ac2b12
+  name: DiffEqJump
+  info:
+    tag: repo_inaccessible
+- uuid: c8b78e2a-5255-5058-b631-96af8a7e9abf
+  name: WaveFD_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c900ad91-5c7c-41b8-bce1-46b0264fae1d
+  name: DateSelectors
+  info:
+    tag: repo_inaccessible
+- uuid: c9251380-99b7-5c1d-a474-9aaf727e38ce
+  name: z5_jll
+  info:
+    tag: repo_inaccessible
+- uuid: c927be06-f564-11e9-2e25-11633cdb9fcb
+  name: SymSemiseparableMatrices
+  info:
+    tag: repo_inaccessible
+- uuid: c92886a3-cb30-4e18-b84f-372dde475ecc
+  name: RationalFunctionApproximation
+  info:
+    tag: repo_inaccessible
+- uuid: c92b83c4-19af-4bf9-9c50-c65f2b7803f9
+  name: SpanningSupernets
+  info:
+    tag: repo_inaccessible
+- uuid: c946c3f1-0d1f-5ce8-9dea-7daa1f7e2d13
+  name: SCS
+  info:
+    tag: repo_inaccessible
+- uuid: c95d6c40-0c10-4161-80ab-e9b71483fbc7
+  name: KIMNeighborList
+  info:
+    tag: repo_inaccessible
 - uuid: c95f448f-dc0f-43b0-8158-a2e23540fc0b
   name: ExtremeLearning
+  info:
+    tag: repo_inaccessible
+- uuid: c9661210-8a83-48f0-b833-72e62abce419
+  name: DataSets
+  info:
+    tag: repo_inaccessible
+- uuid: ca45b743-11fc-5578-b74a-7528860c0bda
+  name: tree_sitter_javascript_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ca45d3f4-326b-53b0-9957-23b75aacb3f2
+  name: SuiteSparse32_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ca6142a6-a6a7-57f5-b674-4a8484b22e92
+  name: SparseRegression
+  info:
+    tag: repo_inaccessible
+- uuid: ca66c970-58dd-40fd-84ba-8333ff914a26
+  name: SQLiteCompress
+  info:
+    tag: repo_inaccessible
+- uuid: cae243ae-269e-4f55-b966-ac2d0dc13c15
+  name: StackViews
+  info:
+    tag: repo_inaccessible
+- uuid: cb1f95eb-7c3a-45bc-9e18-5c07f1beaacd
+  name: DiffImageRotation
   info:
     tag: repo_inaccessible
 - uuid: cb4c0f5c-2214-40eb-8da0-53ca8e9a3192
   name: SellmeierFit
   info:
     tag: repo_inaccessible
+- uuid: cb52cc87-d0c7-5933-bad1-08679d8b4c67
+  name: DifferentialDynamicsModels
+  info:
+    tag: repo_inaccessible
+- uuid: cbdad009-89f1-4e05-85a0-06b07b50707d
+  name: DocExtensions
+  info:
+    tag: repo_inaccessible
+- uuid: cbe49d4c-5af1-5b60-bb70-0a60aa018e1b
+  name: RemoteFiles
+  info:
+    tag: repo_inaccessible
+- uuid: cbea7a94-ea03-4af3-b52f-24efa70d1a55
+  name: OneTimePasswords
+  info:
+    tag: repo_inaccessible
 - uuid: cc83e5c8-98fc-11e9-313e-e750fdcd15c8
   name: KronLinInv
+  info:
+    tag: repo_inaccessible
+- uuid: cc8fcbce-1519-41ac-a9d5-7b019a31028d
+  name: OptimizingIR
+  info:
+    tag: repo_inaccessible
+- uuid: cc9b1b2d-f4cf-5aeb-b1c9-57f66198f3ff
+  name: ReduceAlgebra
   info:
     tag: repo_inaccessible
 - uuid: ccad5352-7643-4eb2-b711-e9c298e87bf0
@@ -1694,20 +5098,236 @@
   name: GAPTypes
   info:
     tag: repo_inaccessible
+- uuid: cd4c43a9-7502-52ba-aa6d-59fb2a88580b
+  name: Dierckx_jll
+  info:
+    tag: repo_inaccessible
+- uuid: cd7c2323-e06e-549f-9837-4f85c0db7ff9
+  name: LinearTurboFold_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ce1e5628-4095-449b-8858-623a1e420393
+  name: RainMaker
+  info:
+    tag: repo_inaccessible
+- uuid: ce3535a8-59a6-4c0a-83ac-3858a19dc5ad
+  name: OPFSampler
+  info:
+    tag: repo_inaccessible
+- uuid: cf02a7a8-8cd0-5932-97be-477f95a4d9ce
+  name: CryptoMiniSat_jll
+  info:
+    tag: repo_inaccessible
+- uuid: cf15d115-0011-542e-ba8a-590cfd1400f0
+  name: slow5lib_jll
+  info:
+    tag: repo_inaccessible
 - uuid: cf995a98-0b54-410c-943f-9a6b99e12d57
   name: Slow5
+  info:
+    tag: repo_inaccessible
+- uuid: cfc5aa84-1a2a-41ab-b391-ede92ecae40c
+  name: DaggerWebDash
+  info:
+    tag: repo_inaccessible
+- uuid: cfd3f2ab-0fb0-4d51-9553-03e53d33f144
+  name: Raven
+  info:
+    tag: repo_inaccessible
+- uuid: d076d87d-d1f9-4ea3-a44b-64b4cdd1e470
+  name: SolverParameters
+  info:
+    tag: repo_inaccessible
+- uuid: d07eab47-f98b-4620-8fe1-ee63e153d4ef
+  name: SymplecticMatrices
+  info:
+    tag: repo_inaccessible
+- uuid: d08873cf-a47e-4b69-9395-6fab01a89815
+  name: Dianli
+  info:
+    tag: repo_inaccessible
+- uuid: d0a0d62e-5946-5252-a47a-59d54c8a5a63
+  name: Sollya_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d0bc0b20-b151-4d03-b2a4-6ca51751cb9c
+  name: KomaMRIBase
+  info:
+    tag: repo_inaccessible
+- uuid: d0ccf422-c8fb-49b5-a76d-74acdde946ac
+  name: Oceanostics
+  info:
+    tag: repo_inaccessible
+- uuid: d1185830-fcd6-423d-90d6-eec64667417b
+  name: SymbolicUtils
+  info:
+    tag: repo_inaccessible
+- uuid: d1891b89-3aa8-469e-a5ac-90bba77ac8f3
+  name: StaticLists
   info:
     tag: repo_inaccessible
 - uuid: d1cf4e9a-6cca-406a-9108-c467415791d1
   name: Starlight
   info:
     tag: repo_inaccessible
+- uuid: d20e7296-4f3e-515c-90b9-d2595a77bf72
+  name: Wasmtime_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d22a7203-ad50-4fbc-abc4-d6ac724cca58
+  name: SIMDMathFunctions
+  info:
+    tag: repo_inaccessible
+- uuid: d2399bea-3a32-5108-a30f-aef315c0e3a8
+  name: libusb_compat_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d262d690-7b73-43ed-8cf8-7b23904776e1
+  name: SeriesAcceleration
+  info:
+    tag: repo_inaccessible
+- uuid: d28bc4f8-55e1-4f49-af69-84c1a99f0f58
+  name: OrdinaryDiffEqHighOrderRK
+  info:
+    tag: repo_inaccessible
 - uuid: d2d6fb72-71f0-4c51-b8f6-2c324c15d39c
   name: IntensityMetrics
   info:
     tag: repo_inaccessible
+- uuid: d2ef9438-c967-53ab-8060-373fdd9e13eb
+  name: Seaborn
+  info:
+    tag: repo_inaccessible
+- uuid: d2f5444f-75bc-4fdf-ac35-56f514c445e1
+  name: DuckDB
+  info:
+    tag: repo_inaccessible
+- uuid: d3697a66-ac8c-5833-932f-cdd896efbdde
+  name: GAP_pkg_profiling_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d3707c4a-c138-5086-90bb-c65de4e50315
+  name: Rclone_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d3d335b2-f152-507c-820e-958e337efb65
+  name: RawArray
+  info:
+    tag: repo_inaccessible
+- uuid: d3d4fdd0-c191-11e8-3358-a3629b56487d
+  name: OpenStreetMapXPlot
+  info:
+    tag: repo_inaccessible
+- uuid: d3d5718d-52de-57ab-b67a-eca7fd6175a4
+  name: Diversity
+  info:
+    tag: repo_inaccessible
+- uuid: d3f95609-6610-4916-a459-7889d74a9b0e
+  name: SimpleTranslations
+  info:
+    tag: repo_inaccessible
+- uuid: d41a5a93-b765-542c-87e0-8b980b4b1221
+  name: fplll_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d423b6e5-1c84-4ae2-8d2d-b903aee15ac7
+  name: SmallZarrGroups
+  info:
+    tag: repo_inaccessible
+- uuid: d43303dc-dd0e-56c6-b0a8-331f4c8c9bfb
+  name: Blosc2_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d49c3b98-12bb-537a-8c40-37c13654c7f4
+  name: StanRun
+  info:
+    tag: repo_inaccessible
+- uuid: d4a0f349-cd98-4799-b7a0-96cbe38b225a
+  name: Relucent
+  info:
+    tag: repo_inaccessible
+- uuid: d4ead438-fe20-5cc5-a293-4fd39a41b74c
+  name: SpatialIndexing
+  info:
+    tag: repo_inaccessible
+- uuid: d571510e-6e5f-4c5d-a12c-0c9fbed6c685
+  name: SymbolicOptimization
+  info:
+    tag: repo_inaccessible
+- uuid: d59498f3-381e-4841-a765-4609d464ae1b
+  name: Skia
+  info:
+    tag: repo_inaccessible
+- uuid: d59c0ba6-2ef2-5409-8dc5-1fd9a2b46832
+  name: Kalman
+  info:
+    tag: repo_inaccessible
+- uuid: d621b6e3-7715-5857-9c6f-c67000ef6083
+  name: ValidatedNumerics
+  info:
+    tag: repo_inaccessible
+- uuid: d65627f6-89bd-53e8-8ab5-8b75ff535eee
+  name: fts_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d6a58270-6f46-44a2-ab4b-2a767377cb4b
+  name: ReversedStrings
+  info:
+    tag: repo_inaccessible
+- uuid: d6b73c45-a735-4b19-932b-179aebda8fdc
+  name: KeyboardDriven
+  info:
+    tag: repo_inaccessible
+- uuid: d6bdb76f-3f24-5663-92cb-89259f3f1dc3
+  name: OpenStreetMapPlotter
+  info:
+    tag: repo_inaccessible
 - uuid: d6cb2d2e-c0e1-4728-a899-ef9458c69435
   name: Asimov
+  info:
+    tag: repo_inaccessible
+- uuid: d6dedbf8-78c7-4e81-bd5f-fe48695b798a
+  name: SortFilters
+  info:
+    tag: repo_inaccessible
+- uuid: d7167be5-f61b-4dc9-b75c-ab62374668c5
+  name: Quarto
+  info:
+    tag: repo_inaccessible
+- uuid: d7416ba7-148a-4110-b27d-9087fcebab2d
+  name: SphereUDE
+  info:
+    tag: repo_inaccessible
+- uuid: d7440221-8b5e-42fc-909c-0567823f424a
+  name: SingularIntegrals
+  info:
+    tag: repo_inaccessible
+- uuid: d749ddd5-2b29-4920-8305-6ff5a704e36e
+  name: DaemonMode
+  info:
+    tag: repo_inaccessible
+- uuid: d754bdc3-4c87-55c0-a004-f56830624a1e
+  name: LinuxKernelHeaders_jll
+  info:
+    tag: repo_inaccessible
+- uuid: d7968580-7d6f-4f79-bc09-617baf523457
+  name: DalitzPlot
+  info:
+    tag: repo_inaccessible
+- uuid: d79e8f30-5872-11e9-0dab-2d1842b87615
+  name: KernelMethods
+  info:
+    tag: repo_inaccessible
+- uuid: d7fd56dd-41bc-4b2d-b658-79a5840b2e09
+  name: DocumenterTypst
+  info:
+    tag: repo_inaccessible
+- uuid: d848d694-35fd-11e9-1c91-9995598ac29e
+  name: OceanTurb
+  info:
+    tag: repo_inaccessible
+- uuid: d92c97cf-b87d-42c1-a9c0-25df00b4d958
+  name: Dionysos
   info:
     tag: repo_inaccessible
 - uuid: d956cd15-f295-4116-b825-311938cf4aeb
@@ -1718,6 +5338,42 @@
   name: GeoDynamo
   info:
     tag: repo_inaccessible
+- uuid: d9d56e4b-5314-43d8-9d0c-59f15ab373e7
+  name: Deborah
+  info:
+    tag: repo_inaccessible
+- uuid: d9eea77d-fa5d-4a60-93a2-c9db3c2ebc67
+  name: SimpleBio
+  info:
+    tag: repo_inaccessible
+- uuid: da03df04-f53b-5353-a52f-6a8b0620ced0
+  name: gdk_pixbuf_jll
+  info:
+    tag: repo_inaccessible
+- uuid: da1d211a-c3bc-43b2-b5d0-ce83f16a0f3a
+  name: RandLinearAlgebra
+  info:
+    tag: repo_inaccessible
+- uuid: da7a8352-2ca4-4dda-97e5-892bce2686ec
+  name: DataToolkitDocumenter
+  info:
+    tag: repo_inaccessible
+- uuid: daca4e5c-8485-4416-9301-671ef5a159db
+  name: SegmentAnything
+  info:
+    tag: repo_inaccessible
+- uuid: dadb0ed2-e56b-40a7-b017-200304ddb474
+  name: Surprise
+  info:
+    tag: repo_inaccessible
+- uuid: db551b72-c8d0-4930-8019-443d434af198
+  name: QuestDBClient
+  info:
+    tag: repo_inaccessible
+- uuid: db6bb4f6-9d2a-4386-a383-884870da1331
+  name: SimpleBoids
+  info:
+    tag: repo_inaccessible
 - uuid: dbccb84b-e307-4652-ba5b-383ef6e27386
   name: UnfoldCDL
   info:
@@ -1726,56 +5382,412 @@
   name: CountdownNumbers
   info:
     tag: repo_inaccessible
+- uuid: dc2d07fb-478f-4566-8417-81bb3e5a7af1
+  name: OnlineTechnicalIndicators
+  info:
+    tag: repo_inaccessible
 - uuid: dc339a6f-2fa1-401a-9066-9c0d413e71da
   name: VisualizeMotifs
+  info:
+    tag: repo_inaccessible
+- uuid: dca704ad-10d6-524d-beb3-49f38e318998
+  name: rtmidi_jll
+  info:
+    tag: repo_inaccessible
+- uuid: dcd9ba68-c27b-5cea-ae21-829cd07325bf
+  name: UncertainData
+  info:
+    tag: repo_inaccessible
+- uuid: dce2f2bf-0ed4-5a0e-8af7-a90b827a9344
+  name: libminc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: dcffe42e-adbb-5815-9d51-5ab017577a26
+  name: catchaMouse16_jll
+  info:
+    tag: repo_inaccessible
+- uuid: dd074c01-bd9e-510d-b91d-361c690844c9
+  name: battery_cli_jll
+  info:
+    tag: repo_inaccessible
+- uuid: dd0f122e-fa3b-47f3-bcf0-93bbc60d885e
+  name: ClimaInterpolations
+  info:
+    tag: repo_inaccessible
+- uuid: dd192d2f-8180-539f-9fb4-cc70b1dcf69a
+  name: LibVPX_jll
+  info:
+    tag: repo_inaccessible
+- uuid: dd30a495-ddaa-4e90-b4c8-e67bdf9f6075
+  name: CMSCertificationNumbers
+  info:
+    tag: repo_inaccessible
+- uuid: ddcda2f0-0770-5eff-b02e-03a583a735ee
+  name: BladeRFHardwareDriver_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ddf1bf59-526a-4a23-8a87-8f8ce489e0c9
+  name: SPCSpectra
+  info:
+    tag: repo_inaccessible
+- uuid: de008ff0-c357-11e8-3329-7fe746fe836e
+  name: RockSample
+  info:
+    tag: repo_inaccessible
+- uuid: de012916-1e3f-58c2-8f29-df3ef51d412d
+  name: at_spi2_atk_jll
+  info:
+    tag: repo_inaccessible
+- uuid: de1ad85e-c930-5cd4-919d-ccd3fcafd1a3
+  name: GAP_lib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: de1b191a-4ae0-4afa-a27b-92d07f46b2d6
+  name: ReinforcementLearningCore
+  info:
+    tag: repo_inaccessible
+- uuid: de8eae22-3630-40e0-868c-abfc4c1bb3da
+  name: SoleDecisionTreeInterface
+  info:
+    tag: repo_inaccessible
+- uuid: dee08c22-ab7f-5625-9660-a9af2021b33f
+  name: RegionTrees
+  info:
+    tag: repo_inaccessible
+- uuid: deeba441-a6a4-5e65-99ae-21494d2aa7fd
+  name: openbabel_jll
   info:
     tag: repo_inaccessible
 - uuid: deefbfe4-5b57-4941-9cbb-7e0220485fa4
   name: Recruiters
   info:
     tag: repo_inaccessible
+- uuid: def0f3ea-0521-5e8c-a7b7-92f0f4873a26
+  name: LEAN_Community_jll
+  info:
+    tag: repo_inaccessible
+- uuid: df1a97a6-7490-50b1-97c6-e8aaaa3c5160
+  name: nats_c_jll
+  info:
+    tag: repo_inaccessible
+- uuid: df1fea92-c066-49dd-8b36-eace3378ea47
+  name: SignalAnalysis
+  info:
+    tag: repo_inaccessible
 - uuid: df459030-36d8-4de1-905a-e8bbf7c7dfd8
   name: TimetableSolver
+  info:
+    tag: repo_inaccessible
+- uuid: df5f24a2-ce61-5be2-97f7-106f5424b9fe
+  name: xhyve_jll
+  info:
+    tag: repo_inaccessible
+- uuid: df6a336b-a67f-4155-81fc-4f05fe893652
+  name: Concorde
+  info:
+    tag: repo_inaccessible
+- uuid: df8f2f22-cfef-5733-af3f-96770d497d85
+  name: SASLib
+  info:
+    tag: repo_inaccessible
+- uuid: dfa7e5a0-2128-5201-bc87-2ee6cd674210
+  name: tree_sitter_typescript_jll
+  info:
+    tag: repo_inaccessible
+- uuid: dfba0342-83e6-42c7-a796-fcf383ab214c
+  name: Mueller
+  info:
+    tag: repo_inaccessible
+- uuid: dfc7ee4e-f599-5c37-83b9-6493130c4cf0
+  name: FFLAS_FFPACK_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e0176837-3861-45f9-8fb4-a12fc39b9661
+  name: SizeCheck
+  info:
+    tag: repo_inaccessible
+- uuid: e033fc31-0bf0-4add-9518-8e0675b669ea
+  name: CausalGPSLC
+  info:
+    tag: repo_inaccessible
+- uuid: e03d614a-b766-59b2-b90b-cbee90a02c36
+  name: SoapyMultiSDR_jll
   info:
     tag: repo_inaccessible
 - uuid: e03d936e-b143-417e-99f1-948e30aaf057
   name: Flavio
   info:
     tag: repo_inaccessible
+- uuid: e0585029-f0fd-471c-997a-b805c9f71f28
+  name: MultiPrecisionArrays
+  info:
+    tag: repo_inaccessible
+- uuid: e084ae63-2819-5025-826e-f8e611a84251
+  name: CoolProp
+  info:
+    tag: repo_inaccessible
+- uuid: e094c991-5a90-5477-8896-c1e4c9552a1a
+  name: SingularIntegralEquations
+  info:
+    tag: repo_inaccessible
 - uuid: e0c89595-00ba-42a9-9f9b-061ef3dc23a1
   name: ClimaReproducibilityTests
+  info:
+    tag: repo_inaccessible
+- uuid: e0cb5db2-507d-4330-81aa-f62556075e35
+  name: RandomLotkaVolterraCavity
+  info:
+    tag: repo_inaccessible
+- uuid: e10fc14b-37cd-5cbc-b289-ad01b12ebaad
+  name: ripgrep_jll
   info:
     tag: repo_inaccessible
 - uuid: e12149e5-c757-4a94-a92e-d43df22eb56a
   name: SimpleByteStuffing
   info:
     tag: repo_inaccessible
+- uuid: e12ccd36-dcad-5f33-8774-9175229e7b33
+  name: MCTS
+  info:
+    tag: repo_inaccessible
+- uuid: e134572f-a0d5-539d-bddf-3cad8db41a82
+  name: FLINT_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e1389577-bcae-4d0f-b368-61b404b8c94c
+  name: RestClient
+  info:
+    tag: repo_inaccessible
+- uuid: e145bb07-96d9-421f-b0a2-c579a69b21bf
+  name: SpatialOmicsGPs
+  info:
+    tag: repo_inaccessible
+- uuid: e149cee4-a9c8-4a03-a7b6-d91720412337
+  name: MaximumLikelihoodProblems
+  info:
+    tag: repo_inaccessible
+- uuid: e162569b-3ff4-40cf-b055-1e5f8042da73
+  name: MassInstallAction
+  info:
+    tag: repo_inaccessible
+- uuid: e1d33f9a-7203-49d2-8e1a-e3c4f85197b8
+  name: DLMReader
+  info:
+    tag: repo_inaccessible
 - uuid: e241e3f8-b5bc-4834-a945-877018c5ef6c
   name: DogAPI
+  info:
+    tag: repo_inaccessible
+- uuid: e2970b7e-a80f-4839-9fc1-2a0f2f4c4333
+  name: UniversalFeynRulesOutput
+  info:
+    tag: repo_inaccessible
+- uuid: e2a73505-cb16-4f72-bfa1-862ae24a0184
+  name: QuasiGLM
+  info:
+    tag: repo_inaccessible
+- uuid: e2b848fe-1ff7-5e39-bbba-9dad9f402efb
+  name: cfastcdr_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e2c51686-8c13-4540-892e-18cf079a7e1a
+  name: MLJGaussianProcesses
   info:
     tag: repo_inaccessible
 - uuid: e2e16d05-ec94-40b7-b355-ae0fb683d354
   name: Microscopes
   info:
     tag: repo_inaccessible
+- uuid: e339f254-40e1-517e-839f-dc67f1dbd84e
+  name: USRPHardwareDriver_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e33a78d0-f292-5ffc-b300-72abe9b543c8
+  name: Hwloc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e33b2407-87ff-50a0-8b27-f0fe7855237d
+  name: SDPT3
+  info:
+    tag: repo_inaccessible
+- uuid: e37357d9-0691-492f-a822-e5ea6a920954
+  name: ConstraintCommons
+  info:
+    tag: repo_inaccessible
+- uuid: e38a874e-a7c2-4ff3-8dea-81ae2e5c9b07
+  name: CitablePhysicalText
+  info:
+    tag: repo_inaccessible
+- uuid: e3c6736c-93d9-479d-93f3-96ff5e8836d5
+  name: SimulationLogs
+  info:
+    tag: repo_inaccessible
+- uuid: e3d30ef0-22f3-5ccc-b703-2e063d8d1f30
+  name: libidn2_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e3d38e7e-66c0-4598-81c1-d1e9bcf43bf0
+  name: CamiFITS
+  info:
+    tag: repo_inaccessible
+- uuid: e3e12d00-db14-5390-b879-ac3dd2ef6296
+  name: OrdinaryDiffEqStabilizedIRK
+  info:
+    tag: repo_inaccessible
+- uuid: e3e34ffb-84e9-5012-9490-92c94d0c60a4
+  name: VoronoiCells
+  info:
+    tag: repo_inaccessible
+- uuid: e455a6d6-8373-11eb-38a5-df3e63e3f6fc
+  name: MissingStrategies
+  info:
+    tag: repo_inaccessible
+- uuid: e47e5152-bd14-11e9-1b46-c951f0a7041d
+  name: ModelConstructors
+  info:
+    tag: repo_inaccessible
 - uuid: e493a4bf-88d6-40ad-84dc-847a9b000e38
   name: ClusterEnsembles
+  info:
+    tag: repo_inaccessible
+- uuid: e4acb5c7-ee58-4719-8a40-5cc01da1b2a4
+  name: ControlBarrierFunctions
+  info:
+    tag: repo_inaccessible
+- uuid: e4b88ea9-8232-438f-beaa-39e5d53fd5fe
+  name: Dogsay
+  info:
+    tag: repo_inaccessible
+- uuid: e4c7bc62-5b23-4522-a1b9-71c2be45f1df
+  name: SlimOptim
+  info:
+    tag: repo_inaccessible
+- uuid: e4c825b0-b65c-11ea-0b5a-6176b64e7b7f
+  name: StateSpaceEcon
   info:
     tag: repo_inaccessible
 - uuid: e5143800-6ee0-4b40-b4db-1d4259db07c9
   name: CircuitComponentRounding
   info:
     tag: repo_inaccessible
+- uuid: e52c2cb8-508e-4e12-9dd2-9c4755b60e73
+  name: MathOptAI
+  info:
+    tag: repo_inaccessible
+- uuid: e53d2b94-6236-11e9-2d7b-535d79ecd3d3
+  name: DeformableBodies
+  info:
+    tag: repo_inaccessible
+- uuid: e54bda2e-c571-11ec-9d64-0242ac120002
+  name: ModalDecisionTrees
+  info:
+    tag: repo_inaccessible
+- uuid: e55597f1-1f81-4e61-9c07-9db33debcbd4
+  name: MDTrajectoryFiles
+  info:
+    tag: repo_inaccessible
+- uuid: e575027e-6cd6-5018-9292-cdc6200d2b44
+  name: ReinforcementLearningBase
+  info:
+    tag: repo_inaccessible
+- uuid: e5d170eb-415a-4524-987b-12f1bce1ddab
+  name: MAGEMin_C
+  info:
+    tag: repo_inaccessible
 - uuid: e5fb2512-507e-11e9-3018-95af41067f06
   name: Beauty
+  info:
+    tag: repo_inaccessible
+- uuid: e6233ccc-e36c-49e3-ac71-1ad7b6c78055
+  name: MoodleQuestions
+  info:
+    tag: repo_inaccessible
+- uuid: e62e6a7e-3b2b-4391-b20a-030a7103b929
+  name: StringMethod
+  info:
+    tag: repo_inaccessible
+- uuid: e655511c-e992-5001-b8e2-2048e6aa15e9
+  name: DiracNotation
+  info:
+    tag: repo_inaccessible
+- uuid: e6723b4c-ebff-59f1-b4b7-d97aa5274f73
+  name: Meshing
+  info:
+    tag: repo_inaccessible
+- uuid: e67f3e0e-e319-4e6a-90db-462f780913e2
+  name: ViconUDP
+  info:
+    tag: repo_inaccessible
+- uuid: e692580d-a894-5e11-adde-c3d453d9283f
+  name: xtensor_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e69b5797-b9f7-4a92-bcfe-7d0cb35ca5b6
+  name: CachedDicts
+  info:
+    tag: repo_inaccessible
+- uuid: e6ba4677-9f99-4ce8-87c8-721beef79281
+  name: DistributedEnvironments
+  info:
+    tag: repo_inaccessible
+- uuid: e6c19c8d-e382-4a50-b2c6-174ddd647730
+  name: SGtSNEpi
+  info:
+    tag: repo_inaccessible
+- uuid: e6d6bbd2-f446-4b3b-b420-735d85b530c7
+  name: ConvexFlows
+  info:
+    tag: repo_inaccessible
+- uuid: e72dcfaf-fc0e-59b0-8bbb-b81678c89dff
+  name: tree_sitter_nonmem_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e77e6532-e7cc-40ad-aebc-b383a150aff6
+  name: MPIHaloArrays
   info:
     tag: repo_inaccessible
 - uuid: e78498a0-16ff-4b72-908b-8a2b3cef9703
   name: Itera
   info:
     tag: repo_inaccessible
+- uuid: e7fe3d1a-f102-40b5-a66b-64b14986c4c8
+  name: MagmaThermoKinematics
+  info:
+    tag: repo_inaccessible
+- uuid: e85744ed-4169-5045-9cd9-67bbfebc0d5b
+  name: GNUTime_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e86bdf43-55f7-5ea2-9fd0-e7daa2c0f2b4
+  name: rr_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e86c9b32-1129-44ac-8ea0-90d5bb39ded9
+  name: ObjectiveC
+  info:
+    tag: repo_inaccessible
+- uuid: e873ae9d-44a3-5462-8644-8142b0051222
+  name: Compose_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e8a62dcf-60e4-418b-90b5-fa9f605e4ca5
+  name: MPIDenseLUs
+  info:
+    tag: repo_inaccessible
+- uuid: e8e6a0c9-ed5e-482f-a5cb-ec074f5ee4bb
+  name: SigmaClip
+  info:
+    tag: repo_inaccessible
 - uuid: e9003ee5-8d1f-52e9-81b4-38b583c0e573
   name: StanMCMCChains
+  info:
+    tag: repo_inaccessible
+- uuid: e9159221-f9c0-48a0-ba53-9ba151c71a1d
+  name: DocumenterDescriptions
+  info:
+    tag: repo_inaccessible
+- uuid: e939450b-799e-4198-a5f5-3f2f7fb1c671
+  name: CEEDesigns
   info:
     tag: repo_inaccessible
 - uuid: e9467ef8-e4e7-5192-8a1a-b1aee30e663a
@@ -1791,44 +5803,388 @@
        * [new branch]          as/3d_surface_glmakie   -> origin/as/3d_surface_glmakie
        * [new branch]      ...
     version: '"0.3.4"'
+- uuid: e95a7839-07fb-532d-9a0e-071766bb5168
+  name: ConicBenchmarkUtilities
+  info:
+    tag: repo_inaccessible
+- uuid: e99dba38-086e-5de3-a5b1-6e4c66e897c3
+  name: Qt6Wayland_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e9a2b5d4-2139-42d9-ad42-ef6c084e8c4b
+  name: MakiePDF
+  info:
+    tag: repo_inaccessible
 - uuid: e9a496d4-a0ac-4054-a7cc-e43b6064761e
   name: GreedyAlign
+  info:
+    tag: repo_inaccessible
+- uuid: e9a6253c-8580-4d32-9898-8661bb511710
+  name: SciMLNLSolve
+  info:
+    tag: repo_inaccessible
+- uuid: e9cb6f04-5a86-57c9-b8cc-25aa5bdf9fd6
+  name: LinearPartition_jll
+  info:
+    tag: repo_inaccessible
+- uuid: e9d8d322-4543-424a-9be4-0cc815abe26c
+  name: Metatheory
+  info:
+    tag: repo_inaccessible
+- uuid: e9f186c6-92d2-5b65-8a66-fee21dc1b490
+  name: Libffi_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ea076b23-609f-44d2-bb12-a4ae45328278
+  name: RegularizedProblems
+  info:
+    tag: repo_inaccessible
+- uuid: ea2a18ed-132b-4398-a457-2ce4804e5c00
+  name: UnionCollections
+  info:
+    tag: repo_inaccessible
+- uuid: ea8e919c-243c-51af-8825-aaa63cd721ce
+  name: SHA
+  info:
+    tag: repo_inaccessible
+- uuid: eacbb407-ea5a-433e-ab97-5258b1ca43fa
+  name: Meshes
+  info:
+    tag: repo_inaccessible
+- uuid: eacce8a8-16e1-4f0a-a125-bfe7a196bd66
+  name: MRINavigator
+  info:
+    tag: repo_inaccessible
+- uuid: eacd9ca4-7f43-55e5-94d9-9be91740ea79
+  name: Exafmmt_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ead69dcd-9d07-43d4-88a0-2b30abaca44a
+  name: RKOpt
+  info:
+    tag: repo_inaccessible
+- uuid: eadaa1a4-d27c-401d-8699-e962e1bbc33b
+  name: MeasureTheory
+  info:
+    tag: repo_inaccessible
+- uuid: eb14e3ba-90c8-11ed-0ecf-1dd2ea0d109c
+  name: Mocca
+  info:
+    tag: repo_inaccessible
+- uuid: eb17b914-a2e5-45e7-813f-e6fb2969af31
+  name: DobotMagician
+  info:
+    tag: repo_inaccessible
+- uuid: eb4b1da6-20f6-5c66-9826-fdb8ad410d0e
+  name: Typst_jll
+  info:
+    tag: repo_inaccessible
+- uuid: eb527566-0f3e-4aab-bb5f-9d2e403dba70
+  name: Dynesty
+  info:
+    tag: repo_inaccessible
+- uuid: eb5c4719-5716-4250-abf0-f5b4713e79ae
+  name: SoleReasoners
+  info:
+    tag: repo_inaccessible
+- uuid: ebadf6b4-db70-5817-83da-4a19ad584e34
+  name: UnicodeGraphics
+  info:
+    tag: repo_inaccessible
+- uuid: ebaf19f5-aa55-568f-9bb2-d6722dad893b
+  name: MTH229
   info:
     tag: repo_inaccessible
 - uuid: ebbd5c0e-1502-4798-b66a-f9edf7b39368
   name: RemoteSCPI
   info:
     tag: repo_inaccessible
+- uuid: ebbdde9d-f333-5424-9be2-dbf1e9acfb5e
+  name: DiffEqBayes
+  info:
+    tag: repo_inaccessible
+- uuid: ebe7aa44-baf0-506c-a96f-8464559b3922
+  name: OMEinsum
+  info:
+    tag: repo_inaccessible
+- uuid: ec39d2da-6bdf-580b-ada4-cd6e059515c9
+  name: libgiac_julia_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ec55c3ff-feb8-4051-a6a4-2e9f18c613fc
+  name: DiffMatic
+  info:
+    tag: repo_inaccessible
+- uuid: ec6baca6-10c1-11ea-19b5-f7da994b81a8
+  name: SimSpin
+  info:
+    tag: repo_inaccessible
+- uuid: ecebd26c-3930-4a82-94f6-9df2a191b288
+  name: RegionGrids
+  info:
+    tag: repo_inaccessible
+- uuid: ed080073-db63-57db-a029-74e11ae80737
+  name: libasyncns_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ed268df6-2d29-4139-a3e0-ddeb8be80dc7
+  name: CachedFunctions
+  info:
+    tag: repo_inaccessible
+- uuid: ed376acd-e979-4125-b637-573100a4d0f2
+  name: CHGNetInterface
+  info:
+    tag: repo_inaccessible
+- uuid: ed6da631-2423-57d3-8e4b-223f43b45c0c
+  name: Retriever
+  info:
+    tag: repo_inaccessible
+- uuid: ed854f67-b1dc-40c1-a595-92080aa32ec0
+  name: SPEFiles
+  info:
+    tag: repo_inaccessible
+- uuid: eddcc1f7-2d42-55ad-abc0-463b4ff6875a
+  name: Atomsk_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ee283ea6-eecd-56e3-beb3-83eb4d3c31e9
+  name: Rebugger
+  info:
+    tag: repo_inaccessible
+- uuid: ee40d4b5-31c3-4fe2-b6cc-5ac7adf7f414
+  name: CountriesBorders
+  info:
+    tag: repo_inaccessible
+- uuid: ee77041e-65ec-469d-b516-892ca52996d6
+  name: SecureIO
+  info:
+    tag: repo_inaccessible
+- uuid: eeb17163-f076-48da-b693-6d8cb2af5572
+  name: StLifeIns
+  info:
+    tag: repo_inaccessible
+- uuid: eeb7bb4a-9a32-53d0-9978-007222276d6f
+  name: figtree_jll
+  info:
+    tag: repo_inaccessible
+- uuid: eed32e3e-a7c5-5bf9-9121-5cf3ab653887
+  name: squashfs_tools_jll
+  info:
+    tag: repo_inaccessible
 - uuid: eed75e0f-2a47-456c-84f6-69ee3fe4bbf9
   name: EventEmitter
+  info:
+    tag: repo_inaccessible
+- uuid: ef259003-9f3a-5fc7-ae68-dce6b88dc7d6
+  name: MuesliMaterials_jll
   info:
     tag: repo_inaccessible
 - uuid: ef35fa6a-3910-11e9-1848-752a35b00f56
   name: DataIO
   info:
     tag: repo_inaccessible
+- uuid: ef3b0bb0-9dc6-5204-90f3-946fd7d0da3e
+  name: HELICS_jll
+  info:
+    tag: repo_inaccessible
+- uuid: ef6e0fe3-e6ef-59c0-bde6-4989574699e0
+  name: NVPTX_LLVM_Backend_jll
+  info:
+    tag: repo_inaccessible
+- uuid: efcf1570-3423-57d1-acb7-fd33fddbac46
+  name: Setfield
+  info:
+    tag: repo_inaccessible
+- uuid: efd4563f-dd60-5f77-b4e3-8d1993cf4f0d
+  name: gocloc_jll
+  info:
+    tag: repo_inaccessible
+- uuid: efe4dcdd-3aed-4391-894d-a9dbd16a2f14
+  name: SciMLIterators
+  info:
+    tag: repo_inaccessible
 - uuid: eff96cbd-3442-458f-9fe2-6cad589fe5e1
   name: MeshMaker
+  info:
+    tag: repo_inaccessible
+- uuid: f00a6e10-004a-11ef-3676-67ec635bc1a2
+  name: CoralBlox
+  info:
+    tag: repo_inaccessible
+- uuid: f07e07eb-5685-515a-97c8-3014f6152feb
+  name: cddlib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f0e56b4a-5159-44fe-b623-3e5288b988bb
+  name: ConcurrentUtilities
+  info:
+    tag: repo_inaccessible
+- uuid: f102acab-2a34-462b-8f40-530debd6834f
+  name: RefinedSlippage
+  info:
+    tag: repo_inaccessible
+- uuid: f11abc24-ce50-11e8-2475-af6658d13f2b
+  name: Spot
+  info:
+    tag: repo_inaccessible
+- uuid: f1435218-dba5-11e9-1e4d-f1a5fab5fc13
+  name: Oscar
+  info:
+    tag: repo_inaccessible
+- uuid: f1dcbcfb-0b1d-45c0-883e-2edcfc1d4c23
+  name: Recommenders
+  info:
+    tag: repo_inaccessible
+- uuid: f1e60ccc-08a2-41db-b5d4-22e81ab96e15
+  name: MetropolizedForestRecom
+  info:
+    tag: repo_inaccessible
+- uuid: f1ef5e10-671a-599f-ac25-3c68827556ba
+  name: Dex_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f229c2ab-fef4-405d-a999-5503961a83f7
+  name: RiskBudgetingMeanVariance
+  info:
+    tag: repo_inaccessible
+- uuid: f23b13a2-9352-431b-a28a-b2f20c485fa1
+  name: ChaChaCiphers
+  info:
+    tag: repo_inaccessible
+- uuid: f23b31af-f0ea-4208-b2e0-bbfc29c446c9
+  name: MatInt
+  info:
+    tag: repo_inaccessible
+- uuid: f2712ddf-d375-4b75-9475-5f3be79dfb12
+  name: SVDSketch
+  info:
+    tag: repo_inaccessible
+- uuid: f27fdc93-0c88-4b5a-91cb-e8275adac0f6
+  name: QXZoo
+  info:
+    tag: repo_inaccessible
+- uuid: f2b1035b-1fed-4502-a057-be66ed18c291
+  name: RosSockets
   info:
     tag: repo_inaccessible
 - uuid: f325a362-c78e-481f-886d-076c680a7e4a
   name: SimDNA
   info:
     tag: repo_inaccessible
+- uuid: f346e401-14f9-407c-a0e2-c4f64a3e574a
+  name: ChemistryLab
+  info:
+    tag: repo_inaccessible
+- uuid: f39a6480-0c22-5bc5-b3a7-58be08593527
+  name: Heptagon_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f3b207a7-027a-5e70-b257-86293d7955fd
+  name: StatsPlots
+  info:
+    tag: repo_inaccessible
+- uuid: f41335bc-9121-4844-b5af-1d5721981e9a
+  name: MillerIndices
+  info:
+    tag: repo_inaccessible
+- uuid: f4388e49-ae39-433b-b921-aa66233e9152
+  name: MassSpecBioChemicals
+  info:
+    tag: repo_inaccessible
+- uuid: f43a241f-c20a-4ad4-852c-f6b1247861c6
+  name: Downloads
+  info:
+    tag: repo_inaccessible
+- uuid: f4798e02-a7e0-47f5-a571-12dd775704d3
+  name: MRFingerprintingRecon
+  info:
+    tag: repo_inaccessible
+- uuid: f489334b-da3d-4c2e-b8f0-e476e12c162b
+  name: StyledStrings
+  info:
+    tag: repo_inaccessible
+- uuid: f4b2537f-2a16-4095-98fc-a229818e8b13
+  name: DaprClients
+  info:
+    tag: repo_inaccessible
+- uuid: f4b513d5-df74-5b77-afcc-0e7f5b2f7b55
+  name: Thermopack_jll
+  info:
+    tag: repo_inaccessible
 - uuid: f4b8ab15-8e73-4e04-9661-b5912071d22b
   name: NonlinearSolvers
+  info:
+    tag: repo_inaccessible
+- uuid: f4cd0703-4c39-5e89-823d-694fbb07b12c
+  name: RayTraceEllipsoid
+  info:
+    tag: repo_inaccessible
+- uuid: f4d74008-4565-11e9-04bd-4fe404e6a92a
+  name: MeshAdaptiveDirectSearch
+  info:
+    tag: repo_inaccessible
+- uuid: f4eadb04-70c1-5b36-8221-785c072cda07
+  name: FORM_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f4ffb74a-bba7-4ac3-ad08-f8621d7c6d1d
+  name: ReefModEngine
+  info:
+    tag: repo_inaccessible
+- uuid: f51149dc-2911-5acf-81fc-2076a2a81d4f
+  name: ChainRulesOverloadGeneration
+  info:
+    tag: repo_inaccessible
+- uuid: f5116226-a574-5b1a-a4a4-91edc520f498
+  name: CategoricalTimeSeries
+  info:
+    tag: repo_inaccessible
+- uuid: f52a7a4e-f3c4-4810-b429-372b32c00cf9
+  name: SavitskyGolayFilters
   info:
     tag: repo_inaccessible
 - uuid: f55e719c-a8af-45e7-9c94-698398622baa
   name: DTALib
   info:
     tag: repo_inaccessible
+- uuid: f566df43-e85a-5b37-8f32-e64a053ee570
+  name: RobotOSData
+  info:
+    tag: repo_inaccessible
+- uuid: f56cabf9-9b38-5fec-ba65-673b1bb18264
+  name: PATHlib_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f57c4921-e30c-5f49-b073-3f2f2ada663e
+  name: MIDI
+  info:
+    tag: repo_inaccessible
+- uuid: f5ac2a72-33c7-5caf-b863-f02fefdcf428
+  name: SemanticModels
+  info:
+    tag: repo_inaccessible
 - uuid: f5c4805d-b585-58fe-b08a-e9c59614aa64
   name: Granular
   info:
     tag: repo_inaccessible
+- uuid: f5cc5b76-f814-11e9-291c-a1ea2b8c31c6
+  name: UnitfulCurrency
+  info:
+    tag: repo_inaccessible
+- uuid: f5de1e94-2f77-472d-8c3b-9d09f580ee5e
+  name: SimplexQuad
+  info:
+    tag: repo_inaccessible
 - uuid: f62ea92b-1830-43a7-8bcc-e4c334842b76
   name: Tui4jl
+  info:
+    tag: repo_inaccessible
+- uuid: f67eecfb-183a-506d-b269-f58e52b52d7c
+  name: Xorg_libICE_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f68482b8-f384-11e8-15f7-abe071a5a75f
+  name: Cthulhu
   info:
     tag: repo_inaccessible
 - uuid: f69727b9-8a39-40e5-8e7a-0243a3421727
@@ -1839,27 +6195,235 @@
   name: StructuresKit
   info:
     tag: repo_inaccessible
+- uuid: f70d9fcc-98c5-4d4a-abd7-e4cdeebd8ca8
+  name: CommonWorldInvalidations
+  info:
+    tag: repo_inaccessible
+- uuid: f7321fe0-76de-4184-b262-f3439fe138fd
+  name: SubsidenceChron
+  info:
+    tag: repo_inaccessible
+- uuid: f73efea4-6d21-11e9-25ff-9b1447cfbccb
+  name: ShapeConstrainedStats
+  info:
+    tag: repo_inaccessible
+- uuid: f74edf77-fc28-5533-a68a-cacf3c4a2f46
+  name: GRCore_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f761d5c5-86db-4880-b97f-9680a7cccfb5
+  name: Spglib
+  info:
+    tag: repo_inaccessible
 - uuid: f79185a3-a88d-4013-8848-f9f041a6cb9a
   name: FastLevenshtein
+  info:
+    tag: repo_inaccessible
+- uuid: f79a5470-17c6-525f-b62f-3ca7bd6eedf2
+  name: VariationalInequality
+  info:
+    tag: repo_inaccessible
+- uuid: f7aa4685-e143-4cb6-a7f3-073579757907
+  name: SecondQuantizedAlgebra
+  info:
+    tag: repo_inaccessible
+- uuid: f7e6163d-2fa5-5f23-b69c-1db539e41963
+  name: Kaleido_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f7f8d0a1-fd34-491e-a7ac-a4cf52f91fe5
+  name: MathOptBenchmarkInstances
+  info:
+    tag: repo_inaccessible
+- uuid: f83fd561-6387-5ecc-9835-b38c8eaffb11
+  name: cmocka_jll
   info:
     tag: repo_inaccessible
 - uuid: f8c24b8e-07c0-4fa7-b4d4-fbfdbae127a5
   name: OptimalPortfolios
   info:
     tag: repo_inaccessible
+- uuid: f8f80db2-c0ba-59e9-a5c3-38d72e3c5ac2
+  name: jq_jll
+  info:
+    tag: repo_inaccessible
+- uuid: f8fcefdb-5f5a-475b-b2a0-c41c734946b5
+  name: OrbitalElements
+  info:
+    tag: repo_inaccessible
+- uuid: f984992d-3c45-4382-99a1-cf20f5c47c61
+  name: DiffPointRasterisation
+  info:
+    tag: repo_inaccessible
+- uuid: f99c5f09-8689-4482-a891-4b988ec2fc3d
+  name: Matroids
+  info:
+    tag: repo_inaccessible
+- uuid: f9c319a3-ff8a-48d2-8f6c-2646455c3008
+  name: SSHT
+  info:
+    tag: repo_inaccessible
+- uuid: f9d38c27-4a81-4d8c-bddb-5ed3c8119a58
+  name: UniversalIntegerCodes
+  info:
+    tag: repo_inaccessible
+- uuid: f9f48841-c794-520a-933b-121f7ba6ed94
+  name: MemPool
+  info:
+    tag: repo_inaccessible
+- uuid: fa1605e6-acd5-459c-a1e6-7e635759db14
+  name: MeasureBase
+  info:
+    tag: repo_inaccessible
+- uuid: fa32481b-f100-4b48-8dc8-c62f61b13870
+  name: SparseMatricesCOO
+  info:
+    tag: repo_inaccessible
+- uuid: fa92151d-46bc-54ec-9702-06e181683c4a
+  name: desync_jll
+  info:
+    tag: repo_inaccessible
+- uuid: fab6aee4-877b-4bac-a744-3eca44acbb6f
+  name: DistributedNext
+  info:
+    tag: repo_inaccessible
+- uuid: fad677ff-a6e1-547e-a877-6c265eeefd90
+  name: SYMPHONY_jll
+  info:
+    tag: repo_inaccessible
+- uuid: fb1137e3-90a6-46ce-a672-6e1e53d120f2
+  name: MRIOperators
+  info:
+    tag: repo_inaccessible
 - uuid: fb2f92b1-9968-41b4-8835-2765b866fa7d
   name: EchelleBase
+  info:
+    tag: repo_inaccessible
+- uuid: fb531da0-582c-4a62-80cc-836e12ba9c31
+  name: MixedModelsSmallSample
+  info:
+    tag: repo_inaccessible
+- uuid: fb59780d-f43e-4e99-95bf-76de9f0a287a
+  name: Osnaps
+  info:
+    tag: repo_inaccessible
+- uuid: fb686558-2515-59ef-acaa-46db3789a887
+  name: RandomExtensions
+  info:
+    tag: repo_inaccessible
+- uuid: fb992021-99c7-4c2d-a14b-5e48ac4045b2
+  name: StableSpectralElements
   info:
     tag: repo_inaccessible
 - uuid: fbaf683a-b9b3-4040-be64-6c4c04986dd0
   name: CalibrateEDMF
   info:
     tag: repo_inaccessible
+- uuid: fbb887af-2519-40af-8dc5-25186fd85022
+  name: RepeatingDecimalNotations
+  info:
+    tag: repo_inaccessible
+- uuid: fbce7cdf-2836-403b-b047-729f0088b997
+  name: SlackSDK
+  info:
+    tag: repo_inaccessible
+- uuid: fc1462b8-e790-43d8-8e6e-8820fe0073d6
+  name: CombinatorialEnumeration
+  info:
+    tag: repo_inaccessible
+- uuid: fc1ed427-419d-5ab1-b4dc-28f2ea403123
+  name: DampRR
+  info:
+    tag: repo_inaccessible
+- uuid: fc25ca13-2340-47d7-8ff6-e6adb00fe34b
+  name: StippleUsers
+  info:
+    tag: repo_inaccessible
 - uuid: fc2879f5-75d7-582e-8603-c64deb99b744
   name: Ant
   info:
     tag: repo_inaccessible
+- uuid: fc55d66b-b2a8-4ccc-9d64-c0c2166ceb36
+  name: DifferentiableExpectations
+  info:
+    tag: repo_inaccessible
+- uuid: fc65d762-6112-4b1c-b428-ad0792653d81
+  name: Skipper
+  info:
+    tag: repo_inaccessible
+- uuid: fc9abe76-a5e6-5fed-b0b7-a12f309cf031
+  name: SCIP_PaPILO_jll
+  info:
+    tag: repo_inaccessible
+- uuid: fcd1aa73-243d-5665-acf3-2a5a4322c7a8
+  name: Soup3_jll
+  info:
+    tag: repo_inaccessible
+- uuid: fcdc8f60-d396-456b-adf3-1a67625f7fcb
+  name: MiniObserve
+  info:
+    tag: repo_inaccessible
+- uuid: fcf42798-af55-56d4-b791-3d7c12f793a1
+  name: HHsuite_jll
+  info:
+    tag: repo_inaccessible
+- uuid: fd36aebc-0777-11ea-1be3-eb1bdc5c01e1
+  name: MLSuite
+  info:
+    tag: repo_inaccessible
+- uuid: fd83a0a4-5223-4bbc-b61e-d20f1d446444
+  name: MSTM4Runner
+  info:
+    tag: repo_inaccessible
+- uuid: fda230f0-5871-413e-9850-4812b05d76c2
+  name: SQLDataFrameTools
+  info:
+    tag: repo_inaccessible
+- uuid: fdc92b62-57bd-11e9-1326-e584eb179d13
+  name: UProbes
+  info:
+    tag: repo_inaccessible
+- uuid: fdea26ae-647d-5447-a871-4b548cad5224
+  name: SIMD
+  info:
+    tag: repo_inaccessible
+- uuid: fe88e339-4f5d-4d49-b138-24d030ba5b68
+  name: MetacommunityDynamics
+  info:
+    tag: repo_inaccessible
+- uuid: fe99531a-0285-52ab-9c44-55b4da1c0c9c
+  name: UnsteadyFlowSolvers
+  info:
+    tag: repo_inaccessible
+- uuid: fea25315-b951-4667-83c9-50e53efab241
+  name: QSFit
+  info:
+    tag: repo_inaccessible
 - uuid: fead5d43-7759-5ac8-9dff-97135399d9eb
   name: StaggeredGridCalculus
+  info:
+    tag: repo_inaccessible
+- uuid: ff0d0012-cacc-467c-a675-b36108f55689
+  name: DataFrameTools
+  info:
+    tag: repo_inaccessible
+- uuid: ff1143b4-0d7b-4ff9-a09e-db965c574e12
+  name: COSMA
+  info:
+    tag: repo_inaccessible
+- uuid: ff63dad9-3335-55d8-95ec-f8139d39e468
+  name: StreamSampling
+  info:
+    tag: repo_inaccessible
+- uuid: ffa27691-3a59-46ab-a8d4-551f45b8d401
+  name: ColPack
+  info:
+    tag: repo_inaccessible
+- uuid: ffa9a821-9c82-50df-894e-fbcef3ed31cd
+  name: DocumentFormat
+  info:
+    tag: repo_inaccessible
+- uuid: ffd25f8a-64ca-5728-b0f7-c24cf3aae800
+  name: XZ_jll
   info:
     tag: repo_inaccessible
