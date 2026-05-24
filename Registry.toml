@@ -1898,6 +1898,7 @@ some amount of consideration when choosing package names.
 2311f341-5e6d-4941-9e3e-3ce0ae0d9ed6 = { name = "HallThruster", path = "H/HallThruster" }
 231a7ae5-8495-40ed-9891-ff920a14b9bd = { name = "Plugins", path = "P/Plugins" }
 231d3afb-1936-45f0-8367-36f73a875095 = { name = "BurrowsWheelerAligner", path = "B/BurrowsWheelerAligner" }
+2326d305-03d0-4260-ba27-fc7d1edfc55d = { name = "ApparentHorizonFinder", path = "A/ApparentHorizonFinder" }
 233675ba-9426-43ce-b06d-28ea4529d7f1 = { name = "ComradeNested", path = "C/ComradeNested" }
 2338ea46-7d83-48cf-b44e-cf8e0b5b9cc1 = { name = "CubicHermiteSpline", path = "C/CubicHermiteSpline" }
 2339b9c3-daaf-4eaa-90d5-e8471159c344 = { name = "BetaRegression", path = "B/BetaRegression" }
@@ -2080,6 +2081,7 @@ some amount of consideration when choosing package names.
 26b78818-2f47-47c8-af4b-89b2c3dade3f = { name = "BaytesFilters", path = "B/BaytesFilters" }
 26bbae53-793e-4dc4-8f6d-18bb7d98adf6 = { name = "ONNXLowLevel", path = "O/ONNXLowLevel" }
 26c1a390-a91f-50e6-ae38-ce2477450035 = { name = "STYRENE_jll", path = "jll/S/STYRENE_jll" }
+26c3e8b2-b2ea-4c13-8a2d-a4d529bbbc89 = { name = "TowStyTemplates", path = "T/TowStyTemplates" }
 26cc04aa-876d-5657-8c51-4c34ba976000 = { name = "FiniteDifferences", path = "F/FiniteDifferences" }
 26cce99e-4866-4b6d-ab74-862489e035e0 = { name = "BasicInterpolators", path = "B/BasicInterpolators" }
 26d27508-09c5-44d0-86be-f4e37b03a7e6 = { name = "B0Map", path = "B/B0Map" }
@@ -3442,6 +3444,7 @@ some amount of consideration when choosing package names.
 3f775d88-a4da-46c4-a2cc-aa9f16db6708 = { name = "EnergyModelsGeography", path = "E/EnergyModelsGeography" }
 3f797b09-34e4-41d7-acf6-3302ae3248a5 = { name = "FittedItemBanks", path = "F/FittedItemBanks" }
 3f79f04f-7cac-48b4-bde1-3ad54d8f74fa = { name = "Helium", path = "H/Helium" }
+3f823c38-d010-4086-b4dc-b61855312ec9 = { name = "QubiSim", path = "Q/QubiSim" }
 3f865c0f-6dca-5f4d-999b-29fe1e7e3c92 = { name = "ScatteredInterpolation", path = "S/ScatteredInterpolation" }
 3f8f70db-33be-4c52-a587-656da41b6848 = { name = "BayesianFactorZoo", path = "B/BayesianFactorZoo" }
 3f90d43e-2ba6-5087-9e86-8e3765b17318 = { name = "Tachyons", path = "T/Tachyons" }
@@ -3618,6 +3621,7 @@ some amount of consideration when choosing package names.
 430d172f-66e9-4875-89c7-99d3949cb067 = { name = "DiffusionX", path = "D/DiffusionX" }
 43133aba-3931-5066-b004-a34c79b93f2e = { name = "abseil_cpp_jll", path = "jll/A/abseil_cpp_jll" }
 43182933-f65b-495a-9e05-4d939cea427d = { name = "DigitalAssetExchangeFormatIO", path = "D/DigitalAssetExchangeFormatIO" }
+431a9082-0c03-4c0b-a224-e592b0e14882 = { name = "PhyloSummaries", path = "P/PhyloSummaries" }
 431bcebd-1456-4ced-9d72-93c2757fff0b = { name = "SciMLPublic", path = "S/SciMLPublic" }
 432009dd-59a1-4b72-8c93-6462ce9b220f = { name = "Flux3D", path = "F/Flux3D" }
 43230ef6-c299-4910-a778-202eb28ce4ce = { name = "OrdinaryDiffEqRosenbrock", path = "O/OrdinaryDiffEqRosenbrock" }
@@ -4817,6 +4821,7 @@ some amount of consideration when choosing package names.
 59c22e0c-4e04-425f-9782-11a552c58a8d = { name = "StringTemplates", path = "S/StringTemplates" }
 59c446ea-fb23-41e3-bcd2-697fa0a242d6 = { name = "SplineGrids", path = "S/SplineGrids" }
 59c5aa83-900c-4c4d-b6cc-c9bbbf32a260 = { name = "HMMER", path = "H/HMMER" }
+59c811e7-adb4-4b01-a05e-50a2dd0b99a2 = { name = "TimerOutputComparisons", path = "T/TimerOutputComparisons" }
 59ceddad-2dad-55ad-af66-072f48a109d0 = { name = "Khepri", path = "K/Khepri" }
 59d0093e-b1f1-4fb7-ac85-ab57e45f39d9 = { name = "FerriteViz", path = "F/FerriteViz" }
 59d27aa3-834e-4232-9046-52ef43e86786 = { name = "WRDSMerger", path = "W/WRDSMerger" }
@@ -4931,6 +4936,7 @@ some amount of consideration when choosing package names.
 5be22e1c-01b5-4697-96eb-ef9ccdc854b8 = { name = "PetscWrap", path = "P/PetscWrap" }
 5be70612-1674-42c4-a038-c376b6dc81ed = { name = "FrameTransformations", path = "F/FrameTransformations" }
 5be7bae1-8223-5378-bac3-9e7378a2f6e6 = { name = "LBFGSB", path = "L/LBFGSB" }
+5bee2580-3970-51e6-a8b4-2a17126b60e0 = { name = "HYPRE64_jll", path = "jll/H/HYPRE64_jll" }
 5befdd30-5572-5129-8422-0c92d957d47a = { name = "Hilbert", path = "H/Hilbert" }
 5bf49175-83fb-4b6d-82b5-d6ded85154ae = { name = "Countries", path = "C/Countries" }
 5bf562c0-5a39-5b4f-b979-f64ac885830c = { name = "libsndfile_jll", path = "jll/L/libsndfile_jll" }
@@ -5813,6 +5819,7 @@ some amount of consideration when choosing package names.
 6c26c9e7-0ef1-44eb-bb5c-4a6256936300 = { name = "DiscoveryGraph", path = "D/DiscoveryGraph" }
 6c2f61f8-fafd-4db0-a534-9240d45f7a9c = { name = "CalculatedABC", path = "C/CalculatedABC" }
 6c2fb7c5-b903-41d2-bc5e-5a7c320b9fab = { name = "QuantumToolbox", path = "Q/QuantumToolbox" }
+6c305548-b09e-472b-8440-afccb1cb4f6f = { name = "InfluxFlux", path = "I/InfluxFlux" }
 6c322a0d-46e9-4575-a44b-1e5c7962c4aa = { name = "SpecTools", path = "S/SpecTools" }
 6c353534-c22b-44cc-9076-7b904de9fadc = { name = "BoxLeastSquares", path = "B/BoxLeastSquares" }
 6c38235a-427b-4736-80fa-cf75909744ec = { name = "DynOptInterface", path = "D/DynOptInterface" }
@@ -6217,6 +6224,7 @@ some amount of consideration when choosing package names.
 73480bc8-48a2-41cc-880f-208b490ccf65 = { name = "RationalFunctionFields", path = "R/RationalFunctionFields" }
 734901b1-590a-5f47-85e0-724a0ec3af09 = { name = "DynamicBounds", path = "D/DynamicBounds" }
 734bcdfa-9b77-4718-b76e-d5faf726ad42 = { name = "ODEHybrid", path = "O/ODEHybrid" }
+7351309b-c792-453f-bd98-cb04bf1e0801 = { name = "ManifoldAsymptote", path = "M/ManifoldAsymptote" }
 73536572-7074-4e69-5270-206c4c6a2061 = { name = "JLLGenerator", path = "J/JLLGenerator" }
 7356a560-9b13-4027-8f83-9f0b8f55db70 = { name = "PresheafCategories", path = "P/PresheafCategories" }
 7356f369-bb30-4519-aa96-c92d996faa13 = { name = "GMCMeasure", path = "G/GMCMeasure" }
@@ -8322,6 +8330,7 @@ some amount of consideration when choosing package names.
 9b6a8646-10ed-4001-bbdc-1d2f46dfbb1a = { name = "AllocCheck", path = "A/AllocCheck" }
 9b6fcbb8-86d6-11e9-1ce7-23a6bb139a78 = { name = "GeoData", path = "G/GeoData" }
 9b7c96af-00f4-4809-8f3b-e928a99f2955 = { name = "EcoNetPostProcessing", path = "E/EcoNetPostProcessing" }
+9b7e4f4a-1c2a-4f1e-9c2c-7c2b1a5e3a01 = { name = "FFTLoggin", path = "F/FFTLoggin" }
 9b8138ad-1b09-5408-aa39-e87ed6d21b63 = { name = "TransformUtils", path = "T/TransformUtils" }
 9b85cdd3-b0ee-4013-9538-086350204d42 = { name = "BitcoinRPC", path = "B/BitcoinRPC" }
 9b87118b-4619-50d2-8e1e-99f35a4d4d9d = { name = "PackageCompiler", path = "P/PackageCompiler" }
@@ -9583,6 +9592,7 @@ b1dd1ac2-3671-512a-91db-cff14b385d02 = { name = "TinySegmenter", path = "T/TinyS
 b1df2697-797e-41e3-8120-5422d3b24e4a = { name = "OrdinaryDiffEqTsit5", path = "O/OrdinaryDiffEqTsit5" }
 b1e0afa7-a251-494f-bb10-70a9ac2e613c = { name = "PortHamiltonianModelReduction", path = "P/PortHamiltonianModelReduction" }
 b1e335f6-4372-40fd-9431-5a5c4704c04b = { name = "ReSHOP_jll", path = "jll/R/ReSHOP_jll" }
+b1e5a2b9-85de-45c7-a260-4d8dda977783 = { name = "StyledTables", path = "S/StyledTables" }
 b1eed063-bea0-4e2a-bcc5-a02b2b0a7b77 = { name = "Sensemakr", path = "S/Sensemakr" }
 b1f22607-7830-5ceb-9a8e-05ab1ac77008 = { name = "GeoEfficiency", path = "G/GeoEfficiency" }
 b1f25513-c649-51ee-8a1c-0e98d01ae897 = { name = "CausalityToolsBase", path = "C/CausalityToolsBase" }
@@ -10445,6 +10455,7 @@ c1ab834c-c4a5-50f5-9156-8f0fe7758b0e = { name = "SHOT_jll", path = "jll/S/SHOT_j
 c1ae055f-0cd5-4b69-90a6-9a35b1a98df9 = { name = "RealDot", path = "R/RealDot" }
 c1b2b608-cf0a-49e8-8122-201050f5fbe7 = { name = "FractionalDelayFilter", path = "F/FractionalDelayFilter" }
 c1b9e933-98a0-46fc-8ea7-3b58b195fb0a = { name = "StreamCallbacks", path = "S/StreamCallbacks" }
+c1ba0b60-2606-4ffc-8aea-7c4a0f2726e4 = { name = "MajoranaPropagation", path = "M/MajoranaPropagation" }
 c1bf003f-4e47-49d9-bdfd-5a4051db3c04 = { name = "EoSSuperancillaries", path = "E/EoSSuperancillaries" }
 c1c5ebd0-6772-5130-a774-d5fcae4a789d = { name = "LAME_jll", path = "jll/L/LAME_jll" }
 c1ccfb80-616c-11e9-2032-47e8246e4458 = { name = "SpineBasedRecordLinkage", path = "S/SpineBasedRecordLinkage" }
