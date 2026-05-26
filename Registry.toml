@@ -589,6 +589,7 @@ some amount of consideration when choosing package names.
 0a941bbe-ad1d-11e8-39d9-ab76183a1d99 = { name = "Zarr", path = "Z/Zarr" }
 0a96183e-380b-4aa6-be10-c555140810f2 = { name = "MLJModelRegistryTools", path = "M/MLJModelRegistryTools" }
 0aa31362-0b7e-4e8d-8385-676712fa7ef3 = { name = "TulipaProfileFitting", path = "T/TulipaProfileFitting" }
+0aa5b41a-51a1-41e7-8512-17ccb31a7c30 = { name = "HyperSignal", path = "H/HyperSignal" }
 0aa819cd-b072-5ff4-a722-6bc24af294d9 = { name = "SQLite", path = "S/SQLite" }
 0ab3451c-659c-47cd-a7a9-a2d579e209dd = { name = "AbstractItemResponseModels", path = "A/AbstractItemResponseModels" }
 0ac62f75-1d6f-5e53-bd7c-93b484bb37c0 = { name = "libass_jll", path = "jll/L/libass_jll" }
@@ -4460,6 +4461,7 @@ some amount of consideration when choosing package names.
 52935e6f-76c5-5ebb-b227-36676f75be9c = { name = "rocPRIM_jll", path = "jll/R/rocPRIM_jll" }
 52969e89-939e-4361-9b68-9bc7cde4bdeb = { name = "PEPSKit", path = "P/PEPSKit" }
 529b9e8a-d2db-4a93-8026-567587707ce3 = { name = "BatchPDLP", path = "B/BatchPDLP" }
+529ff742-b572-47ff-bc84-d3f557f53d2b = { name = "Aff3ct", path = "A/Aff3ct" }
 52a3aca4-6234-47fd-b74a-806bdf78ede9 = { name = "Viznet", path = "V/Viznet" }
 52a58d30-3731-5a3f-8361-26ffb4f63669 = { name = "Libksba_jll", path = "jll/L/Libksba_jll" }
 52a73f2b-c786-4122-ad8a-b7fbd35c9081 = { name = "FIFOStreams", path = "F/FIFOStreams" }
@@ -6070,6 +6072,7 @@ some amount of consideration when choosing package names.
 70bdbfc6-e9c9-457d-a859-87a2987b95b3 = { name = "OtsuThresholding", path = "O/OtsuThresholding" }
 70c3cbac-2c23-4b2d-966c-5a25c0a540fb = { name = "CameraCalibrations", path = "C/CameraCalibrations" }
 70c4c096-89a6-5ec6-8236-da8aa3bd86fd = { name = "Indicators", path = "I/Indicators" }
+70c8b9a1-b4c5-4d7a-a56e-8e7e6495d68b = { name = "IntegrateUnitary", path = "I/IntegrateUnitary" }
 70cc596b-f351-5640-b155-76ddf0ff62ca = { name = "xfoil_light_jll", path = "jll/X/xfoil_light_jll" }
 70ccc657-289f-4534-a407-e03a16fd1153 = { name = "STARSDataFusion", path = "S/STARSDataFusion" }
 70d26913-0580-4037-ad67-7d2c365cf5c5 = { name = "AddPackage", path = "A/AddPackage" }
@@ -6101,6 +6104,7 @@ some amount of consideration when choosing package names.
 714e3e49-7933-471a-9334-4a6a65a92f36 = { name = "Geomorphometry", path = "G/Geomorphometry" }
 71555da5-176e-5e73-a222-aebc6c6e4f2f = { name = "Reel", path = "R/Reel" }
 71566503-fddc-4190-936c-ecb38fefcffd = { name = "BadukGoWeiqiTools", path = "B/BadukGoWeiqiTools" }
+71578703-7aff-5c16-bbae-7ba9c160b2b9 = { name = "PIOLib_jll", path = "jll/P/PIOLib_jll" }
 7159cd1a-befd-4126-8a94-9819cf26f52f = { name = "KhepriIllustrator", path = "K/KhepriIllustrator" }
 715ab00d-497d-5f5e-92b0-16e551a8d81b = { name = "QuantumWalk", path = "Q/QuantumWalk" }
 715aea54-2823-4197-8122-618b5e027a3f = { name = "IntegerTriangles", path = "I/IntegerTriangles" }
@@ -11937,6 +11941,7 @@ dd4fbf09-c66a-460f-850c-a6bf3253bb5f = { name = "TauP", path = "T/TauP" }
 dd5226c6-a4d4-4bc7-8575-46859f9c95b9 = { name = "ArrayInterfaceStaticArraysCore", path = "A/ArrayInterfaceStaticArraysCore" }
 dd57e2ab-7dae-448b-a136-57ab9eca4234 = { name = "FewBodyPhysics", path = "F/FewBodyPhysics" }
 dd59ff1a-a01a-568d-8b29-0669330f116a = { name = "hsa_rocr_jll", path = "jll/H/hsa_rocr_jll" }
+dd5ee4bc-caca-4b0e-b38f-82888d7e6786 = { name = "Luximm", path = "L/Luximm" }
 dd61e66b-39ce-57b0-8813-509f78be4b4d = { name = "MDBM", path = "M/MDBM" }
 dd6a91e4-736f-4540-ac85-13822ca7b545 = { name = "LatticeMatrices", path = "L/LatticeMatrices" }
 dd720b4e-75c8-5196-993d-eac563881c8e = { name = "Qt5Charts_jll", path = "jll/Q/Qt5Charts_jll" }
@@ -13345,6 +13350,7 @@ f7fc0f56-fd22-44bd-b234-bafb44a5fc23 = { name = "Dhall", path = "D/Dhall" }
 f80590ac-b429-510a-8a99-e7c46989f22d = { name = "JuliaFEM", path = "J/JuliaFEM" }
 f81e04c9-20b8-526d-9626-780ee78293fb = { name = "MNPDynamics", path = "M/MNPDynamics" }
 f8217676-c24a-4825-a874-ba6ce2a4fe08 = { name = "BioFetch", path = "B/BioFetch" }
+f8228cda-011f-463c-ac28-4f36d81e7604 = { name = "GenLAProblems", path = "G/GenLAProblems" }
 f823eff6-be4d-43a7-b42c-2ec4700fde1f = { name = "SimpleDistributionPowerFlow", path = "S/SimpleDistributionPowerFlow" }
 f8279b81-109e-5889-b60a-462064c9b7ac = { name = "SoftHSM2_jll", path = "jll/S/SoftHSM2_jll" }
 f82b2a20-12c9-425c-bdb8-e1eabd25f0c2 = { name = "SphericalHaarTransform", path = "S/SphericalHaarTransform" }
