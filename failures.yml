@@ -1941,6 +1941,10 @@
   name: ExtremeFloats
   info:
     tag: repo_inaccessible
+- uuid: 4fd80dc0-1456-4cb8-b66a-f1af47e41f08
+  name: DependencyAtlas
+  info:
+    tag: repo_inaccessible
 - uuid: 4fe2279e-80f0-4adb-8463-ee114ff56b7d
   name: SparseIR
   info:
@@ -4026,6 +4030,10 @@
   name: OpenScripturesHebrew
   info:
     tag: repo_inaccessible
+- uuid: a311efd2-96b4-40e8-a1fa-502ca2bf329b
+  name: NonlinearCrystals
+  info:
+    tag: repo_inaccessible
 - uuid: a350b66b-315f-4c41-8dcc-4d7330525fdd
   name: TeXTable
   info:
@@ -5430,6 +5438,20 @@
   name: SPCSpectra
   info:
     tag: repo_inaccessible
+- uuid: ddf597a6-d67e-5340-b84c-e37d84115374
+  name: PolyJuMP
+  info:
+    tag: specific_version
+    text: |-
+      Failed to nix-prefetch-git https://github.com/jump-dev/PolyJuMP.jl.git --rev 5845d78521af602befc886e12ba89923bf5b3185 (exited with 1). Stdout: . Stderr: Initialized empty Git repository in /home/runner/work/_temp/git-checkout-tmp-EL5voCeT/clone/.git/
+      From https://github.com/jump-dev/PolyJuMP.jl
+       * branch            5845d78521af602befc886e12ba89923bf5b3185 -> FETCH_HEAD
+      Switched to a new branch 'fetchgit'
+      removing `.git'...
+      find: ‘/home/runner/work/_temp/git-checkout-tmp-EL5voCeT/clone/.git/objects/00’: No such file or directory
+      find: ‘/home/runner/work/_temp/git-checkout-tmp-EL5voCeT/clone/.git/objects/11’: No such file or directory
+      find: ‘/home...
+    version: '"0.8.1"'
 - uuid: de008ff0-c357-11e8-3329-7fe746fe836e
   name: RockSample
   info:
