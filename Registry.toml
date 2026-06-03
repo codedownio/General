@@ -3371,6 +3371,7 @@ some amount of consideration when choosing package names.
 3db4a2ba-fc88-11e8-3e01-49c72059a882 = { name = "LegendrePolynomials", path = "L/LegendrePolynomials" }
 3dc4824f-14ac-4ab7-8a60-75dbcd4a9d60 = { name = "LinearAlgebraForCAP", path = "L/LinearAlgebraForCAP" }
 3dc6825e-6d30-452c-8c3b-9f912c2c1081 = { name = "Whitening", path = "W/Whitening" }
+3dcdc8e4-44ed-57ba-a481-00c2d470a1e6 = { name = "BiqCrunch_jll", path = "jll/B/BiqCrunch_jll" }
 3dcf74f3-6bc3-597e-9d13-043388c3118a = { name = "mlir_jl_tblgen_jll", path = "jll/M/mlir_jl_tblgen_jll" }
 3dd14ad9-0029-526e-86e9-8aa0bdd2ab0d = { name = "FixedPolynomials", path = "F/FixedPolynomials" }
 3debba03-e216-4816-844a-cb4454e272d5 = { name = "FieldFlags", path = "F/FieldFlags" }
@@ -8645,6 +8646,7 @@ a0499f29-c39b-4c5c-807c-88074221b949 = { name = "PlutoDevMacros", path = "P/Plut
 a05a14c7-6e3b-5ba9-90a2-45558833e1df = { name = "LibSerialPort", path = "L/LibSerialPort" }
 a05b3ec9-34a1-438a-b0a1-c0adb433119f = { name = "SciMLVerbosity", path = "S/SciMLVerbosity" }
 a066f67d-7bb6-5c78-aee2-fe6a6ddc0b62 = { name = "GlobalSearchRegressionGUI", path = "G/GlobalSearchRegressionGUI" }
+a06e77ff-36b4-5132-97e7-89d23e88aaf1 = { name = "CImPlot3D_jll", path = "jll/C/CImPlot3D_jll" }
 a076750e-1247-5638-91d2-ce28b192dca0 = { name = "CPLEX", path = "C/CPLEX" }
 a077e3f3-b75c-5d7f-a0c6-6bc4c8ec64a9 = { name = "DiffEqProblemLibrary", path = "D/DiffEqProblemLibrary" }
 a078cd44-4d9c-4618-b545-3ab9d77f9177 = { name = "DocumenterMermaid", path = "D/DocumenterMermaid" }
@@ -13474,6 +13476,7 @@ f9e4c324-c3b6-4bca-9c3d-419775f0bd17 = { name = "PowerModelsStability", path = "
 f9e53bcf-9449-548a-a5fe-a83e43094f75 = { name = "HurdleDMR", path = "H/HurdleDMR" }
 f9ed5ce0-9f41-4eaa-96da-f38ab8df101c = { name = "TimeStruct", path = "T/TimeStruct" }
 f9f48841-c794-520a-933b-121f7ba6ed94 = { name = "MemPool", path = "M/MemPool" }
+fa08b7a1-13d3-4faf-875d-5cbc1520e3f3 = { name = "SpecializingFactorizations", path = "S/SpecializingFactorizations" }
 fa12694a-6dff-11e9-3f23-c5fa6b69506f = { name = "GetGene", path = "G/GetGene" }
 fa1605e6-acd5-459c-a1e6-7e635759db14 = { name = "MeasureBase", path = "M/MeasureBase" }
 fa1c4275-15d9-4b6b-ac6e-8f8cb1e5cce9 = { name = "KoopmanModeDecomposition", path = "K/KoopmanModeDecomposition" }
@@ -13636,6 +13639,7 @@ fcf42798-af55-56d4-b791-3d7c12f793a1 = { name = "HHsuite_jll", path = "jll/H/HHs
 fcf631a6-1c7e-4e88-9e64-b8888386d9dc = { name = "KomaMRIFiles", path = "K/KomaMRIFiles" }
 fcfa6960-8e2e-11e9-2cde-29dd09221fb3 = { name = "PiecewiseLinearApprox", path = "P/PiecewiseLinearApprox" }
 fcfa6d1b-d8ce-59d5-8c0a-c0d7f69e4f40 = { name = "Calcium_jll", path = "jll/C/Calcium_jll" }
+fcfdcc98-126e-435e-9a83-ddb11e65593a = { name = "AtmosTransport", path = "A/AtmosTransport" }
 fd094767-a336-5f1f-9728-57cf17d0bbfb = { name = "Suppressor", path = "S/Suppressor" }
 fd0ad045-b25c-564e-8f9c-8ef5c5f21267 = { name = "GeometricalPredicates", path = "G/GeometricalPredicates" }
 fd16a862-e713-4e98-8e8f-513553425ee0 = { name = "FiniteSizeScaling", path = "F/FiniteSizeScaling" }
