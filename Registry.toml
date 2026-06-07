@@ -1381,6 +1381,7 @@ some amount of consideration when choosing package names.
 18e85bec-f2a0-4122-b3a6-37651333b522 = { name = "ItemResponseFunctions", path = "I/ItemResponseFunctions" }
 18ed25b1-892a-4a3b-b8fc-1036dc9a6a89 = { name = "PokerHandEvaluator", path = "P/PokerHandEvaluator" }
 18f53e89-494d-4131-905c-653e8ada6cd8 = { name = "SignalIndices", path = "S/SignalIndices" }
+18f9eda6-924c-47c7-a881-996695cfd7c6 = { name = "QuantumInputOutput", path = "Q/QuantumInputOutput" }
 1901280f-61ce-5048-a6a8-fd033512e07b = { name = "libcifpp_jll", path = "jll/L/libcifpp_jll" }
 1902729b-b4d4-4bb0-ae7d-e2f19e2a15fb = { name = "LibGEOSMakie", path = "L/LibGEOSMakie" }
 1902f260-5fb4-5aff-8c31-6271790ab950 = { name = "Knet", path = "K/Knet" }
@@ -6205,6 +6206,7 @@ some amount of consideration when choosing package names.
 725d9659-360f-4996-9c94-5f19c7e4a8a6 = { name = "GeoStatsTransforms", path = "G/GeoStatsTransforms" }
 72641a9e-0ae7-4379-851f-e6d22edf0786 = { name = "RPCholesky", path = "R/RPCholesky" }
 72656b73-756c-7461-726b-72656b6b696b = { name = "PlutoDependencyExplorer", path = "P/PlutoDependencyExplorer" }
+72681062-5925-4945-963f-74d9429756fe = { name = "Diff3D", path = "D/Diff3D" }
 72694564-f60b-4882-9057-f9f0ff647ee8 = { name = "RobotVisualizer", path = "R/RobotVisualizer" }
 72696420-646e-6120-6e77-6f6420746567 = { name = "FileTrees", path = "F/FileTrees" }
 7269a6da-0436-5bbc-96c2-40638cbb6118 = { name = "MeshIO", path = "M/MeshIO" }
@@ -6953,6 +6955,7 @@ some amount of consideration when choosing package names.
 7f51dc2b-bb24-59f8-b771-bb1490e4195d = { name = "NUMA_jll", path = "jll/N/NUMA_jll" }
 7f538e44-2768-4ef2-af90-2110c0378286 = { name = "Theseus", path = "T/Theseus" }
 7f56f5a3-f504-529b-bc02-0b1fe5e64312 = { name = "LSODA", path = "L/LSODA" }
+7f5c8dc3-eac0-433a-8f9a-447d9b24aa6e = { name = "AccessorForwarding", path = "A/AccessorForwarding" }
 7f671e5d-0047-4e0c-be3f-48e444156e7b = { name = "ImageChipper", path = "I/ImageChipper" }
 7f6f6c8a-3b03-11e9-223d-e7d88259bd6c = { name = "TextSearch", path = "T/TextSearch" }
 7f725544-6523-48cd-82d1-3fa08ff4056e = { name = "BinaryBuilderBase", path = "B/BinaryBuilderBase" }
@@ -7839,6 +7842,7 @@ some amount of consideration when choosing package names.
 9052fb24-8e06-4531-a321-89bd3c4584f9 = { name = "GraphNets", path = "G/GraphNets" }
 905906f8-4650-4186-8b30-13842c9f1f1c = { name = "KrakenEx", path = "K/KrakenEx" }
 905a6f67-0a94-5f89-b386-d35d92009cd1 = { name = "Imath_jll", path = "jll/I/Imath_jll" }
+905eca60-9fa9-4fb3-8835-f5cd63a3719c = { name = "Ronin", path = "R/Ronin" }
 90689371-c8cb-40d1-831f-18033db90f74 = { name = "DatabentoBinaryEncoding", path = "D/DatabentoBinaryEncoding" }
 906ccaf3-f60c-4d27-be89-7848ae703cf8 = { name = "GoldfarbIdnaniSolver", path = "G/GoldfarbIdnaniSolver" }
 90723813-cdbc-4127-ac5b-633cd2ebf9f7 = { name = "GhibliPalettes", path = "G/GhibliPalettes" }
@@ -9796,6 +9800,7 @@ b4bd8bb3-f80f-41d2-9b21-73a655b304b9 = { name = "OrdinaryDiffEqRosenbrockTableau
 b4be18c8-5d09-4dc7-9320-34e8e308bc8c = { name = "WamIPEDensity", path = "W/WamIPEDensity" }
 b4be8cd2-ef9b-406c-8da0-f1f18fb2b05e = { name = "DEMetropolis", path = "D/DEMetropolis" }
 b4c46c6c-4fb0-484d-a11a-41bc3392d094 = { name = "LinuxPerf", path = "L/LinuxPerf" }
+b4c4897f-8d96-4155-9008-62d2948bbcdb = { name = "QuickEnv", path = "Q/QuickEnv" }
 b4cd1eb8-1e24-11e8-3319-93036a3eb9f3 = { name = "ParameterEstimation", path = "P/ParameterEstimation" }
 b4d2a721-a957-46f4-b6b6-f139c9e7db21 = { name = "BATBase", path = "B/BATBase" }
 b4d5b4e8-9a4e-401d-a981-0a2e8ff042be = { name = "TypstGenerator", path = "T/TypstGenerator" }
