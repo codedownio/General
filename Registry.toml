@@ -4606,6 +4606,7 @@ some amount of consideration when choosing package names.
 54eefc05-d75b-58de-a785-1a3403f0919f = { name = "Cascadia", path = "C/Cascadia" }
 54f05ff3-c196-4f1a-acfd-0c2b8e4405db = { name = "JointSurvivalModels", path = "J/JointSurvivalModels" }
 54f35ada-98a6-4c15-bdf4-2485f34720f9 = { name = "RenderJay", path = "R/RenderJay" }
+54f56a70-6062-5590-a942-1226658f6c83 = { name = "pocl_standalone_jll", path = "jll/P/pocl_standalone_jll" }
 550c8279-ae0e-5d1b-948f-937f2608a23e = { name = "WCS_jll", path = "jll/W/WCS_jll" }
 5515826b-29c3-47a5-8849-8513ac836620 = { name = "ConstraintTrees", path = "C/ConstraintTrees" }
 5520caf5-2dd7-5c5d-bfcb-a00e56ac49f7 = { name = "CausalityTools", path = "C/CausalityTools" }
@@ -5184,6 +5185,7 @@ some amount of consideration when choosing package names.
 5fa394f2-99ce-4e3a-9704-be7b3526889d = { name = "StomataModels", path = "S/StomataModels" }
 5fa4ca3b-1c55-51a6-87f0-d5811ecf545c = { name = "BulkSMS", path = "B/BulkSMS" }
 5fa5d4a9-0408-52e0-9638-7667eddd2fce = { name = "CUDNN_CUDA110_jll", path = "jll/C/CUDNN_CUDA110_jll" }
+5fa6b6e1-399e-47f9-ab13-289ea1759384 = { name = "ReusePkgTemplates", path = "R/ReusePkgTemplates" }
 5fa99b77-8481-443e-99e2-0055499c94eb = { name = "OpenRouterAPI", path = "O/OpenRouterAPI" }
 5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483 = { name = "Pseudoseq", path = "P/Pseudoseq" }
 5faae8f1-f507-432f-bd56-cf2f1161ab6f = { name = "WhatsThePoint", path = "W/WhatsThePoint" }
@@ -5936,6 +5938,7 @@ some amount of consideration when choosing package names.
 6d54aada-062f-46d8-85cf-a1ceaf058a06 = { name = "HerbSpecification", path = "H/HerbSpecification" }
 6d54e6d0-aa66-5537-971b-bc3b5065bd4e = { name = "Unicorn_jll", path = "jll/U/Unicorn_jll" }
 6d554a22-29e7-47bd-aee5-0c5f06619414 = { name = "MakieTeX", path = "M/MakieTeX" }
+6d616b69-6563-4f6e-8472-6f6c706c6f74 = { name = "MakieControlPlots", path = "M/MakieControlPlots" }
 6d653af8-ad40-11e9-2720-9f1294ef7658 = { name = "Redux", path = "R/Redux" }
 6d72f4e6-0ed6-45a8-9268-ca10853c051d = { name = "MitosisStochasticDiffEq", path = "M/MitosisStochasticDiffEq" }
 6d7a0864-9fbc-11e9-1427-7bb65d6eba8e = { name = "RandomizedPropertyTest", path = "R/RandomizedPropertyTest" }
@@ -13393,6 +13396,7 @@ f7972512-fcde-4f7f-ad6d-ee9cbeb5126f = { name = "VarStructs", path = "V/VarStruc
 f79a5470-17c6-525f-b62f-3ca7bd6eedf2 = { name = "VariationalInequality", path = "V/VariationalInequality" }
 f79d145f-20fd-5c1a-ae67-8074679d1f1f = { name = "TauDEM_jll", path = "jll/T/TauDEM_jll" }
 f7a38f07-e5d6-4eec-ba19-7d8f01225f45 = { name = "Superfacility", path = "S/Superfacility" }
+f7a4e1b0-d8c2-4a3e-b5f1-0c9d2e8a7b6c = { name = "FRANK", path = "F/FRANK" }
 f7a61acb-f482-4505-b2eb-e9cadd76b6b4 = { name = "BcubeVTK", path = "B/BcubeVTK" }
 f7a9608b-7678-5329-8a05-97541ebc462c = { name = "SDPNAL", path = "S/SDPNAL" }
 f7aa4685-e143-4cb6-a7f3-073579757907 = { name = "SecondQuantizedAlgebra", path = "S/SecondQuantizedAlgebra" }
