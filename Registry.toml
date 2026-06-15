@@ -3395,6 +3395,7 @@ some amount of consideration when choosing package names.
 3dfc1049-5314-49cf-8447-288dfd02f9fb = { name = "ObjectDetector", path = "O/ObjectDetector" }
 3dfee02d-11ce-464a-9ee1-cf3f5c5ccad7 = { name = "AirSeaFluxes", path = "A/AirSeaFluxes" }
 3e04978e-73da-4e7d-a2e6-76479999a5dc = { name = "Dichotomy", path = "D/Dichotomy" }
+3e05bac1-479d-436b-8d8a-dabcf2211736 = { name = "CortexPlot", path = "C/CortexPlot" }
 3e078157-ea10-49d5-bf32-908f777cd46f = { name = "CNPreferences", path = "C/CNPreferences" }
 3e0f3a26-b485-4542-9924-3b1a11022d22 = { name = "JordanForm", path = "J/JordanForm" }
 3e1990a7-5d81-5526-99ce-9ba3ff248f21 = { name = "Hecke", path = "H/Hecke" }
@@ -5287,6 +5288,7 @@ some amount of consideration when choosing package names.
 6136c539-28a5-5bf0-87cc-b183200dce32 = { name = "blis_jll", path = "jll/B/blis_jll" }
 613c443e-d742-454e-bfc6-1d7f8dd76566 = { name = "IndexFunArrays", path = "I/IndexFunArrays" }
 614afb3a-e278-4863-8805-9959372b9ec2 = { name = "Associations", path = "A/Associations" }
+614b5b81-d4f4-49a2-a05a-ddc182660778 = { name = "PhaseTypeDistributionsFitting", path = "P/PhaseTypeDistributionsFitting" }
 614be32b-d00c-4edb-bd02-1eb411ab5e55 = { name = "MLJIteration", path = "M/MLJIteration" }
 61579ee1-b43e-5ca0-a5da-69d92c66a64b = { name = "Ghostscript_jll", path = "jll/G/Ghostscript_jll" }
 615932cf-77b6-4358-adcd-5b7eba981d7e = { name = "TupleVectors", path = "T/TupleVectors" }
@@ -8496,6 +8498,7 @@ some amount of consideration when choosing package names.
 9ce9415f-ecd2-4b63-a3f6-984ce63e76ce = { name = "ParametricProcesses", path = "P/ParametricProcesses" }
 9ced465f-3d53-56cd-9803-9d1649b5e965 = { name = "cryptopp_jll", path = "jll/C/cryptopp_jll" }
 9ced6f0a-eb77-43a8-bbd1-bbf3031b0d12 = { name = "DataPipeline", path = "D/DataPipeline" }
+9cf175da-80c3-439d-a199-cfd3547211b3 = { name = "HamamatsuStreakFiles", path = "H/HamamatsuStreakFiles" }
 9cf5b727-2e06-5671-8c87-8c6b0f729d5d = { name = "POMDPFiles", path = "P/POMDPFiles" }
 9d058c39-626d-4326-b74c-2931221b7bf0 = { name = "SpmImageTycoon", path = "S/SpmImageTycoon" }
 9d05fc2c-525b-11e9-1a36-8f70a3e496dc = { name = "Config", path = "C/Config" }
@@ -8925,6 +8928,7 @@ a4849050-cccd-45e7-a409-2b114d5ccb2f = { name = "SpiDy", path = "S/SpiDy" }
 a48d5fe2-965b-541b-8ad8-ab19b69f3f25 = { name = "Dispatcher", path = "D/Dispatcher" }
 a492bfac-16cc-4d50-a8b6-f03352b6b563 = { name = "ROS", path = "R/ROS" }
 a49af516-9db8-4be4-be45-1dad61c5a376 = { name = "OceanBioME", path = "O/OceanBioME" }
+a49e9229-5a2d-4267-a054-f87832bf5a89 = { name = "Thetis", path = "T/Thetis" }
 a4a2c56f-fead-462a-a3ab-85921a5f2575 = { name = "LinearOperatorCollection", path = "L/LinearOperatorCollection" }
 a4a7f996-b3a6-4de6-b9db-2fa5f350df41 = { name = "LightBSON", path = "L/LightBSON" }
 a4aa24f8-9f24-4d1a-b848-66d123bfa54d = { name = "GeoEstimation", path = "G/GeoEstimation" }
@@ -9361,6 +9365,7 @@ ac42e6ba-c0bf-4fcf-827d-deea44b16255 = { name = "GModelFit", path = "G/GModelFit
 ac4a9f1e-bdb2-5204-990c-47c8b2f70d4e = { name = "spglib_jll", path = "jll/S/spglib_jll" }
 ac4cc047-8a77-4e9e-bb46-f1584e9a10ee = { name = "AstroModels", path = "A/AstroModels" }
 ac509c8a-358f-4e3e-a88a-d19fed7814aa = { name = "ContentHashes", path = "C/ContentHashes" }
+ac570316-e44a-4680-8f99-93c220bf4d9d = { name = "HexVTKHDF", path = "H/HexVTKHDF" }
 ac60b53e-8d92-4c83-b960-e78698fa1916 = { name = "Dojo", path = "D/Dojo" }
 ac637c84-cc71-43bf-9c33-c1b4316be3d4 = { name = "AbbreviatedStackTraces", path = "A/AbbreviatedStackTraces" }
 ac6af613-5479-4178-853e-9d66de417193 = { name = "GasDispersion", path = "G/GasDispersion" }
