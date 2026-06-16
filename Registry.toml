@@ -2720,6 +2720,7 @@ some amount of consideration when choosing package names.
 31f734f8-188a-4ce0-8406-c8a06bd891cd = { name = "ArrowTypes", path = "A/ArrowTypes" }
 31f8dd75-9f76-4da8-9aed-ce20a80dcd69 = { name = "HubbardTN", path = "H/HubbardTN" }
 31fab0eb-bb78-4d15-8993-a8083bba6d27 = { name = "FluxNLPModels", path = "F/FluxNLPModels" }
+31fdad34-4649-51f1-940c-dc288b1fae56 = { name = "miniaudio_jll", path = "jll/M/miniaudio_jll" }
 3201237a-9847-11e9-0d2a-6d530c977506 = { name = "LinearAdjoints", path = "L/LinearAdjoints" }
 3201582d-3078-4276-ba5d-0a1254d79d7c = { name = "SignalTables", path = "S/SignalTables" }
 3205ef68-7822-558b-ad0d-1b4740f12437 = { name = "mpg123_jll", path = "jll/M/mpg123_jll" }
@@ -3284,6 +3285,7 @@ some amount of consideration when choosing package names.
 3bfd43b6-b983-4998-9dd6-d5d715d830b7 = { name = "MAGEMinApp", path = "M/MAGEMinApp" }
 3bff3928-7a76-11e9-2089-d112443085a5 = { name = "Crystallography", path = "C/Crystallography" }
 3c0b384b-479c-5684-b2ef-9d7a46dd931e = { name = "QuantumInformation", path = "Q/QuantumInformation" }
+3c0bbba6-e638-4e06-b891-7f1c0e5c29fa = { name = "ALGLIB", path = "A/ALGLIB" }
 3c0c87de-e99a-45ee-acb8-6f5f6f7d0613 = { name = "MotionPlanningOptimization", path = "M/MotionPlanningOptimization" }
 3c0ef3d7-c8db-52c0-a794-17abeb0e3f8d = { name = "cliquer_jll", path = "jll/C/cliquer_jll" }
 3c17ac3d-2343-4d75-b01f-81723beeda4b = { name = "ConvolutionalOperatorLearning", path = "C/ConvolutionalOperatorLearning" }
@@ -4906,6 +4908,7 @@ some amount of consideration when choosing package names.
 5a6518a2-e6ab-4020-97b8-110ebf16b849 = { name = "ComradeAdaptMCMC", path = "C/ComradeAdaptMCMC" }
 5a653867-b65e-5b16-a095-b1e26d522bbf = { name = "Counters", path = "C/Counters" }
 5a671d39-efd4-4f73-b77d-a08726cdc8b7 = { name = "ParetoEnsembles", path = "P/ParetoEnsembles" }
+5a6a432f-473d-4d96-8080-e08c33a11337 = { name = "Martini", path = "M/Martini" }
 5a6f062f-bf45-497d-b654-ad17aae2a530 = { name = "MRIFiles", path = "M/MRIFiles" }
 5a74c7d3-1edb-47ee-a7ac-bdb4b3eeab9d = { name = "MinimumVarianceAnalysis", path = "M/MinimumVarianceAnalysis" }
 5a7615ae-274c-51d1-b5a8-ff30401c2c7e = { name = "osslsigncode_jll", path = "jll/O/osslsigncode_jll" }
@@ -4984,6 +4987,7 @@ some amount of consideration when choosing package names.
 5be7bae1-8223-5378-bac3-9e7378a2f6e6 = { name = "LBFGSB", path = "L/LBFGSB" }
 5bee2580-3970-51e6-a8b4-2a17126b60e0 = { name = "HYPRE64_jll", path = "jll/H/HYPRE64_jll" }
 5befdd30-5572-5129-8422-0c92d957d47a = { name = "Hilbert", path = "H/Hilbert" }
+5bf063c2-051f-51d9-b770-4d3ca06472e2 = { name = "deal_II_jll", path = "jll/D/deal_II_jll" }
 5bf49175-83fb-4b6d-82b5-d6ded85154ae = { name = "Countries", path = "C/Countries" }
 5bf562c0-5a39-5b4f-b979-f64ac885830c = { name = "libsndfile_jll", path = "jll/L/libsndfile_jll" }
 5bf8a1e9-d5f8-4697-9608-80edd97af0ad = { name = "BiweightStats", path = "B/BiweightStats" }
@@ -11659,6 +11663,7 @@ d604d12d-fa86-5845-992e-78dc15976526 = { name = "GEOS_jll", path = "jll/G/GEOS_j
 d607f57d-ee1e-4ba7-bcf2-7734c1e31854 = { name = "ReinforcementLearningZoo", path = "R/ReinforcementLearningZoo" }
 d6178d20-a635-452c-a447-f7a195f79261 = { name = "LongBridge", path = "L/LongBridge" }
 d617d09d-b3c0-43f1-8886-30d89b900f25 = { name = "MinkowskiReduction", path = "M/MinkowskiReduction" }
+d61f35a8-f6af-436f-bc10-cee6b101f7bd = { name = "JuliaLibWrapping", path = "J/JuliaLibWrapping" }
 d621b6e3-7715-5857-9c6f-c67000ef6083 = { name = "ValidatedNumerics", path = "V/ValidatedNumerics" }
 d62f8624-c4cb-45ae-bb33-459cd4441fb8 = { name = "GenieDeployHeroku", path = "G/GenieDeployHeroku" }
 d6343c73-7174-4e0f-bb64-562643efbeca = { name = "VLBISkyModels", path = "V/VLBISkyModels" }
@@ -12980,6 +12985,7 @@ ee29a0df-cd28-4477-a8c7-b2df1281527b = { name = "LRESolve", path = "L/LRESolve" 
 ee2e13b9-eee9-4449-aafa-cfa6a2dbe14d = { name = "LAMMPS", path = "L/LAMMPS" }
 ee40d4b5-31c3-4fe2-b6cc-5ac7adf7f414 = { name = "CountriesBorders", path = "C/CountriesBorders" }
 ee419aa8-929d-45cd-acf6-76bd043cd7ba = { name = "PlutoProfile", path = "P/PlutoProfile" }
+ee470b23-2871-4f3a-b920-8523874a9e46 = { name = "AbstractSphericalHarmonics", path = "A/AbstractSphericalHarmonics" }
 ee47c953-e16d-47b3-8c84-b49e0fa97f8a = { name = "PartiallySeparableSolvers", path = "P/PartiallySeparableSolvers" }
 ee4db4e3-7eec-47e5-9935-9699b02754f6 = { name = "LinearDecisionRules", path = "L/LinearDecisionRules" }
 ee5590a8-faa9-47ff-a03b-b69c10a769fd = { name = "DocumenterPlantUML", path = "D/DocumenterPlantUML" }
