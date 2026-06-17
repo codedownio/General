@@ -1624,6 +1624,7 @@ some amount of consideration when choosing package names.
 1d40253f-d7d5-5bc2-be73-07f0f24a3532 = { name = "Pushover", path = "P/Pushover" }
 1d4145e4-32a1-4f27-ab5f-4bf470d9d7e4 = { name = "FibonacciChain", path = "F/FibonacciChain" }
 1d45bab8-fbcd-445a-8de2-8d643ff389c2 = { name = "OptimalBranchingMIS", path = "O/OptimalBranchingMIS" }
+1d491b74-35a5-408f-ae19-cf8524c3769d = { name = "NoLimits", path = "N/NoLimits" }
 1d4e4914-a46b-4e08-8d2f-7bc89898521c = { name = "NearestNeighborsTest", path = "N/NearestNeighborsTest" }
 1d51b185-1a84-59cf-b84e-03b0e3da30b7 = { name = "DrawSimpleGraphs", path = "D/DrawSimpleGraphs" }
 1d56a567-eebb-4d79-96f4-589d6165ccdd = { name = "ChebyshevFiltering", path = "C/ChebyshevFiltering" }
@@ -3538,6 +3539,7 @@ some amount of consideration when choosing package names.
 40e3b903-d033-50b4-a0cc-940c62c95e31 = { name = "Clang", path = "C/Clang" }
 40e66cde-538c-5869-a4ad-c39174c6795b = { name = "LDLFactorizations", path = "L/LDLFactorizations" }
 40eb83ae-c93a-480c-8f39-f018b568f472 = { name = "AppBundler", path = "A/AppBundler" }
+40efcd7b-2ea1-5554-a9c9-7d951e8b629a = { name = "Sol2_jll", path = "jll/S/Sol2_jll" }
 40f541ec-ef23-43f7-b2aa-6425eeeec50a = { name = "CopernicusData", path = "C/CopernicusData" }
 41098d5d-486a-5be3-bd44-b646bda58606 = { name = "Qt6Tools_jll", path = "jll/Q/Qt6Tools_jll" }
 410a4b4d-49e4-4fbc-ab6d-cb71b17b3775 = { name = "Tricks", path = "T/Tricks" }
@@ -7349,6 +7351,7 @@ some amount of consideration when choosing package names.
 860fb56a-4bc2-4ee4-bb83-0a542106da62 = { name = "MembraneAnalysis", path = "M/MembraneAnalysis" }
 86181a9d-c058-48c5-9890-3e968e8a8777 = { name = "HarmonicPowerFlow", path = "H/HarmonicPowerFlow" }
 861a8166-3701-5b0c-9a16-15d98fcdc6aa = { name = "Combinatorics", path = "C/Combinatorics" }
+86202789-ec99-4348-b84a-34e9b1fc693e = { name = "PicardLefschetzIntegration", path = "P/PicardLefschetzIntegration" }
 86206cdf-4603-54e0-bd58-22a2dcbf57aa = { name = "PiecewiseDeterministicMarkovProcesses", path = "P/PiecewiseDeterministicMarkovProcesses" }
 86223c79-3864-5bf0-83f7-82e725a168b6 = { name = "Graphs", path = "G/Graphs" }
 863f3e99-da2a-4334-8734-de3dacbe5542 = { name = "Comonicon", path = "C/Comonicon" }
@@ -7622,6 +7625,7 @@ some amount of consideration when choosing package names.
 8b1691f7-6002-537d-bdf7-c6203599dc08 = { name = "nats_server_jll", path = "jll/N/nats_server_jll" }
 8b1724b8-7d2d-4f3a-bca2-6234a697fafb = { name = "DiscreteEventsLite", path = "D/DiscreteEventsLite" }
 8b390c8a-e41e-419b-b3a5-595c9a4d2b26 = { name = "LinearElasticity", path = "L/LinearElasticity" }
+8b3d8500-0e58-5946-a977-e3dcde120a46 = { name = "ShellCheck_jll", path = "jll/S/ShellCheck_jll" }
 8b424ff8-82f5-59a4-86a6-de3761897198 = { name = "Thebes", path = "T/Thebes" }
 8b457350-7060-4fc5-94ff-7a3d96bb78d0 = { name = "Orientations", path = "O/Orientations" }
 8b53f75a-7fc5-4a6e-98d3-d4400dab8eec = { name = "MLJAbstractGPsGlue", path = "M/MLJAbstractGPsGlue" }
@@ -10881,6 +10885,7 @@ c78c806d-0713-4f4e-8b87-f7023233ea83 = { name = "BaytesOptim", path = "B/BaytesO
 c7932e45-9af1-51e7-9da9-f004cd3a462b = { name = "AstroLib", path = "A/AstroLib" }
 c79ce38c-73ba-4c3d-834c-fb94999fb590 = { name = "HighFrequencyCovariance", path = "H/HighFrequencyCovariance" }
 c79d492b-0548-5874-b488-5a62c1d9d0ca = { name = "TrajectoryOptimization", path = "T/TrajectoryOptimization" }
+c7a3f1e2-84b5-4d69-9e0a-1f2b3c4d5e6f = { name = "TypeContracts", path = "T/TypeContracts" }
 c7a8a04f-9555-4fea-9aa6-9f2fbff5049a = { name = "GraphicsMath", path = "G/GraphicsMath" }
 c7ad171a-416d-44a6-be7b-07ee749f090e = { name = "FlagSets", path = "F/FlagSets" }
 c7aee132-11e1-519c-8219-0a43005e73c2 = { name = "NodeJS_20_jll", path = "jll/N/NodeJS_20_jll" }
@@ -11174,6 +11179,7 @@ cd156443-31ad-4f6f-850f-a93ee5f75905 = { name = "Karnak", path = "K/Karnak" }
 cd2553d2-8bef-4d93-8a38-c62f17d5ad23 = { name = "ITensorVisualizationBase", path = "I/ITensorVisualizationBase" }
 cd26b91b-75b4-4f6e-a355-d2a0d136006d = { name = "IPGBs", path = "I/IPGBs" }
 cd27a545-1e2a-5997-b51f-f9caa06aeab2 = { name = "NonUniformRandomVariateGeneration", path = "N/NonUniformRandomVariateGeneration" }
+cd32a6e7-57bc-4ef8-af33-ae3d6e300c9d = { name = "FiktarDB", path = "F/FiktarDB" }
 cd3eb016-35fb-5094-929b-558a96fad6f3 = { name = "HTTP", path = "H/HTTP" }
 cd40ceae-7681-4e2e-9056-ba6e356aca3e = { name = "Macchiato", path = "M/Macchiato" }
 cd4130c4-8d21-11e9-2a29-61e008680c2d = { name = "GAPTypes", path = "G/GAPTypes" }
