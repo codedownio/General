@@ -580,6 +580,7 @@ some amount of consideration when choosing package names.
 0a592095-bd93-57bb-89c0-a7c16a918b1d = { name = "ranger_jll", path = "jll/R/ranger_jll" }
 0a594e34-94bc-4f62-947f-4b31ef19552b = { name = "MonteCarloMeasurementUncertainty", path = "M/MonteCarloMeasurementUncertainty" }
 0a602bbd-b08b-5d75-8d32-0de6eef44785 = { name = "HYPRE_jll", path = "jll/H/HYPRE_jll" }
+0a60894c-bde1-5a72-bbe5-9f45bee4e041 = { name = "Metatensor_jll", path = "jll/M/Metatensor_jll" }
 0a755509-c5b1-5d6f-9b24-59bcda3c37a3 = { name = "ProximalBase", path = "P/ProximalBase" }
 0a7c0d76-3150-4455-b428-d5f420c13001 = { name = "BiBufferedStreams", path = "B/BiBufferedStreams" }
 0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed = { name = "PRIMA", path = "P/PRIMA" }
@@ -2757,6 +2758,7 @@ some amount of consideration when choosing package names.
 32925ad8-f583-44d3-8c77-a232bc7bbe09 = { name = "JUDI4Cloud", path = "J/JUDI4Cloud" }
 3293fb92-4d5f-4840-a675-6a8c3e839d01 = { name = "LongDatasetSort", path = "L/LongDatasetSort" }
 329a7628-3119-536a-a060-c6b2f8e35265 = { name = "Maracas", path = "M/Maracas" }
+329bda51-4b33-4ad1-95c9-f0535f133d43 = { name = "Magesty", path = "M/Magesty" }
 329efeb5-5dc7-45f3-8303-d0bcfeef1c8a = { name = "EwaldSummations", path = "E/EwaldSummations" }
 329f2bf2-1773-4f40-9abf-1830ae341a86 = { name = "AsynchronousIterativeAlgorithms", path = "A/AsynchronousIterativeAlgorithms" }
 32a0d02f-32d9-4438-b5ed-3a2932b48f96 = { name = "PolygonAlgorithms", path = "P/PolygonAlgorithms" }
@@ -9773,6 +9775,7 @@ b3480ff6-a2af-506e-a6b8-61d160ca6532 = { name = "ShapesOfVariables", path = "S/S
 b348cf08-4407-5d37-b307-1564396f8b07 = { name = "GAP_pkg_json_jll", path = "jll/G/GAP_pkg_json_jll" }
 b3514fdc-7bcc-425b-920a-42c43c8eb4b4 = { name = "YaoCompiler", path = "Y/YaoCompiler" }
 b3565e16-c1f2-4fe9-b4ab-221c88942068 = { name = "Kroki", path = "K/Kroki" }
+b35daade-376e-4ea7-997e-f4120022cb4b = { name = "KrylovComplexity", path = "K/KrylovComplexity" }
 b3602c2d-56d5-44ed-b655-6a675d529c52 = { name = "TriMatrices", path = "T/TriMatrices" }
 b367cf14-19c4-4862-849d-7c6f64208072 = { name = "Sentinel", path = "S/Sentinel" }
 b369b07b-dee1-4342-88e3-29a776361291 = { name = "TouchstoneParser", path = "T/TouchstoneParser" }
@@ -10463,6 +10466,7 @@ bfd98c86-782f-4b94-909f-74167f1eb613 = { name = "MonoidalCategories", path = "M/
 bfde9dd4-8f40-4a1e-be09-1475335e1c92 = { name = "MLIR", path = "M/MLIR" }
 bfe18334-aefd-11e9-1109-4bf2b15a5b91 = { name = "SDPAFamily", path = "S/SDPAFamily" }
 bfecab0d-fd4d-5014-a23f-56c5fae6447a = { name = "Rematch", path = "R/Rematch" }
+bff380b4-c285-4328-812e-213c0f6e21bc = { name = "DiffMoM", path = "D/DiffMoM" }
 bff38aaf-160c-48a5-9daf-c138fff82437 = { name = "AvifSupport", path = "A/AvifSupport" }
 bffc1db9-6142-4b2c-b5cf-b017e7edc3de = { name = "CANBus", path = "C/CANBus" }
 bffe22d1-cb55-4f4e-ac2c-f4dd4bf58912 = { name = "Gaius", path = "G/Gaius" }
