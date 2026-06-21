@@ -963,6 +963,7 @@ some amount of consideration when choosing package names.
 113fc11f-d823-43a8-a074-b997e93e8190 = { name = "Mimi_NAS_pH", path = "M/Mimi_NAS_pH" }
 113fdce4-79f1-4c04-9e25-5fd3385cd3b1 = { name = "AbstractIndices", path = "A/AbstractIndices" }
 1143c485-9b25-4e23-a65f-701df382ec90 = { name = "ManifoldDiffEq", path = "M/ManifoldDiffEq" }
+1148ce26-83e7-5eb1-970b-19db2de75e6d = { name = "librerun_c_jll", path = "jll/L/librerun_c_jll" }
 1149b383-0994-4c0b-8959-503b8afb0ac2 = { name = "PartialSvdStoch", path = "P/PartialSvdStoch" }
 114ffcdd-22b5-45a4-9385-909661964ad8 = { name = "RandomWalkBVP", path = "R/RandomWalkBVP" }
 115008b9-7a42-4cba-af26-8bebb992e909 = { name = "Workflows", path = "W/Workflows" }
@@ -3930,6 +3931,7 @@ some amount of consideration when choosing package names.
 47cfafe2-3833-4da3-8183-ce14c2b92cbd = { name = "OperatorFlux", path = "O/OperatorFlux" }
 47d2ed2b-36de-50cf-bf87-49c2cf4b8b91 = { name = "Hyperscript", path = "H/Hyperscript" }
 47d7f1a7-5a03-43cb-9594-a2dfa8fa9501 = { name = "DANDIArchive", path = "D/DANDIArchive" }
+47e0b4c3-c02b-4df9-862c-39042bcbb8d1 = { name = "DePPA", path = "D/DePPA" }
 47ec601d-2729-4ac9-bed9-2b3ab5fca9ff = { name = "Ducc0", path = "D/Ducc0" }
 47edcb42-4c32-4615-8424-f2b9edc5f35b = { name = "ADTypes", path = "A/ADTypes" }
 480116ec-64ea-5dec-baca-db6b11e96e37 = { name = "JuliaWebAPI", path = "J/JuliaWebAPI" }
@@ -7137,6 +7139,7 @@ some amount of consideration when choosing package names.
 819c7365-da23-433e-86d1-f9a07e67aad6 = { name = "BoundedStreams", path = "B/BoundedStreams" }
 81a5f4ea-a946-549a-aa7e-2a7f63a27d31 = { name = "CatViews", path = "C/CatViews" }
 81b20daf-e62b-4502-a0d1-aa084de80e33 = { name = "QiskitOpt", path = "Q/QiskitOpt" }
+81c163b9-06bd-4c7c-88ff-a139205f0cbd = { name = "LithoWaferPlots", path = "L/LithoWaferPlots" }
 81c3f1f7-c8b1-4afe-97d0-b306023db0e9 = { name = "PerfectPacking", path = "P/PerfectPacking" }
 81c6ba3f-3028-455b-8a86-eff211c369f5 = { name = "EmbeddingsTools", path = "E/EmbeddingsTools" }
 81cd853e-d334-476c-b156-f95acc8a32dc = { name = "RingPolymerArrays", path = "R/RingPolymerArrays" }
@@ -8147,6 +8150,7 @@ some amount of consideration when choosing package names.
 95e48a1f-0bec-4818-9538-3db4340308e3 = { name = "CalibrateEmulateSample", path = "C/CalibrateEmulateSample" }
 95e5b356-b122-4883-a78a-3c8c946b7332 = { name = "TypstJlyfish", path = "T/TypstJlyfish" }
 95f667b2-49e0-4955-80bd-390d74d178c7 = { name = "NoSleep", path = "N/NoSleep" }
+95f86b30-9ecb-4228-906f-48049b53e836 = { name = "SiCell", path = "S/SiCell" }
 95fb3b36-088a-43fb-bb1b-b1f34fadbd7d = { name = "BM3DDenoise", path = "B/BM3DDenoise" }
 95ff35a0-be81-11e9-2ca3-5b4e338e8476 = { name = "XSteam", path = "X/XSteam" }
 9600883c-ba29-528d-9bed-cdc630232040 = { name = "JuliaInXL", path = "J/JuliaInXL" }
@@ -11825,6 +11829,7 @@ d8a96929-0be6-44df-b03a-619eb7e9790e = { name = "LennardJones", path = "L/Lennar
 d8ab9f86-dde6-11e9-3216-afd74457b932 = { name = "ParaReal", path = "P/ParaReal" }
 d8b13f87-1844-53e1-ad89-0742af8604bf = { name = "FlightMechanics", path = "F/FlightMechanics" }
 d8b18f01-5396-498d-b34d-247825c18ff1 = { name = "AugmentedPoissonBoltzmann", path = "A/AugmentedPoissonBoltzmann" }
+d8b4e2f3-95c6-4e7a-8f1b-2c3d4e5f6a7b = { name = "BaseTypeContracts", path = "B/BaseTypeContracts" }
 d8beea63-0952-562e-9c6a-8e8ef7364055 = { name = "FINUFFT", path = "F/FINUFFT" }
 d8c32880-2388-543b-8c61-d9f865259254 = { name = "ImageInTerminal", path = "I/ImageInTerminal" }
 d8cc2a31-0abf-5619-8b1f-2aa308935162 = { name = "stldecomposition_jll", path = "jll/S/stldecomposition_jll" }
