@@ -1931,6 +1931,7 @@ some amount of consideration when choosing package names.
 2339b9c3-daaf-4eaa-90d5-e8471159c344 = { name = "BetaRegression", path = "B/BetaRegression" }
 233ec0c9-6b8d-4766-b9a2-a16e389fc38a = { name = "AMRVW", path = "A/AMRVW" }
 23470ee3-d0df-4052-8b1a-8cbd6363e7f0 = { name = "Brillouin", path = "B/Brillouin" }
+2348ae4b-e21f-48c0-a77f-52990745b802 = { name = "MakieTextRepel", path = "M/MakieTextRepel" }
 234d2aa0-2291-45f7-9047-6fa6f316b0a8 = { name = "MicroCanonicalHMC", path = "M/MicroCanonicalHMC" }
 234f2d50-f964-585e-b1c8-17cd4567e563 = { name = "OpenLDAPClient_jll", path = "jll/O/OpenLDAPClient_jll" }
 23524693-fba5-5b56-a3e3-2a280dc54396 = { name = "ONNX_static_jll", path = "jll/O/ONNX_static_jll" }
@@ -1966,6 +1967,7 @@ some amount of consideration when choosing package names.
 23e8cd96-b521-4dc5-8732-25c09bc9e688 = { name = "DifferentiableMoM", path = "D/DifferentiableMoM" }
 23e940aa-d356-45ed-adbd-bebf2015d7d9 = { name = "InstanceDispatch", path = "I/InstanceDispatch" }
 23f0dade-7c6e-4767-a325-b0ffeeccf8c7 = { name = "StellaratorOptimizationMetrics", path = "S/StellaratorOptimizationMetrics" }
+23f5f8f6-b4da-40ee-8c72-c53b6c5de94f = { name = "DataVault", path = "D/DataVault" }
 23f7647f-51ad-45b5-ae2a-ffae49347e76 = { name = "CloudSegyIO", path = "C/CloudSegyIO" }
 23fbe1c1-3f47-55db-b15f-69d7ec21a316 = { name = "Latexify", path = "L/Latexify" }
 2409bb75-d5ef-542a-ac68-1cfd4c37dc24 = { name = "MIOpen_jll", path = "jll/M/MIOpen_jll" }
@@ -2476,6 +2478,7 @@ some amount of consideration when choosing package names.
 2d691ee1-e668-5016-a719-b2531b85e0f5 = { name = "LIBLINEAR", path = "L/LIBLINEAR" }
 2d76e174-5bec-4df2-b5ea-844408736dc2 = { name = "SoilPlantAirContinuum", path = "S/SoilPlantAirContinuum" }
 2d7b7beb-0762-5160-978e-1ab83a1e8a31 = { name = "libportaudio_jll", path = "jll/L/libportaudio_jll" }
+2d7fe44c-1957-4481-aa09-d6d0150c36ae = { name = "GmeowGTS", path = "G/GmeowGTS" }
 2d8b4e74-eb68-11e8-0fb9-d5eb67b50637 = { name = "LevyArea", path = "L/LevyArea" }
 2d94bacf-4d71-535d-a47c-45e808015115 = { name = "Mingw_jll", path = "jll/M/Mingw_jll" }
 2da61a13-e1b6-4a6f-954d-3ae4b998419f = { name = "TeXLayout", path = "T/TeXLayout" }
@@ -7142,6 +7145,7 @@ some amount of consideration when choosing package names.
 81713a14-8c46-4899-bb05-3bedfc9b76e7 = { name = "FunctionalImageFormat", path = "F/FunctionalImageFormat" }
 81770e7c-c736-4fa5-8129-46dd21831640 = { name = "ASCIIrasters", path = "A/ASCIIrasters" }
 817d07cb-a79a-5c30-9a31-890123675176 = { name = "FixedPointAcceleration", path = "F/FixedPointAcceleration" }
+817e997d-d664-46c1-9042-93a8067e2dd6 = { name = "HaloArrays", path = "H/HaloArrays" }
 817f1d60-ba6b-4fd5-9520-3cf149f6a823 = { name = "ReTestItems", path = "R/ReTestItems" }
 8180ae47-4b51-4962-8ae8-0afeafccbbdb = { name = "CITIfile", path = "C/CITIfile" }
 81850811-659e-51ab-a7c2-5dd848ff4aa4 = { name = "InteractiveChaos", path = "I/InteractiveChaos" }
@@ -9746,6 +9750,7 @@ b2531deb-9288-45c6-8f4a-0220551da45d = { name = "KitML", path = "K/KitML" }
 b255c96a-a4ac-5b61-a2c4-3db36d36609d = { name = "Hermetic", path = "H/Hermetic" }
 b25a35d4-863d-483c-9fa1-95480bd075d2 = { name = "OkFiles", path = "O/OkFiles" }
 b261b2ec-6378-4871-b32e-9173bb050604 = { name = "TensorCrossInterpolation", path = "T/TensorCrossInterpolation" }
+b262a841-46b1-4418-b8a4-94cbac2a4e8a = { name = "IntersecT", path = "I/IntersecT" }
 b26cd056-4456-4d61-8550-65e4ff5b9100 = { name = "Radiant", path = "R/Radiant" }
 b26da814-b3bc-49ef-b0ee-c816305aa060 = { name = "cuSPARSE", path = "C/cuSPARSE" }
 b27032c2-a3e7-50c8-80cd-2d36dbcbfd21 = { name = "LibCURL", path = "L/LibCURL" }
@@ -11668,6 +11673,7 @@ d571510e-6e5f-4c5d-a12c-0c9fbed6c685 = { name = "SymbolicOptimization", path = "
 d5722cbd-5612-498c-a56c-8c01aca498af = { name = "OptionsImpliedPDF", path = "O/OptionsImpliedPDF" }
 d57be0ce-7c7e-4f32-9a47-3bfb603400bb = { name = "PoissonDiskSampling", path = "P/PoissonDiskSampling" }
 d5829a12-d9aa-46ab-831f-fb7c9ab06edf = { name = "TriangularSolve", path = "T/TriangularSolve" }
+d585094e-6273-42a7-8500-34710a148fdc = { name = "Latte", path = "L/Latte" }
 d58978e5-989f-55fb-8d15-ea34adc7bf54 = { name = "Dagger", path = "D/Dagger" }
 d58aead4-12fe-4bc4-9bd9-a7dede724567 = { name = "Gamen", path = "G/Gamen" }
 d5909c97-4eac-4ecc-a3dc-fdd0858a4120 = { name = "GroupsCore", path = "G/GroupsCore" }
@@ -11813,6 +11819,7 @@ d81720e7-9d76-4c66-a69e-8f07ca321cc4 = { name = "AsapOptim", path = "A/AsapOptim
 d8176aec-3168-11e9-3c98-e3954798be3a = { name = "StaticRanges", path = "S/StaticRanges" }
 d81e55dd-dcbd-44fb-a01f-ee5b8692a939 = { name = "VLConstraintBasedModelGenerationUtilities", path = "V/VLConstraintBasedModelGenerationUtilities" }
 d825739f-1e7d-411f-adf0-2b899cf72c5b = { name = "FloatIntLiterals", path = "F/FloatIntLiterals" }
+d83068a9-b689-45fe-9bec-2d0e83279509 = { name = "GrassmannTensorNetworks", path = "G/GrassmannTensorNetworks" }
 d833ac1a-14c4-4847-a042-dd2b1840831c = { name = "TheFix", path = "T/TheFix" }
 d83715d0-7e5f-11e9-1a59-4137b20d8363 = { name = "PlanetaryEphemeris", path = "P/PlanetaryEphemeris" }
 d83dbd90-3e00-4b33-84f1-398adcf3b35e = { name = "DelegatorTraits", path = "D/DelegatorTraits" }
