@@ -1695,6 +1695,7 @@ some amount of consideration when choosing package names.
 1e6cf692-eddd-4d53-88a5-2d735e33781b = { name = "TestEnv", path = "T/TestEnv" }
 1e6dae5e-d6e2-422d-9af3-452e7a3785ee = { name = "DirectedAcyclicGraphs", path = "D/DirectedAcyclicGraphs" }
 1e7b0059-6550-4515-8382-5d3f2046a0a7 = { name = "HmtArchive", path = "H/HmtArchive" }
+1e7b471d-d6c7-423b-9651-50963641f8da = { name = "GLViskit", path = "G/GLViskit" }
 1e81e918-d094-11e8-0e93-1dd8855012cf = { name = "Tasmanian", path = "T/Tasmanian" }
 1e82aed4-b73c-514c-b6b0-721e3fbe9c02 = { name = "Vim_jll", path = "jll/V/Vim_jll" }
 1e83bf80-4336-4d27-bf5d-d5a4f845583c = { name = "StaticArraysCore", path = "S/StaticArraysCore" }
@@ -4263,6 +4264,7 @@ some amount of consideration when choosing package names.
 4dca28ae-43b8-11eb-1f5e-d55054101997 = { name = "KNearestCenters", path = "K/KNearestCenters" }
 4dcc563d-31b5-562a-a66a-bda255b7e226 = { name = "OpenColorIO_jll", path = "jll/O/OpenColorIO_jll" }
 4dccea4f-7716-450f-9d24-0ee75e7372ff = { name = "HubCLI", path = "H/HubCLI" }
+4dd3d208-18db-460a-a0b1-fbfd847e97b6 = { name = "YAMLStar", path = "Y/YAMLStar" }
 4ddda095-17ec-41dd-95c9-ce16dd2a2f48 = { name = "Chamber", path = "C/Chamber" }
 4de3b72a-362e-43dd-83ff-3f381eda9f9c = { name = "TensorNetworkQuantumSimulator", path = "T/TensorNetworkQuantumSimulator" }
 4de859cf-bf9a-4c94-a796-5dda04c77145 = { name = "GPDiffEq", path = "G/GPDiffEq" }
@@ -4950,6 +4952,7 @@ some amount of consideration when choosing package names.
 5ab975a5-f155-4336-a876-3801e55c18d2 = { name = "RhsJTool", path = "R/RhsJTool" }
 5ac04fe7-78fe-4eb3-ac2d-702565c067c7 = { name = "FieldDicts", path = "F/FieldDicts" }
 5ac2f6bb-493e-5871-9171-112d4c21a6e7 = { name = "alsa_plugins_jll", path = "jll/A/alsa_plugins_jll" }
+5ac78112-2af7-4d90-b07d-b58f2e7736b1 = { name = "PaperFetch", path = "P/PaperFetch" }
 5ad3ddd2-0711-543a-b040-befd59781bbf = { name = "libjulia_jll", path = "jll/L/libjulia_jll" }
 5ad8b20f-a522-5ce9-bfc9-ddf1d5bda6ab = { name = "PhysicalConstants", path = "P/PhysicalConstants" }
 5adc30d5-9ddf-423c-bb15-ece697bec3ab = { name = "Isoplot", path = "I/Isoplot" }
@@ -7030,6 +7033,7 @@ some amount of consideration when choosing package names.
 7f90e340-ca22-4a3e-a259-118ed254aff3 = { name = "BitSAD", path = "B/BitSAD" }
 7f947402-6d9b-49de-a6e7-82c660dce669 = { name = "AstroChemistry", path = "A/AstroChemistry" }
 7f9c7709-75fb-5397-acba-f980073965f6 = { name = "BIGUQ", path = "B/BIGUQ" }
+7f9d7d17-6b7b-4d07-8947-53bcb7546f39 = { name = "DSArith", path = "D/DSArith" }
 7f9ef4d9-b8e2-47f5-be66-f1ea02ff3f4a = { name = "CuCountMap", path = "C/CuCountMap" }
 7fa162e1-0e29-41ca-a6fa-c000ca4e7e7e = { name = "MLJTSVDInterface", path = "M/MLJTSVDInterface" }
 7fa26607-a272-47b2-9aa2-a6c1d419d9d2 = { name = "SatelliteToolboxLegendre", path = "S/SatelliteToolboxLegendre" }
@@ -7962,6 +7966,7 @@ some amount of consideration when choosing package names.
 9164d88c-a457-5bb2-a3b9-d66c3bc9d5df = { name = "s3gof3r_jll", path = "jll/S/s3gof3r_jll" }
 9166ba07-fd5b-44b6-9936-7aa4238d27f8 = { name = "RiskPerf", path = "R/RiskPerf" }
 9166e923-c553-51e5-a193-8d969705fd83 = { name = "ImarisWriter_jll", path = "jll/I/ImarisWriter_jll" }
+916c34f9-65bc-4d80-9781-b3dc311e871d = { name = "SlackClaw", path = "S/SlackClaw" }
 916f7771-afe2-4319-943d-0e770c333432 = { name = "PeaceFounder", path = "P/PeaceFounder" }
 9177782c-1635-4eb9-9bfb-d9dfa25e6bce = { name = "Finch", path = "F/Finch" }
 9191f281-19f8-4a32-ad68-bff21db472d5 = { name = "ExperienceReplay", path = "E/ExperienceReplay" }
