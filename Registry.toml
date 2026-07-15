@@ -2804,6 +2804,7 @@ some amount of consideration when choosing package names.
 32cfe2d9-419e-45f2-8191-2267705d8dbc = { name = "YaoPlots", path = "Y/YaoPlots" }
 32d0d58a-4da0-4f8e-8b7e-c2816ac6e5cb = { name = "DiplodocusCollisions", path = "D/DiplodocusCollisions" }
 32d208e1-246e-420c-b6ff-18b71b410923 = { name = "JobQueueMPI", path = "J/JobQueueMPI" }
+32da6bfa-ea95-4826-ae25-7537d33b039c = { name = "MOLE", path = "M/MOLE" }
 32e1273b-95f2-5990-a28e-8939b2e70f37 = { name = "AlgebraResultTypes", path = "A/AlgebraResultTypes" }
 32f2db32-628a-4fc2-9392-deeafdcf461f = { name = "BLIS", path = "B/BLIS" }
 32f3d815-099f-4670-87cf-dd827b2a53b5 = { name = "PagefindWrapper", path = "P/PagefindWrapper" }
@@ -4675,6 +4676,7 @@ some amount of consideration when choosing package names.
 54f35ada-98a6-4c15-bdf4-2485f34720f9 = { name = "RenderJay", path = "R/RenderJay" }
 54f56a70-6062-5590-a942-1226658f6c83 = { name = "pocl_standalone_jll", path = "jll/P/pocl_standalone_jll" }
 550c8279-ae0e-5d1b-948f-937f2608a23e = { name = "WCS_jll", path = "jll/W/WCS_jll" }
+55108b8c-454b-4195-8bff-1613e9ee90b5 = { name = "DeBRief", path = "D/DeBRief" }
 5515826b-29c3-47a5-8849-8513ac836620 = { name = "ConstraintTrees", path = "C/ConstraintTrees" }
 5520caf5-2dd7-5c5d-bfcb-a00e56ac49f7 = { name = "CausalityTools", path = "C/CausalityTools" }
 5523a57a-07f4-4aae-a9fd-d526bcb5d194 = { name = "NativeMinuit", path = "N/NativeMinuit" }
@@ -7670,6 +7672,7 @@ some amount of consideration when choosing package names.
 8a6dfff7-c70d-5acc-95c4-5c1b1ecb2469 = { name = "NonPromoting", path = "N/NonPromoting" }
 8a731c18-cfb7-4915-927e-cc26b56b67cd = { name = "IndexedGraphs", path = "I/IndexedGraphs" }
 8a73a7cf-268c-4a55-9a00-18d79986516d = { name = "AnalyticComb", path = "A/AnalyticComb" }
+8a75e93c-a5f1-4885-96e0-0415d9bb1562 = { name = "SatelliteToolboxOrbitDataMessages", path = "S/SatelliteToolboxOrbitDataMessages" }
 8a7b9de3-9c00-473e-88b4-7eccd7ef2fea = { name = "CDSAPI", path = "C/CDSAPI" }
 8a7bcfce-81ee-5a07-a07c-c8520ac69669 = { name = "SuiteSparse_LBT_jll", path = "jll/S/SuiteSparse_LBT_jll" }
 8a7d223a-a7dc-4abf-8bc1-b0ce2ace9adc = { name = "ExpandNestedData", path = "E/ExpandNestedData" }
@@ -11147,6 +11150,7 @@ ca0eaa81-961d-4b24-843c-8575ada746de = { name = "CNNSeq2exp", path = "C/CNNSeq2e
 ca11d760-9bce-11e9-0b7e-4f72fcadb4f9 = { name = "FluxOptTools", path = "F/FluxOptTools" }
 ca278567-1944-4a35-ad5d-9f58fc68adb0 = { name = "ConstantArrays", path = "C/ConstantArrays" }
 ca34efa3-7b06-4646-a985-ce0937c3739e = { name = "OpenScienceFramework", path = "O/OpenScienceFramework" }
+ca362a0f-208d-4994-8e0e-d922fd0d438a = { name = "ArchimedLight", path = "A/ArchimedLight" }
 ca382230-33be-11e9-0059-d981d03070e4 = { name = "PropCheck", path = "P/PropCheck" }
 ca3df947-0575-4ae6-b9a3-78df393a7451 = { name = "LevelSetMethods", path = "L/LevelSetMethods" }
 ca45b743-11fc-5578-b74a-7528860c0bda = { name = "tree_sitter_javascript_jll", path = "jll/T/tree_sitter_javascript_jll" }
@@ -12160,6 +12164,7 @@ dcdf9ed5-39e7-592a-90de-966c054b7718 = { name = "FEMSparse", path = "F/FEMSparse
 dce04be8-c92d-5529-be00-80e4d2c0e197 = { name = "ArgCheck", path = "A/ArgCheck" }
 dce2f2bf-0ed4-5a0e-8af7-a90b827a9344 = { name = "libminc_jll", path = "jll/L/libminc_jll" }
 dce5fa8e-68ce-4431-a242-9469c69627a0 = { name = "MITgcm", path = "M/MITgcm" }
+dcea2817-62f8-4a75-b498-1b50a9ed1e4d = { name = "AbstractQAtlas", path = "A/AbstractQAtlas" }
 dcf03e4a-d036-4ede-96c9-024e9e9eed12 = { name = "ComoniconZSHCompletion", path = "C/ComoniconZSHCompletion" }
 dcf425a8-86bf-4135-b17a-04ddca2f3b37 = { name = "SintPowerCase", path = "S/SintPowerCase" }
 dcf505f5-2bf4-45cb-8fef-5f56a3c0e7fc = { name = "GivEmXL", path = "G/GivEmXL" }
