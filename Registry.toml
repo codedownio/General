@@ -7709,6 +7709,7 @@ some amount of consideration when choosing package names.
 8a731c18-cfb7-4915-927e-cc26b56b67cd = { name = "IndexedGraphs", path = "I/IndexedGraphs" }
 8a73a7cf-268c-4a55-9a00-18d79986516d = { name = "AnalyticComb", path = "A/AnalyticComb" }
 8a75e93c-a5f1-4885-96e0-0415d9bb1562 = { name = "SatelliteToolboxOrbitDataMessages", path = "S/SatelliteToolboxOrbitDataMessages" }
+8a79f08c-43aa-40ef-a276-b8dea658c9b1 = { name = "ClusterAlgebras", path = "C/ClusterAlgebras" }
 8a7b9de3-9c00-473e-88b4-7eccd7ef2fea = { name = "CDSAPI", path = "C/CDSAPI" }
 8a7bcfce-81ee-5a07-a07c-c8520ac69669 = { name = "SuiteSparse_LBT_jll", path = "jll/S/SuiteSparse_LBT_jll" }
 8a7cb713-368b-48d9-84fe-cff0fadda989 = { name = "BPosits", path = "B/BPosits" }
@@ -11192,6 +11193,7 @@ c9ce4bd3-c3d5-55b8-8973-c0e20141b8c3 = { name = "ArchGDAL", path = "A/ArchGDAL" 
 c9cfed12-e746-47c4-860d-affc68c43467 = { name = "OptimizedEinsum", path = "O/OptimizedEinsum" }
 c9d4266f-a5cb-439d-837c-c97b191379f5 = { name = "ArrayAllocators", path = "A/ArrayAllocators" }
 c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8 = { name = "WhereTraits", path = "W/WhereTraits" }
+c9d8216c-ea74-476f-aa8c-bb789241bdba = { name = "HeatStress", path = "H/HeatStress" }
 c9ed1054-d170-44a9-8ee2-d5566f5d1389 = { name = "TrixiAtmo", path = "T/TrixiAtmo" }
 c9fbf690-8ea2-11e9-1d56-e5e266ebe695 = { name = "FinEtoolsDeforNonlinear", path = "F/FinEtoolsDeforNonlinear" }
 c9fd44ac-77b5-486c-9482-9798bd063cc6 = { name = "BetterFileWatching", path = "B/BetterFileWatching" }
@@ -11815,6 +11817,7 @@ d53efdab-7ba5-41df-97a4-bb2a6cf1b478 = { name = "VaderSentiment", path = "V/Vade
 d5428e67-3037-59ba-9ab1-57a04f0a3b6a = { name = "Simplices", path = "S/Simplices" }
 d54b0c1a-921d-58e0-8e36-89d8069c0969 = { name = "GaussQuadrature", path = "G/GaussQuadrature" }
 d54d1f39-fb68-436b-8c41-ced000dfba13 = { name = "CurlHTTP", path = "C/CurlHTTP" }
+d5517b79-cbb5-531d-9958-e3d757b17105 = { name = "ShapeLib_jll", path = "jll/S/ShapeLib_jll" }
 d55e3150-da41-5e91-b323-ecfd1eec6109 = { name = "LLD_jll", path = "jll/L/LLD_jll" }
 d5605bae-6d76-11e9-2fd7-71bcf42edbaa = { name = "F1Method", path = "F/F1Method" }
 d56128e0-8113-48cd-82a0-fc808dc30d4b = { name = "Dagitty", path = "D/Dagitty" }
@@ -12468,6 +12471,7 @@ e1389577-bcae-4d0f-b368-61b404b8c94c = { name = "RestClient", path = "R/RestClie
 e1397348-e965-55d8-8fb3-3dd9faf6e4f1 = { name = "GradDescent", path = "G/GradDescent" }
 e139c391-eeee-4818-b359-c8725224fb1f = { name = "DynamicStructs", path = "D/DynamicStructs" }
 e13b9ff6-59c3-11ec-14b1-f3d2cc6c135e = { name = "HarmonicBalance", path = "H/HarmonicBalance" }
+e14374e1-e109-4f80-b5da-7e76adde5713 = { name = "Resurgence", path = "R/Resurgence" }
 e1450e63-4bb3-523b-b2a4-4ffa8c0fd77d = { name = "BufferedStreams", path = "B/BufferedStreams" }
 e145bb07-96d9-421f-b0a2-c579a69b21bf = { name = "SpatialOmicsGPs", path = "S/SpatialOmicsGPs" }
 e146f72c-d4f8-45d3-b3ca-12a16cb68a38 = { name = "PowerSystemsMaps", path = "P/PowerSystemsMaps" }
@@ -12494,6 +12498,7 @@ e1ba4f0e-776d-440f-acd9-e1d2e9742647 = { name = "Infinities", path = "I/Infiniti
 e1bfd048-42a8-4772-9544-9f10a701856e = { name = "UnsignedRadixSorts", path = "U/UnsignedRadixSorts" }
 e1c1f7b9-3d4a-4d3e-9b6a-2f5c8d1a7b34 = { name = "MotifInference", path = "M/MotifInference" }
 e1c63c57-2fea-45bf-a8bf-df3ea6afb545 = { name = "TreeverseAlgorithm", path = "T/TreeverseAlgorithm" }
+e1cfee01-1dc3-5dd5-a37d-16d5768a68f0 = { name = "tree_sitter_zig_jll", path = "jll/T/tree_sitter_zig_jll" }
 e1d29d7a-bbdc-5cf2-9ac0-f12de2c33e28 = { name = "Missings", path = "M/Missings" }
 e1d33f9a-7203-49d2-8e1a-e3c4f85197b8 = { name = "DLMReader", path = "D/DLMReader" }
 e1d4a2be-69cc-597c-a2ea-cc5d6f241fff = { name = "CircularList", path = "C/CircularList" }
