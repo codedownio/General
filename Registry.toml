@@ -1624,6 +1624,7 @@ some amount of consideration when choosing package names.
 1ce897a9-95c2-40e1-99fc-436ddf268509 = { name = "NNParamsPrinter", path = "N/NNParamsPrinter" }
 1cead3c2-87b3-11e9-0ccd-23c62b72b94e = { name = "Manifolds", path = "M/Manifolds" }
 1cecccd7-a9b6-5045-9cdc-a44c19b16d76 = { name = "hsakmt_roct_jll", path = "jll/H/hsakmt_roct_jll" }
+1cf0ff84-1201-497f-a0c3-5c0b838ccaa6 = { name = "BigRiverPlots", path = "B/BigRiverPlots" }
 1cf1ec0c-22f7-4062-925b-8db09db48fc3 = { name = "CoordGridTransforms", path = "C/CoordGridTransforms" }
 1cf589dd-6d9d-4b3c-8f51-646b1be7d77f = { name = "AgentBible", path = "A/AgentBible" }
 1cf8b4df-845c-448c-a3f0-11784a558759 = { name = "PWMPrettyPrint", path = "P/PWMPrettyPrint" }
@@ -2744,6 +2745,7 @@ some amount of consideration when choosing package names.
 31a5f54b-26ea-5ae9-a837-f05ce5417438 = { name = "Debugger", path = "D/Debugger" }
 31b88311-cab6-44ed-ba9c-fe5a9abbd67a = { name = "FMIExport", path = "F/FMIExport" }
 31b8d6fc-6c78-56bd-b44f-ae5989ed963d = { name = "p3a_jll", path = "jll/P/p3a_jll" }
+31b8f0e9-dcd2-4439-9f8c-2c86b5403e47 = { name = "MeshTopology", path = "M/MeshTopology" }
 31bc19ec-0089-417f-990e-a2b5e7515868 = { name = "XDF", path = "X/XDF" }
 31bdf679-24a7-499a-9be9-b214c66174ea = { name = "CausalForest", path = "C/CausalForest" }
 31c24e10-a181-5473-b8eb-7969acd0382f = { name = "Distributions", path = "D/Distributions" }
@@ -3878,6 +3880,7 @@ some amount of consideration when choosing package names.
 45ce4efb-129e-4f36-8fe9-5e4f23129ff4 = { name = "MDEStudy", path = "M/MDEStudy" }
 45d23951-e9a5-545c-8049-e4c4887f5525 = { name = "IntArrays", path = "I/IntArrays" }
 45d422c2-293f-44ce-8315-2cb988662dec = { name = "KrylovPreconditioners", path = "K/KrylovPreconditioners" }
+45d8cf6f-ab5f-45bc-ab92-77e36ab192e6 = { name = "VTKHDF", path = "V/VTKHDF" }
 45e22d02-e628-441d-a1c7-54dcb4b48aca = { name = "GrasslandTraitSim", path = "G/GrasslandTraitSim" }
 45e47a89-b455-4dd5-a62c-c007f63154db = { name = "MethodForwarding", path = "M/MethodForwarding" }
 45f359ea-796d-4f51-95a5-deb1a414c586 = { name = "MLJBalancing", path = "M/MLJBalancing" }
@@ -4100,6 +4103,7 @@ some amount of consideration when choosing package names.
 49b37b9d-a8e6-4364-9144-4677bcb8a7f0 = { name = "Drill", path = "D/Drill" }
 49b3b870-118c-11ea-1661-71d34d312539 = { name = "KrigingModel", path = "K/KrigingModel" }
 49b5b516-ca3f-4003-a081-42bdcf55082d = { name = "GitCommand", path = "G/GitCommand" }
+49bb3e92-56cb-4d34-aed6-8ee8ef58b458 = { name = "Octopus", path = "O/Octopus" }
 49bccec5-5f8e-4a37-813c-bb803a7e462a = { name = "ExprManipulation", path = "E/ExprManipulation" }
 49c7015b-b8db-5bc5-841b-fcb31c578176 = { name = "DrakeVisualizer", path = "D/DrakeVisualizer" }
 49c96f43-aa6d-5a04-a506-44c7070ebe78 = { name = "Nabla", path = "N/Nabla" }
@@ -6949,6 +6953,7 @@ some amount of consideration when choosing package names.
 7ccfa7fd-a424-414a-8759-eb68cf5c9821 = { name = "Damask", path = "D/Damask" }
 7cd05660-c499-409f-9aa8-d8700f4bb051 = { name = "SugarKelp", path = "S/SugarKelp" }
 7cd16168-b42c-5e7d-a585-4f59d326662d = { name = "GeoStatsImages", path = "G/GeoStatsImages" }
+7cd6e41d-e337-45a7-b8fc-acb99a44bf42 = { name = "ReparameterisedDistributions", path = "R/ReparameterisedDistributions" }
 7cdaf598-12e2-40e7-a2cf-eaf488121ec4 = { name = "Pythia", path = "P/Pythia" }
 7cde8186-f29c-533a-9367-b4054c592979 = { name = "NLSProblems", path = "N/NLSProblems" }
 7ce832dc-6953-4c0f-9163-51fbd0dcbc24 = { name = "WinTypes", path = "W/WinTypes" }
@@ -9810,6 +9815,7 @@ b11753cd-0d5a-47ad-8b8f-99db3fa4a09b = { name = "CooccurrenceRegression", path =
 b11e30b1-63be-5002-9df0-88ee0fe906ff = { name = "PGPLOT_jll", path = "jll/P/PGPLOT_jll" }
 b1229eab-bc7b-489c-92b5-04baf87d8d0b = { name = "OpenRouter", path = "O/OpenRouter" }
 b122eb78-8380-428a-b8c8-584a022ae8b6 = { name = "FourVectors", path = "F/FourVectors" }
+b124843c-0c82-53c8-91a7-62bfdd90e290 = { name = "AOCL_jll", path = "jll/A/AOCL_jll" }
 b129c591-c9d9-59ef-8959-ff59aa278493 = { name = "msgpack_cxx_jll", path = "jll/M/msgpack_cxx_jll" }
 b12ae82c-6730-437f-aff9-d2c38332a376 = { name = "MixedModelsMakie", path = "M/MixedModelsMakie" }
 b12ccfe2-7326-416f-9f4f-cd3183bd9fe8 = { name = "PyCallChainRules", path = "P/PyCallChainRules" }
@@ -11524,6 +11530,7 @@ d04f5788-f3bf-50c4-8044-9206750af6c9 = { name = "Glowe", path = "G/Glowe" }
 d0551c8d-3c54-58b6-a75a-e266c30cc699 = { name = "MotionCaptureJointCalibration", path = "M/MotionCaptureJointCalibration" }
 d05aeea4-b7d4-55ac-b691-9e7fabb07ba2 = { name = "LuxurySparse", path = "L/LuxurySparse" }
 d061fddc-c47a-4172-865e-fdb23de1c5fa = { name = "MarkovGames", path = "M/MarkovGames" }
+d06415a4-9c7d-47c7-ab98-dfa4b4cb57de = { name = "SailingRoutes", path = "S/SailingRoutes" }
 d066d2d9-0d34-5c4c-ae28-f0a7a1fd9f53 = { name = "Icestorm_jll", path = "jll/I/Icestorm_jll" }
 d0713e65-ce0c-4a8e-a1da-2ed737d217c5 = { name = "PowerModelsDistributionStateEstimation", path = "P/PowerModelsDistributionStateEstimation" }
 d075ac83-78d4-45fb-ba34-599d2b1f585f = { name = "StellaGmsh", path = "S/StellaGmsh" }
