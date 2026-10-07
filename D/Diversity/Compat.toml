@@ -14,8 +14,7 @@ EcoBase = "0.0.3-0.1"
 ["0.4.6 - 0.4"]
 EcoBase = "0.0.6-0.1"
 
-["0.5 - 0"]
-EcoBase = "0.1"
+["0.5"]
 Requires = "1"
 
 ["0.5 - 0.5.1"]
@@ -27,6 +26,9 @@ julia = "1"
 
 ["0.5 - 0.5.9"]
 AxisArrays = "0.4"
+
+["0.5 - 0.6.2"]
+EcoBase = "0.1"
 
 ["0.5.0"]
 RecipesBase = ["0.8", "1"]
@@ -42,11 +44,13 @@ julia = "1.9.0-1"
 
 ["0.5.16 - 0"]
 DataFrames = ["0.21 - 0.22", "1"]
-InteractiveUtils = "1.9.0 - 1"
 LinearAlgebra = "1.9.0 - 1"
 RecipesBase = ["0.6 - 0.8", "1"]
 Statistics = "1.9.0 - 1"
 julia = "1.10.0 - 1"
+
+["0.5.16 - 0.6.1"]
+InteractiveUtils = "1.9.0 - 1"
 
 ["0.5.2 - 0.5.3"]
 DataFrames = "0.21-0.22"
@@ -63,3 +67,15 @@ InteractiveUtils = "1.8.0-1"
 LinearAlgebra = "1.8.0-1"
 Statistics = "1.8.0-1"
 julia = "1.8.0-1"
+
+["0.6 - 0"]
+StringDistances = ["0.11", "1"]
+
+["0.6.2 - 0"]
+Tables = "1"
+
+["0.6.3 - 0"]
+EcoBase = "0.1 - 0.2"
+
+["0.6.5 - 0"]
+Compat = "4.10.0 - 4"

@@ -179,6 +179,22 @@
   git-tree-sha1 = "bcaed46bfe50d80b66118d110598ab56e5a43096"
   nix-sha256 = "0aai7r81n57nf6qa2bxvy8js1v8mac6jg0v79pdr76qlm8hii1jf"
 
+["7.10.0"]
+  git-tree-sha1 = "9995396303e77ebb72acf9955a6c5ae45fbfc5ee"
+  nix-sha256 = "1m8r05r46p8iiyayhnarrprzckdvbzqbznkrqw50chn3c57gh08b"
+
+["7.10.1"]
+  git-tree-sha1 = "c724970c106f39c58a18b26af1b58766b62384b1"
+  nix-sha256 = "1x7cpz3jjabs0axnb93fylxqwqm6ymcfmn8ky26w23jv1agmnv9w"
+
+["7.10.2"]
+  git-tree-sha1 = "1d4c948d8c79540105b44a9ecc7c75675a233c9a"
+  nix-sha256 = "187aja53lxixgf1pvj2lh74wfpcnxrfs8pls6nfbjz2yid4bj8y0"
+
+["7.10.3"]
+  git-tree-sha1 = "bfee6fa172cc8f6873c5cc90f4902b17ba245290"
+  nix-sha256 = "1jjv0dyczw4q3dsgq73q3lriiln48x8xx60rgxic4gi521qqq2d5"
+
 ["7.2.0"]
   git-tree-sha1 = "ce934916c9b9c6d3b7feacebb5551dc75f66f6aa"
   nix-sha256 = "1k4pn8cjq51sag8r84qmks7rb36m6ifi6dvlrk3wsl84kal6ps9s"
@@ -206,3 +222,31 @@
 ["7.5.3"]
   git-tree-sha1 = "3a33a419f0fd209a37ff9af7f8c96c4f366b60f7"
   nix-sha256 = "0xrxhwxmf1j4bq36qc864nb64skd1yi28m4p23fhh6i67jkpw80y"
+
+["7.5.4"]
+  git-tree-sha1 = "3e7f6fc870744fe1640b31c19dbfbcbc882d07f4"
+  nix-sha256 = "0qrzdi6asknljjv8an7bfaqwgh4b3vpk13lnsskzwjyww4lqlb6c"
+
+["7.5.5"]
+  git-tree-sha1 = "dc65f32f71b9ef0ba02a4359d634620359028e06"
+  nix-sha256 = "15ha26h3dvd6hhbxp84gnpdyqkgalj8xnkw268il6xndqsxr8ms9"
+
+["7.6.0"]
+  git-tree-sha1 = "a5622d80d4806806fd7770a29306161de05f056c"
+  nix-sha256 = "09xs6fm12dxfdq32dwq9y4d3zqgdsxdx0pnlw5wrah41pnphbviw"
+
+["7.7.0"]
+  git-tree-sha1 = "dfb0fe7a265e202341f60a089d3ea36d4f0a4442"
+  nix-sha256 = "15ig979kxv9y3hs7vp3y6synj7sc89afq0v4mi13am5dlg9jhhpv"
+
+["7.8.0"]
+  git-tree-sha1 = "eba90ee1b907fc4a4f89dd48f53865a940879795"
+  nix-sha256 = "1bxd76q5224f0c1nrzr1657pz2628n77b1f2xaaqz2rl25dd300z"
+
+["7.9.0"]
+  git-tree-sha1 = "5ea0aff34012b3af91c2f7d54e10ae63f13a73b2"
+  nix-sha256 = "1j6gw1qm39hilba7z7qyq0pgfbih1gw4ag3q85yj5l1wvm9nawym"
+
+["8.0.0"]
+  git-tree-sha1 = "b855f98018c362289d8090e56d8713823a06560f"
+  nix-sha256 = "1j7mscfz9xfm3byqav1xrqj9ryj7khhf53hmin3ffccxkhrkf6zm"

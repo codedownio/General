@@ -115,6 +115,10 @@
   git-tree-sha1 = "ec5b791da14e103fe0c0d1f27ee44d7a4f8e0293"
   nix-sha256 = "0rz4pk1293wn27wbzfnlzs3aqvkdaznmb5ll8crppmvxwncixh66"
 
+["0.12.0"]
+  git-tree-sha1 = "b2812ce8f2b65efd300a6c2c30e2fa83fe910004"
+  nix-sha256 = "1947h2540z89bj2sfrh9bmdmzni0q6af719ji351jkpf7ycpswns"
+
 ["0.2.0"]
   git-tree-sha1 = "ebc5c82b9d686ff4f0bfabf585bc7651c944e3e5"
   nix-sha256 = "1q0fzqxxr7x82c65wi0z7fyr1ir4cgcakpzhjq9ng5gxdxgsic0r"
@@ -234,3 +238,43 @@
 ["0.9.6"]
   git-tree-sha1 = "d637181aa6edf67a280d0d5958b30eaf946c64f2"
   nix-sha256 = "098dpfflvfb47xbd4fmiv3p9dychvxsy77pxihh36mkl0y832cjq"
+
+["1.0.0"]
+  git-tree-sha1 = "75cc049d3155feb6e8337057f14c04cc68c649bb"
+  nix-sha256 = "0kyiphij3p8yls45s6y59lcbwpd9n2l5gsk8mv4hwdzvh26ska95"
+
+["1.1.0"]
+  git-tree-sha1 = "8f626f4951be26aa2e12445de4230eb6c771cdae"
+  nix-sha256 = "0cv4hydn4wb9hd9szsh66sb5jklnga9vjyzfqylpzl4bdcggjx18"
+
+["1.1.1"]
+  git-tree-sha1 = "74f0e80736e8883bd939d587e274bfdcaef6985b"
+  nix-sha256 = "1rnsxwyxpbdgwd87mfrbny66rr5ilbbs6zyjg126izrwlvk4wlgx"
+
+["1.2.0"]
+  git-tree-sha1 = "30596bbba482a1ab306f83ba316a09b201c279f0"
+  nix-sha256 = "0iixv651q2n08plj3s1pi2xnl80mja46fwla4fpyhxrb8wld8690"
+
+["1.3.0"]
+  git-tree-sha1 = "5726303ba60f025b9e9b4f41d78e220c8a65ab0d"
+  nix-sha256 = "1kambckkbh1128r2pifaxc2p2y7cibqx479nrbn7s82y8i3s0s2d"
+
+["1.3.1"]
+  git-tree-sha1 = "60820c21577083165459669950c41eb7425fce25"
+  nix-sha256 = "07yd8g78m716qmz1nwf8a9papysr6d42p9dq201k205kvxgj4ajv"
+
+["1.4.0"]
+  git-tree-sha1 = "f554eb698b3490c122cf8d1cd2883fbf6ed2cda0"
+  nix-sha256 = "1chih5b15zj8p5z1l4b91gq4x6x70sl6xd1ygb2ssy86imc83i2w"
+
+["1.5.0"]
+  git-tree-sha1 = "fc619161b8a5261a78a2af8dac75c50f29489d78"
+  nix-sha256 = "1z0x0vbj85shl3aa6553449lzpxp50gfpm9w9kdap4n174wqkybc"
+
+["1.5.1"]
+  git-tree-sha1 = "70720ccb68064308522c7e30d9b51e580f8aabc2"
+  nix-sha256 = "0ps5iimzwc4b9nkdrj30qkl1zpzc68hjq7nfyfc929zzlw7hqd0c"
+
+["1.5.2"]
+  git-tree-sha1 = "186aaccf282aaea4b29f0124b57549f1b904e9ce"
+  nix-sha256 = "1ircxkvh07lyp79d3xf7mxx24p12c4yq8jakwsvbm932x4310amh"

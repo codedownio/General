@@ -51,6 +51,30 @@
   git-tree-sha1 = "93a2de7c3af4914533ab17e010612b283b79ac20"
   nix-sha256 = "1h8sv65qli5azd9w7jfld7hdyw7zdg2l8dr7hkgpnlv9nd76gchn"
 
+["2.10.0"]
+  git-tree-sha1 = "bb02bb0a2c034d067c11d33adf1edd59ed3ab722"
+  nix-sha256 = "1v6k1g7c2kaj124sffh43yyaxf578j7mmqyildz1va0fc680bn35"
+
+["2.11.0"]
+  git-tree-sha1 = "564f9c1dc7e81a53674c7cf91143b4a29b4b8556"
+  nix-sha256 = "0lslzlwmrsahglv5v8f5a4qk5pp18m0pz8yrkxy64a4r5hbn5lcj"
+
+["2.12.0"]
+  git-tree-sha1 = "f8225121ac9cc1337fb389c6c649831c973ee445"
+  nix-sha256 = "1d4q845d9wbcbnv9vy95cwwh6wyhnbcxcwlaynnn944wp874xb03"
+
+["2.13.0"]
+  git-tree-sha1 = "9c0a9d33cb7112f39caf588d94846480d3a551f3"
+  nix-sha256 = "1dzvz9ji5ad04v9zvycmzaqdh8dqhaaz6dwjpkw3syripl4gsfv6"
+
+["2.13.1"]
+  git-tree-sha1 = "a6bb3e4ef7037ffcf07e3b4bd087bd1cea4c9dfb"
+  nix-sha256 = "1rs8rdzrnwinpfn7iygi752xmnygdakf0387qzbhi66182gj5akh"
+
+["2.13.2"]
+  git-tree-sha1 = "e36721938935a4c72c867b165e35069ab9d3764d"
+  nix-sha256 = "0iwr1hbkh6l6lmiwncniqwxjfh0cmb6gjymvg3ldzsqh53zrgdqj"
+
 ["2.2.0"]
   git-tree-sha1 = "ca40ad9d75f0bdf7170462e184da215ec74dc1b0"
   nix-sha256 = "024wszpa9b5i54h2xc5xlfrbr4i4rjrg3xqsbvzxgrdhr3phsd94"
@@ -78,3 +102,23 @@
 ["2.6.1"]
   git-tree-sha1 = "232be09a85f578f4c9901ccfe7effc84c7027893"
   nix-sha256 = "0vjy64d1jj8z6v8p9fxa0yrsd5whg082m94zb0jn201d6vryccl8"
+
+["2.6.2"]
+  git-tree-sha1 = "17711c705ed9e5f7b7a85b56a8e1408ff991f553"
+  nix-sha256 = "1zankvcdc16wb9pr5iq3axwwl6gz9iycn70f3h1yhkvd071x9lcx"
+
+["2.6.3"]
+  git-tree-sha1 = "d063629720bcb7ce07f98997787d32f357874b4a"
+  nix-sha256 = "02k1jw86yc0h4si286pjh7s5ds6rahff2hyyisnwkjkgva80q680"
+
+["2.7.0"]
+  git-tree-sha1 = "b505a095259c9ced266b3b1550eff12523091dce"
+  nix-sha256 = "1342w8ypfvg57p91gs9v5ksnxz2syqj4lg205rdkixvmbmcz45bq"
+
+["2.8.0"]
+  git-tree-sha1 = "31d34c3807a7a40ffece8233e9e7ea4ab81d5528"
+  nix-sha256 = "126531dpy5nqnhvmd2myzn00fyn82br03s1yn215ciky9b0ffgqk"
+
+["2.9.0"]
+  git-tree-sha1 = "3fbbdee2ab54daba53eacfdd27393fdc5fc46b84"
+  nix-sha256 = "0b578ndiawbcyvs48zghvwfmap4vrpkafijnnjp537idcms1qayg"

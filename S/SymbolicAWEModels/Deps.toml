@@ -46,6 +46,16 @@ SteadyStateDiffEq = "9672c7b4-1e72-59bd-8a11-6ac3964bc41f"
 ["0.10 - 0"]
 DataInterpolations = "82cc6244-b520-54b8-b5a6-8a565e85f1d0"
 
+["0.13 - 0"]
+ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
+
+["0.14 - 0"]
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+
+["0.15.1 - 0"]
+LinearSolve = "7ed4a6bd-45f5-4d41-b270-4a48e9bafcae"
+
 ["0.2 - 0"]
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
@@ -54,8 +64,10 @@ Suppressor = "fd094767-a336-5f1f-9728-57cf17d0bbfb"
 UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
 
 ["0.3 - 0"]
-CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
 ControlSystemsBase = "aaaaaaaa-a6ca-5380-bf3e-84a91bcd477e"
+
+["0.3 - 0.18"]
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
 Tar = "a4e569a6-e804-4fa4-b0f3-eef7a1d5b13e"
 
 ["0.6 - 0"]

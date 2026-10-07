@@ -12,6 +12,24 @@ Oceananigans = "0.102.2 - 0.102"
 ["0 - 0.3.2"]
 julia = "1.10.10 - 1"
 
+["0.10"]
+Oceananigans = "0.111"
+
+["0.10 - 0"]
+Artifacts = ["0.0.0", "1"]
+LazyArtifacts = ["0.0.0", "1"]
+OffsetArrays = "1.4.0 - 1"
+SpecialFunctions = "2"
+
+["0.11 - 0.11.1"]
+Oceananigans = "0.112"
+
+["0.11.2 - 0"]
+Oceananigans = "0.113"
+
+["0.11.3 - 0"]
+ReactantCore = "0.1"
+
 ["0.3 - 0"]
 GPUArraysCore = "0.2"
 InteractiveUtils = ["0.0.0", "1"]
@@ -53,10 +71,13 @@ Oceananigans = "0.107.4 - 0.108.0"
 Oceananigans = "0.109.1 - 0.109"
 
 ["0.5.3 - 0.6"]
-Oceananigans = "0.110"
+Oceananigans = "0.110 - 0.110.19"
 
 ["0.7 - 0.7.1"]
-Oceananigans = "0.110.2 - 0.110"
+Oceananigans = "0.110.2 - 0.110.19"
 
-["0.7.2 - 0"]
-Oceananigans = "0.110.8 - 0.110"
+["0.7.2 - 0.7"]
+Oceananigans = "0.110.8 - 0.110.19"
+
+["0.8 - 0.9"]
+Oceananigans = "0.110.14 - 0.110.19"

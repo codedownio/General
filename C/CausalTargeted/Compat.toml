@@ -1,0 +1,33 @@
+[0]
+DataFrames = "1"
+Dates = "1"
+Distributions = "0.25"
+GLM = "1.9.0 - 1"
+Graphs = "1"
+Logging = "1"
+Random = "1"
+StableRNGs = "1"
+Statistics = "1"
+StatsBase = "0.34"
+julia = "1.12.0 - 1"
+
+["0 - 0.3.2"]
+CausalDynamics = "0.3"
+
+["0.3.10 - 0"]
+StatsModels = "0.7"
+
+["0.3.13 - 0"]
+LinearAlgebra = "1"
+
+["0.3.16 - 0"]
+CategoricalArrays = ["0.10", "1"]
+
+["0.3.26 - 0.3.28"]
+CausalDynamics = "0.4.6 - 0.4"
+
+["0.3.29 - 0"]
+CausalDynamics = "0.4.7 - 0.4"
+
+["0.3.3 - 0.3.25"]
+CausalDynamics = "0.4"

@@ -1,18 +1,29 @@
 [0]
 ClimaComms = "0.6"
-RRTMGP = "0.21"
 
 ["0 - 0.3.1"]
 CloudMicrophysics = "0.29"
 
-["0.3.2 - 0"]
-SpecialFunctions = "2"
+["0 - 0.8"]
+RRTMGP = "0.21"
+
+["0.10 - 0"]
+RRTMGP = ["0.22 - 0.23", "1"]
+
+["0.11 - 0.11.1"]
+CloudMicrophysics = "0.38 - 0.39"
+
+["0.11.2 - 0"]
+CloudMicrophysics = "0.38 - 0.40"
 
 ["0.3.2 - 0.3"]
 CloudMicrophysics = "0.29 - 0.30"
 
 ["0.3.2 - 0.6"]
-Reactant = "0.2.203 - 0.2"
+Reactant = "0.2.203 - 0.2.274"
+
+["0.3.2 - 0.9"]
+SpecialFunctions = "2"
 
 ["0.4 - 0.4.1"]
 CloudMicrophysics = "0.31.4 - 0.31"
@@ -24,7 +35,13 @@ CloudMicrophysics = "0.31.4 - 0.32"
 CloudMicrophysics = "0.31.4 - 0.35"
 
 ["0.7 - 0"]
-Reactant = "0.2.268 - 0.2"
+Reactant = ["0.2.268 - 0.2.274", "0.2.278 - 0.2"]
 
-["0.7.4 - 0"]
-CloudMicrophysics = "0.37"
+["0.7.4 - 0.8"]
+CloudMicrophysics = "0.37.0 - 0.37.1"
+
+["0.9"]
+RRTMGP = "0.22"
+
+["0.9 - 0.10"]
+CloudMicrophysics = "0.38"

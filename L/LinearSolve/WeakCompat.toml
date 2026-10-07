@@ -201,7 +201,6 @@ CliqueTrees = "1.11.0 - 1"
 CUDA = "5.5.0 - 5"
 
 ["3.29 - 5"]
-AMDGPU = "1.2.0 - 2"
 BandedMatrices = "1.8.0 - 1"
 EnzymeCore = "0.8.5 - 0.8"
 FastAlmostBandedMatrices = "0.1.4 - 0.1"
@@ -211,9 +210,14 @@ IterativeSolvers = "0.9.4 - 0.9"
 KernelAbstractions = "0.9.30 - 0.9"
 Metal = "1.4.0 - 1"
 Pardiso = "1"
+
+["3.29 - 5.13.1"]
+AMDGPU = "1.2.0 - 2"
+
+["3.29 - 5.6"]
 Sparspak = "0.3.9 - 0.3"
 
-["3.30 - 5"]
+["3.30 - 5.13.1"]
 ForwardDiff = ["0.10.38 - 0.10", "1"]
 
 ["3.4 - 3.12.0"]
@@ -225,7 +229,7 @@ Mooncake = "0.4"
 ["3.45 - 3.48"]
 CUDSS = ["0.4", "0.6.1 - 0.6"]
 
-["3.47 - 5"]
+["3.47 - 5.6"]
 RecursiveFactorization = "0.2.26 - 0.2"
 
 ["3.49 - 3.76"]
@@ -277,8 +281,10 @@ STRUMPACK_jll = "8"
 CUDSS = "0.6.3 - 0.7"
 
 ["3.80 - 5"]
-CUDSS = "0.7"
 cuSOLVER = "6"
+
+["3.80 - 5.18.1"]
+CUDSS = "0.7"
 
 ["3.83 - 5"]
 MUMPS = "1.4.0 - 1"
@@ -290,13 +296,17 @@ AlgebraicMultigrid = "1 - 2"
 ["3.85.2 - 5"]
 HSL = "0.5"
 PETSc = "0.4.10 - 0.4"
-PureUMFPACK = "0.1"
+
+["3.85.2 - 5.16"]
 SpecializingFactorizations = "0.1"
+
+["3.85.2 - 5.5"]
+PureUMFPACK = "0.1"
 
 ["3.86.1 - 5"]
 SuperLUDIST = "1"
 
-["4 - 5"]
+["4 - 5.13.1"]
 AlgebraicMultigrid = ["0.5", "1 - 2"]
 
 ["4.3 - 5"]
@@ -304,5 +314,46 @@ ArnoldiMethod = "0.4"
 Arpack = "0.5"
 JacobiDavidson = "0.1"
 
-["5.3 - 5"]
+["5.10 - 5"]
+ConjugateGradients = "0.1"
+
+["5.13 - 5"]
+AMGX = "0.2"
+
+["5.13 - 5.13.1"]
+CUDA = "5 - 6"
+
+["5.13.1 - 5"]
+Reactant = "0.2.230 - 0.2"
+
+["5.13.2 - 5"]
+AMDGPU = "2"
+AlgebraicMultigrid = "2"
+CUDA = "6"
+ForwardDiff = "1"
+
+["5.15 - 5"]
+CKTSO = "0.1"
+
+["5.16 - 5"]
+SLATE_jll = "2025"
+
+["5.17 - 5"]
+SpecializingFactorizations = "0.1.5 - 0.1"
+
+["5.18.2 - 5"]
+CUDSS = "0.7 - 0.8"
+
+["5.3 - 5.6"]
 TriangularSolve = "0.2"
+
+["5.5 - 5"]
+JLArrays = "0.2 - 0.3"
+
+["5.6 - 5"]
+PureUMFPACK = "1"
+
+["5.7 - 5"]
+RecursiveFactorization = "0.2.27 - 0.2"
+Sparspak = "0.3.15 - 0.3"
+TriangularSolve = "0.2.5 - 0.2"

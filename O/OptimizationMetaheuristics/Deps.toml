@@ -1,9 +1,14 @@
 [0]
 Metaheuristics = "bcdb8e00-2c21-11e9-3065-2b553b22f898"
+
+["0 - 0.3.10"]
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 
 ["0 - 0.3.2"]
 Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
+
+["0.3.10 - 0"]
+SciMLLogging = "a6db7da4-7206-11f0-1eab-35f2a5dbe1d1"
 
 ["0.3.3 - 0"]
 OptimizationBase = "bca83a33-5cc9-4baa-983d-23429ab6bcbb"

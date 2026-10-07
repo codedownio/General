@@ -50,7 +50,7 @@ ParallelStencil = "0.12-0.13"
 ["0.4.2 - 0.5.6"]
 CellArraysIndexing = "0.1"
 
-["0.5.10 - 0"]
+["0.5.10 - 0.7.0"]
 GridGeometryUtils = "0.1"
 
 ["0.5.11 - 0"]
@@ -70,15 +70,19 @@ JLD2 = "0.5.11-0.5"
 ImplicitGlobalGrid = "0.15-0.16"
 
 ["0.5.7 - 0"]
-Atomix = "1"
 CellArrays = "0.3"
-CellArraysIndexing = "0.2"
 
 ["0.5.7 - 0.5"]
 ParallelStencil = "0.14"
 
 ["0.5.7 - 0.5.10"]
 julia = "1.10.0-1"
+
+["0.5.7 - 0.6"]
+Atomix = "1"
+
+["0.5.7 - 0.7.4"]
+CellArraysIndexing = "0.2"
 
 ["0.5.8 - 0.5.10"]
 Statistics = "1.10.0-1"
@@ -89,8 +93,23 @@ GridGeometryUtils = "0.1.8-0.1"
 ["0.5.9 - 0.6.6"]
 ImplicitGlobalGrid = "0.16"
 
-["0.6 - 0"]
+["0.6"]
 ParallelStencil = "0.14 - 0.16"
 
 ["0.6.7 - 0"]
 ImplicitGlobalGrid = "0.16 - 0.17"
+
+["0.7 - 0"]
+KernelAbstractions = "0.9"
+
+["0.7.1 - 0.7.9"]
+GridGeometryUtils = "0.2.1 - 0.2"
+
+["0.7.10 - 0"]
+GridGeometryUtils = "0.3.1 - 0.3"
+
+["0.7.11 - 0"]
+LinearAlgebra = "1.10.0 - 1"
+
+["0.7.5 - 0"]
+CellArraysIndexing = "0.2.1 - 0.2"

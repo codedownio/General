@@ -32,6 +32,15 @@ Optimization = "4.4.0 - 4"
 Reexport = "1.2.0 - 1"
 julia = "1.10.0 - 1"
 
+["0.3.12"]
+OptimizationBase = "5"
+SciMLLogging = "1.10.1 - 2"
+
+["0.3.13 - 0"]
+OptimizationBase = "5.5.0 - 5"
+SciMLBase = "3"
+SciMLLogging = "2"
+
 ["0.3.2"]
 OptimizationBase = "3"
 SciMLBase = "2.58.0 - 2"
@@ -49,10 +58,10 @@ OptimizationBase = "4.0.2 - 4"
 GCMAES = "0.1.34 - 0.1"
 
 ["0.3.5"]
-OptimizationBase = "5"
+OptimizationBase = "5 - 5.2"
 
-["0.3.6 - 0"]
-OptimizationBase = "5.1.0 - 5"
+["0.3.6 - 0.3.11"]
+OptimizationBase = "5.1.0 - 5.2"
 
-["0.3.7 - 0"]
+["0.3.7 - 0.3.12"]
 SciMLBase = "2.122.1 - 3"

@@ -65,12 +65,16 @@ MaybeInplace = "0.1.4 - 0.1"
 Preferences = "1.4.0 - 1"
 Printf = "1.10.0 - 1"
 SciMLJacobianOperators = "0.1.1 - 0.1"
-StaticArraysCore = "1.4.0 - 1"
-TimerOutputs = "0.5.23 - 0.5"
 julia = "1.10.0 - 1"
 
 ["1.13 - 2.31"]
 ArrayInterface = "7.9.0 - 7"
+
+["1.13 - 2.39.0"]
+TimerOutputs = "0.5.23 - 0.5"
+
+["1.13 - 2.45"]
+StaticArraysCore = "1.4.0 - 1"
 
 ["1.15 - 1.16.0"]
 DifferentiationInterface = "0.7.3 - 0.7"
@@ -134,16 +138,16 @@ FunctionWrappers = "1.1.0 - 1"
 ["2.20 - 2.38"]
 FunctionWrappersWrappers = "1"
 
-["2.23 - 2"]
-RecursiveArrayTools = "3 - 4"
-
 ["2.23 - 2.30"]
 SciMLBase = "2.153.0 - 3.39"
 
-["2.25.1 - 2"]
+["2.23 - 2.44"]
+RecursiveArrayTools = "3 - 4"
+
+["2.25.1 - 2.44"]
 SciMLLogging = "1.10.1 - 2"
 
-["2.29 - 2"]
+["2.29 - 2.48.0"]
 LogExpFunctions = ["0.3.29 - 0.3", "1"]
 
 ["2.3 - 2.11"]
@@ -175,11 +179,39 @@ RespecializeParams = "1"
 ["2.38.0"]
 SciMLBase = "3.37.0 - 3.39"
 
-["2.38.1 - 2"]
+["2.38.1 - 2.40"]
 SciMLBase = "3.37.0 - 3"
 
 ["2.39 - 2"]
 FunctionWrappersWrappers = "1.9.3 - 1"
+
+["2.39.1 - 2.48.0"]
+TimerOutputs = ["0.5.23 - 0.5", "1"]
+
+["2.41 - 2.43"]
+SciMLBase = "3.43.0 - 3"
+
+["2.42 - 2"]
+EnumX = "1"
+
+["2.44 - 2"]
+SciMLBase = "3.46.0 - 3"
+
+["2.45 - 2"]
+RecursiveArrayTools = "4"
+SciMLLogging = "2"
+
+["2.46 - 2"]
+StaticArraysCore = "1.4.3 - 1"
+
+["2.48.1"]
+LogExpFunctions = "1"
+
+["2.48.1 - 2"]
+TimerOutputs = "1"
+
+["2.48.2 - 2"]
+LogExpFunctions = ["0.3.28 - 0.3", "1"]
 
 ["2.6 - 2.25.0"]
 SciMLLogging = "1.7.0 - 1"

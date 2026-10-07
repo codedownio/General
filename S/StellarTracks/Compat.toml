@@ -1,9 +1,6 @@
 [1]
 ArgCheck = "1 - 2"
-CSV = "0.10"
 CodecZlib = "0.7"
-DataDeps = "0.7"
-DataInterpolations = "8"
 DelimitedFiles = ["0.0.0", "1"]
 Interpolations = "0.15 - 0.16"
 Printf = ["0.0.0", "1"]
@@ -17,6 +14,13 @@ julia = "1.10.0 - 1"
 ["1 - 1.0.1"]
 JLD2 = "0.5"
 
+["1 - 1.1.0"]
+DataDeps = "0.7"
+DataInterpolations = "8"
+
+["1 - 1.1.1"]
+CSV = "0.10"
+
 ["1.0.0"]
 BolometricCorrections = "0.1"
 
@@ -28,3 +32,14 @@ JLD2 = "0.5 - 0.6"
 
 ["1.1 - 1"]
 BolometricCorrections = "0.2"
+
+["1.1.1"]
+DataInterpolations = "8 - 9"
+
+["1.1.1 - 1"]
+DataDeps = ["0.7", "1"]
+
+["1.1.2 - 1"]
+CSV = ["0.10", "1"]
+DataInterpolations = "8.6.0 - 10"
+SentinelArrays = "1"

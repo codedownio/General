@@ -1,5 +1,34 @@
-["0.3 - 0"]
+["0.10 - 0.13"]
+OptimaSolver = "0.4"
+
+["0.14 - 0.17"]
+OptimaSolver = "0.5"
+
+["0.18 - 0.25.1"]
+OptimaSolver = "0.5.5 - 0.6"
+
+["0.25.2 - 0.25"]
+OptimaSolver = "0.6.2 - 0.6"
+
+["0.26"]
+OptimaSolver = "0.7"
+
+["0.27"]
+OptimaSolver = "0.7.1 - 0.7"
+
+["0.28 - 0.28.1"]
+OptimaSolver = "0.7.3 - 0.7"
+
+["0.28.2 - 0.28"]
+OptimaSolver = "0.7.4 - 0.7"
+
+["0.29"]
+OptimaSolver = "0.7.8 - 0.7"
+
+["0.3"]
 OptimaSolver = "0.2"
+
+["0.3 - 0"]
 Optimization = "5"
 OptimizationIpopt = "1.1.1 - 1"
 SymbolicNumericIntegration = "1.10.0 - 1"
@@ -9,3 +38,18 @@ OrdinaryDiffEq = "6"
 
 ["0.3.1 - 0"]
 OrdinaryDiffEq = "6 - 7"
+
+["0.30 - 0.32.1"]
+OptimaSolver = "0.8"
+
+["0.32.2 - 0"]
+OptimaSolver = "0.8.1 - 0.8"
+
+["0.4 - 0.7"]
+OptimaSolver = "0.2.6 - 0.2"
+
+["0.8"]
+OptimaSolver = "0.2.7 - 0.2"
+
+["0.9"]
+OptimaSolver = "0.3"

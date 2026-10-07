@@ -10,6 +10,8 @@ OrdinaryDiffEqTsit5 = "b1df2697-797e-41e3-8120-5422d3b24e4a"
 OrdinaryDiffEqVerner = "79d7bb75-1356-48c1-b8c0-6832512096c2"
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 Preferences = "21216c6a-2e73-6563-6e65-726566657250"
+
+["1 - 2.4.2"]
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 
 ["1.2 - 2"]
@@ -17,3 +19,6 @@ ADTypes = "47edcb42-4c32-4615-8424-f2b9edc5f35b"
 
 ["1.6 - 2"]
 SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
+
+["2.6 - 2"]
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"

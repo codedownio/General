@@ -377,7 +377,6 @@ FastClosures = "0.3.2 - 0.3"
 FiniteDiff = "2.24.0 - 2"
 LinearAlgebra = "1.10.0 - 1"
 PrecompileTools = "1.2.0 - 1"
-StaticArraysCore = "1.4.0 - 1"
 julia = "1.10.0 - 1"
 
 ["4.10 - 4.12"]
@@ -389,6 +388,9 @@ SimpleNonlinearSolve = "2.1.0 - 2"
 
 ["4.10 - 4.19"]
 LineSearch = "0.1.4 - 0.1"
+
+["4.10 - 4.27"]
+StaticArraysCore = "1.4.0 - 1"
 
 ["4.11"]
 NonlinearSolveBase = "1.15.0 - 1"
@@ -412,7 +414,6 @@ ReTestItems = "1.24.0 - 1"
 ["4.13 - 4"]
 BracketingNonlinearSolve = "1.6.0 - 1"
 ForwardDiff = "1"
-NonlinearSolveQuasiNewton = "1.12.0 - 1"
 NonlinearSolveSpectralMethods = "1.6.0 - 1"
 SimpleNonlinearSolve = "2.10.0 - 2"
 
@@ -429,10 +430,13 @@ SciMLLogging = "1.7.0 - 1"
 ["4.13 - 4.20.1"]
 LinearSolve = "3.48.0 - 3"
 
+["4.13 - 4.26.0"]
+NonlinearSolveQuasiNewton = "1.12.0 - 1"
+
 ["4.15.1 - 4.15"]
 NonlinearSolveFirstOrder = "1.12.0 - 1"
 
-["4.16 - 4"]
+["4.16 - 4.29.0"]
 NonlinearSolveFirstOrder = "2"
 
 ["4.17 - 4"]
@@ -472,15 +476,43 @@ NonlinearSolveBase = "2.35.0 - 2"
 ["4.22"]
 NonlinearSolveBase = "2.36.0 - 2"
 
-["4.22 - 4"]
+["4.22 - 4.26"]
 LinearSolve = "5.0.1 - 5"
 
 ["4.23"]
 NonlinearSolveBase = "2.37.0 - 2"
 
-["4.24 - 4"]
+["4.24"]
 NonlinearSolveBase = "2.38.0 - 2"
 SciMLBase = "3.37.0 - 3"
+
+["4.25"]
+NonlinearSolveBase = "2.41.0 - 2"
+
+["4.25 - 4.26"]
+SciMLBase = "3.43.0 - 3"
+
+["4.26.0"]
+NonlinearSolveBase = "2.42.0 - 2"
+
+["4.26.1 - 4"]
+NonlinearSolveQuasiNewton = "1.15.1 - 1"
+
+["4.26.1 - 4.26"]
+NonlinearSolveBase = "2.43.0 - 2"
+
+["4.27 - 4"]
+LinearSolve = "5.4.0 - 5"
+SciMLBase = "3.46.0 - 3"
+
+["4.27 - 4.30"]
+NonlinearSolveBase = "2.44.0 - 2"
+
+["4.28 - 4"]
+StaticArraysCore = "1.4.3 - 1"
+
+["4.29.1 - 4.29"]
+NonlinearSolveFirstOrder = "2.5.0 - 2"
 
 ["4.3 - 4.9"]
 NonlinearSolveBase = "1.4.0-1"
@@ -488,6 +520,18 @@ NonlinearSolveFirstOrder = "1.2.0-1"
 NonlinearSolveQuasiNewton = "1.1.0-1"
 NonlinearSolveSpectralMethods = "1.1.0-1"
 SimpleNonlinearSolve = "2.1.0-2"
+
+["4.30"]
+NonlinearSolveFirstOrder = "2.6.0 - 2"
+
+["4.31"]
+NonlinearSolveFirstOrder = "2.7.0 - 2"
+
+["4.31 - 4"]
+NonlinearSolveBase = "2.50.0 - 2"
+
+["4.32 - 4"]
+NonlinearSolveFirstOrder = "2.8.0 - 2"
 
 ["4.4 - 4.9"]
 LinearSolve = "2.36.1-3"

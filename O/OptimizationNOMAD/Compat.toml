@@ -25,6 +25,15 @@ Optimization = "4"
 ["0.3.1"]
 NOMAD = "2.4.1-2"
 
+["0.3.10"]
+OptimizationBase = "5"
+SciMLLogging = "1.10.1 - 2"
+
+["0.3.11 - 0"]
+OptimizationBase = "5.5.0 - 5"
+SciMLBase = "3"
+SciMLLogging = "2"
+
 ["0.3.2"]
 Optimization = "4.4.0 - 4"
 
@@ -42,11 +51,11 @@ SciMLBase = "2.58.0 - 2"
 ["0.3.4"]
 OptimizationBase = "3 - 4"
 
-["0.3.5 - 0"]
-OptimizationBase = "5"
+["0.3.5 - 0.3.9"]
+OptimizationBase = "5 - 5.2"
 
 ["0.3.6 - 0.3.7"]
 SciMLBase = "2.58.0 - 3"
 
-["0.3.8 - 0"]
+["0.3.8 - 0.3.10"]
 SciMLBase = "2.122.1 - 3"
