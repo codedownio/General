@@ -576,6 +576,7 @@ some amount of consideration when choosing package names.
 0a114e3f-4576-410c-8414-be1d36bbc63f = { name = "ContourDynamics", path = "C/ContourDynamics" }
 0a1268e7-2270-4ee8-9901-5a5b516c7ae9 = { name = "InvariantSets", path = "I/InvariantSets" }
 0a13313b-1c00-422e-8263-562364ed9544 = { name = "SauterSchwab3D", path = "S/SauterSchwab3D" }
+0a174593-c395-4975-8599-97e6c4e949e6 = { name = "OpticsBase", path = "O/OpticsBase" }
 0a1892c8-8a22-4bcd-b9e2-a5b491b58d94 = { name = "NASAMergedTb", path = "N/NASAMergedTb" }
 0a1bf870-1ec7-454f-b2b3-83307695f2d3 = { name = "HemiplexNumbers", path = "H/HemiplexNumbers" }
 0a1fb500-61f7-11e9-3c65-f5ef3456f9f0 = { name = "BlockDiagonals", path = "B/BlockDiagonals" }
@@ -2700,6 +2701,7 @@ some amount of consideration when choosing package names.
 2fbe496a-299b-4c81-bab5-c44dfc55cf20 = { name = "DecisionFocusedLearningBenchmarks", path = "D/DecisionFocusedLearningBenchmarks" }
 2fc109c4-9d77-11e9-32ff-e5c650334c16 = { name = "LinearInterpolators", path = "L/LinearInterpolators" }
 2fc36f50-c0f6-442e-a77c-cf0acc93eef6 = { name = "BitemporalReactive", path = "B/BitemporalReactive" }
+2fc592bb-64fa-475c-8993-177b89068dc6 = { name = "BatchedKernels", path = "B/BatchedKernels" }
 2fc7fd02-576c-576e-a36a-6afce71715da = { name = "NOMAD_jll", path = "jll/N/NOMAD_jll" }
 2fc8631c-6f24-4c5b-bca7-cbb509c42db4 = { name = "PlutoSliderServer", path = "P/PlutoSliderServer" }
 2fc88845-7e3c-4d5a-ae99-1d63540d249b = { name = "PureQPBase", path = "P/PureQPBase" }
@@ -4239,6 +4241,7 @@ some amount of consideration when choosing package names.
 49d7a207-2b26-4c4c-b0e9-253fdb5aa2df = { name = "WriteTFW", path = "W/WriteTFW" }
 49dc2e85-a5d0-5ad3-a950-438e2897f1b9 = { name = "Calculus", path = "C/Calculus" }
 49dc5b4e-6806-4504-b2cc-a81764e7a38b = { name = "KernelDensitySJ", path = "K/KernelDensitySJ" }
+49ddb18e-ca18-5f65-a4dd-7588daaac186 = { name = "acados_jll", path = "jll/A/acados_jll" }
 49dea1ee-f6fa-5aa6-9a11-8816cee7d4b9 = { name = "Nettle", path = "N/Nettle" }
 49e116ef-912f-4766-9e56-896a49944adc = { name = "SpeciesInteractionNetworks", path = "S/SpeciesInteractionNetworks" }
 49efddeb-3919-4030-a3a0-2d857547a82c = { name = "GreedyKernelMethods", path = "G/GreedyKernelMethods" }
@@ -8507,6 +8510,7 @@ some amount of consideration when choosing package names.
 9514c204-b736-47c9-8157-11c3e9e5ab30 = { name = "TrajGWAS", path = "T/TrajGWAS" }
 95167b0c-186a-594b-a231-52369c6de044 = { name = "LinearAlgebraicRepresentation", path = "L/LinearAlgebraicRepresentation" }
 9516f557-4a54-5a79-b954-c272e753c77a = { name = "Psychro", path = "P/Psychro" }
+95196869-6d61-5868-8eee-c38c33804e0c = { name = "OpenJPH_jll", path = "jll/O/OpenJPH_jll" }
 952205b0-75a0-561c-bf54-4eaf7b36f838 = { name = "ConicNonlinearBridge", path = "C/ConicNonlinearBridge" }
 95228164-aa68-11e9-35aa-d79ea5c4658d = { name = "QuantumESPRESSO", path = "Q/QuantumESPRESSO" }
 9526e54e-4491-4e9f-a840-d78b79cb5e3b = { name = "NASAEarthObservations", path = "N/NASAEarthObservations" }
