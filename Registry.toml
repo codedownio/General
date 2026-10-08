@@ -104,6 +104,7 @@ some amount of consideration when choosing package names.
 01919df6-f63c-417e-aa23-898e227d26ec = { name = "SimpleTypePrint", path = "S/SimpleTypePrint" }
 019239df-b0e3-486e-8e4c-d1c29ee5d6b9 = { name = "LatticeDiracOperators", path = "L/LatticeDiracOperators" }
 0192cb87-2b54-54ad-80e0-3be72ad8a3c0 = { name = "Reactant_jll", path = "jll/R/Reactant_jll" }
+01937fd2-c099-442f-ae89-75fa208aad36 = { name = "PlanarOptim", path = "P/PlanarOptim" }
 0194ec6b-b63a-5ff6-8ef2-16ca86305613 = { name = "FMUComplianceChecker_jll", path = "jll/F/FMUComplianceChecker_jll" }
 019ae9e0-8363-565c-86e5-97a5a2fe84f4 = { name = "UnfoldMixedModels", path = "U/UnfoldMixedModels" }
 019da952-fa7b-77c3-9a56-736984f089dd = { name = "StippleActiveTables", path = "S/StippleActiveTables" }
@@ -1756,6 +1757,7 @@ some amount of consideration when choosing package names.
 1e81e918-d094-11e8-0e93-1dd8855012cf = { name = "Tasmanian", path = "T/Tasmanian" }
 1e82aed4-b73c-514c-b6b0-721e3fbe9c02 = { name = "Vim_jll", path = "jll/V/Vim_jll" }
 1e83bf80-4336-4d27-bf5d-d5a4f845583c = { name = "StaticArraysCore", path = "S/StaticArraysCore" }
+1e8b2ed2-ea1c-4b6e-b3f5-67c29d6bd197 = { name = "BorisPushers", path = "B/BorisPushers" }
 1e8d2bf6-9821-4900-9a2f-4d87552df2bd = { name = "MultilineStrings", path = "M/MultilineStrings" }
 1e8e1a9c-ba05-491d-aab9-db7c9310f606 = { name = "HDF5Plugins", path = "H/HDF5Plugins" }
 1e8f6a0c-d50d-416e-aae2-648972eea77c = { name = "ABCRejection", path = "A/ABCRejection" }
@@ -5560,6 +5562,7 @@ some amount of consideration when choosing package names.
 6171b9fb-adbf-4751-adb9-5faded75de07 = { name = "LowLevelFEM", path = "L/LowLevelFEM" }
 61744808-ddfa-5f27-97ff-6e42cc95d634 = { name = "DynamicalSystems", path = "D/DynamicalSystems" }
 6174cffe-3aeb-40a0-b6ea-f169f792c023 = { name = "KinbiontPlots", path = "K/KinbiontPlots" }
+6179963f-d197-4f12-88b2-ca124f9228fe = { name = "LWBGT", path = "L/LWBGT" }
 6184abd9-1539-47ca-b742-6ec6f8d46641 = { name = "ThesisArt", path = "T/ThesisArt" }
 619b3e1a-df4a-11e8-3b0b-a997e0925a8d = { name = "SolverTraces", path = "S/SolverTraces" }
 61ab1198-09f6-40be-823d-566e36da65b4 = { name = "DynamicWorkflow", path = "D/DynamicWorkflow" }
@@ -10491,6 +10494,7 @@ b7c0a452-59f3-4788-8baf-51dfb4e989a2 = { name = "Kibisis", path = "K/Kibisis" }
 b7d42ee7-0b51-5a75-98ca-779d3107e4c0 = { name = "Einsum", path = "E/Einsum" }
 b7d69b34-a827-4671-8cfa-f7e1eec930c7 = { name = "ORTools", path = "O/ORTools" }
 b7df18da-f5d9-4b84-8c87-a215783c94a6 = { name = "PhreeqcRM", path = "P/PhreeqcRM" }
+b7e1c2d3-4f56-4a78-9b01-23c4d5e6f708 = { name = "HardwareLoopCore", path = "H/HardwareLoopCore" }
 b7e1f0a2-3c4d-4e5f-9a0b-1c2d3e4f5a6b = { name = "PureUMFPACK", path = "P/PureUMFPACK" }
 b7e775b7-052a-4229-9250-fe08ae90f9c6 = { name = "Webviews", path = "W/Webviews" }
 b7e79332-94ae-5b45-a0a6-65d827bd22db = { name = "HelloWorldFortran_jll", path = "jll/H/HelloWorldFortran_jll" }
@@ -10733,6 +10737,7 @@ bc702e9c-26b7-573b-a57f-23300c0e5013 = { name = "StationXML", path = "S/StationX
 bc724e2e-2423-57c2-8f10-788c81380fc8 = { name = "TypedDelegation", path = "T/TypedDelegation" }
 bc769cb7-f249-5bba-802a-79f18cb247ec = { name = "SMM", path = "S/SMM" }
 bc773b8a-8374-437a-b9f2-0e9785855863 = { name = "CodeInfoTools", path = "C/CodeInfoTools" }
+bc793e09-ff97-408c-9766-388aa928ad5c = { name = "PlanarStrategyTools", path = "P/PlanarStrategyTools" }
 bc7fa6ce-b75e-4d60-89ad-56c957190b6e = { name = "JuliaHub", path = "J/JuliaHub" }
 bc8888f7-b21e-4b7c-a06a-5d9c9496438c = { name = "SymPyPythonCall", path = "S/SymPyPythonCall" }
 bc8ceb21-a8fe-4071-b36a-0b0ea65b9c09 = { name = "Turmeric", path = "T/Turmeric" }
