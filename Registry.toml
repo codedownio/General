@@ -1175,6 +1175,7 @@ some amount of consideration when choosing package names.
 1419eebc-666c-4ddd-ac4c-9d7104ca2976 = { name = "GaussianKDEs", path = "G/GaussianKDEs" }
 1423b20a-918d-4e2b-9e58-f86bfc90768e = { name = "PlainCLIArgs", path = "P/PlainCLIArgs" }
 142c1900-a1c3-58ae-a66d-b187f9ca6423 = { name = "LLLplus", path = "L/LLLplus" }
+142f39e9-ef93-42e3-b199-458fb82151e7 = { name = "QUBODecomposition", path = "Q/QUBODecomposition" }
 144146ce-868b-5e43-9e5b-0e94f26a569f = { name = "Qutilities", path = "Q/Qutilities" }
 1441a9f6-6a74-5418-a591-cdf1d78a07f0 = { name = "StateSpaceReconstruction", path = "S/StateSpaceReconstruction" }
 14449d2b-fe24-5956-b2b8-c5884298dc57 = { name = "zig_jll", path = "jll/Z/zig_jll" }
@@ -1587,6 +1588,7 @@ some amount of consideration when choosing package names.
 1b112299-d6bc-44e2-912a-478f25731460 = { name = "Kelpie", path = "K/Kelpie" }
 1b19e153-50d3-4699-8064-93bcb9fb4fba = { name = "KroneckerProducts", path = "K/KroneckerProducts" }
 1b20ab03-d99d-403f-8d72-12834f328db8 = { name = "StaticDictTrees", path = "S/StaticDictTrees" }
+1b238080-9255-4fe9-b224-89eb24efe93b = { name = "MemoizationKit", path = "M/MemoizationKit" }
 1b2cc9da-92e3-4b71-9788-30fc110eefda = { name = "CheckedSizeProduct", path = "C/CheckedSizeProduct" }
 1b2dc2e6-48aa-4f00-b8f4-19d1a71d7a0e = { name = "Pseudopotentials", path = "P/Pseudopotentials" }
 1b30fcfc-0ee9-4be2-9cfe-b2289b43e041 = { name = "LogitSamplers", path = "L/LogitSamplers" }
@@ -4561,6 +4563,7 @@ some amount of consideration when choosing package names.
 4f8305f1-6461-5f12-b534-9c962894ae19 = { name = "asdf_cxx_jll", path = "jll/A/asdf_cxx_jll" }
 4f8a0a0a-376d-5ac0-ab14-e88793df67f0 = { name = "GenomicAnnotations", path = "G/GenomicAnnotations" }
 4f8c86c6-9e40-5506-9807-98571cb48bc8 = { name = "MarketTechnicals", path = "M/MarketTechnicals" }
+4f8e0e77-6f95-4fcb-9548-1e391cbc7c20 = { name = "DependencyAudits", path = "D/DependencyAudits" }
 4f8f7498-1303-42e1-920c-5033445536df = { name = "Ghost", path = "G/Ghost" }
 4f8fbe5d-35a6-506b-99b3-b5866748635b = { name = "BoltzmannMachines", path = "B/BoltzmannMachines" }
 4f95f4f8-b27c-4ae5-9a39-ea55e634e36b = { name = "FerriteGmsh", path = "F/FerriteGmsh" }
@@ -5224,6 +5227,7 @@ some amount of consideration when choosing package names.
 5ba12469-52ae-495e-a2c1-ff3b69a1384d = { name = "BasicMesh", path = "B/BasicMesh" }
 5ba14d91-d028-496b-b148-c0fbc366f709 = { name = "Jabalizer", path = "J/Jabalizer" }
 5ba52731-8f18-5e0d-9241-30f10d1ec561 = { name = "CodecLz4", path = "C/CodecLz4" }
+5ba66956-a7ba-489c-b260-90fb8f3af39c = { name = "SMLMAnalysis", path = "S/SMLMAnalysis" }
 5bab7191-041a-5c2e-a744-024b9c3a5062 = { name = "SPICE", path = "S/SPICE" }
 5bb2324b-4f8a-4227-8185-e835854b0a1e = { name = "CUBScout", path = "C/CUBScout" }
 5bb4b094-0818-496d-ae94-fd777e10e8ba = { name = "StippleTable", path = "S/StippleTable" }
@@ -7101,6 +7105,7 @@ some amount of consideration when choosing package names.
 7b5053f5-1407-4cb9-9ce0-e1149904b77e = { name = "QuantumDynamicsCLI", path = "Q/QuantumDynamicsCLI" }
 7b5c3b30-84a4-4b07-a630-c21dc8c95940 = { name = "EEGPlot", path = "E/EEGPlot" }
 7b5e9987-6321-4ad2-a98c-8fb2c158333b = { name = "JuliaCheck", path = "J/JuliaCheck" }
+7b662be2-3602-4bf9-b859-13b2e88448f1 = { name = "CorvusJsonSchema", path = "C/CorvusJsonSchema" }
 7b67a8d2-c4f5-4933-b91c-0fc427024db5 = { name = "PRISMA", path = "P/PRISMA" }
 7b7b8358-b45c-48ea-a8ef-7ca328ad328f = { name = "MLJFlow", path = "M/MLJFlow" }
 7b7e2762-91da-41e0-bafb-402c485bb3fe = { name = "MermaidCallGraph", path = "M/MermaidCallGraph" }
@@ -8484,6 +8489,7 @@ some amount of consideration when choosing package names.
 941572e2-79a6-4ec3-8380-7ad5c8caa571 = { name = "AssignTaxonomy", path = "A/AssignTaxonomy" }
 94167541-0a4e-5fbf-aeea-474b87c587e3 = { name = "LCIO", path = "L/LCIO" }
 9417aab8-0bea-54fa-920e-1be37e111af1 = { name = "mmtk_julia_jll", path = "jll/M/mmtk_julia_jll" }
+941ca69c-4b42-4a27-9601-abc4d37bf99e = { name = "KiteGeometry", path = "K/KiteGeometry" }
 9427e74d-4e05-59c1-8ff3-7d74b6e52ac8 = { name = "libsamplerate_jll", path = "jll/L/libsamplerate_jll" }
 94295238-5935-5bd7-bb0f-b00942e9bdd5 = { name = "libigc_jll", path = "jll/L/libigc_jll" }
 94395366-693c-11ea-3b26-d9b7aac5d958 = { name = "ParallelStencil", path = "P/ParallelStencil" }
@@ -9072,6 +9078,7 @@ some amount of consideration when choosing package names.
 9f1bac23-581c-4ebc-bd36-df60d764636d = { name = "WoodburyFactorizations", path = "W/WoodburyFactorizations" }
 9f24bdcd-220e-43b5-8e6d-85812fd68fcf = { name = "DailyTreasuryYieldCurve", path = "D/DailyTreasuryYieldCurve" }
 9f277440-d667-11ea-33e8-3d6042182d56 = { name = "StackedHourglass", path = "S/StackedHourglass" }
+9f306d03-dd66-4e92-980c-0d66fd852725 = { name = "ReplExit", path = "R/ReplExit" }
 9f3a1415-1112-405b-ae89-c61daf9872bd = { name = "WasmTarget", path = "W/WasmTarget" }
 9f3a37f9-d498-4265-a124-3ae3e9ff3acf = { name = "GENeSYSMOD", path = "G/GENeSYSMOD" }
 9f4c04fe-aef9-11e9-18a8-b5ce91034548 = { name = "Biomodelling", path = "B/Biomodelling" }
