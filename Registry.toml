@@ -253,6 +253,7 @@ some amount of consideration when choosing package names.
 0468d222-5c00-46b0-98db-2efb25d65330 = { name = "ThermoProbe", path = "T/ThermoProbe" }
 046f749b-9c1e-43ca-86bc-6902340f753e = { name = "AcousticMetrics", path = "A/AcousticMetrics" }
 046fc0e8-debb-562a-987b-147c85b24435 = { name = "FastTree_jll", path = "jll/F/FastTree_jll" }
+0478ce59-e586-55af-83e7-894d8531a7d3 = { name = "CasADiSWIG_jll", path = "jll/C/CasADiSWIG_jll" }
 048039a2-5e1a-11e9-0eb6-5da22298fca4 = { name = "StochasticSemiDiscretizationMethod", path = "S/StochasticSemiDiscretizationMethod" }
 04817c1b-d144-45a3-9064-590db4858c82 = { name = "EnergyFlow", path = "E/EnergyFlow" }
 048c718f-54a7-45b2-94ea-30214ee46b03 = { name = "Silico", path = "S/Silico" }
@@ -922,6 +923,7 @@ some amount of consideration when choosing package names.
 0ff47ea0-7a50-410d-8455-4348d5de0420 = { name = "PlutoLinks", path = "P/PlutoLinks" }
 0ff47ea0-7a50-410d-8455-4348d5de0774 = { name = "PlutoHooks", path = "P/PlutoHooks" }
 100727de-7a56-4b5d-9379-46eb10e23cf1 = { name = "CarouselGreedy", path = "C/CarouselGreedy" }
+100744f9-5cbb-42a9-938e-f15a20f71997 = { name = "ThreadTeams", path = "T/ThreadTeams" }
 100d92e6-c477-5236-9e74-205fcab5fd63 = { name = "LorentzDrudeMetals", path = "L/LorentzDrudeMetals" }
 100deb6c-4418-4b77-ad5c-a1fadb580743 = { name = "LWFBrook90", path = "L/LWFBrook90" }
 100fd195-2f51-49a3-864c-eaaf5f23bc5e = { name = "BlockMatching", path = "B/BlockMatching" }
@@ -3744,6 +3746,7 @@ some amount of consideration when choosing package names.
 411772af-e49e-49ed-af28-686d52595cd1 = { name = "QuantumTransport", path = "Q/QuantumTransport" }
 41177cfe-c387-11e9-2806-edd030e4594e = { name = "MaxPlus", path = "M/MaxPlus" }
 411c8731-a39f-4a7d-8b26-fcc9fee4eb7b = { name = "Adjacently", path = "A/Adjacently" }
+411fd99a-28e7-49b1-8433-4b90c1ef5e5e = { name = "PCXFiles", path = "P/PCXFiles" }
 412afcf0-3ec6-4826-be17-8d792afa05a8 = { name = "BatchQuadraticModels", path = "B/BatchQuadraticModels" }
 412c778c-4733-41d8-b706-9e072557ba34 = { name = "Ket", path = "K/Ket" }
 412cc100-f440-45a8-9ec7-153ed5111422 = { name = "PackageStates", path = "P/PackageStates" }
@@ -4836,6 +4839,7 @@ some amount of consideration when choosing package names.
 545525a2-e20e-568b-b87f-b40a06098995 = { name = "SLICOT_jll", path = "jll/S/SLICOT_jll" }
 54578032-b7ea-4c30-94aa-7cbd1cce6c9a = { name = "ADNLPModels", path = "A/ADNLPModels" }
 545c379f-4ec2-4339-9aea-38f2fb6a8ba2 = { name = "RegressionFormulae", path = "R/RegressionFormulae" }
+545cc770-a0cd-418c-9705-d15e859ed411 = { name = "DielectricBIE", path = "D/DielectricBIE" }
 546b0b6d-9ca3-5ba2-8705-1bc1841d8479 = { name = "X11_jll", path = "jll/X/X11_jll" }
 546b680c-e627-4c75-86f8-7ef2c81e5d51 = { name = "InteractModels", path = "I/InteractModels" }
 546ecb9f-27b9-4a3e-acea-6784bee00edb = { name = "StepwiseRegression", path = "S/StepwiseRegression" }
@@ -4899,6 +4903,7 @@ some amount of consideration when choosing package names.
 55802ec2-189d-45e6-a786-b4d97e4775f1 = { name = "Plaice", path = "P/Plaice" }
 558ad2b7-f92e-50c4-8d35-b0432ac1efd4 = { name = "tmux_jll", path = "jll/T/tmux_jll" }
 558b8e20-7ada-43ad-ad6f-3f1590d8955d = { name = "SymmetricPolynomials", path = "S/SymmetricPolynomials" }
+558e5959-a03a-436b-94f7-146276c179e6 = { name = "ReplicaExchangeTutorial", path = "R/ReplicaExchangeTutorial" }
 558fcde3-b420-4fcf-b6fa-fc874c7e75b7 = { name = "KitePodSimulator", path = "K/KitePodSimulator" }
 559328eb-81f9-559d-9380-de523a88c83c = { name = "FriBidi_jll", path = "jll/F/FriBidi_jll" }
 55939f99-70c6-5e9b-8bb0-5071ed7d61fd = { name = "DecFP", path = "D/DecFP" }
@@ -10222,6 +10227,7 @@ b1e5a2b9-85de-45c7-a260-4d8dda977783 = { name = "StyledTables", path = "S/Styled
 b1eed063-bea0-4e2a-bcc5-a02b2b0a7b77 = { name = "Sensemakr", path = "S/Sensemakr" }
 b1f22607-7830-5ceb-9a8e-05ab1ac77008 = { name = "GeoEfficiency", path = "G/GeoEfficiency" }
 b1f25513-c649-51ee-8a1c-0e98d01ae897 = { name = "CausalityToolsBase", path = "C/CausalityToolsBase" }
+b1f6c1e2-4a83-4c5f-9d2e-7c3a1e5b8f10 = { name = "CompactLES", path = "C/CompactLES" }
 b1f7610d-5a93-432d-98bb-b43418e401fd = { name = "LatentClassAnalysis", path = "L/LatentClassAnalysis" }
 b1f7923c-d51d-4579-ab8a-a2c065887959 = { name = "DaprProto", path = "D/DaprProto" }
 b2006b37-55ff-435a-8315-85b740c3fe01 = { name = "TrixiData", path = "T/TrixiData" }
