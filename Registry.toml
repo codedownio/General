@@ -1051,6 +1051,7 @@ some amount of consideration when choosing package names.
 12289b5d-7c11-438f-92a0-e1442e5c6fa7 = { name = "DifferentialBases", path = "D/DifferentialBases" }
 12345678-1234-1234-1234-123456789012 = { name = "MoleculeScreen", path = "M/MoleculeScreen" }
 12345678-1234-1234-1234-123456789abc = { name = "MoleculeDatasets", path = "M/MoleculeDatasets" }
+1237f1af-269d-46a1-ad5b-ab7f5eece4fc = { name = "PlasmaSpecies", path = "P/PlasmaSpecies" }
 1238f2cf-6593-4d60-9aca-2f5364e49909 = { name = "Legate", path = "L/Legate" }
 123b5ccf-89cf-4973-9536-c0f20d353bb2 = { name = "HybridAStar", path = "H/HybridAStar" }
 123dc426-2d89-5057-bbad-38513e3affd8 = { name = "SymEngine", path = "S/SymEngine" }
@@ -2500,6 +2501,7 @@ some amount of consideration when choosing package names.
 2ba2d6f2-f651-5162-bda8-601e45ce5244 = { name = "ConScape", path = "C/ConScape" }
 2baef489-5d3b-4196-bdcc-c190e0714a0d = { name = "DevEnvConfig", path = "D/DevEnvConfig" }
 2bb279fe-b7da-5b2b-8ce2-4088845e51bb = { name = "ApproximateBayesianComputing", path = "A/ApproximateBayesianComputing" }
+2bb838d1-ae36-49a2-8c64-82a0acccfa93 = { name = "GCVMessagePassingRules", path = "G/GCVMessagePassingRules" }
 2bc6ee46-2158-4f5a-a720-91cb2d7cee64 = { name = "GeneFinder", path = "G/GeneFinder" }
 2bc77966-89c7-476d-a40f-269028fac4a9 = { name = "InfiniteRandomArrays", path = "I/InfiniteRandomArrays" }
 2bcd8d84-2ef9-5317-bfa0-0ed5605635ad = { name = "ImageInpainting", path = "I/ImageInpainting" }
@@ -4292,6 +4294,7 @@ some amount of consideration when choosing package names.
 4a4311fe-81ff-4bcc-86a3-5026a4bf5b9f = { name = "RecursiveTupleMath", path = "R/RecursiveTupleMath" }
 4a446bee-a8a1-53bd-a908-d1601923a297 = { name = "Monads", path = "M/Monads" }
 4a44c98a-197e-4960-8cf6-d8efe06eb844 = { name = "SentinelTiles", path = "S/SentinelTiles" }
+4a44fe3d-1ec8-44ce-8bb3-142534768756 = { name = "MiniDOAS", path = "M/MiniDOAS" }
 4a48ec48-d94f-48cc-b069-74d6d3e6e633 = { name = "Blowfish", path = "B/Blowfish" }
 4a48f351-57a6-4416-9ec4-c37015456aae = { name = "PencilFFTs", path = "P/PencilFFTs" }
 4a543033-a920-4921-b9ec-d69f25e1cf2a = { name = "ConfigurationsENV", path = "C/ConfigurationsENV" }
@@ -8148,6 +8151,7 @@ some amount of consideration when choosing package names.
 8d2ba62a-3d23-4a2b-b692-6b63e9267be2 = { name = "SpatialBoundaries", path = "S/SpatialBoundaries" }
 8d306a12-9b36-11e8-3bde-e7538e1f5b4a = { name = "Geotherm", path = "G/Geotherm" }
 8d33431a-4cd1-474f-bd1e-ccfbc4b78fb4 = { name = "MDTable", path = "M/MDTable" }
+8d34074f-262e-46e2-9f95-b1abcc740b38 = { name = "KernelDispatch", path = "K/KernelDispatch" }
 8d3555be-c6c7-539f-8b4e-403d0158b766 = { name = "RunMyNotes", path = "R/RunMyNotes" }
 8d35fa01-733e-4c31-a932-545268b5cf98 = { name = "RealLabelNormalization", path = "R/RealLabelNormalization" }
 8d37c425-f37a-4ca2-9b9d-a61bc06559d2 = { name = "OddEvenIntegers", path = "O/OddEvenIntegers" }
@@ -9828,6 +9832,7 @@ ab2214a1-3e65-5759-b805-15fb2da50eb2 = { name = "LLVM_unified_jll", path = "jll/
 ab2e6513-8582-4355-97c5-84ec58029ba0 = { name = "Coils", path = "C/Coils" }
 ab2f91bb-94b4-55e3-9ba0-7f65df51de79 = { name = "OSQP", path = "O/OSQP" }
 ab320bfc-8242-4797-bfc4-9370c33880e7 = { name = "CaratheodoryPruning", path = "C/CaratheodoryPruning" }
+ab421cc8-e01b-5675-99c3-7bb45ba48198 = { name = "ThresholdFreeClusterEnhancement", path = "T/ThresholdFreeClusterEnhancement" }
 ab46f4a3-3c83-4d86-98d6-41a8b1a2e76e = { name = "AsteroidThermoPhysicalModels", path = "A/AsteroidThermoPhysicalModels" }
 ab46fb84-d57c-11e9-2f65-6f72e4a7229f = { name = "DensityRatioEstimation", path = "D/DensityRatioEstimation" }
 ab49173f-ff2e-4091-9f72-02325fb05285 = { name = "InlineDispatch", path = "I/InlineDispatch" }
