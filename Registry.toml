@@ -14,6 +14,7 @@ some amount of consideration when choosing package names.
 00000000-0000-4000-b000-202512210000 = { name = "Swizzling", path = "S/Swizzling" }
 00000000-1111-2222-3333-444444444444 = { name = "REPLTreeViews", path = "R/REPLTreeViews" }
 0002e35e-4a6a-41c8-a2f5-6940c7e5949f = { name = "CombinatorialLinearOracles", path = "C/CombinatorialLinearOracles" }
+00038326-6c92-5172-8bc1-19e163662d45 = { name = "PTI_jll", path = "jll/P/PTI_jll" }
 0004c1f4-53c5-4d43-a221-a1dac6cf6b74 = { name = "TuringGLM", path = "T/TuringGLM" }
 000d9b38-65fe-4c81-bdb9-69f01f102479 = { name = "BayesHistogram", path = "B/BayesHistogram" }
 000eeb74-f857-587a-a816-be5685e97e75 = { name = "KCP_jll", path = "jll/K/KCP_jll" }
@@ -576,6 +577,7 @@ some amount of consideration when choosing package names.
 09eb9df4-c16c-45e4-b3a9-061214bcee23 = { name = "Pathnames", path = "P/Pathnames" }
 09f84164-cd44-5f33-b23f-e6b0d136a0d5 = { name = "HypothesisTests", path = "H/HypothesisTests" }
 09fca1fe-24f1-4998-9231-7de1d0d75c53 = { name = "Poietikes", path = "P/Poietikes" }
+09fd284b-e7b0-4fba-b41f-c39527135ddd = { name = "SNOPT", path = "S/SNOPT" }
 0a04e04c-3d81-46c0-89a4-d6cdbba47ab1 = { name = "VTKLegacy", path = "V/VTKLegacy" }
 0a077753-09e0-5213-973e-a9bab7f4efc7 = { name = "systemtap_jll", path = "jll/S/systemtap_jll" }
 0a079e9b-4bc2-44fe-a89b-7607e4464786 = { name = "FinSetsForCAP", path = "F/FinSetsForCAP" }
@@ -5729,6 +5731,7 @@ some amount of consideration when choosing package names.
 639c3291-70d9-5ea2-8c5b-839eba1ee399 = { name = "RecurrenceAnalysis", path = "R/RecurrenceAnalysis" }
 639d9495-0bf7-4cd9-80c6-a19f5ec6f406 = { name = "MotifPvalue", path = "M/MotifPvalue" }
 63a0b508-f74a-48f7-b6e7-0e65849b0078 = { name = "VelocityDistributionFunctions", path = "V/VelocityDistributionFunctions" }
+63a367eb-b716-5c6d-88c3-bdf69be87e75 = { name = "USDBrep_jll", path = "jll/U/USDBrep_jll" }
 63a9268e-b9e5-4a07-aba6-1f52d4878f75 = { name = "BinBencherBackend", path = "B/BinBencherBackend" }
 63b6304e-8562-42bf-81d2-e51868ec1191 = { name = "MoleculeDock", path = "M/MoleculeDock" }
 63b9b590-f22f-4e79-810f-ea9ba6849c26 = { name = "BuildConstructors", path = "B/BuildConstructors" }
@@ -9020,6 +9023,7 @@ some amount of consideration when choosing package names.
 9d82fc85-3a26-5878-8296-eaade0189704 = { name = "code_server_jll", path = "jll/C/code_server_jll" }
 9d84c17e-11f2-50ef-8cc9-e9701362097f = { name = "xrootdgo_jll", path = "jll/X/xrootdgo_jll" }
 9d8b7fda-1049-58bc-9481-071a9f369938 = { name = "SpikingNeuralNetworks", path = "S/SpikingNeuralNetworks" }
+9d8c294e-5560-5f71-915d-6f08fd7b9904 = { name = "cclipper2_jll", path = "jll/C/cclipper2_jll" }
 9d95972d-f1c8-5527-a6e0-b4b365fa01f6 = { name = "TupleTools", path = "T/TupleTools" }
 9d95f2ec-7b3d-5a63-8d20-e2491e220bb9 = { name = "TypedTables", path = "T/TypedTables" }
 9d9a57f5-5434-4194-99f6-8bfcf011f0e1 = { name = "BenchmarkingEconomicEfficiency", path = "B/BenchmarkingEconomicEfficiency" }
@@ -9094,6 +9098,7 @@ some amount of consideration when choosing package names.
 9eb8d32e-48e1-486a-8aed-3d24e9b2252a = { name = "Biplots", path = "B/Biplots" }
 9ec180c6-1c07-47c7-9e6e-ebefa4d1f6d0 = { name = "CUDATools", path = "C/CUDATools" }
 9ec1d169-1b02-4ed6-9618-ff21f43ad569 = { name = "GridapROMs", path = "G/GridapROMs" }
+9ec30f26-5bd5-453c-9fb9-4a291198e4b8 = { name = "SequentialABC", path = "S/SequentialABC" }
 9ec6771f-e08b-47bc-92e5-dcad4d5f32bd = { name = "JQuants", path = "J/JQuants" }
 9ec6d097-1036-44b0-a6be-6d8b59e15e3f = { name = "TruthTables", path = "T/TruthTables" }
 9ec9aee3-0fd3-44c2-8e61-a50acc66f3c8 = { name = "HypercubeTransform", path = "H/HypercubeTransform" }
@@ -11883,6 +11888,7 @@ ce851869-0d7a-41e7-95ef-2d4cb63876dd = { name = "LibAwsHTTP", path = "L/LibAwsHT
 ce8c2e91-a970-4681-856b-16178c24a30c = { name = "QUBO", path = "Q/QUBO" }
 ce91de38-7578-4b98-aebb-6a5df05791d6 = { name = "ColorBitstring", path = "C/ColorBitstring" }
 ce943373-25bb-56aa-8eca-768745ed7b5a = { name = "Qt6ShaderTools_jll", path = "jll/Q/Qt6ShaderTools_jll" }
+ce9b04da-6a94-4a97-978a-34bf3f916ed2 = { name = "QUBOPreprocessing", path = "Q/QUBOPreprocessing" }
 cea106d9-e007-5e6c-ad93-58fe2094e9c4 = { name = "Syslogs", path = "S/Syslogs" }
 cea1eb01-d516-5656-afa4-379b7edbcf9a = { name = "H5Zbzip2C_jll", path = "jll/H/H5Zbzip2C_jll" }
 ceb4388c-583f-448d-bb30-00b11e8c5682 = { name = "IsURL", path = "I/IsURL" }
