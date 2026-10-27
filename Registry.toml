@@ -488,6 +488,7 @@ some amount of consideration when choosing package names.
 08437348-eef5-4817-bc1b-d4e9459680d6 = { name = "AutoMLPipeline", path = "A/AutoMLPipeline" }
 0843a435-28de-4971-9e8b-a9641b2983a8 = { name = "YaoAPI", path = "Y/YaoAPI" }
 084d9603-a20b-479c-b400-a9298a0cdd15 = { name = "PrettyDoc", path = "P/PrettyDoc" }
+084d9f33-8b05-4903-a655-8a8c4926d033 = { name = "RANSACScoringDoneRight", path = "R/RANSACScoringDoneRight" }
 084e46ad-d928-497d-ad5e-07fa361a48c4 = { name = "SIAMFANLEquations", path = "S/SIAMFANLEquations" }
 085180c5-06a8-45e0-97f1-b06875346562 = { name = "Collide", path = "C/Collide" }
 08558c22-525a-5d2a-acf6-0ac6658ffce4 = { name = "libsvm_jll", path = "jll/L/libsvm_jll" }
@@ -607,6 +608,7 @@ some amount of consideration when choosing package names.
 0a60894c-bde1-5a72-bbe5-9f45bee4e041 = { name = "Metatensor_jll", path = "jll/M/Metatensor_jll" }
 0a65194f-a16f-47d0-900e-080c22068669 = { name = "PETScDiffEq", path = "P/PETScDiffEq" }
 0a755509-c5b1-5d6f-9b24-59bcda3c37a3 = { name = "ProximalBase", path = "P/ProximalBase" }
+0a7ae7e7-e931-45f8-9bba-03d07899cebc = { name = "VisualGeometryToolkitIO", path = "V/VisualGeometryToolkitIO" }
 0a7c0d76-3150-4455-b428-d5f420c13001 = { name = "BiBufferedStreams", path = "B/BiBufferedStreams" }
 0a7d04aa-8ac2-47b3-b7a7-9dbd6ad661ed = { name = "PRIMA", path = "P/PRIMA" }
 0a7d185b-be57-59df-ac21-86d8a1799c2e = { name = "JuliaPetra", path = "J/JuliaPetra" }
@@ -3305,6 +3307,7 @@ some amount of consideration when choosing package names.
 39099a2c-f609-41b4-99c2-62ec6735b6c9 = { name = "Consensus", path = "C/Consensus" }
 390bdf5b-b624-43dc-a846-0ef7a3405804 = { name = "RustyIceberg", path = "R/RustyIceberg" }
 390f8997-1984-4152-8b9b-a98aeeeff9d0 = { name = "LogFixPoint16s", path = "L/LogFixPoint16s" }
+3913dba9-7ba9-44aa-bf76-1cfa3b3073b1 = { name = "JuliaIR", path = "J/JuliaIR" }
 391672e0-bbe4-4ab4-8bc9-b89a79cbc2f0 = { name = "CallableExpressions", path = "C/CallableExpressions" }
 391af1a9-06f1-59d3-8d21-0be089654739 = { name = "Spectra", path = "S/Spectra" }
 39204792-bc26-423a-8bcf-54c03468b271 = { name = "BioDemultiplexer", path = "B/BioDemultiplexer" }
@@ -9111,6 +9114,7 @@ some amount of consideration when choosing package names.
 9e812ceb-42a3-473a-b295-b8bb2099a8ce = { name = "MaximumIndependentSet", path = "M/MaximumIndependentSet" }
 9e818040-a151-11e9-0cac-43033c89f788 = { name = "LightGraphsGraphBLAS", path = "L/LightGraphsGraphBLAS" }
 9e84b91c-71b0-5f24-acdc-49dbe8049396 = { name = "ReferenceBLAS32_jll", path = "jll/R/ReferenceBLAS32_jll" }
+9e860214-f2ad-4555-bfb7-966779f9bcb1 = { name = "AShareCostDistributions", path = "A/AShareCostDistributions" }
 9e8cae18-63c1-5223-a75c-80ca9d6e9a09 = { name = "Oceananigans", path = "O/Oceananigans" }
 9e8d69f6-009b-4290-9624-9f9a175b876d = { name = "FresnelEquations", path = "F/FresnelEquations" }
 9e90bdc5-3073-4e0f-a275-e19f28ac1b53 = { name = "CoolPDLP", path = "C/CoolPDLP" }
@@ -11404,6 +11408,7 @@ c5292f4c-5179-55e1-98c5-05642aab7184 = { name = "ResumableFunctions", path = "R/
 c52b6589-6b5d-587d-9bb5-adf8a44d3946 = { name = "OpenAL_jll", path = "jll/O/OpenAL_jll" }
 c52c1a26-f7c5-402b-80be-ba1e638ad478 = { name = "LaplaceRedux", path = "L/LaplaceRedux" }
 c52da81f-be52-5037-84d3-8e736894460a = { name = "JIL_jll", path = "jll/J/JIL_jll" }
+c52e38e0-a033-47df-8a03-a6c4ac881830 = { name = "HyperFEMKernels", path = "H/HyperFEMKernels" }
 c52e3926-4ff0-5f6e-af25-54175e0327b1 = { name = "Atom", path = "A/Atom" }
 c53206cc-00f7-50bf-ad1e-3ae1f6e49bc3 = { name = "argp_standalone_jll", path = "jll/A/argp_standalone_jll" }
 c5384bee-8a12-426e-bc63-175ec2f1897e = { name = "SASLMR", path = "S/SASLMR" }
