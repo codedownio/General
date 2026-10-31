@@ -862,6 +862,7 @@ some amount of consideration when choosing package names.
 0ea325ba-5c5f-496b-acec-8be67510f465 = { name = "RealPolyhedralHomotopy", path = "R/RealPolyhedralHomotopy" }
 0ea32739-31af-43e6-82ee-ebe6dcf00a6f = { name = "LowRankOps", path = "L/LowRankOps" }
 0ea44823-1ff1-5b9a-8293-5fd55a38e746 = { name = "LCMCore", path = "L/LCMCore" }
+0ea51165-c653-4238-a0d0-9f17b22f6dfe = { name = "Homogeneity", path = "H/Homogeneity" }
 0eb812ee-a11f-4f5e-b8d4-bb8a44f06f50 = { name = "Gabs", path = "G/Gabs" }
 0eb8d820-af6a-4919-95ae-11206f830c31 = { name = "Pigeons", path = "P/Pigeons" }
 0eb9048c-21de-4c7a-bfac-056de1940b74 = { name = "Algoim", path = "A/Algoim" }
@@ -1320,6 +1321,7 @@ some amount of consideration when choosing package names.
 16b38df6-6461-4cca-a131-658d59dc04ab = { name = "ModiaPlot_WGLMakie", path = "M/ModiaPlot_WGLMakie" }
 16bb567d-e57a-496c-929a-1ee5ec86e21d = { name = "ModiaPlot_GLMakie", path = "M/ModiaPlot_GLMakie" }
 16c52a8d-d77f-496f-9be6-47c8df57b84b = { name = "AutomationLabs", path = "A/AutomationLabs" }
+16dc48d6-ba94-4448-aa2d-4d14f88e6f7d = { name = "IconTools", path = "I/IconTools" }
 16ddad29-bbe8-45a7-857d-3d9514eb0023 = { name = "RAGTools", path = "R/RAGTools" }
 16de62c6-7569-4410-9c3f-4d5d9d54e565 = { name = "MPISharedMemLUs", path = "M/MPISharedMemLUs" }
 16e07271-a41c-4e3e-b73a-b807cf2ea0eb = { name = "PlutoStyles", path = "P/PlutoStyles" }
@@ -3634,6 +3636,7 @@ some amount of consideration when choosing package names.
 3e6f9545-655e-4d7e-8b6b-631613c5ed1f = { name = "Balloons", path = "B/Balloons" }
 3e748fe5-cd7f-4615-8419-3159287187d2 = { name = "FMISensitivity", path = "F/FMISensitivity" }
 3e762ff9-b8d8-45cf-a902-edcbc7124e71 = { name = "Atomistic", path = "A/Atomistic" }
+3e76a6d5-f1ed-43d7-92cb-456a492121d6 = { name = "Briareus", path = "B/Briareus" }
 3e7891d3-c9d1-416a-9949-ebd96150e4f0 = { name = "RandomizedPreconditioners", path = "R/RandomizedPreconditioners" }
 3e78a19a-cc83-51d8-955b-515f39fd7955 = { name = "Bukdu", path = "B/Bukdu" }
 3e7d7328-36f8-4388-bd01-4613c92c7370 = { name = "PredictMD", path = "P/PredictMD" }
@@ -5432,6 +5435,7 @@ some amount of consideration when choosing package names.
 5dde4c60-e15a-59a1-8194-93aa09eef4ab = { name = "lapackpp_jll", path = "jll/L/lapackpp_jll" }
 5de1e908-2f08-45bf-a571-ac88a54f7e7f = { name = "NeuralNetworkReachability", path = "N/NeuralNetworkReachability" }
 5de271da-f4c9-48db-ba43-272b66d09ab8 = { name = "PyCaesar", path = "P/PyCaesar" }
+5de388b7-cc24-42d7-844b-21625f2005ef = { name = "ExaModelsIO", path = "E/ExaModelsIO" }
 5de6a177-b489-40a9-b2f4-524242b9b679 = { name = "Molecules", path = "M/Molecules" }
 5dead3b6-c9e4-435a-a292-80e2716ed6d9 = { name = "BenchmarkConfigSweeps", path = "B/BenchmarkConfigSweeps" }
 5debfaa8-cf0e-5577-9f8f-ffadd6421daa = { name = "XLA_Tools_jll", path = "jll/X/XLA_Tools_jll" }
@@ -6368,6 +6372,7 @@ some amount of consideration when choosing package names.
 6e0fd8a8-0703-4e38-9954-b94da054c472 = { name = "PQEcolaPoint", path = "P/PQEcolaPoint" }
 6e11effc-327b-571d-98e3-e12b1d1e7421 = { name = "GAP_pkg_ace_jll", path = "jll/G/GAP_pkg_ace_jll" }
 6e1301d5-4f4d-4fb5-9679-7191e22f0e0e = { name = "AutoDiffOperators", path = "A/AutoDiffOperators" }
+6e134580-676a-4416-8bb0-db5b9bd9bc08 = { name = "PlanetTools", path = "P/PlanetTools" }
 6e19019d-7c31-4940-9d16-c3f15dfe6020 = { name = "FLOWVPM", path = "F/FLOWVPM" }
 6e209a40-7ba7-48e5-b07c-698d71ff5940 = { name = "AnimalBehavior", path = "A/AnimalBehavior" }
 6e255fe7-ae48-41c3-9a63-27b032ae9e75 = { name = "RegistryTimeTraveler", path = "R/RegistryTimeTraveler" }
@@ -7834,6 +7839,7 @@ some amount of consideration when choosing package names.
 86bc3604-9858-485a-bdbe-831ec50de11d = { name = "AtmosphericProfilesLibrary", path = "A/AtmosphericProfilesLibrary" }
 86c06d3c-3f03-46de-9781-57580aa96d0a = { name = "StaticTools", path = "S/StaticTools" }
 86c4f97d-bf8b-4c1e-a6df-294a62ff2a73 = { name = "AcceleratedRPCholesky", path = "A/AcceleratedRPCholesky" }
+86c88899-11c8-4b8e-8d7a-f01a8ab99b28 = { name = "VisualGeometryToolkitEval", path = "V/VisualGeometryToolkitEval" }
 86cd37e6-c0ff-550b-95fe-21d72c8d4fc9 = { name = "OpenStreetMapX", path = "O/OpenStreetMapX" }
 86ddda40-0562-5640-9cf4-1268408005c8 = { name = "libtirpc_jll", path = "jll/L/libtirpc_jll" }
 86de8297-835b-47df-b249-c04e8db91db5 = { name = "RadonKA", path = "R/RadonKA" }
@@ -8287,6 +8293,7 @@ some amount of consideration when choosing package names.
 8efc31e9-3fb0-4277-b18c-5a3d5d07abad = { name = "SplittableRandoms", path = "S/SplittableRandoms" }
 8f03c58b-bd97-4933-a826-f71b64d2cca2 = { name = "Effects", path = "E/Effects" }
 8f0b679f-44a1-4a38-8011-253e3a78fd39 = { name = "TidierText", path = "T/TidierText" }
+8f0c9a34-6c1e-4f7b-9d2a-3e5b7c1d9f42 = { name = "EarthSciASTDiff", path = "E/EarthSciASTDiff" }
 8f0d3306-d70b-5309-b898-24bb6ab47850 = { name = "DocumentationGenerator", path = "D/DocumentationGenerator" }
 8f1571ae-b3a1-52af-8ab1-32258739efdb = { name = "StanMCMCChain", path = "S/StanMCMCChain" }
 8f16cebd-c0b4-44a3-857f-c101f083256c = { name = "AquaCrop", path = "A/AquaCrop" }
@@ -14124,6 +14131,7 @@ f531010a-71ee-5b11-8e71-2f13f29d8a82 = { name = "LibYAML_jll", path = "jll/L/Lib
 f535d66d-59bb-5153-8d2b-ef0a426c6aff = { name = "ROCAnalysis", path = "R/ROCAnalysis" }
 f53aee1f-40be-4d16-bc74-7d339eee78ec = { name = "PuiseuxPolynomials", path = "P/PuiseuxPolynomials" }
 f53c5859-8f70-4782-8aac-8d69ad6f55c5 = { name = "VQC", path = "V/VQC" }
+f53e9f04-3b75-5e08-97db-1ec3db704779 = { name = "HelloWorldCUDA_jll", path = "jll/H/HelloWorldCUDA_jll" }
 f54230f2-59b2-4302-b09c-f9f04c8b5500 = { name = "PTColors", path = "P/PTColors" }
 f5425a1d-c389-4276-87b1-4aa2dfb12528 = { name = "Hurst", path = "H/Hurst" }
 f5484d8f-70ea-4f9b-aeb6-8bd66abb6736 = { name = "CausalMediation", path = "C/CausalMediation" }
