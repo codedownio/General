@@ -1264,6 +1264,7 @@ some amount of consideration when choosing package names.
 1599bd91-74fb-4c27-8c45-ca87281f2b07 = { name = "TracedSample", path = "T/TracedSample" }
 159f3aea-2a34-519c-b102-8c37f9878175 = { name = "Cairo", path = "C/Cairo" }
 15a4fa57-098d-5a77-b233-4f9ba1cdf842 = { name = "LowLevelFloatFunctions", path = "L/LowLevelFloatFunctions" }
+15a95800-2d86-4c02-ab0d-b887130f60ac = { name = "H2Factory", path = "H/H2Factory" }
 15ac8fbd-cb39-4be8-bb90-8f74d06af8f8 = { name = "Coordinates", path = "C/Coordinates" }
 15bad361-1dfa-5a14-8210-7c6791966b1c = { name = "DockerSandbox", path = "D/DockerSandbox" }
 15c74807-6cb5-473c-8677-542c31c16277 = { name = "E4ST", path = "E/E4ST" }
@@ -4899,6 +4900,7 @@ some amount of consideration when choosing package names.
 54bcf1c8-e61d-4e4f-b375-463581846cca = { name = "ZarrZip", path = "Z/ZarrZip" }
 54ca160b-1b9f-5127-a996-1867f4bc2a2c = { name = "ODEInterface", path = "O/ODEInterface" }
 54ca2031-c8dd-5cab-9ed4-295edde1660f = { name = "Gdbm_jll", path = "jll/G/Gdbm_jll" }
+54d4ec63-6df0-448b-bd74-e1b9ab51cc02 = { name = "Apollonius", path = "A/Apollonius" }
 54d51984-71c9-52bd-8df9-6718e63e4153 = { name = "HeaderREPLs", path = "H/HeaderREPLs" }
 54d963ed-1681-434b-92d2-200df9375a55 = { name = "ThermovisorImages", path = "T/ThermovisorImages" }
 54dcf436-342f-53ea-8005-3708a1ae6c8c = { name = "SIFDecode_jll", path = "jll/S/SIFDecode_jll" }
@@ -5791,6 +5793,7 @@ some amount of consideration when choosing package names.
 6407cd72-fade-4a84-8a1e-56e431fc1533 = { name = "GroupedArrays", path = "G/GroupedArrays" }
 6410b9bd-72f2-532f-9386-433801972073 = { name = "Cameras", path = "C/Cameras" }
 6413a62a-abe4-4af6-86c3-5403bf7fb405 = { name = "Transliterate", path = "T/Transliterate" }
+6416e0ca-af8c-44ef-9b80-2db8f8db70be = { name = "QMThermoProperties", path = "Q/QMThermoProperties" }
 641982cc-88f5-4d80-bec4-e68c6a8af0a5 = { name = "ReactantNitro", path = "R/ReactantNitro" }
 64228516-68de-4e23-8112-6940bc1970d1 = { name = "Norg", path = "N/Norg" }
 6422fedd-75a7-50c2-a7c3-a11dad25a896 = { name = "CyrusSASL_jll", path = "jll/C/CyrusSASL_jll" }
@@ -9746,6 +9749,7 @@ a8b11937-1041-50f2-9818-136bb7a8fb06 = { name = "OpenDSSDirect", path = "O/OpenD
 a8b33d9f-0f8b-5197-9986-f85cbaa50c6c = { name = "GDB_jll", path = "jll/G/GDB_jll" }
 a8c63e1a-51a3-4393-8cc1-c539063cb104 = { name = "QuantumFoca", path = "Q/QuantumFoca" }
 a8c67e1a-51a8-4393-8cc1-c530063cb104 = { name = "OohataHuzinaga", path = "O/OohataHuzinaga" }
+a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
 a8cb73c1-6ac8-4a70-8c57-09fe1bc7c59b = { name = "TestTools", path = "T/TestTools" }
 a8cc5b0e-0ffa-5ad4-8c14-923d3ee1735f = { name = "Crayons", path = "C/Crayons" }
 a8cc9031-bad2-4722-94f5-40deabb4245c = { name = "CUSOLVERRF", path = "C/CUSOLVERRF" }
@@ -10664,6 +10668,7 @@ b86e32d1-1d4d-4472-88d2-1980e9d19c92 = { name = "DerivableFunctions", path = "D/
 b86e33f2-c0db-4aa1-a6e0-ab43e668529e = { name = "FFTA", path = "F/FFTA" }
 b87178c0-1e03-5bfb-8a01-b03b192b63a7 = { name = "libbensolve_jll", path = "jll/L/libbensolve_jll" }
 b873ce64-0db9-51f5-a568-4457d8e49576 = { name = "ReplMaker", path = "R/ReplMaker" }
+b88181ae-ea14-454d-86f5-551fa9bf344b = { name = "PLSKit", path = "P/PLSKit" }
 b8827193-453e-47cb-8319-1562ac79a546 = { name = "Sqlite3Stats", path = "S/Sqlite3Stats" }
 b8865327-cd53-5732-bb35-84acbb429228 = { name = "UnicodePlots", path = "U/UnicodePlots" }
 b886a573-0f84-4e1e-bf4c-dbf643e19b24 = { name = "LopShelve", path = "L/LopShelve" }
