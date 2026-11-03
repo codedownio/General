@@ -2253,6 +2253,7 @@ some amount of consideration when choosing package names.
 272ec1bc-a4ae-432f-97b3-2d7012153326 = { name = "Tardigrade", path = "T/Tardigrade" }
 2737ff73-0d59-47a5-9105-cfa0dee446ca = { name = "RationalGenerators", path = "R/RationalGenerators" }
 274281c4-ae57-11e9-2014-65d3d5d9358c = { name = "MIRTio", path = "M/MIRTio" }
+27459d3e-0914-41cf-82e2-9495bb7270ba = { name = "BriareusGUI", path = "B/BriareusGUI" }
 27459e48-f83e-40a1-9b04-5e43823e0701 = { name = "SpaceInvaders", path = "S/SpaceInvaders" }
 274955c0-c284-5bf7-b122-5ecd51c559de = { name = "MusicManipulations", path = "M/MusicManipulations" }
 2749762c-80ed-4b14-8f33-f0736679b02b = { name = "SparseVariables", path = "S/SparseVariables" }
@@ -7620,6 +7621,7 @@ some amount of consideration when choosing package names.
 8294860b-85a6-42f8-8c35-d911f667b5f6 = { name = "DiffUtils", path = "D/DiffUtils" }
 8296b526-8b84-45d3-81d6-36727ca56808 = { name = "HistogramBinnings", path = "H/HistogramBinnings" }
 82994860-12e5-56b1-9971-c34819be692e = { name = "libclangex_jll", path = "jll/L/libclangex_jll" }
+82ae8496-443a-4292-ae20-d7c088f3d720 = { name = "TwoWayFEWeights", path = "T/TwoWayFEWeights" }
 82ae8749-77ed-4fe6-ae5f-f523153014b0 = { name = "StatsAPI", path = "S/StatsAPI" }
 82b01fb5-7eeb-4559-83ea-8d75f85d4328 = { name = "Masque", path = "M/Masque" }
 82b139dc-5afc-11e9-35da-9b9bdfd336f3 = { name = "VoronoiFVM", path = "V/VoronoiFVM" }
@@ -10399,6 +10401,7 @@ b3798467-87dc-4d99-943d-35a1bd39e395 = { name = "ConstrainedShortestPaths", path
 b37bcd2d-1570-475d-a8c6-9b4fae6d0ba9 = { name = "LoadAllPackages", path = "L/LoadAllPackages" }
 b37d3d51-cc38-4fad-93cd-e6859934553f = { name = "Semicoroutines", path = "S/Semicoroutines" }
 b383313e-5450-4164-a800-befbd27b574d = { name = "DifferentiableFrankWolfe", path = "D/DifferentiableFrankWolfe" }
+b3887540-ec62-4a62-8c6b-d8ae1b2610d9 = { name = "MMProps", path = "M/MMProps" }
 b38b52d1-0eac-4161-8266-eab412337ac4 = { name = "FishTank", path = "F/FishTank" }
 b38be410-82b0-50bf-ab77-7b57e271db43 = { name = "FreeType", path = "F/FreeType" }
 b393f0d7-2a88-4661-a564-4e2d7462f0be = { name = "Jin", path = "J/Jin" }
@@ -11040,6 +11043,7 @@ be997a16-3bf6-4821-ae3d-37ccaa1f3368 = { name = "MolecularGaussians", path = "M/
 be9b72de-c8a7-4672-afa1-cdbf18967232 = { name = "SimpleProbabilisticPrograms", path = "S/SimpleProbabilisticPrograms" }
 be9b823e-291e-41a1-b8ce-806204e78f92 = { name = "NumericalTypeAliases", path = "N/NumericalTypeAliases" }
 be9d7f57-3392-4762-97ee-7c9806ef4e00 = { name = "DataDogClient", path = "D/DataDogClient" }
+bea2e523-849f-4aa4-9f73-a075f8695e54 = { name = "SoundBank", path = "S/SoundBank" }
 bea3bcab-479e-4b6c-b047-c6cd33cd022c = { name = "SubspaceClustering", path = "S/SubspaceClustering" }
 bea87d4a-7f5b-5778-9afe-8cc45184846c = { name = "SuiteSparse_jll", path = "jll/S/SuiteSparse_jll" }
 beacd9db-9e5e-4956-9b09-459a4b2028df = { name = "DifferentiableStateSpaceModels", path = "D/DifferentiableStateSpaceModels" }
@@ -14356,6 +14360,7 @@ f961096e-11ae-497c-ad8a-ff09638a4fbf = { name = "PlateKinematics", path = "P/Pla
 f9630f5b-a116-5b0c-bd6c-4699aee17694 = { name = "ECharts", path = "E/ECharts" }
 f9640e96-87f6-5992-9c3b-0743c6a49ffa = { name = "MultiScaleArrays", path = "M/MultiScaleArrays" }
 f967765a-671f-4dab-8ad7-3d510d8fd276 = { name = "NelsonRules", path = "N/NelsonRules" }
+f967c4c4-4f02-4d5a-ae15-528dcbcbb432 = { name = "AtomBond", path = "A/AtomBond" }
 f96e3c25-ae70-5588-8d8e-4a7ab3ba4c45 = { name = "pandoc_crossref_jll", path = "jll/P/pandoc_crossref_jll" }
 f96f1e2a-1be0-483a-ac4e-37f33550e2cb = { name = "GaussianVariationalInference", path = "G/GaussianVariationalInference" }
 f96f8458-5c05-4a28-b3fd-d398aeb95222 = { name = "CalibrationAnalysis", path = "C/CalibrationAnalysis" }
