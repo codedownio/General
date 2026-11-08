@@ -673,6 +673,7 @@ some amount of consideration when choosing package names.
 0b7ba130-8d10-5ba8-a3d6-c5182647fed9 = { name = "Blosc_jll", path = "jll/B/Blosc_jll" }
 0b7cd5e2-b3f3-5fae-9080-a65912ed73e3 = { name = "Mortar2D", path = "M/Mortar2D" }
 0b829d9d-522b-4e79-acc1-14feb8e2795d = { name = "BaseInterfaces", path = "B/BaseInterfaces" }
+0b891c0b-e8e1-4e40-a495-80b72b146dae = { name = "BasisMonteCarlo", path = "B/BasisMonteCarlo" }
 0b8d6067-eb21-45e9-ba5b-895cd2a7ad38 = { name = "CropRootBox", path = "C/CropRootBox" }
 0b91fe84-8a4c-11e9-3e1d-67c38462b6d6 = { name = "DisplayAs", path = "D/DisplayAs" }
 0b99cc74-af0a-4786-be99-594ac14242a4 = { name = "Galley", path = "G/Galley" }
@@ -4151,6 +4152,7 @@ some amount of consideration when choosing package names.
 472f376f-f1cf-461b-9ac1-d103423be9b7 = { name = "LoadFlint", path = "L/LoadFlint" }
 47358f48-d834-4249-91f5-f6185eb3d540 = { name = "SPDX", path = "S/SPDX" }
 47375e4a-9c6c-4a57-8142-eadb383284c2 = { name = "GoogleLLMClient", path = "G/GoogleLLMClient" }
+473decf3-e9c7-4f22-9ee0-c022ec7ae7ef = { name = "MatFun", path = "M/MatFun" }
 474136ad-924f-47fa-9297-876420b5dc85 = { name = "PlutoMapPicker", path = "P/PlutoMapPicker" }
 4744a3fa-6c31-4707-899e-a3298e4618ad = { name = "ModelParameters", path = "M/ModelParameters" }
 474730fa-5ea9-5b8c-8629-63de62f23418 = { name = "VDT_jll", path = "jll/V/VDT_jll" }
@@ -5974,6 +5976,7 @@ some amount of consideration when choosing package names.
 670cb119-9e6b-5dfa-81ab-9d3c314fe86c = { name = "ReadWriteDlm2", path = "R/ReadWriteDlm2" }
 6710c13c-97f1-543f-91c5-74e8f7d95b35 = { name = "AutoGrad", path = "A/AutoGrad" }
 6717196d-eae9-43d0-801c-fc416e8966f6 = { name = "KernelMachines", path = "K/KernelMachines" }
+671a10c0-f9bf-59ae-b52a-dff4adda89ae = { name = "FreeBSDSysroot_jll", path = "jll/F/FreeBSDSysroot_jll" }
 671d9d50-c343-11e9-1a9c-fdd992682823 = { name = "ReplicateBE", path = "R/ReplicateBE" }
 6727f6b2-98ea-5d0a-8239-2f72283ddb11 = { name = "GibbsSeaWater_jll", path = "jll/G/GibbsSeaWater_jll" }
 672bb132-9406-42d0-9ef4-9203b0a61e9a = { name = "EnergyModelsLanguageInterfaces", path = "E/EnergyModelsLanguageInterfaces" }
@@ -6071,6 +6074,7 @@ some amount of consideration when choosing package names.
 68d949f0-74a3-5070-a3ac-aa8145b4bcaa = { name = "LocallyWeightedRegression", path = "L/LocallyWeightedRegression" }
 68db26a2-7c2b-457b-8f5d-f446513faf50 = { name = "CausalGraphs", path = "C/CausalGraphs" }
 68dbe03e-0d20-5e7f-a813-0478777dab27 = { name = "Lilv_jll", path = "jll/L/Lilv_jll" }
+68e2cc15-9a9a-4af3-b17a-31beebd0b9a9 = { name = "LazyCategories", path = "L/LazyCategories" }
 68e3532b-a499-55ff-9963-d1c0c0748b3a = { name = "Ncurses_jll", path = "jll/N/Ncurses_jll" }
 68e42fe9-8ddb-4e43-80ac-7a079abad568 = { name = "DifferentialPowerAttacks", path = "D/DifferentialPowerAttacks" }
 68e73e28-2238-4d5a-bf97-e5d4aa3c4be2 = { name = "DaggerGPU", path = "D/DaggerGPU" }
@@ -10423,6 +10427,7 @@ b383313e-5450-4164-a800-befbd27b574d = { name = "DifferentiableFrankWolfe", path
 b3887540-ec62-4a62-8c6b-d8ae1b2610d9 = { name = "MMProps", path = "M/MMProps" }
 b38b52d1-0eac-4161-8266-eab412337ac4 = { name = "FishTank", path = "F/FishTank" }
 b38be410-82b0-50bf-ab77-7b57e271db43 = { name = "FreeType", path = "F/FreeType" }
+b391c707-6ba7-482f-97f4-86d517cfbcc9 = { name = "PathCompleteCertificates", path = "P/PathCompleteCertificates" }
 b393f0d7-2a88-4661-a564-4e2d7462f0be = { name = "Jin", path = "J/Jin" }
 b395d269-c2ec-4df6-b679-36919ad600ca = { name = "InterferometricModels", path = "I/InterferometricModels" }
 b395d34e-f85f-4ead-8e9f-b0c549b85c9d = { name = "DMARCParser", path = "D/DMARCParser" }
