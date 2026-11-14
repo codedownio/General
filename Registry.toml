@@ -964,6 +964,7 @@ some amount of consideration when choosing package names.
 1053fb32-4acc-43b8-9452-68b47d229da6 = { name = "ReferenceRevision", path = "R/ReferenceRevision" }
 10587292-549a-4141-aed9-b9dca56acf27 = { name = "ClusterAnalysis", path = "C/ClusterAnalysis" }
 105a4150-501d-4750-a750-eeda3b75fac2 = { name = "MathleticsFiles", path = "M/MathleticsFiles" }
+105d9057-255b-4b48-8f36-550cb6d62a6b = { name = "FSDABridge", path = "F/FSDABridge" }
 105f6ee8-0889-46b1-9d4b-65e03cbc8f13 = { name = "SNOW", path = "S/SNOW" }
 1060cd45-1c33-4a14-be81-8fa38fdd82bf = { name = "FBCModelTests", path = "F/FBCModelTests" }
 1063c4aa-4f19-47e3-87f6-d15aa8c8d36c = { name = "HyperbolicNumbers", path = "H/HyperbolicNumbers" }
@@ -1675,6 +1676,7 @@ some amount of consideration when choosing package names.
 1c4d5385-0a27-49de-8e2c-43b175c8985c = { name = "PointNeighbors", path = "P/PointNeighbors" }
 1c52b33b-3e2f-4e99-b3b5-a6ad63f0d6d2 = { name = "DocumenterLandingPage", path = "D/DocumenterLandingPage" }
 1c555f4c-8d6b-45c3-bbc1-c64989f538fe = { name = "CancerImagingArchive", path = "C/CancerImagingArchive" }
+1c5ec455-f405-45c6-8f0c-36dd8a824b67 = { name = "RegularlySampledFormat", path = "R/RegularlySampledFormat" }
 1c621080-faea-4a02-84b6-bbd5e436b8fe = { name = "TestItems", path = "T/TestItems" }
 1c659ad8-f6e2-554d-814b-22ddd907b91c = { name = "GAP_pkg_simpcomp_jll", path = "jll/G/GAP_pkg_simpcomp_jll" }
 1c724243-ef5b-51ab-93f4-b0a88ac62a95 = { name = "AWSS3", path = "A/AWSS3" }
@@ -3540,6 +3542,7 @@ some amount of consideration when choosing package names.
 3c485715-4278-42b2-9b5f-8f00e43c12ef = { name = "PythonOT", path = "P/PythonOT" }
 3c486d74-64b9-4c60-8b1a-13a564e77efb = { name = "LDPCDecoders", path = "L/LDPCDecoders" }
 3c499bf4-8795-40ff-83c0-5639be88f347 = { name = "RIrtWrappers", path = "R/RIrtWrappers" }
+3c66b73d-d676-47f4-a036-f20befcb0b39 = { name = "FIIBCIcorpus", path = "F/FIIBCIcorpus" }
 3c6ae550-c37b-5556-a07e-d40b4910cf1c = { name = "CLIME_jll", path = "jll/C/CLIME_jll" }
 3c6b6a22-b11f-44c2-accc-f87d49953a21 = { name = "GrayCode", path = "G/GrayCode" }
 3c6eccdf-2a89-4c24-a1d4-ff210daa8476 = { name = "SingleCrystal", path = "S/SingleCrystal" }
@@ -3722,6 +3725,7 @@ some amount of consideration when choosing package names.
 3f79f04f-7cac-48b4-bde1-3ad54d8f74fa = { name = "Helium", path = "H/Helium" }
 3f823c38-d010-4086-b4dc-b61855312ec9 = { name = "QubiSim", path = "Q/QubiSim" }
 3f865c0f-6dca-5f4d-999b-29fe1e7e3c92 = { name = "ScatteredInterpolation", path = "S/ScatteredInterpolation" }
+3f8a1c62-5d4b-4e7a-9c31-6b0d2e4f8a15 = { name = "SparsifyAndSweep", path = "S/SparsifyAndSweep" }
 3f8f70db-33be-4c52-a587-656da41b6848 = { name = "BayesianFactorZoo", path = "B/BayesianFactorZoo" }
 3f90d43e-2ba6-5087-9e86-8e3765b17318 = { name = "Tachyons", path = "T/Tachyons" }
 3f92b583-c0aa-4596-8bdf-f02f6c0a52df = { name = "LFAToolkit", path = "L/LFAToolkit" }
@@ -4369,6 +4373,7 @@ some amount of consideration when choosing package names.
 4a86908f-de09-412e-b134-eda2b762bb2a = { name = "IntegratedOscillatorModel", path = "I/IntegratedOscillatorModel" }
 4a87933e-d659-11e9-0e65-7f40dedd4a3a = { name = "ScoreDrivenModels", path = "S/ScoreDrivenModels" }
 4a8d4f75-71cb-571b-9f05-006d53d41a65 = { name = "Pathfinder_jll", path = "jll/P/Pathfinder_jll" }
+4a942d2e-43ad-4dde-8fef-c59cc3eb0421 = { name = "RandomizedTukeyHSD", path = "R/RandomizedTukeyHSD" }
 4a954452-39e6-424b-ae51-38fc4bbc42ef = { name = "VlasovMethods", path = "V/VlasovMethods" }
 4a967bbd-a16f-537d-8e95-e68e89d08900 = { name = "QuEST_jll", path = "jll/Q/QuEST_jll" }
 4aa08641-d763-4623-9c5b-cef742500064 = { name = "Infernal", path = "I/Infernal" }
@@ -6485,6 +6490,7 @@ some amount of consideration when choosing package names.
 6f49c342-dc21-5d91-9882-a32aef131414 = { name = "RCall", path = "R/RCall" }
 6f584044-cad5-5b68-a429-1e244a824f76 = { name = "StaticUnivariatePolynomials", path = "S/StaticUnivariatePolynomials" }
 6f58c745-96ce-5283-a1a3-a6a4b3939f59 = { name = "libNVVM_jll", path = "jll/L/libNVVM_jll" }
+6f5e319e-98ef-58dc-a873-406c0089afd5 = { name = "BBJobserver_jll", path = "jll/B/BBJobserver_jll" }
 6f61b460-fd45-461a-bdf7-98edd72e362f = { name = "UnbalancedOptimalTransport", path = "U/UnbalancedOptimalTransport" }
 6f6a334d-9044-495a-bc2b-8b1543872cbf = { name = "HigherOrderNetworks", path = "H/HigherOrderNetworks" }
 6f6f4c20-e954-4c6d-a185-c2fbf890196e = { name = "NestedGraphMakie", path = "N/NestedGraphMakie" }
