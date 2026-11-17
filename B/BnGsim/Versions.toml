@@ -3,6 +3,10 @@
   git-tree-sha1 = "97070a8308858c5ebe285b7a74c26b8e2b9f8fb2"
   nix-sha256 = "0yj4jxf6y76sfjdyqrw32m3kganz063m2i55dazsdrgf583h1y14"
 
+["0.10.0"]
+  git-tree-sha1 = "b33b282d4a9f3a9f1adabc4ce1a378c30f545f73"
+  nix-sha256 = "0kwxv900sn0vd9pq6n6bbnczdxncrh59abszvhidwpvn1lkv3yff"
+
 ["0.2.0"]
   git-tree-sha1 = "3fb0d78c602711bc371d60519d0b30c5108cac02"
   nix-sha256 = "0bxlpsasqlss7g85k84p4hx5gnd1rg2pnk2jm5a9i6fc9grww88j"
@@ -30,3 +34,7 @@
 ["0.9.0"]
   git-tree-sha1 = "d430435f82d7b2847a04191519cf04723f689da8"
   nix-sha256 = "0h7kjmy5b4jbbzji487d4r3xzvjcmnfzip4bwdmqiv90728jggv7"
+
+["0.9.1"]
+  git-tree-sha1 = "9f48cbfb2920ff3d8d399b201c5cf0ab4ffc78df"
+  nix-sha256 = "1bgvmns7j4252i812442ixyn7q836vin6qy8vbnjr0c2mwsqjhhs"
