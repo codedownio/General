@@ -567,6 +567,7 @@ some amount of consideration when choosing package names.
 09b61566-bbdb-49ee-a687-6096cc4472a0 = { name = "MonteCarloSummary", path = "M/MonteCarloSummary" }
 09b745ad-c67d-442f-94a6-c7f4d1e4d861 = { name = "Speasy", path = "S/Speasy" }
 09becab6-0636-4c23-a92a-2b3723265c31 = { name = "SOLPS2imas", path = "S/SOLPS2imas" }
+09bf9df1-bea6-4267-acd1-e930da7492cc = { name = "Corset", path = "C/Corset" }
 09c11fbc-f0d5-45fc-84dd-4606816a719d = { name = "DiskDataProviders", path = "D/DiskDataProviders" }
 09c1cff2-b94d-4c31-85a1-721512e21c63 = { name = "ParallelOperations", path = "P/ParallelOperations" }
 09cdc199-4954-42dd-9e0c-2e47e8233053 = { name = "BasicAutoloads", path = "B/BasicAutoloads" }
@@ -651,6 +652,7 @@ some amount of consideration when choosing package names.
 0b152c4a-7e29-418b-9258-223db38db9d9 = { name = "SwapStreams", path = "S/SwapStreams" }
 0b197c3a-da26-4bf3-b373-765e7d9e4c53 = { name = "NodalPolynomialSpaces", path = "N/NodalPolynomialSpaces" }
 0b1a1467-8014-51b9-945f-bf0ae24f4b77 = { name = "KrylovKit", path = "K/KrylovKit" }
+0b1b2e26-bfcc-47d8-9161-261bce860df1 = { name = "ProfileHMMs", path = "P/ProfileHMMs" }
 0b1bfda6-eb8a-41d2-88d8-f5af5cad476f = { name = "OneHotArrays", path = "O/OneHotArrays" }
 0b1c068e-6a84-4e66-8136-5c95cafa83ed = { name = "SwarmMakie", path = "S/SwarmMakie" }
 0b21cfa8-e591-48a4-a07b-a9d20be7c264 = { name = "Nevanlinna", path = "N/Nevanlinna" }
@@ -10908,6 +10910,7 @@ bb5f6f25-f23d-57fd-8f90-3ef7bad1d825 = { name = "CUTEst_jll", path = "jll/C/CUTE
 bb729d96-d836-50c8-a5f6-280bdc4918fa = { name = "ConstituencyTrees", path = "C/ConstituencyTrees" }
 bb7b2d4f-b953-405a-be8a-3427bcf465e4 = { name = "FishersExactTest", path = "F/FishersExactTest" }
 bb81f446-86f5-47d0-8ffc-7ac2adc264fd = { name = "DynamicallyLoadedEmbedding", path = "D/DynamicallyLoadedEmbedding" }
+bb89383c-bfde-40d4-a81c-ac32195f53dd = { name = "GravitationalWaveBayes", path = "G/GravitationalWaveBayes" }
 bb8a82d8-767e-5107-8790-5a1f1965cb16 = { name = "Xorg_libxshmfence_jll", path = "jll/X/Xorg_libxshmfence_jll" }
 bb8be931-2a91-5aca-9f87-79e1cb69959a = { name = "EAGO", path = "E/EAGO" }
 bb8bfab8-311e-4066-b24d-79eaddd59570 = { name = "ElectronChainDutton", path = "E/ElectronChainDutton" }
@@ -11104,6 +11107,7 @@ be5c70c9-e47a-4559-82a9-cba980583202 = { name = "PolyDAQP", path = "P/PolyDAQP" 
 be5e5202-b427-58d6-b196-3d129152056c = { name = "GoogleCodeSearch", path = "G/GoogleCodeSearch" }
 be5e9834-f3d9-4b7e-b5ea-d062861d4ac2 = { name = "FactorRotations", path = "F/FactorRotations" }
 be6384bf-868f-57ad-9feb-9e32886bc996 = { name = "very_nauty_jll", path = "jll/V/very_nauty_jll" }
+be660749-8e35-4f43-b287-dc089089f845 = { name = "DenoiseDNA", path = "D/DenoiseDNA" }
 be6996d8-ce38-42dc-ae22-8b975ffb034a = { name = "SoilMulch", path = "S/SoilMulch" }
 be6e5d0e-34a5-4c8f-af83-e1b5389203d8 = { name = "Antique", path = "A/Antique" }
 be6e8a61-07d1-4c53-9ea3-a8f885d7be3a = { name = "SpringRank", path = "S/SpringRank" }
