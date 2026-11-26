@@ -1,15 +1,19 @@
 [0]
-EvoTrees = "0.18"
 MLJFlux = "0.6"
 MLJLinearModels = "0.10"
 
 ["0 - 0.3.4"]
 MLJ = "0.20"
 
+["0 - 0.5.0"]
+EvoTrees = "0.18"
+
 ["0.3.16 - 0"]
 FastGaussQuadrature = "1"
 MixedModels = "5"
 NLopt = "1"
+
+["0.3.16 - 0.5.1"]
 SpecialFunctions = "2"
 
 ["0.3.4 - 0.3"]
@@ -31,3 +35,6 @@ RxInfer = "4 - 6"
 ["0.5 - 0"]
 CausalMediation = "0.2 - 0.3"
 PSIS = "0.9"
+
+["0.5.1 - 0"]
+EvoTrees = "0.18 - 0.20"
